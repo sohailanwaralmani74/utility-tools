@@ -231,7 +231,7 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
   /* 1 */
   font-size: 100%;
   /* 1 */
@@ -773,7 +773,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -930,9 +930,9 @@ table tfoot td {
   top: 0;
   left: 0;
   bottom: 0;
-  width: 240px;
+  width: 210px;
   height: 100%;
-  padding: 20px 10px;
+  padding: 10px 10px;
   background-color: #ffffff;
 }
 
@@ -969,7 +969,7 @@ table tfoot td {
 }
 
 .about .author-name {
-  font-family: 'PT Serif', serif;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
   margin: 0 0 10px;
   position: relative;
   padding-bottom: 15px;
@@ -1162,7 +1162,7 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family:  Georgia, 'Times New Roman', Times, serif;
   text-decoration: none;
   color: #263959;
 }
@@ -1233,19 +1233,19 @@ a.newer-posts:hover {
 
 .page-cover-image figcaption {
   position: absolute;
-  top: 20px;
-  right: 20px;
-  padding-left: 20px;
+  top: 10px;
+  right: 10px;
+  padding-left: 10px;
   color: rgba(255, 255, 255, 0.7);
   text-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   font-size: 10px;
 }
 
 .page-cover-image .page-image {
   width: 100%;
-  height: 100%;
+  height: 500px;
 }
 
 .page-footer {
@@ -1413,7 +1413,7 @@ a.newer-posts:hover {
             box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
   }
   .sidebar footer {
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
   .about {
     text-align: center;
@@ -1479,3 +1479,34 @@ a.newer-posts:hover {
     font-size: 21px;
   }
 }
+// Adding 'Contents' headline to the TOC
+.toc__list:before {
+  content: "Table Of Contents";
+  font-weight: bold;
+  font-size: 1.5rem;
+ }
+ 
+ .toc__list {
+  border: 2px solid #eee;
+  border-radius: 4px;
+  line-height: 1.8rem;
+  padding: 1rem 1.5rem;
+  font-weight: 600;
+ }
+ 
+ .toc__sublist li {
+  padding-left: 1.25rem;
+ }
+ 
+ .toc-h2:first-child {
+  margin-top: 1rem;
+ }  
+ 
+ #toc a {
+  color:rgb(24, 46, 190);
+  text-decoration: underline;
+ }
+ 
+ #toc a:hover {
+  color:rgb(23, 54, 157);
+ }

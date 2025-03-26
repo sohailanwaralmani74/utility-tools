@@ -1,20 +1,20 @@
-title: Hello, world! I'm David Freeman
+title: Reptile Birds 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+author: Reptile Birds # add your name
+author-img: ReptileBirds.png # add your photo
+about-author: Explore The Right Tools & Technology, Companies & Services, Guide & Tutorials. Its All About Software Development  # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: sohailanwaralmani # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
@@ -30,7 +30,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
-
+  - jekyll-toc
+toc:
+  min_level: 2  # Adjust if you want to skip h1
+  max_level: 6
+  list_class: toc
+  list_class: toc__list
+  sublist_class: toc__sublist
 paginate: 8
 paginate_path: "/page/:num"
 
