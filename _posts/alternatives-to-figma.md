@@ -2,7 +2,7 @@
 layout: post
 title: Best Open Source Alternatives for Figma
 author: sohail
-date: 2025-03-28 23:10:00 +0800
+date: 2025-03-21 23:10:00 +0800
 categories: [Nearshore Software Development, Nearshore Software Development Companies]
 img: figma.png
 ---
