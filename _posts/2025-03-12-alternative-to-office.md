@@ -32,32 +32,26 @@ img: OpenSourceAlternativeToProprietarySoftware.png
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebPage",
-  "name": "Open Source Alternative to MS Office",
+  "@type": "Article",
+  "headline": "Open Source Alternative to MS Office",
   "url": "https://reptilebirds.com/alternative-to-office",
   "description": "Discover top-rated free and open source alternatives to Microsoft Office. Compare office suites offering replacements for Word, Excel, PowerPoint, and more. Great for small businesses, students, and everyday users.",
-  "mainEntity": {
-    "@type": "Product",
-    "name": "Free Office Software Alternatives",
-    "description": "Free and open source office suite programs including replacements for Microsoft Word, Excel, PowerPoint, and Publisher. Ideal for individuals, businesses, and students seeking a cost-effective Office solution.",
-    "brand": {
-      "@type": "Organization",
-      "name": "ReptileBirds"
-    },
-    "offers": {
-      "@type": "Offer",
-      "price": "0.00",
-      "priceCurrency": "USD",
-      "availability": "https://schema.org/InStock"
-    }
-  },
   "publisher": {
     "@type": "Organization",
     "name": "ReptileBirds",
     "url": "https://reptilebirds.com"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "ReptileBirds"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://reptilebirds.com/alternative-to-office"
   }
 }
 </script>
+
 
     
 > If you are not looking for open-source alternatives for MS Office and mistakenly landed here. You can explore your topic on search engines. In this post, I have curated a list of free &open-sourcee alternatives for MS Office.
