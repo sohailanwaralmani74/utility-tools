@@ -1,0 +1,119 @@
+---
+layout: main
+title: Online JSON Editor & Converter | Edit, View, and Export JSON
+---
+<!-- Title -->
+<title>Online JSON Editor & Converter | Edit, View, and Export JSON</title>
+
+<!-- Meta Description -->
+<meta name="description" content="Free online JSON editor and converter. Upload or paste JSON to edit, view, and export to CSV, XLSX, XLS, TXT, HTML, PDF, XML, or SQL formats. Fast, secure & browser-based.">
+
+<!-- Meta Keywords -->
+<meta name="keywords" content="json editor online, json to csv, json to xlsx, json to xls, json to txt, json to html, json to pdf, json to xml, json to sql, convert json online, json viewer and editor, edit json, online json formatter, export json, json converter tool, browser based json tool, paste json and convert">
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Online JSON Editor & Converter",
+      "url": "https://reptilebirds.com/json-converter",
+      "applicationCategory": "DeveloperApplication",
+      "operatingSystem": "All",
+      "description": "Edit, view, and convert JSON data online. Export JSON to CSV, Excel, PDF, XML, SQL, and more. Paste or upload JSON with instant conversion.",
+      "browserRequirements": "Requires JavaScript enabled",
+      "featureList": [
+        "Paste or upload JSON",
+        "Edit and format JSON",
+        "View JSON tree structure",
+        "Convert JSON to CSV, XLSX, XLS, TXT, HTML, PDF, XML, SQL"
+      ]
+    }
+    </script>
+    
+<!-- JSONView (depends on jQuery) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
+    <!-- jsPDF CDN -->
+    <!-- Include jsPDF -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+
+    <!-- Include jsPDF AutoTable Plugin -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
+
+<!-- Tool section -->
+<section class="tool-section container">
+    <div class="upload-section">
+        <label for="json-file" class="upload-label">Upload JSON File</label>
+        <input type="file" id="json-file" accept=".json">
+    </div>
+
+    <div id="loader" style="display:none;">⏳ Loading file...</div>
+    <div style="width: 50vw; justify-content: flex-end; margin-top: 1rem; position: sticky; display:none;"
+        id="exportOptions">
+        <label style="font-size: 1.2rem; margin-top: -5px;">Export To → → </label>
+        <label class="export-label" onclick="exportToCSV()"><u>CSV</u></label>
+        <label class="export-label" onclick="exportToXLSX()"><u>XLSX</u></label>
+        <label class="export-label" onclick="exportToXLS()"><u>XLS</u></label>
+        <label class="export-label" onclick="exportToTXT()"><u>TXT</u></label>
+        <label class="export-label" onclick="exportToHTML()"><u>HTML</u></label>
+        <label class="export-label" onclick="exportToPDF()"><u>PDF Table</u></label>
+        <label class="export-label" onclick="exportToXML()"><u>XML</u></label>
+        <label class="export-label" onclick="exportToSQL()"><u>SQL</u></label>
+    </div>
+</section>
+
+
+    <div id="json-tool-wrapper">
+        <div id="json-editor-container">
+            <textarea id="json-editor" placeholder="Paste your JSON here... or upload file"></textarea>
+        </div>
+        <div id="json-viewer-container" style="display: flex; justify-content:start;">
+            <div id="json-tree-viewer" style="display: flex; justify-content:start;"></div>
+        </div>
+    </div>
+
+
+
+<script src="/assets/js/json-viewer.js"></script>
+
+<section>
+    <h1>Free Online JSON Editor & Converter</h1>
+    <p>
+      Instantly view, edit, and convert your JSON data with this free, browser-based tool. No signup, no download — just paste or upload your JSON file and start working right away.
+    </p>
+  
+    <h2>Edit JSON Online — No Signup Needed</h2>
+    <p>
+      Need a fast JSON viewer or formatter? This tool is built for convenience. Edit your JSON in a clean interface, fix syntax, and preview changes in real-time — all within your browser.
+    </p>
+  
+    <h2>Convert JSON to Multiple Formats Instantly</h2>
+    <p>You can convert your JSON to:</p>
+    <ul>
+      <li>✔️ CSV (comma-separated values)</li>
+      <li>✔️ Excel formats: XLSX and XLS</li>
+      <li>✔️ Plain text (TXT)</li>
+      <li>✔️ Web-ready HTML</li>
+      <li>✔️ PDF table layout</li>
+      <li>✔️ XML for data exchange</li>
+      <li>✔️ SQL for database import</li>
+    </ul>
+  
+    <h2>Why Use This JSON Tool?</h2>
+    <ul>
+      <li>🔹 100% browser-based – no installation required</li>
+      <li>🔹 No login or signup – use it anonymously</li>
+      <li>🔹 No download – run everything in-browser</li>
+      <li>🔹 Free forever – no hidden costs or limits</li>
+      <li>🔹 Works on mobile, desktop, and tablets</li>
+      <li>🔹 Keeps your data private – nothing is stored</li>
+    </ul>
+  
+    <h2>Get Started in Seconds</h2>
+    <p>
+      Just drag and drop a `.json` file or paste your JSON code into the editor. You can immediately edit, preview, and export your data in the format you need.
+    </p>
+  </section>
+  
