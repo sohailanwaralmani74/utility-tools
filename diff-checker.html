@@ -1,0 +1,222 @@
+---
+layout: main
+title: Online Difference Checker with Live Preview
+---
+<!-- Primary Meta Tags -->
+<meta name="title" content="Diff Checker - Compare Text, JSON & CSV Online | ReptileBirds">
+<meta name="description" content="Free browser-based diff tool. Compare text, JSON, and CSV files side-by-side with color-coded differences. No uploads - all processing happens in your browser.">
+<meta name="keywords" content="diff checker, compare text online, json diff, csv comparison, online diff tool, browser-based diff, data comparison, reptilebirds">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://reptilebirds.com/diff-checker/">
+<meta property="og:title" content="Diff Checker - Compare Text, JSON & CSV Online | ReptileBirds">
+<meta property="og:description" content="Instant visual comparison for text, JSON, and CSV files. 100% browser-based - your data never leaves your device.">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://reptilebirds.com/diff-checker/">
+<meta property="twitter:title" content="Diff Checker - Compare Text, JSON & CSV Online | ReptileBirds">
+<meta property="twitter:description" content="Free browser-based diff tool with color-coded outputs. No server processing required.">
+
+<!-- Canonical -->
+<link rel="canonical" href="https://reptilebirds.com/diff-checker/">
+<div class="diff-container">
+    <div class="diff-toolbar">
+        <button class="tool-button" id="compare-btn">
+            <i class="fas fa-play"></i> Compare
+        </button>
+        <button class="tool-button" id="swap-btn">
+            <i class="fas fa-exchange-alt"></i> Swap
+        </button>
+        <select class="tool-button" id="mode-select">
+            <option value="text">Text</option>
+            <option value="json">JSON</option>
+            <option value="csv">CSV</option>
+        </select>
+        <button class="tool-button" id="clear-btn">
+            <i class="fas fa-trash"></i> Clear
+        </button>
+    </div>
+
+    <div class="diff-content">
+        <div class="diff-pane">
+            <div class="diff-pane-header">
+                <span>Original</span>
+                <span class="char-count">0 chars</span>
+            </div>
+            <textarea class="diff-input" id="input-a" placeholder="Paste text/JSON/CSV here..."></textarea>
+        </div>
+        
+        <div class="diff-pane">
+            <div class="diff-pane-header">
+                <span>Modified</span>
+                <span class="char-count">0 chars</span>
+            </div>
+            <textarea class="diff-input" id="input-b" placeholder="Paste modified version here..."></textarea>
+        </div>
+    </div>
+
+    <div class="diff-results" id="diff-results"></div>
+</div>
+
+<script src="/assets/js/diff-checker.js"></script>
+<style>
+    .diff-container {
+        font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+        min-width: 100%;
+        margin: 0 auto;
+        padding: 15px;
+        background: #fff;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    
+    .diff-toolbar {
+        display: flex;
+        gap: 8px;
+        margin-bottom: 15px;
+        flex-wrap: wrap;
+    }
+    
+    .tool-button {
+        background: #f8f9fa;
+        border: 1px solid #e1e4e8;
+        border-radius: 4px;
+        padding: 8px 12px;
+        cursor: pointer;
+        font-size: 14px;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+    }
+    
+    .tool-button:hover {
+        background: #e9ecef;
+    }
+    
+    .diff-content {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+    
+    @media (min-width: 768px) {
+        .diff-content {
+            flex-direction: row;
+        }
+    }
+    
+    .diff-pane {
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .diff-input {
+        width: 100%;
+        height: 300px;
+        padding: 12px;
+        border: 1px solid #e1e4e8;
+        border-radius: 4px;
+        font-family: 'Courier New', monospace;
+        resize: vertical;
+    }
+    
+    .diff-pane-header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 5px;
+        font-weight: 500;
+        color: #4a6fa5;
+    }
+    
+    .char-count {
+        color: #6c757d;
+        font-size: 0.9em;
+    }
+    
+    .diff-results {
+        margin-top: 20px;
+        border: 1px solid #e1e4e8;
+        border-radius: 4px;
+        padding: 15px;
+        background: #f8f9fa;
+        min-height: 100px;
+    }
+    
+    /* Diff highlighting */
+    .diff-added {
+        background: #e6ffed;
+        text-decoration: underline;
+    }
+    
+    .diff-removed {
+        background: #ffebe9;
+        text-decoration: line-through;
+    }
+    
+    .diff-changed {
+        background: #fff8c5;
+    }
+    </style>
+    <section class="seo-content" style="margin-top: 5rem;">
+        <h1>Online Diff Checker - Compare Text, JSON & CSV Files Instantly</h1>
+        
+        <div class="feature-highlights">
+            <div class="feature">
+                <i class="fas fa-lock"></i>
+                <h2>100% Browser-Based</h2>
+                <p>Your files <strong>never leave your device</strong>. Unlike other diff tools, we don’t upload your sensitive data to servers.</p>
+            </div>
+            <div class="feature">
+                <i class="fas fa-code-branch"></i>
+                <h2>3 Comparison Modes</h2>
+                <p>Supports <strong>text</strong> (line-by-line), <strong>JSON</strong> (key-value analysis), and <strong>CSV</strong> (tabular data) formats.</p>
+            </div>
+        </div>
+    
+        <h2>How to Compare Files:</h2>
+        <ol>
+            <li>Paste original content in the left panel</li>
+            <li>Paste modified version in the right panel</li>
+            <li>Select comparison mode (Text/JSON/CSV)</li>
+            <li>View <span class="highlight-green">additions</span>, <span class="highlight-red">deletions</span>, and <span class="highlight-yellow">changes</span></li>
+        </ol>
+    
+        <h2>Use Cases</h2>
+        <ul>
+            <li><strong>Developers</strong>: Track code changes between versions</li>
+            <li><strong>Data Analysts</strong>: Validate CSV dataset modifications</li>
+            <li><strong>Writers</strong>: Compare document revisions</li>
+            <li><strong>SysAdmins</strong>: Debug JSON config files</li>
+        </ul>
+    </section>
+    <div class="seo-helper" aria-hidden="true" style="position:absolute;left:-9999px;">
+        <h3>Free online tools for:</h3>
+        <p>diff checker online, compare two text files, find differences in json, csv file comparison tool, 
+        git diff alternative online, javascript diff library, data validation tool, code change tracker</p>
+    </div>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is this diff tool free to use?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, our diff checker is completely free with no hidden limits. All processing happens in your browser."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What’s the maximum file size supported?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The tool can handle files up to 5MB in size, limited only by your device’s memory."
+              }
+            }
+          ]
+        }
+        </script>

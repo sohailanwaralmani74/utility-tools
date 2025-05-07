@@ -1,0 +1,335 @@
+---
+layout: main
+title: Online Markdown Editor with Live Preview
+---
+<title>Markdown Editor Online Free: Edit and Export</title>
+<!-- Primary Meta Tags -->
+<meta name="title" content="Markdown Editor - Live Preview & Web-Based Formatting | ReptileBirds">
+<meta name="description"
+    content="Free browser-based Markdown editor with real-time preview. No uploads, no server needed. Supports tables, code blocks, GitHub Flavored Markdown & instant export.">
+<meta name="keywords"
+    content="markdown editor, online markdown, md editor, github markdown, live preview markdown, browser-based editor, md editor online">
+
+<!-- Open Graph / Facebook (Social Sharing) -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://reptilebirds.com/md-editor/">
+<meta property="og:title" content="Markdown Editor - Live Preview & Web-Based Formatting | ReptileBirds">
+<meta property="og:description"
+    content="Write and preview Markdown in real-time with this 100% browser-based editor. No data leaves your device.">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="https://reptilebirds.com/md-editor/">
+<meta property="twitter:title" content="Markdown Editor - Live Preview & Web-Based Formatting | ReptileBirds">
+<meta property="twitter:description"
+    content="Free browser-based Markdown editor with real-time preview. No uploads, no server needed.">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+    .editor-container {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        overflow: hidden;
+    }
+
+    .toolbar {
+        display: flex;
+        gap: 8px;
+        padding: 10px;
+        background: white;
+        border-bottom: 1px solid var(--border);
+        flex-wrap: wrap;
+    }
+
+    .tool-button {
+        background: none;
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        padding: 6px 10px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.2s;
+    }
+
+    .tool-button:hover {
+        background-color: var(--secondary);
+    }
+
+    .tool-button i {
+        margin-right: 4px;
+    }
+
+    .panes {
+        display: flex;
+        flex: 1;
+        overflow: hidden;
+        flex-direction: column;
+    }
+
+    @media (min-width: 768px) {
+        .panes {
+            flex-direction: row;
+        }
+    }
+
+    .editor-pane,
+    .preview-pane {
+        flex: 1;
+        min-width: 0;
+        overflow: auto;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+
+    .editor-pane {
+        border-right: 1px solid var(--border);
+        background-color: var(--secondary);
+    }
+
+    #markdown-input {
+        width: 100%;
+        height: 100%;
+        min-height: 300px;
+        border: none;
+        resize: none;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+        font-size: 14px;
+        line-height: 1.6;
+        background: transparent;
+        color: var(--text);
+    }
+
+    #markdown-input:focus {
+        outline: none;
+    }
+
+    .preview-pane {
+        background-color: var(--preview-bg);
+        overflow-y: auto;
+    }
+
+    .pane-header {
+        font-weight: 600;
+        margin-bottom: 10px;
+        color: var(--primary);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .resize-handle {
+        width: 100%;
+        height: 10px;
+        background-color: var(--border);
+        cursor: ns-resize;
+        display: none;
+    }
+
+    @media (min-width: 768px) {
+        .resize-handle {
+            width: 10px;
+            height: 100%;
+            cursor: ew-resize;
+            display: block;
+        }
+    }
+
+    /* Markdown preview styling */
+    .preview-content h1,
+    .preview-content h2,
+    .preview-content h3 {
+        margin-top: 24px;
+        margin-bottom: 16px;
+        font-weight: 600;
+    }
+
+    .preview-content h1 {
+        font-size: 2em;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.3em;
+    }
+
+    .preview-content h2 {
+        font-size: 1.5em;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.3em;
+    }
+
+    .preview-content p {
+        margin-bottom: 16px;
+        line-height: 1.5;
+    }
+
+    .preview-content pre {
+        background-color: #f6f8fa;
+        border-radius: 6px;
+        padding: 16px;
+        overflow: auto;
+    }
+
+    .preview-content code {
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+        background-color: rgba(27, 31, 35, 0.05);
+        border-radius: 3px;
+        padding: 0.2em 0.4em;
+        font-size: 85%;
+    }
+
+    .preview-content blockquote {
+        border-left: 4px solid var(--primary);
+        color: #6a737d;
+        padding: 0 1em;
+        margin: 0 0 16px 0;
+    }
+
+    .preview-content table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+    .preview-content table th,
+    .preview-content table td {
+        border: 1px solid var(--border);
+        padding: 6px 13px;
+    }
+
+    .preview-content table tr {
+        background-color: #fff;
+        border-top: 1px solid #c6cbd1;
+    }
+
+    .preview-content table tr:nth-child(2n) {
+        background-color: #f6f8fa;
+    }
+</style>
+<div class="editor-container">
+    <div class="toolbar">
+        <button class="tool-button" data-insert="**Bold**"><i class="fas fa-bold"></i>Bold</button>
+        <button class="tool-button" data-insert="*Italic*"><i class="fas fa-italic"></i>Italic</button>
+        <button class="tool-button" data-insert="[Link](url)"><i class="fas fa-link"></i>Link</button>
+        <button class="tool-button" data-insert="![Image](src)"><i class="fas fa-image"></i>Image</button>
+        <button class="tool-button" data-insert="`code`"><i class="fas fa-code"></i>Code</button>
+        <button class="tool-button" data-insert="```\n\n```"><i class="fas fa-square-code"></i>Code Block</button>
+        <button class="tool-button" data-insert="- List item"><i class="fas fa-list-ul"></i>List</button>
+        <button class="tool-button" data-insert="1. Ordered item"><i class="fas fa-list-ol"></i>Numbered</button>
+        <button class="tool-button" data-insert="> Blockquote"><i class="fas fa-quote-right"></i>Quote</button>
+        <button class="tool-button" data-insert="# Heading"><i class="fas fa-heading"></i>Heading</button>
+        <button class="tool-button" id="download-md"><i class="fas fa-download"></i>Download</button>
+        <button class="tool-button" id="copy-md"><i class="fas fa-copy"></i>Copy</button>
+        <button class="tool-button" id="export-html"><i class="fas fa-file-code"></i> Export HTML</button>
+    </div>
+
+    <div class="panes">
+        <div class="editor-pane">
+            <div class="pane-header">
+                <span>MARKDOWN</span>
+                <span id="char-count">0 characters</span>
+            </div>
+            <textarea id="markdown-input" placeholder="Type your Markdown here..."># Welcome to Markdown Editor
+
+**This is bold text** and *this is italic*.
+
+Here's a [link](https://example.com) and an image:
+
+![Sample Image](https://via.placeholder.com/150)
+
+## Features
+- Live preview
+- No backend needed
+- Clean interface
+- Responsive design
+
+```javascript
+function hello() {
+  console.log("Markdown is awesome!");
+}
+```</textarea>
+        </div>
+
+        <div class="resize-handle"></div>
+
+        <div class="preview-pane">
+            <div class="pane-header">
+                <span>PREVIEW</span>
+                <button id="toggle-preview" class="tool-button"><i class="fas fa-eye"></i> Toggle</button>
+            </div>
+            <div id="preview-content" class="preview-content"></div>
+        </div>
+    </div>
+</div>
+
+<script src="/assets/js/md.js"></script>
+<!-- SEO Content Section -->
+<section class="seo-content">
+    <div class="container">
+        <h1>Online Markdown Editor with Live Preview</h1>
+        <p>Our <strong>free browser-based Markdown editor</strong> lets you write, preview, and export formatted content with <strong>zero data uploads</strong>. Perfect for:</p>
+        <ul>
+            <li>📝 Creating GitHub READMEs and documentation</li>
+            <li>✍️ Drafting blog posts in Markdown format</li>
+            <li>💻 Converting Markdown to HTML for websites</li>
+            <li>🔒 Writing sensitive content that never leaves your browser</li>
+        </ul>
+
+        <h2>Key Features</h2>
+        <div class="feature-grid">
+            <div class="feature">
+                <h3>Real-Time Rendering</h3>
+                <p>See formatted output <strong>as you type</strong> with our split-pane interface.</p>
+            </div>
+            <div class="feature">
+                <h3>No Server Processing</h3>
+                <p>All conversion happens <strong>100% in your browser</strong> - no file uploads.</p>
+            </div>
+            <div class="feature">
+                <h3>GitHub Flavored Markdown</h3>
+                <p>Supports tables, task lists, and code blocks with syntax highlighting.</p>
+            </div>
+            <div class="feature">
+                <h3>Export Options</h3>
+                <p>Download as <strong>HTML</strong>, <strong>Markdown</strong>, or copy to clipboard.</p>
+            </div>
+        </div>
+
+        <h2>How to Use</h2>
+        <ol>
+            <li>Type Markdown in the left pane</li>
+            <li>See instant preview on the right</li>
+            <li>Use toolbar buttons for quick formatting</li>
+            <li>Export when ready</li>
+        </ol>
+    </div>
+</section>
+
+<!-- CSS for the SEO section -->
+<style>
+    .seo-content {
+        max-width: 800px;
+        margin: 40px auto;
+        padding: 0 20px;
+        color: #333;
+        line-height: 1.6;
+    }
+    .seo-content h1 {
+        font-size: 2rem;
+        color: #2c3e50;
+    }
+    .seo-content h2 {
+        font-size: 1.5rem;
+        margin-top: 2rem;
+        color: #2c3e50;
+    }
+    .feature-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 20px;
+        margin: 30px 0;
+    }
+    .feature {
+        background: #f8f9fa;
+        padding: 20px;
+        border-radius: 8px;
+    }
+</style>

@@ -484,3 +484,100 @@
 .draggable-image:hover {
   opacity: 0.8;
 }
+
+.diff-container {
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.diff-toolbar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 15px;
+  flex-wrap: wrap;
+}
+
+.tool-button {
+  background: #f8f9fa;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.tool-button:hover {
+  background: #e9ecef;
+}
+
+.diff-content {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+@media (min-width: 768px) {
+  .diff-content {
+      flex-direction: row;
+  }
+}
+
+.diff-pane {
+  flex: 1;
+  min-width: 0;
+}
+
+.diff-input {
+  width: 100%;
+  height: 300px;
+  padding: 12px;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  font-family: 'Courier New', monospace;
+  resize: vertical;
+}
+
+.diff-pane-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #4a6fa5;
+}
+
+.char-count {
+  color: #6c757d;
+  font-size: 0.9em;
+}
+
+.diff-results {
+  margin-top: 20px;
+  border: 1px solid #e1e4e8;
+  border-radius: 4px;
+  padding: 15px;
+  background: #f8f9fa;
+  min-height: 100px;
+}
+
+/* Diff highlighting */
+.diff-added {
+  background: #e6ffed;
+  text-decoration: underline;
+}
+
+.diff-removed {
+  background: #ffebe9;
+  text-decoration: line-through;
+}
+
+.diff-changed {
+  background: #fff8c5;
+}

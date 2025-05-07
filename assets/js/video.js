@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', function () {
 async function generateVideo() {
     const { createFFmpeg, fetchFile } = FFmpeg;
     document.getElementById("loader").style.display = "block";
-    document.getElementById("generateVideo").style.display = 'none';
+            document.getElementById("generateVideo").style.display = 'none';
 
 
     try {
