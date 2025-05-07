@@ -90,7 +90,6 @@
      HERO
      ———————————————————————————————————————————— */
   .hero {
-    background: var(--color-light);
     padding: 4em 0;
     text-align: center;
   }
@@ -117,12 +116,11 @@
     gap: 2em;
   }
   .feature-card {
-    text-align: center;
+    text-align: start;
     padding: 1.5em;
     border: 1px solid #eee;
     border-radius: 8px;
-    min-height: 15rem;
-    max-height: 17rem;
+    min-height: 12rem;
   }
   .feature-card img {
     width: 64px;
@@ -168,6 +166,8 @@
     padding: 10px 20px;
     cursor: pointer;
     border-radius: 5px;
+    max-width:10rem;
+    margin: 1rem;
   }
   
   #file-input {
@@ -357,3 +357,130 @@
   .compress-label:hover {
     font-size: 1rem;
   }
+  .image-redactor {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .redactor-container {
+    width: 100%;
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .upload-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: center;
+    margin-top: 1rem;
+    align-items: center
+  }
+
+  #imageInput {
+    padding: 0.5rem;
+    font-size: 1rem;
+  }
+
+  #redactorCanvas {
+    width: 100%;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    aspect-ratio: 4 / 3;
+  }
+
+  .tools-panel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .tools-panel button {
+    padding: 0.6rem 1rem;
+    font-size: 0.95rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #444;
+    color: #fff;
+    cursor: pointer;
+    opacity: 0.6;
+  }
+
+  @media (max-width: 600px) {
+    .tools-panel {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+
+  .image-thumb {
+    flex: 0 0 auto;
+    width: 120px;
+    height: 90px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    overflow: hidden;
+    background: white;
+}
+
+.image-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.dragging {
+    opacity: 0.5;
+    border-color: #007bff;
+}
+
+.btn {
+    padding: 0.4rem 1rem;
+    background-color: #007bff;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+.uploadedImages {
+  display: none;
+  flex-direction: row;
+  overflow-x: auto;
+  overflow-y: hidden;
+  max-width: 100%;
+  padding: 10px;
+  gap: 1px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: #f8f8f8;
+  scroll-behavior: smooth;
+  margin: 2rem;
+  min-width: 100%
+
+}
+
+#uploadedImages img {
+  max-height: 120px;
+  object-fit: cover;
+  cursor: grab;
+  user-select: none;
+  transition: transform 0.2s ease;
+}
+
+#uploadedImages img.dragging {
+  opacity: 0.5;
+  transform: scale(1.05);
+}
+
+.draggable-image {
+  cursor: move;
+  transition: opacity 0.2s;
+}
+
+.draggable-image:hover {
+  opacity: 0.8;
+}

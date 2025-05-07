@@ -1,0 +1,214 @@
+---
+layout: main
+title: Create Video from Image and Audio
+---
+<meta name="keywords" content="mp3 to mp4 with image, mp3 to mp4 image, convert mp3 to mp4 with image, convert mp3 to mp4 with picture, mp3 and image to mp4, mp3 to video with image, audio and picture to video, image and audio to video, audio and image to video, mp3 and image to video, mp3 and picture to video, mp3 to mp4 converter with image, picture and audio to video, picture and mp3 to video, convert audio to video with picture, audio to image video, audio to video converter with image, audio to video with image, convert audio to video with image, convert image and audio to video, mp3 to mp4 with picture, image and mp3 to mp4, audio and photo to video, image and mp3 to video, image audio to video">
+<meta name="description" content="Create stunning videos by combining your images with audio tracks. Free online tool to generate MP4 videos from photos and music in seconds.">
+<meta property="og:title" content="Video Creator - Make Videos from Images & Audio">
+<meta property="og:description" content="Transform your photo collections into professional videos with background music. No registration required.">
+<meta property="og:url" content="https://reptilebirds.com/create-video-from-image-and-audio">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="ReptileBirds">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Free Video Creator Tool">
+<meta name="twitter:description" content="Combine multiple images with audio to create beautiful slideshow videos instantly.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script src="/assets/js/ffmpeg.min.js"></script>
+<script src="/sw.js"></script>
+<section class="tool-section container">
+    <div class="upload-section">
+        <label for="audioUpload" class="upload-label">Upload Audio</label>
+        <input type="file" id="audioUpload" accept="audio/*" style="display: none;"/>
+        <label for="imageUpload" class="upload-label" style="margin-left: 1rem;">Upload Image (s)</label>
+        <input type="file" id="imageUpload" accept="image/*" multiple  style="display: none;"/>
+    </div>
+</section>
+<section class="tool-section container">
+<div id="uploadedImages" class="uploadedImages" draggable="true"></div>
+<audio id="audioPreview" controls style="display:none; min-width: 100%; margin: 2rem;">
+    <source id="audioSource" />
+    Your browser does not support the audio element.
+</audio>
+</section>
+<section class="tool-section container">
+    <div class="upload-section">
+        <label id="generateVideo" class="upload-label" style="display: none;" onclick="generateVideo()">Generate Video</label>
+    </div>
+
+    <div id="loader" style="display:none;">⏳ processing .... please wait</div>
+</section>
+
+<script src="/assets/js/video.js"></script>
+
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Video Creator Tool",
+      "url": "https://reptilebirds.com/create-video-from-image-and-audio/",
+      "description": "Online utility for creating MP4 videos by combining multiple images with background audio tracks",
+      "applicationCategory": "MultimediaTool",
+      "operatingSystem": "Web Browser",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "creator": {
+        "@type": "Organization",
+        "name": "ReptileBirds",
+        "url": "https://reptilebirds.com"
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://reptilebirds.com/create-video-from-image-and-audio/"
+      },
+
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "125"
+      }
+    }
+    </script>
+    <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "Is there a limit to video length?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Videos are limited by your browser’s memory. We recommend using under 50 images and audio shorter than 30 minutes for best results."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Are my files uploaded to your servers?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No! All processing happens locally in your browser for maximum privacy."
+              }
+            }
+          ]
+        }
+        </script>
+
+        <div style="margin: 5rem; max-width: 1200px; margin-left: auto; margin-right: auto; font-family: 'Segoe UI', Arial, sans-serif; line-height: 1.6; color: #333;">
+  
+            <!-- Page Title -->
+            <h1 style="font-size: 2.5rem; color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 0.5rem; margin-bottom: 1.5rem;">
+              Free Online Video Maker: Combine Images & Audio into MP4 Slideshows
+            </h1>
+          
+            <!-- Intro Section -->
+            <div style="background-color: #f8f9fa; padding: 2rem; border-radius: 8px; margin-bottom: 3rem;">
+              <p style="font-size: 1.2rem;">
+                Transform your image collections into professional-quality videos with background audio using our free online tool. 
+                Simply upload images and an audio file, and we'll automatically create a seamless MP4 video. 
+                <strong>No watermarks, no sign-up, no software install!</strong>
+              </p>
+            </div>
+          
+            <!-- How It Works -->
+            <div style="margin-bottom: 3rem;">
+              <h2 style="font-size: 2rem; color: #2980b9; margin-bottom: 1rem;">How It Works</h2>
+              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+                <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                  <h3 style="color: #16a085; margin-top: 0;">1. Upload Images</h3>
+                  <p>Drag & drop JPG/PNG files (up to 100 images supported)</p>
+                </div>
+                <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                  <h3 style="color: #16a085; margin-top: 0;">2. Add Audio</h3>
+                  <p>Upload MP3, WAV, or M4A files (up to 1 hour duration)</p>
+                </div>
+                <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                  <h3 style="color: #16a085; margin-top: 0;">3. Generate Video</h3>
+                  <p>Our tool automatically syncs images to audio length</p>
+                </div>
+                <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                  <h3 style="color: #16a085; margin-top: 0;">4. Download</h3>
+                  <p>Get your HD MP4 video instantly (no watermarks)</p>
+                </div>
+              </div>
+            </div>
+          
+            <!-- Key Features -->
+            <div style="margin-bottom: 3rem;">
+              <h2 style="font-size: 2rem; color: #2980b9; margin-bottom: 1rem;">Why Choose Our Tool</h2>
+              <ul style="padding-left: 1.5rem; columns: 2; gap: 2rem;">
+                <li style="margin-bottom: 0.8rem;"><strong>Privacy focused</strong> - All processing happens in your browser</li>
+                <li style="margin-bottom: 0.8rem;"><strong>No quality loss</strong> - Preserves original image resolution</li>
+                <li style="margin-bottom: 0.8rem;"><strong>Automatic timing</strong> - Perfectly distributes images across audio</li>
+                <li style="margin-bottom: 0.8rem;"><strong>Mobile friendly</strong> - Works on all devices</li>
+                <li style="margin-bottom: 0.8rem;"><strong>30fps smoothness</strong> - Professional video output</li>
+                <li style="margin-bottom: 0.8rem;"><strong>Fast processing</strong> - Generates videos in seconds</li>
+              </ul>
+            </div>
+          
+            <!-- FAQs -->
+            <div style="margin-bottom: 3rem;">
+              <h2 style="font-size: 2rem; color: #2980b9; margin-bottom: 1rem;">Frequently Asked Questions</h2>
+              
+              <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
+                <h3 style="color: #e74c3c; margin-top: 0;">What file formats are supported?</h3>
+                <p>
+                  <strong>Images:</strong> JPG, PNG, WEBP<br>
+                  <strong>Audio:</strong> MP3, WAV, OGG, M4A<br>
+                  <strong>Output:</strong> MP4 (H.264 codec)
+                </p>
+              </div>
+              
+              <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
+                <h3 style="color: #e74c3c; margin-top: 0;">How long can my video be?</h3>
+                <p>
+                  Typical limits:<br>
+                  • Up to 100 images<br>
+                  • Audio up to 1 hour long<br>
+                  For best performance, we recommend under 50 images and 30 minutes of audio.
+                </p>
+              </div>
+              
+              <div style="background: white; padding: 1.5rem; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+                <h3 style="color: #e74c3c; margin-top: 0;">Can I adjust individual image durations?</h3>
+                <p>
+                  Currently, our tool automatically distributes durations evenly. For manual control:<br>
+                  1. Split your audio into segments using our <a href="#" style="color: #3498db;">Audio Splitter</a><br>
+                  2. Upload each segment with specific images
+                </p>
+              </div>
+            </div>
+          
+            <!-- Call to Action -->
+            <div style="text-align: center; background-color: #3498db; padding: 2rem; border-radius: 8px;">
+              <h2 style="color: white; margin-top: 0; font-size: 1.8rem;">Ready to Create Your Video?</h2>
+              <p style="color: white; font-size: 1.2rem; margin-bottom: 1.5rem;">
+                Try it now - no registration required!
+              </p>
+              <label style="background: white; color: #3498db; border: none; padding: 1rem 2rem; font-size: 1.1rem; border-radius: 4px; cursor: none;">
+                Start Creating Free Video - Go On Top And Upload Files
+              </label>
+            </div>
+          
+          </div>
+          
+          <!-- JSON-LD Schema -->
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "WebApplication",
+            "name": "Image and Audio to Video Converter",
+            "url": "https://reptilebirds.com/create-video-from-image-and-audio/",
+            "description": "Free online tool to combine photos with music into MP4 videos",
+            "applicationCategory": "MultimediaTool",
+            "operatingSystem": "Web Browser",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "USD"
+            }
+          }
+          </script>

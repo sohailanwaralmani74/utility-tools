@@ -1,0 +1,156 @@
+---
+layout: main
+title: Image Redactor - Redact Images at pixel level
+---
+<meta name="keywords" content="redact image, redact image online, redact photo online, redacted picture, redact this pic, online image redactor, hide faces in photo, blur sensitive data, image censor tool, pixelate image, redact image tool">
+<!-- Primary Meta Tags -->
+<title>Image Redactor – Pixelate, Blur, and Hide Sensitive Data Online</title>
+<meta name="description" content="Use our free Image Redactor tool to pixelate, blur, or hide sensitive data in photos. Fully browser-based, secure, and easy to use. No uploads required.">
+<meta name="keywords" content="redact image, redact image online, redact photo online, redacted picture, redact this pic, online image redactor, hide faces in photo, blur sensitive data, image censor tool, pixelate image, redact image tool">
+<meta name="author" content="ReptileBirds">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://reptilebirds.com/image-redactor/">
+<meta property="og:title" content="Image Redactor – Pixelate, Blur, and Hide Sensitive Data Online">
+<meta property="og:description" content="Quickly redact images using pixelation, blur, or blackout effects. Perfect for hiding private information in photos.">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:url" content="https://reptilebirds.com/image-redactor/">
+<meta name="twitter:title" content="Image Redactor – Pixelate, Blur, and Hide Sensitive Data Online">
+<meta name="twitter:description" content="Redact images in your browser. Secure, private, and easy. No upload needed.">
+
+<section class="image-redactor">
+    <div class="redactor-container">
+        <div class="upload-panel">
+            <label for="imageInput" class="upload-label">Upload Image</label>
+            <input type="file" id="imageInput" accept="image/*" style="display: none;" />
+        </div>
+        <canvas id="redactorCanvas"></canvas>
+        <div class="tools-panel">
+            <button id="pixelateBtn" color="blue">Redacte</button>
+            <button id="downloadBtn" disabled>Download</button>
+        </div>
+    </div>
+
+</section>
+
+<section>
+    <h3>Redacte Image – Hide Faces, Blur Text, and Protect Privacy</h3>
+    <p>
+      Use our free <strong>Image Redactor</strong> tool to pixelate or redact any part of an image instantly. Perfect for hiding faces, emails, sensitive data, or confidential text. 100% secure and works directly in your browser without uploading files.
+    </p>
+  
+    <h4>Key Features:</h4>
+    <ul>
+      <li>Pixelate selected areas of an image</li>
+      <li>Rectangle redaction with customizable overlays</li>
+      <li>100% browser-based – no image is uploaded</li>
+      <li>Supports JPG, PNG, and WebP formats</li>
+      <li>Instant download after editing</li>
+    </ul>
+  
+    <h4>How to Use the Image Redactor Tool:</h4>
+    <ol>
+      <li>Upload your image or drag it into the editor area.</li>
+      <li>Select the pixelate or redact option.</li>
+      <li>Mark the area you want to hide.</li>
+      <li>Download the edited image.</li>
+    </ol>
+  
+    <h4>FAQs</h4>
+    <dl>
+      <dt>What does an image redactor do?</dt>
+      <dd>It lets you hide or obscure sensitive parts of an image before sharing it.</dd>
+  
+      <dt>Is this tool safe?</dt>
+      <dd>Yes, all redaction happens in your browser. No data is sent to a server.</dd>
+  
+      <dt>What image formats are supported?</dt>
+      <dd>JPG, PNG, and WebP formats are supported.</dd>
+  
+      <dt>Does this tool work offline?</dt>
+      <dd>Yes, once loaded, it works without an internet connection.</dd>
+  
+      <dt>Can I undo changes?</dt>
+      <dd>Yes, you can undo before final download.</dd>
+    </dl>
+  </section>
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Image Redactor",
+    "operatingSystem": "All",
+    "applicationCategory": "PhotoEditorApplication",
+    "description": "A free browser-based tool to pixelate or redact parts of images for privacy protection. No uploads or servers involved.",
+    "browserRequirements": "Requires JavaScript",
+    "featureList": [
+      "Pixelate Image Sections",
+      "Rectangle Redaction",
+      "Download Edited Image",
+      "In-browser Operation"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "USD"
+    }
+  }
+  </script>
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What does an image redactor do?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "It allows you to hide or obscure sensitive parts of an image such as faces or private information."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is this tool safe?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, it is completely secure as it works inside your browser without uploading files to a server."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What image formats are supported?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You can use JPG, PNG, and WebP image formats with the Image Redactor."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does it work offline?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, once loaded, the Image Redactor can work offline without an internet connection."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can I undo changes?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes, changes can be undone prior to finalizing and downloading the image."
+        }
+      }
+    ]
+  }
+  </script>
+  
+
+<script src="/assets/js/redactor.js"></script>

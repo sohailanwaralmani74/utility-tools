@@ -9,7 +9,7 @@ document.getElementById('pdfUpload').addEventListener('change', function (e) {
   document.getElementById("multi-pdf").style.display="none";
   uploadedPDF = file;
   uploadedImages = []; // Clear any previously uploaded images
-
+  
   previewPDF(file);
 });
 
@@ -33,6 +33,7 @@ function previewPDF(file) {
   const pdfHTML = `<embed src="${fileURL}" type="application/pdf" width="100%" height="600px" />`;
 
   document.getElementById('uploadedFiles').innerHTML = pdfHTML;
+  document.getElementById('uploadedFiles').style.border="2px solid";
 }
 
 function previewImages(files) {
@@ -44,6 +45,7 @@ function previewImages(files) {
     .join("");
 
   document.getElementById('uploadedFiles').innerHTML = imageHTML;
+  document.getElementById('uploadedFiles').style.border="2px solid";
 }
 
 // Method to convert PDF to JPG using PDF.js

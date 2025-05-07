@@ -1,8 +1,3 @@
-// Mobile menu toggle (if you want to add one later)
-document.addEventListener('DOMContentLoaded', () => {
-  // Placeholder: you could add code here to open/close a mobile nav
-});
-
 
 document.getElementById('file-input').addEventListener('change', function (e) {
   const file = e.target.files[0];
