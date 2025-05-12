@@ -50,16 +50,30 @@ cost-effective software development
   "name": "Top Nearshore Software Development Companies",
   "url": "https://reptilebirds.com/nearshore-software-development-companies",
   "description": "ReptileBirds helps you find and connect with the best nearshore software development companies for scalable, cost-effective outsourcing solutions.",
+  "datePublished": "2025-03-06T14:10:00+08:00",  // ISO 8601 formatted
+  "dateModified": "2025-03-06T14:10:00+08:00",   // Update if revised later
   "publisher": {
     "@type": "Organization",
     "name": "ReptileBirds",
     "url": "https://reptilebirds.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png",
+      "width": 300,   // Add logo dimensions (adjust as needed)
+      "height": 60
     }
   },
-  "inLanguage": "en"
+  "inLanguage": {
+    "@type": "Language",
+    "name": "English",
+    "alternateName": "en"
+  },
+  "primaryImageOfPage": {   // Recommended for WebPage schema
+    "@type": "ImageObject",
+    "url": "https://reptilebirds.com/assets/img/nearshore-software.jpg", // Add a relevant image
+    "width": 1200,
+    "height": 630
+  }
 }
 </script>
 

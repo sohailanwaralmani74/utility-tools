@@ -1,7 +1,7 @@
 <head>
   <meta name="google-site-verification" content="UHIBas7P7vzQMD4Odg6xe11-f5gJvoheerp3C-KFB5o" />
 	<meta charset="utf-8">
-	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+	<title>{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}</title>
   <!-- Meta Title -->
 <!-- Meta Description -->
 
@@ -24,7 +24,7 @@ open source ERP
 
 <!-- Canonical URL -->
 <link rel="canonical" href="https://reptilebirds.com">
-
+{% if site.title %}
 <!-- Open Graph (Facebook / LinkedIn) -->
 <meta property="og:title" content="Nearshore Software Development & Open Source Solutions | ReptileBirds">
 <meta property="og:description" content="Build scalable digital solutions with ReptileBirds' nearshore teams and discover open-source software to replace costly proprietary tools.">
@@ -37,7 +37,7 @@ open source ERP
 <meta name="twitter:title" content="Nearshore Software Development & Open Source Solutions | ReptileBirds">
 <meta name="twitter:description" content="ReptileBirds provides expert nearshore software development services and recommends the best open-source software for businesses.">
 <meta name="twitter:image" content="https://reptilebirds.com/assets/img/ReptileBirds.png">
-
+{% endif %}
 <!-- Favicon -->
 <link rel="icon" href="https://reptilebirds.com/assets/img/ReptileBirds.png" type="image/x-icon">
 

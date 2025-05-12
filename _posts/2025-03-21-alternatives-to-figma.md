@@ -34,23 +34,39 @@ img: figma.png
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://reptilebirds.com/alternative-to-figma"
+    "@id": "https://reptilebirds.com/alternatives-to-figma/"
   },
   "headline": "Best Open Source Alternatives to Figma for UI/UX Design",
-  "image": "https://reptilebirds.com/assets/img/figma.png",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://reptilebirds.com/assets/img/figma.png",
+    "width": 1200,
+    "height": 630
+  },
   "author": {
     "@type": "Organization",
-    "name": "ReptileBirds"
+    "name": "ReptileBirds",
+    "url": "https://reptilebirds.com"
   },
   "publisher": {
     "@type": "Organization",
     "name": "ReptileBirds",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png",
+      "width": 300,
+      "height": 60
     }
   },
-  "description": "Discover free and open source UI/UX design tools that offer great alternatives to Figma. Compare features, pros, and which one suits your team or personal projects."
+  "datePublished": "2025-03-21T23:10:00+08:00",  // ISO 8601 format with timezone
+  "dateModified": "2025-03-21T23:10:00+08:00",     // Same as publish date (update if modified later)
+  "description": "Discover free and open source UI/UX design tools that offer great alternatives to Figma. Compare features, pros, and find the best fit for your team or personal projects.",
+  "keywords": "Figma alternatives, open source design tools, UI/UX design software, free Figma competitors",
+  "articleBody": "This article reviews open source alternatives to Figma, including tools like Penpot, Lunacy, and Akira UX. It compares their collaborative features, platform compatibility, pricing models, and suitability for designers and developers.",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".article-content"]
+  }
 }
 </script>
 
