@@ -26,7 +26,10 @@ open source ERP
 
 <!-- Canonical URL -->
 <link rel="canonical" href="https://reptilebirds.com">
-{% if site.title %}
+{% if page.title %}
+
+{% else %}
+
 <!-- Open Graph (Facebook / LinkedIn) -->
 <meta property="og:title" content="Free Tools and Articles | ReptileBirds">
 <meta property="og:description" content="Build scalable digital solutions with ReptileBirds' nearshore teams and discover open-source software to replace costly proprietary tools.">
@@ -39,7 +42,7 @@ open source ERP
 <meta name="twitter:title" content="Nearshore Software Development & Open Source Solutions | ReptileBirds">
 <meta name="twitter:description" content="ReptileBirds provides expert nearshore software development services and recommends the best open-source software for businesses.">
 <meta name="twitter:image" content="https://reptilebirds.com/assets/img/ReptileBirds.png">
-{% else %}
+
 {% endif %}
 <!-- Favicon -->
 <link rel="icon" href="https://reptilebirds.com/assets/img/ReptileBirds.png" type="image/x-icon">
