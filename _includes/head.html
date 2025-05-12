@@ -4,7 +4,6 @@
 	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
   <!-- Meta Title -->
 <!-- Meta Description -->
-<meta name="description" content="ReptileBirds offers agile nearshore software development, IT outsourcing, and top open-source alternatives to proprietary software. Scale smarter, not harder.">
 
 <!-- Meta Keywords -->
 <meta name="keywords" content="
@@ -18,13 +17,9 @@ dedicated nearshore teams,
 nearshore IT development,
 open source alternatives,
 free software alternatives,
-FOSS solutions,
 open source vs proprietary software,
 open source CRM,
-open source ERP,
-open source tools for business,
-free project management tools,
-open source development tools
+open source ERP
 ">
 
 <!-- Canonical URL -->
@@ -46,50 +41,7 @@ open source development tools
 <!-- Favicon -->
 <link rel="icon" href="https://reptilebirds.com/assets/img/ReptileBirds.png" type="image/x-icon">
 
-  <!-- Edit site and author settings in `_config.yml` to make the social details your own -->
-  {% if page.date %}
-    <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-    <meta content="{{ site.url }}/about/" property="article:author">
-  {% endif %}
-  {% if page.img %}
-    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}" property="og:image">
-  {% else %}
-    <meta content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}" property="og:image">
-  {% endif %}
-  {% if page.categories %}
-    {% for category in page.categories limit:1 %}
-    <meta content="{{ category }}" property="article:section">
-    {% endfor %}
-  {% endif %}
-  {% if page.tags %}
-    {% for tag in page.tags %}
-    <meta content="{{ tag }}" property="article:tag">
-    {% endfor %}
-  {% endif %}
-
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@{{ site.site-twitter }}">
-    <meta name="twitter:creator" content="@{{ site.social-twitter }}">
-  {% if page.title %}
-    <meta name="twitter:title" content="{{ page.title }}">
-  {% else %}
-    <meta name="twitter:title" content="{{ site.title }}">
-  {% endif %}
-  {% if page.url %}
-    <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
-  {% endif %}
-  {% if page.description %}
-    <meta name="twitter:description" content="{{ page.description }}">
-  {% else %}
-    <meta name="twitter:description" content="{{ site.description }}">
-  {% endif %}
-  {% if page.img %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ page.img }}">
-  {% else %}
-    <meta name="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.author-img }}">
-  {% endif %}
-
-	<meta name="description" content="{{ page.description }}">
+  <meta name="description" content="{% if page.description %}{{ page.description | strip }}{% else %}{{ site.description | strip }}{% endif %}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta property="og:image" content="">
@@ -110,4 +62,174 @@ open source development tools
 	<!-- Styles -->
 	<link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://reptilebirds.com/",
+      "name": "ReptileBirds",
+      "description": "ReptileBirds offers free tools and insightful articles on open-source alternatives, nearshore software development, and various utilities.",
+      "publisher": {
+        "@type": "Organization",
+        "name": "ReptileBirds",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+        }
+      },
+      "mainEntityOfPage": "https://reptilebirds.com/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://reptilebirds.com/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      },
+      "article": [
+        {
+          "@type": "Article",
+          "url": "https://reptilebirds.com/alternatives-to-figma/",
+          "headline": "Best Open Source Alternatives for Figma",
+          "description": "Explore top open-source alternatives to Figma for UI/UX design, including powerful design tools for software engineers and product managers.",
+          "datePublished": "2025-03-21",
+          "dateModified": "2025-03-21",
+          "author": {
+            "@type": "Person",
+            "name": "ReptileBirds"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "ReptileBirds",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+            }
+          }
+        },
+        {
+          "@type": "Article",
+          "url": "https://reptilebirds.com/alternative-to-office/",
+          "headline": "Open Source Alternatives to Microsoft Office",
+          "description": "Free and open-source alternatives to Microsoft Office for all your productivity needs. Explore the best free office software solutions available.",
+          "datePublished": "2025-03-12",
+          "dateModified": "2025-03-12",
+          "author": {
+            "@type": "Person",
+            "name": "ReptileBirds"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "ReptileBirds",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+            }
+          }
+        },
+        {
+          "@type": "Article",
+          "url": "https://reptilebirds.com/nearshore-software-development/",
+          "headline": "What Is Nearshore Software Development?",
+          "description": "Learn about nearshore software development, its benefits, examples, and how it can be a cost-effective solution for businesses.",
+          "datePublished": "2025-03-10",
+          "dateModified": "2025-03-10",
+          "author": {
+            "@type": "Person",
+            "name": "ReptileBirds"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "ReptileBirds",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+            }
+          }
+        },
+        {
+          "@type": "Article",
+          "url": "https://reptilebirds.com/nearshore-software-development-companies/",
+          "headline": "Best Nearshore Software Development Companies Worldwide",
+          "description": "Find the best nearshore software development companies around the world. Learn how to choose the right team for your project needs.",
+          "datePublished": "2025-03-06",
+          "dateModified": "2025-03-06",
+          "author": {
+            "@type": "Person",
+            "name": "ReptileBirds"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "ReptileBirds",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+            }
+          }
+        },
+        {
+          "@type": "Article",
+          "url": "https://reptilebirds.com/free-crm/",
+          "headline": "Free CRM Tools: Guide to Better Selection",
+          "description": "Explore the best free CRM tools and learn how to choose the right one for your business. Discover powerful open-source CRM alternatives.",
+          "datePublished": "2025-03-05",
+          "dateModified": "2025-03-05",
+          "author": {
+            "@type": "Person",
+            "name": "ReptileBirds"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "ReptileBirds",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+            }
+          }
+        }
+      ],
+      "tools": [
+        {
+          "@type": "WebTool",
+          "name": "Excel to CSV Converter",
+          "url": "https://reptilebirds.com/excel-csv-converter/",
+          "description": "Convert Excel files to CSV format easily with our free tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "JSON Converter",
+          "url": "https://reptilebirds.com/json-converter/",
+          "description": "Convert JSON data easily to and from other formats with our online tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "XML Converter",
+          "url": "https://reptilebirds.com/xml-converter/",
+          "description": "Quickly convert XML files to different formats with this online tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "PDF Image Converter",
+          "url": "https://reptilebirds.com/pdf-image-converter/",
+          "description": "Convert images to PDF and vice versa with this free tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "File Compressor",
+          "url": "https://reptilebirds.com/file-compressor/",
+          "description": "Compress files quickly without losing quality with this tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "Image Redactor",
+          "url": "https://reptilebirds.com/image-redactor/",
+          "description": "Redact sensitive information from images using this free tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "Diff Checker",
+          "url": "https://reptilebirds.com/diff-checker/",
+          "description": "Compare text or code side by side with this diff checker tool."
+        }
+      ]
+    }
+    </script>
+    
 </head>
