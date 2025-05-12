@@ -205,6 +205,25 @@ We have explored some open source alternatives to Figma. No doubt Figma is featu
 If you know some tools, that I have missed, tell me I will exxplore and add here. Write me if you need any open source solution for your specific business need, I will give you the information that I have, with research and analysis.
 
 ### Also Check
+
 [MS Office Alternatives](/alternative-to-office)
 
-[Free CRM](/free-crm)
+[Excel CSV Converter](/excel-csv-converter)
+
+[JSON Converter](/json-converter)
+
+[XML Converter](/xml-converter)
+
+[PDF & Image Converter](/pdf-image-converter)
+
+[File Compressor](/file-compressor)
+
+[Meta Data Remover](/meta-data-remover)
+
+[Image Redactor](/image-redactor)
+
+[Create Video from Image & Audio](/create-video-from-image-and-audio)
+
+[Markdown Editor](/md-editor)
+
+[Diff Checker](/diff-checker)
