@@ -1052,4 +1052,4 @@ This approach represents the future of global tech collaboration - where distanc
 
 ## Conclusion
 
-Near Software development companies arround you can help you in regard of best time compatibility, faster communication and emergency development and deployements. You can assume it as service at your finger tips or door step. Let us know if you want to add your company in the list. Also let us know If you want any further information.
+Nearshore Software development companies arround you can help you in regard of best time compatibility, faster communication and emergency development and deployements. You can assume it as service at your finger tips or door step. Let us know if you want to add your company in the list. Also let us know If you want any further information.
