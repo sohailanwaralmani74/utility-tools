@@ -39,63 +39,48 @@ document.getElementById('audio-file').addEventListener('change', function (e) {
 });
 
 async function exportFile(targetFormat) {
+    showLoader('Processing Conversion ......');
     const { createFFmpeg, fetchFile } = window.FFmpeg;
-
-  // point it at your .wasm (and worker) files
-  const ffmpeg = createFFmpeg({
-    log: true,
-    corePath:   '/assets/js/ffmpeg-core.wasm',
-    workerPath: '/assets/js/ffmpeg-core.worker.js'
-  });
+    const ffmpeg = createFFmpeg({
+      log: true,
+      corePath: 'https://unpkg.com/@ffmpeg/core@0.11.0/dist/ffmpeg-core.js'
+    });
+  
     try {
-        if (!uploadedFile) {
-            throw new Error('No uploaded file found.');
-        }
-
-        targetFormat = targetFormat.trim().toLowerCase();
-
-        if (!['mp3', 'flac', 'wav', 'm4a', 'aac', 'ogg', 'opus', 'alac', 'amr', 'aiff', 'wma', 'caf'].includes(targetFormat)) {
-            throw new Error(`Unsupported target format: ${targetFormat}`);
-        }
-
-        // Show loader message
-        showLoader(`Converting to ${targetFormat.toUpperCase()}...`);
-
-        if (!ffmpeg.isLoaded()) {
-            await ffmpeg.load();
-        }
-
-        const inputFileName = uploadedFile.name;
-        const outputFileName = `output.${targetFormat}`;
-
-        // Write uploaded file into ffmpeg's filesystem
-        ffmpeg.FS('writeFile', inputFileName, await fetchFile(uploadedFile));
-
-        // Run ffmpeg conversion
-        await ffmpeg.run('-i', inputFileName, outputFileName);
-
-        // Read the output file
-        const data = ffmpeg.FS('readFile', outputFileName);
-
-        // Create Blob URL and trigger download
-        const blob = new Blob([data.buffer], { type: `audio/${targetFormat}` });
-        const url = URL.createObjectURL(blob);
-        const a = document.createElement('a');
-        a.href = url;
-        a.download = outputFileName;
-        document.body.appendChild(a);
-        a.click();
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-
-        console.log(`Exported successfully to ${targetFormat.toUpperCase()}.`);
+        showLoader('Converting to '+ targetFormat);
+      if (!uploadedFile) throw new Error('No file uploaded!');
+  
+      // Initialize FFmpeg
+      if (!ffmpeg.isLoaded()) await ffmpeg.load();
+  
+      // Write input file
+      ffmpeg.FS('writeFile', uploadedFile.name, await fetchFile(uploadedFile));
+  
+      // Convert
+      const baseName = uploadedFile.name.replace(/\.[^/.]+$/, ""); // removes file extension
+      const outputName = `${baseName}.${targetFormat}`;
+      await ffmpeg.run('-i', uploadedFile.name, outputName);
+  
+      // Read output
+      const data = ffmpeg.FS('readFile', outputName);
+      const blob = new Blob([data.buffer], { type: 'audio/mpeg' }); // Adjust MIME type
+      
+      // Trigger download
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      showLoader('Added To Download');
+      a.href = url;
+      a.download = outputName;
+      a.click();
+      URL.revokeObjectURL(url);
+  
     } catch (error) {
-        console.error('Export failed:', error.message);
+      alert(`Error: ${error.message}`);
     } finally {
-        // Hide loader message
-        hideLoader();
+      hideLoader();
     }
-}
+  }
+
 function showLoader(message) {
     let loader = document.getElementById('loader');
     if (!loader) {

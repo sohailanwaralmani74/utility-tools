@@ -1,0 +1,248 @@
+---
+layout: main
+title: Covert Latex To Word - Latex To PDF - Latex To Image
+---
+<script src="/assets/js/latex.js"></script>
+<script src="/assets/js/latex.component.js"></script>
+
+<section class="tool-section container">
+    <div class="upload-section">
+        <label for="fileUpload" class="upload-label">Upload File </label>
+        <input type="file" id="fileUpload" accept=".tex" style="display: none;"/>
+    </div>
+</section>
+<div id="loader" style="display:none;">⏳ processing .... please wait</div>
+<!-- For file preview -->
+<div style="min-width: 100%; margin-top: 4rem; overflow: none; border: 1px solid; border-radius: 4px;">
+    <div class="panes">
+        <div class="editor-pane">
+            <div class="pane-header">
+                <span>Latex</span>
+            </div>
+            <textarea id="markdown-input" placeholder="Type your Latex here..."></textarea>
+        </div>
+
+        <div class="resize-handle"></div>
+
+        <div class="preview-pane">
+            <div class="pane-header">
+                <span>PREVIEW</span>
+            </div>
+            <div id="preview-content" class="preview-content" placeholder="output"></div>
+        </div>
+    </div>
+</div>
+<script src="/assets/js/latex-conversion.js"></script>
+
+<style>
+    .editor-container {
+        display: flex;
+        flex-direction: column;
+        overflow: hidden;
+    }
+
+    .toolbar {
+        display: flex;
+        gap: 8px;
+        padding: 10px;
+        background: white;
+        border-bottom: 1px solid var(--border);
+        flex-wrap: wrap;
+    }
+
+    .tool-button {
+        background: none;
+        border: 1px solid var(--border);
+        border-radius: 4px;
+        padding: 6px 10px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.2s;
+        background: orange;
+
+    }
+
+    .tool-button:hover {
+        background-color: rgb(163, 121, 42)
+    }
+
+    .tool-button i {
+        margin-right: 4px;
+    }
+
+    .panes {
+        display: flex;
+        flex: 1;
+        overflow: none;
+        flex-direction: column;
+        min-height: 93vh;
+
+    }
+
+    @media (min-width: 768px) {
+        .panes {
+            flex-direction: row;
+        }
+    }
+
+    .editor-pane,
+    .preview-pane {
+        flex: 1;
+        min-width: 0;
+        overflow: auto;
+        padding: 15px;
+        box-sizing: border-box;
+        min-height: 97%;
+        max-height: 97vh;
+        border: 1px solid;
+        border-radius: 4px;
+    }
+
+    .editor-pane {
+        border-right: 1px solid var(--border);
+        background-color: var(--secondary);
+    }
+
+    #markdown-input {
+        width: 100%;
+        height: 90%;
+        min-height: 300px;
+        border: none;
+        resize: none;
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+        font-size: 14px;
+        line-height: 1.6;
+        background: transparent;
+        color: var(--text);
+    }
+
+    #markdown-input:focus {
+        outline: none;
+    }
+
+    .preview-pane {
+        background-color: var(--preview-bg);
+        overflow-y: auto;
+    }
+
+    .pane-header {
+        font-weight: 600;
+        margin-bottom: 10px;
+        color: var(--primary);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .resize-handle {
+        width: 100%;
+        height: 10px;
+        background-color: var(--border);
+        cursor: ns-resize;
+        display: none;
+    }
+
+    @media (min-width: 768px) {
+        .resize-handle {
+            width: 10px;
+            height: 100%;
+            cursor: ew-resize;
+            display: block;
+        }
+    }
+
+    /* Markdown preview styling */
+    .preview-content h1,
+    .preview-content h2,
+    .preview-content h3 {
+        margin-top: 24px;
+        margin-bottom: 16px;
+        font-weight: 600;
+    }
+
+    .preview-content h1 {
+        font-size: 2em;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.3em;
+    }
+
+    .preview-content h2 {
+        font-size: 1.5em;
+        border-bottom: 1px solid var(--border);
+        padding-bottom: 0.3em;
+    }
+
+    .preview-content p {
+        margin-bottom: 16px;
+        line-height: 1.5;
+    }
+
+    .preview-content pre {
+        background-color: #f6f8fa;
+        border-radius: 6px;
+        padding: 16px;
+        overflow: auto;
+    }
+
+    .preview-content code {
+        font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+        background-color: rgba(27, 31, 35, 0.05);
+        border-radius: 3px;
+        padding: 0.2em 0.4em;
+        font-size: 85%;
+    }
+
+    .preview-content blockquote {
+        border-left: 4px solid var(--primary);
+        color: #6a737d;
+        padding: 0 1em;
+        margin: 0 0 16px 0;
+    }
+
+    .preview-content table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 16px;
+    }
+
+    .preview-content table th,
+    .preview-content table td {
+        border: 1px solid var(--border);
+        padding: 6px 13px;
+    }
+
+    .preview-content table tr {
+        background-color: #fff;
+        border-top: 1px solid #c6cbd1;
+    }
+
+    .preview-content table tr:nth-child(2n) {
+        background-color: #f6f8fa;
+    }
+
+    /* Basic LaTeX-like styling */
+#preview-content {
+  font-family: "Times New Roman", serif;
+  font-size: 12pt;
+  line-height: 1.5;
+}
+
+.section, .subsection {
+  margin: 1em 0;
+}
+
+.table {
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.table td, .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
+</style>

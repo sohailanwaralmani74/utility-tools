@@ -170,7 +170,6 @@ async function generateVideo() {
             corePath: 'https://unpkg.com/@ffmpeg/core@0.11.0/dist/ffmpeg-core.js',
             wasmPath: 'https://unpkg.com/@ffmpeg/core@0.11.0/dist/ffmpeg-core.wasm',
             workerPath: 'https://unpkg.com/@ffmpeg/core@0.11.0/dist/ffmpeg-core.worker.js',
-            wasmMemory,
             mainName: 'main',
             instantiateWasm: async (imports, callback) => {
                 try {
@@ -178,8 +177,6 @@ async function generateVideo() {
                         .then(r => r.arrayBuffer());
 
                     const instance = await WebAssembly.instantiate(wasmBinary, {
-                        a: { a: wasmMemory },
-                        env: { memory: wasmMemory },
                         wasi_snapshot_preview1: {
                             fd_write: () => 0,
                             fd_close: () => 0
