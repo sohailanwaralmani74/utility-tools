@@ -6,53 +6,10 @@
   <meta http-equiv="Pragma" content="no-cache" />
   <meta http-equiv="Expires" content="-1" />
   <title>{% if page.title %}{{page.title}}{% else %}{{site.title}}{% endif %}</title>
-  <!-- Meta Title -->
-  <!-- Meta Description -->
-
-  <!-- Meta Keywords -->
-  <meta name="keywords" content="
-nearshore software development,
-nearshore outsourcing,
-custom software development,
-software development nearshore,
-nearshore agile teams,
-nearshore software developers,
-dedicated nearshore teams,
-nearshore IT development,
-open source alternatives,
-free software alternatives,
-open source vs proprietary software,
-open source CRM,
-open source ERP
-">
-
-  <!-- Canonical URL -->
-  <link rel="canonical" href="https://reptilebirds.com">
-  {% if page.title %}
-
-  {% else %}
-
-  <!-- Open Graph (Facebook / LinkedIn) -->
-  <meta property="og:title" content="Free Tools and Articles | ReptileBirds">
-  <meta property="og:description"
-    content="Build scalable digital solutions with ReptileBirds' nearshore teams and discover open-source software to replace costly proprietary tools.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://reptilebirds.com">
-  <meta property="og:image" content="https://reptilebirds.com/assets/img/ReptileBirds.png">
-
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Nearshore Software Development & Open Source Solutions | ReptileBirds">
-  <meta name="twitter:description"
-    content="ReptileBirds provides expert nearshore software development services and recommends the best open-source software for businesses.">
-  <meta name="twitter:image" content="https://reptilebirds.com/assets/img/ReptileBirds.png">
-
-  {% endif %}
-  <!-- Favicon -->
+  <meta http-equiv="Content-Security-Policy" content="frame-ancestors 'self';">
+  <meta name="referrer" content="no-referrer-when-downgrade">
   <link rel="icon" href="https://reptilebirds.com/assets/img/ReptileBirds.png" type="image/x-icon">
 
-  <meta name="description"
-    content="{% if page.description %}{{ page.description | strip }}{% else %}{{ site.description | strip }}{% endif %}">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link rel="shortcut icon" href="{{ " /assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
@@ -67,6 +24,50 @@ open source ERP
   <meta name="msapplication-navbutton-color" content="#263959">
   <!-- iOS Safari -->
   <meta name="apple-mobile-web-app-status-bar-style" content="#263959">
+
+<!-- Meta Description -->
+{% if page.description %}
+  <meta name="description" content="{{ page.description | escape }}">
+{% elsif site.description %}
+  <meta name="description" content="{{ site.description | escape }}">
+{% else %}
+  <meta name="description" content="Default site description here.">
+{% endif %}
+
+<!-- Meta Keywords -->
+{% if page.keywords %}
+  <meta name="keywords" content="{{ page.keywords | escape }}">
+{% elsif site.keywords %}
+  <meta name="keywords" content="{{ site.keywords | escape }}">
+{% else %}
+  <meta name="keywords" content="default, keywords, here">
+{% endif %}
+
+<!-- Canonical URL -->
+{% if page.url %}
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+{% elsif site.url %}
+  <link rel="canonical" href="{{ site.url | absolute_url }}">
+{% else %}
+  <link rel="canonical" href="https://reptilebirds.com/">
+{% endif %}
+
+<!-- Open Graph Tags -->
+<meta property="og:type" content="website" />
+
+<meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% elsif site.title %}{{ site.title | escape }}{% else %}Reptile Birds{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | escape }}{% elsif site.description %}{{ site.description | escape }}{% else %}Online Converters & Blog{% endif %}">
+<meta property="og:url" content="{% if page.url %}{{ page.url | absolute_url }}{% elsif site.url %}{{ site.url | absolute_url }}{% else %}https://reptilebirds.com/{% endif %}">
+<meta property="og:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif site.image %}{{ site.image | absolute_url }}{% else %}https://reptilebirds.com/assets/image/ReptileBirds.png{% endif %}">
+
+<!-- Twitter Card Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% elsif site.title %}{{ site.title | escape }}{% else %}Reptile Birds{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | escape }}{% elsif site.description %}{{ site.description | escape }}{% else %}Convert you files online and read pristegious Blog posts{% endif %}">
+<meta name="twitter:image" content="{% if page.image %}{{ page.image | absolute_url }}{% elsif site.image %}{{ site.image | absolute_url }}{% else %}https://yourdomain.com/assets/image/ReptileBirds.png{% endif %}">
+
+k
+
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700|Lato:300,400,700&display=swap" rel="stylesheet">
   <!-- Font Awesome -->
@@ -239,6 +240,12 @@ open source ERP
           "name": "Diff Checker",
           "url": "https://reptilebirds.com/diff-checker/",
           "description": "Compare text or code side by side with this diff checker tool."
+        },
+        {
+          "@type": "WebTool",
+          "name": "Audio Converter",
+          "url": "https://reptilebirds.com/audio-converter/",
+          "description": "Convert Audio File To Any Format."
         }
       ]
     }

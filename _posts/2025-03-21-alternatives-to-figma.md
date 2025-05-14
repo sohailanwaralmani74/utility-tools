@@ -5,28 +5,11 @@ author: sohail
 date: 2025-03-21 23:10:00 +0800
 categories: [Opne-source, Productivity & Office Tools]
 img: figma.png
+description: Looking for free and open source alternatives to Figma? Discover powerful design tools that rival Figma for UI/UX design, prototyping, and collaboration.
+keywords: figma alternatives, open source figma, free figma alternatives, figma open source tools, figma replacement, figma competitor open source, ui design open source, free ui design tools, prototyping tools open source, open source figma clone, figma like software free, figma vs penpot, design collaboration tool free, open source prototyping, figma open source alternative
 ---
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
-
-<!-- Meta Tags -->
-<title>Best Open Source Alternatives to Figma for UI/UX Design</title>
-<meta name="description" content="Looking for free and open source alternatives to Figma? Discover powerful design tools that rival Figma for UI/UX design, prototyping, and collaboration.">
-<meta name="keywords" content="figma alternatives, open source figma, free figma alternatives, figma open source tools, figma replacement, figma competitor open source, ui design open source, free ui design tools, prototyping tools open source, open source figma clone, figma like software free, figma vs penpot, design collaboration tool free, open source prototyping, figma open source alternative">
-
-<!-- Open Graph Tags -->
-<meta property="og:title" content="Best Open Source Alternatives to Figma for UI/UX Design">
-<meta property="og:description" content="Explore the top open source Figma alternatives used by designers worldwide. From Penpot to Akira, find the best tools to design, prototype, and collaborate freely.">
-<meta property="og:url" content="https://reptilebirds.com/alternative-to-figma">
-<meta property="og:type" content="article">
-<meta property="og:image" content="https://reptilebirds.com/assets/img/figma.png">
-
-<!-- Twitter Card Tags -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Best Open Source Alternatives to Figma for UI/UX Design">
-<meta name="twitter:description" content="See the best free and open source tools like Figma for UI/UX design and prototyping. Ideal for designers and teams seeking cost-effective design solutions.">
-<meta name="twitter:image" content="https://reptilebirds.com/assets/img/figma.png">
-
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">
 {

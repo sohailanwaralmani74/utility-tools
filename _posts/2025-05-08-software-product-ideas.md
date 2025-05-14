@@ -2,7 +2,7 @@
 layout: post
 title: Software Product Ideas That Have High Growth Potetional 
 author: sohail
-date: 2025-05-19 13:10:00 +0800
+date: 2025-05-29 13:10:00 +0800
 categories: [Softwares, Software Development Ideas]
 img: Software-Product-Ideas.png
 ---

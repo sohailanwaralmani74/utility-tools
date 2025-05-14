@@ -1,35 +1,14 @@
 ---
 layout: main
 title: Online Markdown Editor with Live Preview
+description: Free browser-based Markdown editor with real-time preview. No uploads, no server needed. Supports tables, code blocks, GitHub Flavored Markdown & instant export.
+keywords: markdown editor, online markdown, md editor, github markdown, live preview markdown, browser-based editor, md editor online
 ---
-<title>Markdown Editor Online Free: Edit and Export</title>
-<!-- Primary Meta Tags -->
-<meta name="title" content="Markdown Editor - Live Preview & Web-Based Formatting | ReptileBirds">
-<meta name="description"
-    content="Free browser-based Markdown editor with real-time preview. No uploads, no server needed. Supports tables, code blocks, GitHub Flavored Markdown & instant export.">
-<meta name="keywords"
-    content="markdown editor, online markdown, md editor, github markdown, live preview markdown, browser-based editor, md editor online">
 
-<!-- Open Graph / Facebook (Social Sharing) -->
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://reptilebirds.com/md-editor/">
-<meta property="og:title" content="Markdown Editor - Live Preview & Web-Based Formatting | ReptileBirds">
-<meta property="og:description"
-    content="Write and preview Markdown in real-time with this 100% browser-based editor. No data leaves your device.">
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="https://reptilebirds.com/md-editor/">
-<meta property="twitter:title" content="Markdown Editor - Live Preview & Web-Based Formatting | ReptileBirds">
-<meta property="twitter:description"
-    content="Free browser-based Markdown editor with real-time preview. No uploads, no server needed.">
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 <style>
     .editor-container {
         display: flex;
         flex-direction: column;
-        height: 100vh;
         overflow: hidden;
     }
 
@@ -65,8 +44,12 @@ title: Online Markdown Editor with Live Preview
     .panes {
         display: flex;
         flex: 1;
-        overflow: hidden;
+        overflow: none;
         flex-direction: column;
+        min-height: 98vh;
+        overflow: none;
+        border: 1px solid;
+
     }
 
     @media (min-width: 768px) {
@@ -82,6 +65,10 @@ title: Online Markdown Editor with Live Preview
         overflow: auto;
         padding: 15px;
         box-sizing: border-box;
+        min-height: 97%;
+        max-height: 97vh;
+        border: 1px solid;
+        border-radius: 4px;
     }
 
     .editor-pane {
@@ -91,7 +78,7 @@ title: Online Markdown Editor with Live Preview
 
     #markdown-input {
         width: 100%;
-        height: 100%;
+        height: 90%;
         min-height: 300px;
         border: none;
         resize: none;
@@ -205,7 +192,36 @@ title: Online Markdown Editor with Live Preview
     .preview-content table tr:nth-child(2n) {
         background-color: #f6f8fa;
     }
+
+    /* Basic LaTeX-like styling */
+#preview-content {
+  font-family: "Times New Roman", serif;
+  font-size: 12pt;
+  line-height: 1.5;
+}
+
+.section, .subsection {
+  margin: 1em 0;
+}
+
+.table {
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+.table td, .table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
 </style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 <div class="editor-container">
     <div class="toolbar">
         <button class="tool-button" data-insert="**Bold**"><i class="fas fa-bold"></i>Bold</button>
@@ -270,8 +286,7 @@ title: Online Markdown Editor with Live Preview
 <style>
     .seo-content {
         max-width: 800px;
-        margin: 40px auto;
-        padding: 0 20px;
+        margin-top: 2px;
         color: #333;
         line-height: 1.6;
     }
