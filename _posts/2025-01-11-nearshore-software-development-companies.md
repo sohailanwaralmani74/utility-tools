@@ -92,13 +92,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Belitsoft developed our healthcare analytics platform with such precision that it reduced false positives by 37% in clinical trials. Their team worked as true partners, even helping us navigate FDA compliance requirements we hadn't anticipated."<br />
-    <span style="font-weight: 600;">Director of Digital Health, US Medical Devices Company</span> (via <a href="https://clutch.co/profile/belitsoft" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Director of Digital Health, US Medical Devices Company</span> (via <a href="https://clutch.co/profile/belitsoft" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "After three failed attempts with other vendors, Belitsoft delivered our blockchain trading platform in just 5 months. They fixed legacy code issues that had plagued us for years while implementing cutting-edge security protocols."<br />
-    <span style="font-weight: 600;">CTO, European Fintech Startup</span> (via <a href="https://clutch.co/profile/belitsoft" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CTO, European Fintech Startup</span> (via <a href="https://clutch.co/profile/belitsoft" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -106,7 +106,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 120+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.8/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Fintech, Healthcare, SaaS</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://belitsoft.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://belitsoft.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -140,13 +140,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "ScienceSoft's team implemented an AI-powered diagnostic system that improved our radiology department's efficiency by 45%. Their healthcare expertise and attention to regulatory compliance were instrumental in the project's success."<br />
-    <span style="font-weight: 600;">CIO, Regional Hospital Network</span> (via <a href="https://clutch.co/profile/sciencesoft" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CIO, Regional Hospital Network</span> (via <a href="https://clutch.co/profile/sciencesoft" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Their cybersecurity team uncovered vulnerabilities in our banking platform that had eluded previous audits. The remediation plan they provided was both comprehensive and practical for implementation."<br />
-    <span style="font-weight: 600;">Head of IT Security, Financial Services Company</span> (via <a href="https://clutch.co/profile/sciencesoft" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Head of IT Security, Financial Services Company</span> (via <a href="https://clutch.co/profile/sciencesoft" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -154,7 +154,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 700+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.7/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Healthcare, Finance, Retail</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.scnsoft.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.scnsoft.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -198,13 +198,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Intellectsoft built our blockchain supply chain platform that reduced operational costs by 28% in the first year. Their team didn't just develop technology - they helped redesign our entire logistics workflow."<br />
-    <span style="font-weight: 600;">VP of Technology, Global Logistics Firm</span> (via <a href="https://clutch.co/profile/intellectsoft" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">VP of Technology, Global Logistics Firm</span> (via <a href="https://clutch.co/profile/intellectsoft" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Their healthcare app development team delivered FDA-compliant software six weeks ahead of schedule, giving us crucial time for clinical testing. The quality exceeded our most optimistic expectations."<br />
-    <span style="font-weight: 600;">Digital Health Director, Medical Devices Company</span> (via <a href="https://clutch.co/profile/intellectsoft" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Digital Health Director, Medical Devices Company</span> (via <a href="https://clutch.co/profile/intellectsoft" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -212,7 +212,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 300+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.8/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Blockchain, Healthcare, Enterprise</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.intellectsoft.net" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.intellectsoft.net" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -256,13 +256,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Rootstack delivered our e-commerce platform in half the time estimated by other vendors. Their nearshore team worked in perfect sync with our marketing department, implementing real-time changes during peak sales seasons."<br />
-    <span style="font-weight: 600;">Director of E-Commerce, Retail Brand</span> (via <a href="https://clutch.co/profile/rootstack" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Director of E-Commerce, Retail Brand</span> (via <a href="https://clutch.co/profile/rootstack" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Their fintech solution reduced our loan processing time from 5 days to 2 hours. The Rootstack team understood regulatory requirements better than our previous local developers."<br />
-    <span style="font-weight: 600;">CTO, Regional Banking Group</span> (via <a href="https://clutch.co/profile/rootstack" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CTO, Regional Banking Group</span> (via <a href="https://clutch.co/profile/rootstack" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -270,7 +270,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 200+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.9/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Retail, Fintech, Logistics</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.rootstack.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.rootstack.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -327,13 +327,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Siili transformed our digital banking platform with a customer-centric redesign that increased mobile engagement by 62%. Their team's deep understanding of Nordic financial regulations saved us months of compliance work."<br />
-    <span style="font-weight: 600;">Head of Digital Services, Nordic Bank</span> (via <a href="https://clutch.co/profile/siili-solutions" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Head of Digital Services, Nordic Bank</span> (via <a href="https://clutch.co/profile/siili-solutions" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Their industrial IoT solution reduced our manufacturing downtime by 40% through predictive maintenance. Siili's engineers understood our factory floor challenges better than any IT vendor we've worked with."<br />
-    <span style="font-weight: 600;">Operations Director, Industrial Manufacturer</span> (via <a href="https://clutch.co/profile/siili-solutions" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Operations Director, Industrial Manufacturer</span> (via <a href="https://clutch.co/profile/siili-solutions" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -341,7 +341,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 600+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.7/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Finance, Healthcare, Industry</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.siili.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.siili.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -399,13 +399,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Gorilla Logic's team rebuilt our legacy system into a modern microservices architecture while maintaining 100% uptime. Their engineers became such integral members of our team that we promoted two to lead architect roles."<br />
-    <span style="font-weight: 600;">VP of Engineering, SaaS Platform</span> (via <a href="https://clutch.co/profile/gorilla-logic" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">VP of Engineering, SaaS Platform</span> (via <a href="https://clutch.co/profile/gorilla-logic" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Our mobile app developed by Gorilla Logic achieved 4.9/5 in app stores within 3 months of launch. Their attention to performance optimization and clean code architecture set a new standard for our internal teams."<br />
-    <span style="font-weight: 600;">Product Director, Digital Media Company</span> (via <a href="https://clutch.co/profile/gorilla-logic" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Product Director, Digital Media Company</span> (via <a href="https://clutch.co/profile/gorilla-logic" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -413,7 +413,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 300+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.8/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Enterprise Software, Mobile, Cloud</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://gorillalogic.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://gorillalogic.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -470,13 +470,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "STX Next migrated our legacy banking platform to Python microservices with zero downtime. Their team's deep Django expertise helped us process 3x more transactions while reducing infrastructure costs by 40%."<br />
-    <span style="font-weight: 600;">Chief Digital Officer, European Bank</span> (via <a href="https://clutch.co/profile/stx-next" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Chief Digital Officer, European Bank</span> (via <a href="https://clutch.co/profile/stx-next" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Our AI-powered diagnostic tool developed by STX Next achieved 98% accuracy in clinical trials. They navigated complex healthcare regulations while delivering six weeks ahead of schedule."<br />
-    <span style="font-weight: 600;">CTO, Digital Health Startup</span> (via <a href="https://clutch.co/profile/stx-next" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CTO, Digital Health Startup</span> (via <a href="https://clutch.co/profile/stx-next" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -484,7 +484,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Team: 300+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.7/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Fintech, Healthcare, Enterprise</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.stxnext.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.stxnext.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -543,13 +543,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "The Toptal developer we hired built our MVP in 3 months what our previous team couldn't deliver in a year. Their screening process truly delivers elite talent that hits the ground running."<br />
-    <span style="font-weight: 600;">Founder, SaaS Startup</span> (via <a href="https://clutch.co/profile/toptal" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Founder, SaaS Startup</span> (via <a href="https://clutch.co/profile/toptal" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "We've engaged 15 Toptal experts over 4 years for critical projects. Each one has delivered exceptional work, often becoming long-term extensions of our team."<br />
-    <span style="font-weight: 600;">CTO, Enterprise Technology Company</span> (via <a href="https://clutch.co/profile/toptal" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CTO, Enterprise Technology Company</span> (via <a href="https://clutch.co/profile/toptal" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -557,7 +557,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Network: 10,000+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.8/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Technology, Design, Finance</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.toptal.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.toptal.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -626,13 +626,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "EPAM's team modernized our core banking platform serving 15 million customers with zero downtime. Their financial services expertise and engineering discipline delivered a 40% performance improvement while reducing operational costs."<br />
-    <span style="font-weight: 600;">Chief Digital Officer, Global Bank</span> (via <a href="https://clutch.co/profile/epam-systems" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Chief Digital Officer, Global Bank</span> (via <a href="https://clutch.co/profile/epam-systems" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Their healthcare IT specialists built an AI-powered diagnostic system that achieved FDA approval in record time. EPAM became true partners, embedding themselves in our clinical workflows and regulatory requirements."<br />
-    <span style="font-weight: 600;">VP of Technology, Medical Devices Manufacturer</span> (via <a href="https://clutch.co/profile/epam-systems" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">VP of Technology, Medical Devices Manufacturer</span> (via <a href="https://clutch.co/profile/epam-systems" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -640,7 +640,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Employees: 57,000+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.7/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i>Focus : Fintech, Health, Telco, Education</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.epam.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.epam.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -700,13 +700,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Accenture's AI-powered supply chain transformation reduced our operational costs by 35% while improving delivery times. Their cross-functional team combined deep industry knowledge with technical excellence to deliver beyond expectations."<br />
-    <span style="font-weight: 600;">Chief Operations Officer, Global Retailer</span> (via <a href="https://clutch.co/profile/accenture" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Chief Operations Officer, Global Retailer</span> (via <a href="https://clutch.co/profile/accenture" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Our digital banking platform developed with Accenture processed 2.5 million transactions on launch day without a hitch. Their ability to combine innovation with enterprise-grade reliability was remarkable."<br />
-    <span style="font-weight: 600;">Chief Digital Officer, Top 10 Bank</span> (via <a href="https://clutch.co/profile/accenture" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Chief Digital Officer, Top 10 Bank</span> (via <a href="https://clutch.co/profile/accenture" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -714,7 +714,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Employees: 733,000+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.6/5</div>
 <div style="width: 21%;"><i class="fa fa-industry"></i>Focus : Fintech, Health, Telco, Energy, Retail, Public</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.accenture.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.accenture.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -789,13 +789,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Cognizant's digital transformation team migrated our entire insurance claims platform to the cloud in 9 months, achieving 99.99% uptime while processing 1.2 million daily transactions. Their industry expertise was invaluable."<br />
-    <span style="font-weight: 600;">CIO, Top 5 Insurance Provider</span> (via <a href="https://clutch.co/profile/cognizant" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CIO, Top 5 Insurance Provider</span> (via <a href="https://clutch.co/profile/cognizant" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Our EHR system modernization by Cognizant reduced physician documentation time by 40% while improving accuracy. Their healthcare IT team understood both our clinical workflows and technical requirements perfectly."<br />
-    <span style="font-weight: 600;">CMIO, Academic Medical Center</span> (via <a href="https://clutch.co/profile/cognizant" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CMIO, Academic Medical Center</span> (via <a href="https://clutch.co/profile/cognizant" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -803,7 +803,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Employees: 350,000+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.5/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i>Focus : Fintech, Health, Telco, Energy, Retail, Automotive</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.cognizant.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.cognizant.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -876,13 +876,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Infosys migrated our entire ERP system to the cloud while maintaining 100% business continuity. Their AIOps platform reduced our incident resolution time by 65%, transforming our IT operations."<br />
-    <span style="font-weight: 600;">Global CIO, Manufacturing Conglomerate</span> (via <a href="https://clutch.co/profile/infosys" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Global CIO, Manufacturing Conglomerate</span> (via <a href="https://clutch.co/profile/infosys" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Their AI-powered supply chain optimization reduced our inventory costs by $28M annually while improving fulfillment rates. Infosys became true partners in our digital reinvention."<br />
-    <span style="font-weight: 600;">Chief Digital Officer, Global Retailer</span> (via <a href="https://clutch.co/profile/infosys" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">Chief Digital Officer, Global Retailer</span> (via <a href="https://clutch.co/profile/infosys" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -890,7 +890,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Employees: 335,000+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.4/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Digital Transformation, AI, Cloud</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.infosys.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.infosys.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">
@@ -963,13 +963,13 @@ This approach represents the future of global tech collaboration - where distanc
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Globant's AI-powered personalization engine increased our e-commerce conversion rate by 32%. Their team moved at startup speed while delivering enterprise-grade reliability."<br />
-    <span style="font-weight: 600;">VP of Digital, Fortune 500 Retailer</span> (via <a href="https://clutch.co/profile/globant" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">VP of Digital, Fortune 500 Retailer</span> (via <a href="https://clutch.co/profile/globant" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div style="background: #f9f9f9; border-left: 4px solid #0066cc; padding: 12px; margin: 15px 0; font-style: italic; color: #333;">
     <i class="fa fa-quote-left" style="color: #0066cc;"></i>  
     "Our gaming platform developed with Globant handled 2 million concurrent users at launch without issues. Their engineers understood both performance optimization and player psychology."<br />
-    <span style="font-weight: 600;">CTO, Gaming Company</span> (via <a href="https://clutch.co/profile/globant" target="_blank" rel="nofollow" style="color: #0066cc;">Clutch</a>)
+    <span style="font-weight: 600;">CTO, Gaming Company</span> (via <a href="https://clutch.co/profile/globant" target="_blank" rel="noopener noreferrer" rel="nofollow" style="color: #0066cc;">Clutch</a>)
   </div>
 
   <div class="row" style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
@@ -977,7 +977,7 @@ This approach represents the future of global tech collaboration - where distanc
     <div style="width: 21%;"><i class="fa fa-users"></i> Employees: 27,500+</div>
     <div style="width: 21%;"><i class="fa fa-star"></i> Rating: 4.6/5</div>
     <div style="width: 21%;"><i class="fa fa-industry"></i> Focus: Digital Innovation, AI, Gaming</div>
-    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.globant.com" target="_blank" rel="nofollow">Website</a></div>
+    <div style="width: 16%;"><i class="fa fa-link"></i> <a href="https://www.globant.com" target="_blank" rel="noopener noreferrer" rel="nofollow">Website</a></div>
   </div>
 
   <div style="margin-top: 20px;">

@@ -9,7 +9,7 @@ description: Looking for free and open source alternatives to Figma? Discover po
 keywords: figma alternatives, open source figma, free figma alternatives, figma open source tools, figma replacement, figma competitor open source, ui design open source, free ui design tools, prototyping tools open source, open source figma clone, figma like software free, figma vs penpot, design collaboration tool free, open source prototyping, figma open source alternative
 ---
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" rel="nofollow" rel="noopener noreferrer"/>
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json">
 {

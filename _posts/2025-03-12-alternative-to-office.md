@@ -5,13 +5,13 @@ author: sohail
 date: 2025-03-12 14:10:00 +0800
 toc: true
 categories: [Opne-source, Productivity & Office Tools]
-description: "Discover free, open-source alternatives to Microsoft Office like LibreOffice, OnlyOffice, and more." 
+description: "Discover free and open-source alternatives to Microsoft Office" 
 img: OpenSourceAlternativeToProprietarySoftware.png
 description: Discover the best free alternatives to Microsoft Office. Explore open source office suites, free Microsoft Word alternatives, and full-featured replacements for MS Office.
 keywords: free office software, free office suite programs, ms word alternative, microsoft word alternatives, freeoffice 365, replacement for ms word, free microsoft word alternative, microsoft office alternative, alternative to microsoft word, word alternatives, free ms word alternative
 ---
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" rel="noopener noreferrer"/>
 
 <!-- Meta Tags -->
 
@@ -185,7 +185,7 @@ Open-source users opt for LibreOffice because it functions as the top Microsoft 
     </div>
   </div>
 </div>
-<a href="https://libreoffice.org/" target="_blank" rel="nofollow" style="width:28%"> Visit libreoffice.org</a>
+<a href="https://libreoffice.org/" target="_blank" rel="noopener noreferrer" rel="nofollow" style="width:28%"> Visit libreoffice.org</a>
 </div>
 
 <br />
@@ -298,7 +298,7 @@ The modern collaborative workspace needs of teams find their solution in OnlyOff
     </div>
   </div>
 </div>
-<a href="https://onlyoffice.com" target="_blank" rel="nofollow" style="width:28%"> Visit onlyoffice.com</a>
+<a href="https://onlyoffice.com" target="_blank" rel="noopener noreferrer" rel="nofollow" style="width:28%"> Visit onlyoffice.com</a>
 </div>
 <br />
 
@@ -407,7 +407,7 @@ The software provides basic functions through its reliable open-source productiv
     </div>
   </div>
 </div>
-<a href="https://openoffice.org/" target="_blank" rel="nofollow" style="width:28%"> Visit openoffice.org</a>
+<a href="https://openoffice.org/" target="_blank" rel="noopener noreferrer" rel="nofollow" style="width:28%"> Visit openoffice.org</a>
 </div>
 <br />
 
@@ -515,7 +515,7 @@ The web-based service Collabora Online operates as the online version of LibreOf
     </div>
   </div>
 </div>
-<a href="https://collaboraoffice.com" target="_blank" rel="nofollow" style="width:30%"> Visit collaboraoffice.com</a>
+<a href="https://collaboraoffice.com" target="_blank" rel="noopener noreferrer" rel="nofollow" style="width:30%"> Visit collaboraoffice.com</a>
 </div>
 <br />
 
@@ -625,7 +625,7 @@ Website: calligra.org
     </div>
   </div>
 </div>
-<a href="https://calligra.org/" target="_blank" rel="nofollow" style="width:28%"> Visit https://calligra.org/</a>
+<a href="https://calligra.org/" target="_blank" rel="noopener noreferrer" rel="nofollow" style="width:28%"> Visit https://calligra.org/</a>
 </div>
 
 
