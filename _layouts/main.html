@@ -4,7 +4,10 @@ layout: default
 
 <aside class="sidebar">
   <header>
+    {% if page.title %}
+    {% else site.title%}
     <h1 style="display: none;">Reptile Birds - Free Tools and Top Articles on Software & Open Source</h1>
+    {% endif %}
     <div class="about">
       <div class="cover-author-image">
         <a href="{{site.baseurl}}/"><img src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}" alt="{{site.author}}"></a>
