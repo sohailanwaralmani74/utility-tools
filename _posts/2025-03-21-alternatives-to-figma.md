@@ -60,7 +60,7 @@ While Figma is known for its real-time collaboration and cloud-based approach, i
 
 If you need more freedom, flexibility, and control, open-source alternatives are worth considering. Whether it's cost savings, offline access, or complete ownership of your designs, these tools offer powerful features without restrictions. Explore the best open-source design tools today and design on your own terms.  Below are the tools that you should consider for your needs. I like penpot and thats why I am placing it at top of the list.
 
-### List Of Alternatives To Figma
+## List Of Alternatives To Figma
 
 <ul>
         <li><a href="#penpot">Penpot</a></li>
@@ -181,13 +181,13 @@ With a grid-based approach, Dotgrid makes it easy to create sharp, symmetrical, 
 
 For those who need a fast, no-frills vector editor that prioritizes clean and structured design, Dotgrid is a great alternative. It is open-source, runs offline, and is perfect for designers who prefer a direct and efficient approach to vector illustration.
 
-### Conclusion
+## Conclusion
 
 We have explored some open source alternatives to Figma. No doubt Figma is feature rich tool but the tools we explored above have also their unique strengths. Choose the tool or multiple that must fulfil your needs. If you do not want to use or give a try to all but specific, I will ask you to give a try to Penpot and Excalidraw.
 
 If you know some tools, that I have missed, tell me I will exxplore and add here. Write me if you need any open source solution for your specific business need, I will give you the information that I have, with research and analysis.
 
-### Also Check
+## Also Check
 
 [MS Office Alternatives](/alternative-to-office)
 
