@@ -7,6 +7,7 @@ categories: [Opne-source, Productivity & Office Tools]
 img: figma.png
 description: Looking for free and open source alternatives to Figma? Discover powerful design tools that rival Figma for UI/UX design, prototyping, and collaboration.
 keywords: figma alternatives, open source figma, free figma alternatives, figma open source tools, figma replacement, figma competitor open source, ui design open source, free ui design tools, prototyping tools open source, open source figma clone, figma like software free, figma vs penpot, design collaboration tool free, open source prototyping, figma open source alternative
+headline: Figma Alternatives - Free UX and UI Design Software
 ---
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" rel="nofollow" rel="noopener noreferrer"/>

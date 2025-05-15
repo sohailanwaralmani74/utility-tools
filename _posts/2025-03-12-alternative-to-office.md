@@ -9,6 +9,7 @@ description: "Discover free and open-source alternatives to Microsoft Office"
 img: OpenSourceAlternativeToProprietarySoftware.png
 description: Discover the best free alternatives to Microsoft Office. Explore open source office suites, free Microsoft Word alternatives, and full-featured replacements for MS Office.
 keywords: free office software, free office suite programs, ms word alternative, microsoft word alternatives, freeoffice 365, replacement for ms word, free microsoft word alternative, microsoft office alternative, alternative to microsoft word, word alternatives, free ms word alternative
+headline: Microsoft Office Alternative - Free And Opensource Solutions
 ---
 
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" rel="noopener noreferrer"/>
