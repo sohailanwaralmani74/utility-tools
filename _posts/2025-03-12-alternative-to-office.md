@@ -44,7 +44,7 @@ keywords: free office software, free office suite programs, ms word alternative,
 > If you are not looking for open-source alternatives for MS Office and mistakenly landed here. You can explore your topic on search engines. In this post, I have curated a list of free &open-sourcee alternatives for MS Office.
 
 
-### Why We Should Use Open Source Software
+## Why We Should Use Open Source Software
 
 Open-source software enables users to regain control through its functionality without costing them money. Open-source platforms LibreOffice and OnlyOffice provide unrestricted access because users can maintain perpetual usage alongside customization capabilities that they can contribute to the universal programming community. Users now have the chance to escape from paying inflated prices for huge software packages that simply handle document editing. Open-source solutions provide organizations with clear documentation, secure auditing capabilities and protect them from vendor control through monopoly interferences. 
 
