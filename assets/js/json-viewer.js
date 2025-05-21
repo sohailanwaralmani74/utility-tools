@@ -15,7 +15,6 @@ document.getElementById('json-file').addEventListener('change', function (event)
             const jsonText = e.target.result;
             const json = JSON.parse(jsonText);
             const pretty = JSON.stringify(json, null, 2);
-            console.log(pretty)
             document.getElementById("json-editor").textContent = pretty;
             // Set editor value
 
@@ -38,7 +37,6 @@ document.getElementById('json-file').addEventListener('change', function (event)
 });
 
 function escapeHTML(str) {
-    console.log('escape meyhod is called');
     return str.replace(/&/g, "&amp;")
               .replace(/</g, "&lt;")
               .replace(/>/g, "&gt;")
@@ -51,10 +49,6 @@ document.getElementById('json-editor').addEventListener('input', function () {
     const editorContent = document.getElementById('json-editor').value;
 
     try {
-        const fullName = file.name;
-        const baseName = fullName.replace(/\.[^/.]+$/, ""); // removes file extension
-        window.baseFileName = baseName;
-        console.log("Base file name set to:", window.baseFileName);
         const json = JSON.parse(editorContent);
 
         // Display in viewer
@@ -63,6 +57,7 @@ document.getElementById('json-editor').addEventListener('input', function () {
         // Hide upload button and show export options
         document.getElementById('exportOptions').style.display = 'flex';
     } catch (err) {
+        console.log(err);
         // Invalid JSON - optionally show error in viewer
         document.getElementById('json-tree-viewer').innerText = 'Invalid JSON';
     }

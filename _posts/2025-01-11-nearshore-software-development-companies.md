@@ -54,11 +54,21 @@ The advantages are clear: faster iteration cycles, smoother communication, and b
 
 This approach represents the future of global tech collaboration - where distance doesn't determine quality, and proximity enhances performance. Nearshore software development companies are redefining what it means to work with remote teams, creating partnerships that feel local while offering global capabilities.
 
-<br />
+<br>
+
 > I am not listing the rates of companies as they offer according to business requirements and resources alignment efforts.
+
+<br>
+
+<div id="toc"></div>
+
+<br>
 
 ## Table of Contents
 
+<nav class="toc">
+<div style="display: flex; justify-content: flex-start; gap: 20px;">
+ <div>  
   <ul>
     <li><a href="#belitsoft">Belitsoft</a></li>
     <li><a href="#bairesdev">BairesDev</a></li>
@@ -67,6 +77,10 @@ This approach represents the future of global tech collaboration - where distanc
     <li><a href="#rootstack">Rootstack</a></li>
     <li><a href="#siili-solutions">Siili Solutions</a></li>
     <li><a href="#gorilla-logic">Gorilla Logic</a></li>
+  </ul>
+ </div>
+  <div>  
+  <ul>
     <li><a href="#stx-next">STX Next</a></li>
     <li><a href="#toptal">Toptal</a></li>
     <li><a href="#epam-systems">EPAM Systems</a></li>
@@ -75,7 +89,9 @@ This approach represents the future of global tech collaboration - where distanc
     <li><a href="#infosys">Infosys</a></li>
     <li><a href="#globant">Globant</a></li>
   </ul>
-
+ </div>
+</div>
+</nav>
 
 <br />
 
@@ -124,7 +140,7 @@ This approach represents the future of global tech collaboration - where distanc
     </ul>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
 
 ## ScienceSoft
@@ -182,7 +198,7 @@ This approach represents the future of global tech collaboration - where distanc
     </ul>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
 
 ## Intellectsoft
@@ -240,7 +256,7 @@ This approach represents the future of global tech collaboration - where distanc
     </ul>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
 
 ## Rootstack
@@ -312,8 +328,9 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
+
 ## Siili Solutions
 
 <div class="row" style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; max-width: 100%;">
@@ -383,7 +400,7 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
 
 ## Gorilla Logic
@@ -455,8 +472,9 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
+
 ## STX Next
 
 <div class="row" style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; max-width: 100%;">
@@ -526,7 +544,7 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 
 <br />
 
@@ -610,9 +628,10 @@ This approach represents the future of global tech collaboration - where distanc
   </div>
 </div>
 
-[⬆️ Back to Top](#table-of-contents)
+
 
 <br />
+
 ## EPAM Systems
 
 <div class="row" style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; max-width: 100%;">
@@ -684,9 +703,10 @@ This approach represents the future of global tech collaboration - where distanc
   </div>
 </div>
 
-[⬆️ Back to Top](#table-of-contents)
+
 
 <br />
+
 ## Accenture
 
 <div class="row" style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; max-width: 100%;">
@@ -772,7 +792,7 @@ This approach represents the future of global tech collaboration - where distanc
   </div>
 </div>
 
-[⬆️ Back to Top](#table-of-contents)
+
 
 <br />
 
@@ -860,7 +880,7 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
 
 ## Infosys
@@ -947,7 +967,7 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
+
 <br />
 
 ## Globant
@@ -1029,32 +1049,53 @@ This approach represents the future of global tech collaboration - where distanc
     </div>
   </div>
 </div>
-[⬆️ Back to Top](#table-of-contents)
 
-<br />
+
+<br>
 
 ## Conclusion
 
+<br>
+
 Nearshore Software development companies arround you can help you in regard of best time compatibility, faster communication and emergency development and deployements. You can assume it as service at your finger tips or door step. Let us know if you want to add your company in the list. Also let us know If you want any further information.
+
+<br>
 
 ## Check Free Browser Based Tools
 
-[Excel CSV Converter](/excel-csv-converter)
+<br>
 
-[JSON Converter](/json-converter)
+[Excel CSV Converter](/excel-csv-converter) | [JSON Converter](/json-converter) | [XML Converter](/xml-converter) | [PDF & Image Converter](/pdf-image-converter)
 
-[XML Converter](/xml-converter)
+<br>
 
-[PDF & Image Converter](/pdf-image-converter)
+[File Compressor](/file-compressor) | [Meta Data Remover](/meta-data-remover) | [Image Redactor](/image-redactor)
 
-[File Compressor](/file-compressor)
+<br>
 
-[Meta Data Remover](/meta-data-remover)
+[Create Video from Image & Audio](/create-video-from-image-and-audio) |[Markdown Editor](/md-editor) | [Diff Checker](/diff-checker)
 
-[Image Redactor](/image-redactor)
 
-[Create Video from Image & Audio](/create-video-from-image-and-audio)
-
-[Markdown Editor](/md-editor)
-
-[Diff Checker](/diff-checker)
+<a href="#toc" class="floating-btn" title="Jump to TOC">↑</a>
+<style>
+  .floating-btn {
+  position: fixed;
+  bottom: 50px;
+  right: 20px;
+  z-index: 999;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  padding: 12px 22px;
+  border-radius: 50%;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease, transform 0.3s ease;
+}
+.floating-btn:hover {
+  background-color: #0056b3;
+  transform: scale(1.1);
+}
+</style>
