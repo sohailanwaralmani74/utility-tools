@@ -148,11 +148,6 @@ function calculateWordFrequencies(text) {
 
   //////////////////////////      Capitalization Mistakes ///////
 
- async function analyzeCapitalization(text) {
-    const mistakes = findCapitalizationMistakes(text);
-    displayMistakes(mistakes);
-}
-
 async function analyzeCapitalization(text) {
     const mistakes = findCapitalizationMistakes(text);
     displayMistakes(mistakes);
