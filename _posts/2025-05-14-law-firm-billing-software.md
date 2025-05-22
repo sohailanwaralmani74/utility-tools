@@ -7,7 +7,7 @@ categories: [Softwares, Law Firm Softwares]
 img: law-firm-billing-software.png
 description: Compare top law firm billing software with features, pricing, pros & reviews. Find the best solution to simplify your legal billing.
 keywords: law firm billing software, legal billing tools, legal software, attorney billing software, case management, time tracking, invoice software for law firms
-headline: Law Firm Billing Software - Enhanced Invoices & Bill Systems
+headline: Law Firm Billing Software - Enhanced Invoices & Billing Systems
 ---
 
 <script type="application/ld+json">
