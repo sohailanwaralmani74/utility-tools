@@ -63,7 +63,7 @@ Such products should avoid overwhelming users with unnecessary features. Instead
 
 <br>
 
-<img src="/assets/img/devops.webp" style="height: 400px; width:99rem;"/>
+<img src="/assets/img/devops.webp" style="height: 400px; width:99rem;" alt="Software product ideas"/>
 <p style="color: blue; margin: 1rem;">Photo by RealToughCandy </p>
 
 <br>
