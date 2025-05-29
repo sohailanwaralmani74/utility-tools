@@ -64,7 +64,7 @@ Such products should avoid overwhelming users with unnecessary features. Instead
 <br>
 
 <img src="/assets/img/devops.webp" style="height: 400px; width:99rem;"/>
-<p style="color: blue; margin: 1rem;">Photo by <a href="RealToughCandy.com"> RealToughCandy.com </a></p>
+<p style="color: blue; margin: 1rem;">Photo by RealToughCandy </p>
 
 <br>
 
