@@ -23,8 +23,8 @@
     const img = new Image();
     img.onload = () => {
       // Set canvas dimensions equal to image
-      canvas.width = img.width;
-      canvas.height = img.height;
+      canvas.width = 99;
+      canvas.height = 99;
 
       // Display image on canvas
       ctx.drawImage(img, 0, 0);
