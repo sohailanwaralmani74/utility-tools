@@ -190,7 +190,7 @@ This is where law firm billing software becomes a game changer. It is not just a
 <div id="clio" style="padding: 20px; margin: 1px; border: 1px solid; border-radius:10px">
     <h2 style="color: #0056b3;">Clio</h2>
 
-<p>
+ <p>
     <strong>Clio</strong> stands as one of the leading cloud-based legal practice management software solutions, offering a comprehensive suite of features tailored to meet the unique needs of law firms. Whether you are a solo practitioner or part of a large legal team, Clio helps simplify the complexities of case management, billing, and client communication, all in one place.
   </p>
 

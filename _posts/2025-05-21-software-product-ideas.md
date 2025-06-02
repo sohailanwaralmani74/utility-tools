@@ -6,7 +6,7 @@ date: 2025-05-21 19:30:00 +0800
 categories: [Product Ideas]
 render_with_liquid: false
 img: software-product-ideas.jpg
-keywords: free crm, best crm tool for small business
+keywords: Software Product Ideas, Software Ideas For Starups
 description: Discover software product ideas that target less served markets, from niche micro SaaS to IoT, fintech, education, and agriculture with high growth potential.
 headline: Software Product Ideas That Are Less Served - A lighter Note
 ---

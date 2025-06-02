@@ -1,0 +1,436 @@
+---
+layout: main
+title: Lrem Ipsum Generator - Genrate Placeholder Text
+description: Generate Lrem Ipsum (or Lorem Ipsum) placeholder text instantly. Choose the number of paragraphs and copy with one click.
+keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate placeholder text, generate dummy text
+---
+<h1 style="width: 100%; display: flex; justify-content: center;">Lrem Ipsum Generator | Lorem Ipsum Generator</h1>
+<p> <blockquote> Our Lrem Ipsum Generator helps you quickly create dummy text for your projects—just like a standard Lorem Ipsum generator. Lrem Ipsum is simply a playful variation of Lorem Ipsum, the classic placeholder text used in design and development. Customize the number of paragraphs and copy your text instantly. </blockquote></p>
+
+<style>
+  .lrem-container {
+    max-width: 99%;
+    width: 99%;
+    margin: 1rem auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1rem;
+  }
+
+  .lrem-panel {
+    flex: 1 1 12rem;
+    background: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+
+  }
+
+  .lrem-panel h2 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+  }
+
+  label {
+    display: block;
+    font-weight: 400;
+    margin-top: 1rem;
+  }
+
+  select,
+  input[type="number"] {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    margin-top: 0.3rem;
+    border-radius: 0.3rem;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  button {
+    margin-top: 1.5rem;
+    width: 100%;
+    padding: 0.7rem 0;
+    font-size: 1rem;
+    font-weight: 700;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 0.4rem;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: rgb(182, 124, 18);
+  }
+
+  /* Advanced panel compact styling */
+  .lrem-panel.advanced {
+    font-size: 0.8rem;
+  }
+
+  .advanced-options-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem 1rem;
+  }
+
+  .advanced-options-grid label {
+    margin-top: 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .advanced-options-grid select {
+    font-size: 0.8rem;
+    padding: 0.3rem;
+  }
+
+  /* Responsive stack on small screens */
+  @media (max-width: 700px) {
+    .lrem-container {
+      flex-direction: column;
+    }
+
+    .advanced-options-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .checkbox-wrapper {
+    margin-top: 1.5rem;
+  }
+
+  .checkbox-wrapper label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+    .output-container {
+    min-width: 99%;
+    margin: 2rem auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+
+  .output-panel {
+    flex: 1 1 45%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .output-panel label {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+  }
+
+  .output-panel textarea {
+    width: 100%;
+    min-height: 17rem;
+    max-height: 17rem;
+    padding: 1.8rem;
+    font-size: 0.9rem;
+    font-family: monospace;
+    border-radius: 0.4rem;
+    border: 1px solid #ccc;
+    resize: none;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+
+  }
+
+  @media (max-width: 700px) {
+    .output-panel {
+      flex: 1 1 100%;
+    }
+  }
+
+
+  .export-label:hover {
+    color: orange;
+    text-decoration: underline;
+  }
+
+   .export-label {
+    color: rgb(201, 143, 35);
+  }
+</style>
+
+<div class="lrem-container">
+  <!-- Main Options Panel -->
+  <div class="lrem-panel">
+    <h2>Lorem Ipsum Generator</h2>
+
+    <label for="textSource">Text Source</label>
+    <select id="textSource">
+      <option value="lorem">Lorem Ipsum</option>
+      <option value="cicero">Cicero</option>
+      <option value="cicero_en">Cicero (en)</option>
+      <option value="europan">Li Europan lingues</option>
+      <option value="europan_en">Li Europan lingues (en)</option>
+      <option value="far">Far far away</option>
+      <option value="werther">Werther</option>
+      <option value="kafka">Kafka</option>
+      <option value="pangram">Pangram</option>
+      <option value="az">a-z A-Z 123</option>
+    </select>
+
+    <label for="paragraphCount">Paragraphs</label>
+    <select id="paragraphCount">
+      <option value="1">1</option>
+      <option value="2">2</option>
+      <option value="3" selected>3</option>
+      <option value="4">4</option>
+      <option value="5">5</option>
+      <option value="6">6</option>
+      <option value="7">7</option>
+      <option value="8">8</option>
+      <option value="9">9</option>
+      <option value="10">10</option>
+    </select>
+
+    <label for="wordCount">Words per Paragraph</label>
+    <input type="number" id="wordCount" value="30" min="5" max="100" />
+
+    <div class="checkbox-wrapper">
+      <label>
+        <input type="checkbox" id="wrapParagraphs" />
+        Wrap with <code>&lt;p&gt;</code> tags
+      </label>
+    </div>
+
+    <button id="generateBtn">Generate</button>
+  </div>
+
+  <!-- Advanced CSS Panel -->
+  <div class="lrem-panel advanced">
+    <h2>Advanced CSS Options</h2>
+    <div class="advanced-options-grid">
+      <div>
+        <label for="fontFamily">Font Family</label>
+        <select id="fontFamily">
+          <option>Verdana, Geneva, sans-serif</option>
+          <option>Arial, sans-serif</option>
+          <option>Georgia, serif</option>
+          <option>'Courier New', monospace</option>
+          <option>'Trebuchet MS', sans-serif</option>
+          <option>'Lucida Console', monospace</option>
+          <option>'Comic Sans MS', cursive</option>
+          <option>'Times New Roman', serif</option>
+          <option>'Palatino Linotype', serif</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="fontStyle">Font Style</label>
+        <select id="fontStyle">
+          <option>normal</option>
+          <option>italic</option>
+          <option>oblique</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="fontWeight">Font Weight</label>
+        <select id="fontWeight">
+          <option>normal</option>
+          <option>bold</option>
+          <option>lighter</option>
+          <option>bolder</option>
+          <option>100</option>
+          <option>200</option>
+          <option>300</option>
+          <option>400</option>
+          <option>500</option>
+          <option>600</option>
+          <option>700</option>
+          <option>800</option>
+          <option>900</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="fontSize">Font Size</label>
+        <select id="fontSize">
+          <option>0.8rem</option>
+          <option>1rem</option>
+          <option>1.2rem</option>
+          <option>1.5rem</option>
+          <option>2rem</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="letterSpacing">Letter Spacing</label>
+        <select id="letterSpacing">
+          <option>normal</option>
+          <option>0.02rem</option>
+          <option>0.05rem</option>
+          <option>0.1rem</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="lineHeight">Line Height</label>
+        <select id="lineHeight">
+          <option>normal</option>
+          <option>1</option>
+          <option>1.2</option>
+          <option>1.5</option>
+          <option>2</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="textTransform">Text Transform</label>
+        <select id="textTransform">
+          <option>none</option>
+          <option>uppercase</option>
+          <option>lowercase</option>
+          <option>capitalize</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="textDecoration">Text Decoration</label>
+        <select id="textDecoration">
+          <option>none</option>
+          <option>underline</option>
+          <option>line-through</option>
+          <option>overline</option>
+        </select>
+      </div>
+
+      <div>
+        <label for="textAlign">Text Align</label>
+        <select id="textAlign">
+          <option>left</option>
+          <option>center</option>
+          <option>right</option>
+          <option>justify</option>
+        </select>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="output-container">
+  <div class="output-panel">
+    <label for="lremOutput">Generated Lorem Ipsum Text</label>
+    <textarea id="lremOutput" placeholder="Generated text will appear here..." readonly></textarea>
+    <div style="display: flex; flex-direction: row;  gap: 0.1rem; justify-content: flex-end; width: 99%; ">
+        <label id="copyText" class="export-label">Copy</label>
+        <label id="eportTxt" class="export-label">Export .txt</label>
+        <label id="eportHtml" class="export-label">Export .html</label>
+    </div>
+  </div>
+
+  <div class="output-panel">
+    <label for="cssOutput">Generated CSS </label>
+    <textarea id="cssOutput" placeholder="css for paragraphs" readonly></textarea>
+    <div style="display: flex; flex-direction: row; gap: 0.1rem; justify-content: flex-end; width: 99%; ">
+        <label id="copyCSS" class="export-label">Copy</label>
+        <label id="exportCSSText" class="export-label">Export .txt</label>
+        <label id="exportCSSFile" class="export-label">Export .css</label>
+    </div>
+  </div>
+</div>
+
+<script src="/assets/js/ipsum.js"></script>
+
+<div style="margin-top: 4rem;">
+<blockquote>I intentionaly used Lrem Ipsum instead of lorem ipsum due to keywords difficulty. Use and reach me for suggestion or any other feature you want to see here.</blockquote>
+
+<br>
+<h2>What Our Lrem Ipsum Generator Does</h2>
+
+<br>
+<h3>Generates Classic Lorem Ipsum</h3>
+<p>The standard <strong>Lorem Ipsum Generator</strong> provides designers and developers with reliable, readable filler text that fits into any layout without distraction.</p>
+
+<br>
+<h3>Generates Kafka-Inspired Text</h3>
+<p>Need something more expressive? The <strong>Lrem Ipsum Generator</strong> can create thought-provoking filler content based on Kafka’s philosophical prose—perfect for unique mockups or concept designs.</p>
+
+<br>
+<h3>Supports a Wide Range of Text Sources</h3>
+<p>Choose from Cicero, Werther, Pangrams, A-Z numeric sequences, Europan texts, Far Far Away tales, and more. Our dummy text generator adapts to any tone or structure requirement.</p>
+
+<br>
+<h3>Fully Customizable Paragraph Settings</h3>
+<p>Control the number of paragraphs, sentence count, word density, and paragraph tags. Whether you're building UIs or documentation, your filler content will always match the format.</p>
+
+<br>
+<h3>CSS-Ready Output for Developers</h3>
+<p>The generator creates custom CSS for typography including font family, weight, spacing, alignment, and more—instantly exportable for direct integration into your stylesheets.</p>
+
+<br>
+<h2>How to Use Our Lrem Ipsum Generator</h2>
+
+<br>
+<h3>Select the Content Type</h3>
+<p>Choose your preferred source material—standard Lorem Ipsum, Kafka, or other creative text sets.</p>
+
+<br>
+<h3>Define Paragraph and Word Count</h3>
+<p>Use the easy selectors to choose how many paragraphs and how many words per paragraph you want.</p>
+
+<br>
+<h3>Enable HTML Paragraph Tags</h3>
+<p>Turn on <code>&lt;p&gt;</code> wrapping if you want output ready for HTML use. Otherwise, get clean, raw text.</p>
+
+<br>
+<h3>Generate, Copy or Export</h3>
+<p>Click "Generate" to see your content. Then copy it to clipboard or export as <strong>.txt</strong>, <strong>.html</strong>, or <strong>.css</strong> formats—ideal for prototyping or live projects.</p>
+
+<br>
+<h3>Customize Styling On-the-Fly</h3>
+<p>Apply font settings and spacing visually, and let the tool generate corresponding CSS automatically.</p>
+
+<br>
+<h2>Lrem Ipsum Generator is Totally Offline</h2>
+
+<br>
+<h3>No Server, No Tracking</h3>
+<p>Everything runs 100% in your browser. Your data never leaves your device. No tracking, no uploads, no worries.</p>
+
+<br>
+<h3>Works Without Internet</h3>
+<p>Once loaded, the app can function without any internet connection. It’s ideal for on-the-go or secure environments.</p>
+
+<br>
+<h3>Safe for Teams and Clients</h3>
+<p>Share the generator or use it in your agency with confidence. It’s lightweight, open, and privacy-focused.</p>
+
+<br>
+<h2>Frequently Asked Questions (FAQs)</h2>
+
+<br>
+<h3>What is a Lrem Ipsum Generator?</h3>
+<p>It’s an advanced dummy text generator that offers more than just Lorem Ipsum—letting you choose your content style, layout, and export format.</p>
+
+<br>
+<h3>How is this different from regular Lorem Ipsum tools?</h3>
+<p>It allows full customization, more content sources, live CSS styling, and complete offline functionality—something traditional generators don’t offer.</p>
+
+<br>
+<h3>Can I export my content?</h3>
+<p>Yes! Export your dummy text as .txt, HTML, or styled CSS with one click—optimized for rapid deployment.</p>
+
+<br>
+<h3>Is Lrem Ipsum Generator free to use?</h3>
+<p>Absolutely. It’s free for everyone—designers, developers, educators, and hobbyists.</p>
+
+<br>
+<h3>Who should use this tool?</h3>
+<p>UI/UX designers, frontend developers, students, and anyone who needs high-quality placeholder text with styling support.</p>
+</div>
