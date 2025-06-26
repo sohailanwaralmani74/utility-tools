@@ -7,7 +7,7 @@ categories: [Product Ideas]
 render_with_liquid: false
 img: software-product-ideas.jpg
 keywords: Software Product Ideas, Software Ideas For Starups
-description: Discover software product ideas that target less served markets, from niche micro SaaS to IoT, fintech, education, and agriculture with high growth potential.
+description: Discover software product ideas that target less served markets, from niche micro SaaS to IoT, fintech, education, and agriculture etc.
 headline: Software Product Ideas That Are Less Served - A lighter Note
 ---
 

@@ -46,7 +46,7 @@ headline: Dropbox Alternatives - Secure, Reliable, and Feature-Rich Cloud Storag
   hr {border: none; border-top: 1px solid #ddd; margin: 40px 0;}
 </style>
 
-<h1>Alternatives to Dropbox | Best Cloud Storage Solutions</h1>
+<h2>Alternatives to Dropbox | Best Cloud Storage Solutions</h2>
 
 <p>Dropbox has been one of the pioneers in cloud storage and file sharing for years. However, as needs evolve and privacy, cost, and features become increasingly important, many users and businesses look for alternatives that better suit their specific requirements. Whether you want more control over your data, better collaboration tools, improved security, or just a cost-effective solution, the market offers a wide range of stable and reliable Dropbox alternatives.</p>
 
