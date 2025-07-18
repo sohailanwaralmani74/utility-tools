@@ -37,15 +37,82 @@ function previewPDF(file) {
 }
 
 function previewImages(files) {
-  const imageHTML = files
-    .map(file => {
-      const url = URL.createObjectURL(file);
-      return `<img src="${url}" style="max-width: 200px; margin: 10px; border: 1px solid #ccc;" />`;
-    })
-    .join("");
+  // Clear previous content but maintain container styling
+  const container = document.getElementById('uploadedFiles');
+  container.innerHTML = '';
+  container.style.border = "2px solid #ccc";
+  container.style.padding = "10px";
+  container.style.borderRadius = "5px";
+  container.style.display = "flex";
+  container.style.flexWrap = "wrap";
+  container.style.gap = "10px";
+  container.style.minHeight = "100px";
+  container.style.alignItems = "flex-start";
 
-  document.getElementById('uploadedFiles').innerHTML = imageHTML;
-  document.getElementById('uploadedFiles').style.border="2px solid";
+  // Create document fragment for better performance
+  const fragment = document.createDocumentFragment();
+
+  files.forEach(file => {
+    const url = URL.createObjectURL(file);
+    
+    // Create image container div
+    const imgContainer = document.createElement('div');
+    imgContainer.style.position = 'relative';
+    imgContainer.style.display = 'inline-block';
+    imgContainer.style.margin = '5px';
+    
+    // Create image element
+    const img = document.createElement('img');
+    img.src = url;
+    img.style.maxWidth = '200px';
+    img.style.maxHeight = '200px';
+    img.style.border = '1px solid #ddd';
+    img.style.borderRadius = '3px';
+    img.style.objectFit = 'contain';
+    img.loading = 'lazy'; // Lazy loading for better performance
+    
+    // Create filename label
+    const fileName = document.createElement('div');
+    fileName.textContent = file.name.length > 20 
+      ? file.name.substring(0, 17) + '...' 
+      : file.name;
+    fileName.style.fontSize = '12px';
+    fileName.style.textAlign = 'center';
+    fileName.style.marginTop = '5px';
+    fileName.style.color = '#555';
+    fileName.style.width = '200px';
+    fileName.style.overflow = 'hidden';
+    fileName.style.textOverflow = 'ellipsis';
+    fileName.style.whiteSpace = 'nowrap';
+    
+    // Create file size indicator
+    const fileSize = document.createElement('div');
+    const sizeInMB = (file.size / (1024 * 1024)).toFixed(2);
+    fileSize.textContent = `${sizeInMB} MB`;
+    fileSize.style.fontSize = '11px';
+    fileSize.style.color = '#888';
+    fileSize.style.textAlign = 'center';
+    
+    // Assemble the elements
+    imgContainer.appendChild(img);
+    imgContainer.appendChild(fileName);
+    imgContainer.appendChild(fileSize);
+    fragment.appendChild(imgContainer);
+    
+    // Clean up object URLs when images are loaded
+    img.onload = function() {
+      URL.revokeObjectURL(url);
+    };
+  });
+  
+  // Append all at once for better performance
+  container.appendChild(fragment);
+  
+  // Show message if no images
+  if (files.length === 0) {
+    container.innerHTML = '<p style="color:#666; width:100%; text-align:center;">No images to display</p>';
+    container.style.border = "none";
+  }
 }
 
 // Method to convert PDF to JPG using PDF.js

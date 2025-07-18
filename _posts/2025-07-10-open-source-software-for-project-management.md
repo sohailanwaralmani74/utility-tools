@@ -2,7 +2,7 @@
 layout: post
 title: Explore The Open Source Software For project Management
 author: sohail
-date: 2025-07-10 23:10:00 +0800
+date: 2025-07-19 23:10:00 +0800
 categories: [Softwares, Productivity Softwares]
 img: open-source-software-for-project-management.webp
 description: Are You Looking For Open Source Software For project Management? Explore Guide On The Tools You Need That Best Fit Your Needs.

@@ -6,36 +6,102 @@ keyword: heic to jpg, Convert heic to jpg, heic to jpg converter, heic to jpg co
 ---
 
 
-<script src="/assets/js/FileSaver.min.js"></script>
-
-<!-- Tool section -->
-<section class="tool-section container">
+<!-- HEIC/HEIF Image Uploader -->
+<section class="heic-uploader container">
+    <!-- Upload Section -->
     <div class="upload-section">
-        <label for="imageUpload" class="upload-label" style="margin-left: 1rem;">Upload Image (s)</label>
-        <input type="file" id="imageUpload" accept=".heic" multiple />
+        <label for="heicUpload" class="upload-btn">
+            📤 Upload HEIC/HEIF Images
+            <input type="file" id="heicUpload" accept=".heic,.heif,image/heic,image/heif" multiple />
+        </label>
+        <div id="fileCounter" class="file-counter">No files selected</div>
     </div>
 
-    <div id="loader" style="display:none;">⏳ Loading files...</div>
-    <div style="width: 100%; justify-content: center; margin-top: 1rem; position: sticky; display:none;"
-        id="exportOptions">
-        <label style="font-size: 1.2rem; margin-top: -5px;">Export To → → </label>
-        <label class="export-label" onclick="exportToImage('jpg')"><u>JPG</u></label>
-        <label class="export-label" onclick="exportToImage('jpeg')"><u>JPEG</u></label>
-        <label class="export-label" onclick="exportToImage('png')"><u>PNG</u></label>
-        <label class="export-label" onclick="exportToImage('webp')"><u>WebP</u></label>
-        <label class="export-label" onclick="exportToImage('avif')"><u>AVIF</u></label>
-        <label class="export-label" onclick="exportToImage('tiff')"><u>TIFF</u></label>
-        <label class="export-label" onclick="exportToImage('tif')"><u>TIF</u></label>
-        <label class="export-label" onclick="exportToImage('heif')"><u>HEIF</u></label>
-        <label class="export-label" onclick="exportToImage('svg')"><u>SVG</u></label>
-        <label class="export-label" onclick="exportToImage('eps')"><u>EPS</u></label>
+    <!-- Preview Section -->
+    <div id="heicPreview" class="preview-container">
+        <div class="preview-grid" id="previewGrid"></div>
     </div>
 </section>
 
+<!-- Styles -->
+<style>
+    .heic-uploader {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+        font-family: Arial, sans-serif;
+    }
     
-  <div id="uploadedFiles" style="margin-top: 2px; max-height: 85vh; overflow: hidden; width: 100%;"></div>
-
-<script src="/assets/js/image-pdf.js"></script>
+    .upload-btn {
+        display: inline-block;
+        padding: 12px 24px;
+        background: #4285f4;
+        color: white;
+        border-radius: 4px;
+        cursor: pointer;
+        font-weight: bold;
+        text-align: center;
+        transition: background 0.3s;
+    }
+    
+    .upload-btn:hover {
+        background: #3367d6;
+    }
+    
+    .upload-btn input[type="file"] {
+        display: none;
+    }
+    
+    .file-counter {
+        margin-top: 8px;
+        color: #666;
+        font-size: 14px;
+    }
+    
+    .preview-container {
+        margin-top: 20px;
+        border: 1px dashed #ddd;
+        border-radius: 4px;
+        min-height: 200px;
+        padding: 10px;
+    }
+    
+    .preview-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 15px;
+    }
+    
+    .preview-item {
+        position: relative;
+        border: 1px solid #eee;
+        border-radius: 4px;
+        overflow: hidden;
+    }
+    
+    .preview-image {
+        width: 100%;
+        height: 180px;
+        object-fit: contain;
+        background: #f9f9f9;
+    }
+    
+    .preview-filename {
+        padding: 8px;
+        font-size: 12px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+        background: #f5f5f5;
+    }
+    
+    #loader {
+        display: none;
+        margin-top: 10px;
+        color: #666;
+    }
+</style>
+<!-- <script src="/assets/js/heic-to-jpg.js"></script> -->
 <div class="column" style="margin-top: 5rem;">
 
 <section>
@@ -210,3 +276,66 @@ keyword: heic to jpg, Convert heic to jpg, heic to jpg converter, heic to jpg co
         
         <p>Don't let HEIC compatibility issues limit your photo sharing. Convert HEIC to JPG quickly, securely, and without quality loss using our specialized tool. Try our HEIC to JPG converter today and experience the difference!</p>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/heic2any@0.0.3/dist/heic2any.min.js"></script>
+<script>
+    // HEIC Preview Functionality
+    document.getElementById('heicUpload').addEventListener('change', async function(e) {
+        const files = Array.from(e.target.files);
+        const previewGrid = document.getElementById('previewGrid');
+        const fileCounter = document.getElementById('fileCounter');
+        
+        // Clear previous previews
+        previewGrid.innerHTML = '';
+        
+        if (files.length === 0) {
+            fileCounter.textContent = 'No files selected';
+            return;
+        }
+        
+        fileCounter.textContent = `${files.length} HEIC/HEIF file(s) selected`;
+        
+        for (const file of files) {
+            // Validate file type
+            if (!file.type.match(/heic|heif/) && !file.name.match(/\.(heic|heif)$/i)) {
+                console.warn(`Skipped non-HEIC file: ${file.name}`);
+                continue;
+            }
+            
+            // Create preview item
+            const previewItem = document.createElement('div');
+            previewItem.className = 'preview-item';
+            
+            const img = document.createElement('img');
+            img.className = 'preview-image';
+            img.alt = `Preview of ${file.name}`;
+            
+            const fileName = document.createElement('div');
+            fileName.className = 'preview-filename';
+            fileName.textContent = file.name;
+            
+            previewItem.appendChild(img);
+            previewItem.appendChild(fileName);
+            previewGrid.appendChild(previewItem);
+            
+            // Convert and display HEIC
+            try {
+                const convertedBlob = await heic2any({
+                    blob: file,
+                    toType: 'image/jpeg',
+                    quality: 0.8
+                });
+                
+                const url = URL.createObjectURL(convertedBlob);
+                img.src = url;
+                
+                // Clean up memory when image loads
+                img.onload = () => URL.revokeObjectURL(url);
+            } catch (error) {
+                console.error(`Failed to convert ${file.name}:`, error);
+                img.src = 'data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="%23ccc"><text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="10">Failed to load</text></svg>';
+                fileName.style.color = 'red';
+            }
+        }
+    });
+</script>
