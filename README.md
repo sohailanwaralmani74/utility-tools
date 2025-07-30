@@ -67,9 +67,9 @@ Reptile Birds is a collection of **100% free**, **no‑signup**, **browser‑b
     Compare text or code side‑by‑side, highlight changes.  
     **Keywords:** online diff tool, text comparison, code diff checker  
 
-13. ### [Lorem Ipsum Generator](https://reptilebirds.com/lrem-ipsum-generator)  
-    Generate custom‑length lorem ipsum, placeholder text.  
-    **Keywords:** lorem ipsum generator, placeholder text tool  
+13. ### [Lrem Ipsum Generator](https://reptilebirds.com/lrem-ipsum-generator)  
+    Generate custom‑length lrem ipsum, placeholder text, and dummy text.  
+    **Keywords:** lrem ipsum, lrem ipsum generator, ipsum lorem generator, generate placeholder text, generate dummy text, lorem ipsum
 
 ---
 
