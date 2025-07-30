@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!--
   README.md for Reptile Birds
   SEO‑optimized: title, description, headings, keywords, schema
