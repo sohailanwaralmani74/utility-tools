@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Online Utility Tools For Small Tasks
-description: Converter and metadata scrubber, Along with png to jpeg, wav to mp3, Recet Image & Much more;
+title: Image Conversion Tools - Browser Based Converters
+description: Convert Image to any formats like jpg to png, heic to png, png to webp, jpeg to avif jpg to pdf and other vice versa conversions.;
 ---
 
 <section style="width: 100%;">
