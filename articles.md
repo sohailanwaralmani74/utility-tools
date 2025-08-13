@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Blog Posts
+title: Blog Posts And Articles On Software
 description: Article About Software, Open source alternative to proprietry Software, Nearshore software development companies and So on All about Technology.
 ---
 
