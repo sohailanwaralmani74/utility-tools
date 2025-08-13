@@ -80,7 +80,6 @@ Project management is not just a profession but an art. When you pursue your pas
 
   <h2 id="taiga">Taiga</h2>
   <p>Taiga is a free open source software for project management. The tool offers cross functional agile teams collaboration. Taiga is a feature rich open source software for project management. 
-  
   </p>
   <h2 id="redmine">Redmine</h2>
   <h2 id="ganttproject">GanttProject</h2>

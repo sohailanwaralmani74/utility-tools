@@ -249,28 +249,77 @@
     }
     </script>
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MENT60BBXX"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
+ <script>
+(function() {
+  const isMobile = window.innerWidth < 768;
 
-    gtag('config', 'G-MENT60BBXX');
-  </script>
-  <!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-  (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-  m[i].l=1*new Date();
-  for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
-  k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-  (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+  // Google Analytics Loader
+  const loadGA = () => {
+    if (window.__ga_loaded__) return;
+    window.__ga_loaded__ = true;
 
-  ym(102054421, "init", {
-       clickmap:true,
-       trackLinks:true,
-       accurateTrackBounce:true
-  });
+    const gaScript = document.createElement('script');
+    gaScript.src = 'https://www.googletagmanager.com/gtag/js?id=G-MENT60BBXX';
+    gaScript.async = true;
+    document.head.appendChild(gaScript);
+
+    gaScript.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', 'G-MENT60BBXX');
+    };
+  };
+
+  // Yandex Metrika Loader
+  const loadYM = () => {
+    if (window.__ym_loaded__) return;
+    window.__ym_loaded__ = true;
+
+    const ymScript = document.createElement('script');
+    ymScript.src = 'https://mc.yandex.ru/metrika/tag.js';
+    ymScript.async = true;
+    document.head.appendChild(ymScript);
+
+    ymScript.onload = function () {
+      window.ym = window.ym || function() {
+        (window.ym.a = window.ym.a || []).push(arguments);
+      };
+      ym(102054421, 'init', {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true
+      });
+    };
+  };
+
+  // Load all analytics after user interacts or browser is idle
+  const loadAll = () => {
+    loadGA();
+    loadYM();
+  };
+
+  if (isMobile) {
+    // Wait for user interaction on mobile
+    ['scroll', 'click', 'touchstart'].forEach(evt => {
+      window.addEventListener(evt, loadAll, { once: true, passive: true });
+    });
+
+    // Optional fallback: load anyway after 8s
+    setTimeout(loadAll, 8000);
+  } else {
+    // Wait for idle time on desktop
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(loadAll);
+    } else {
+      setTimeout(loadAll, 2000);
+    }
+  }
+})();
 </script>
+
+
 <noscript><div><img src="https://mc.yandex.ru/watch/102054421" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 </head>

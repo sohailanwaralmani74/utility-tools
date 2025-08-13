@@ -30,20 +30,18 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
-    <!-- jsPDF CDN -->
-    <!-- Include jsPDF -->
+<!-- jsPDF CDN -->
+<!-- Include jsPDF -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 
-    <!-- Include jsPDF AutoTable Plugin -->
+<!-- Include jsPDF AutoTable Plugin -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
 
-<!-- Tool section -->
 <section class="tool-section container">
     <div class="upload-section">
         <label for="json-file" class="upload-label">Upload JSON File</label>
         <input type="file" id="json-file" accept=".json">
     </div>
-
     <div id="loader" style="display:none;">⏳ Loading file...</div>
     <div style="width: 99%; justify-content: flex-end; margin-top: 1rem; position: sticky; display:none;"
         id="exportOptions">
@@ -58,9 +56,7 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
         <label class="export-label" onclick="exportToSQL()"><u>SQL</u></label>
     </div>
 </section>
-
-
-    <div id="json-tool-wrapper">
+<div id="json-tool-wrapper">
         <div id="json-editor-container">
             <textarea id="json-editor" placeholder="Paste your JSON here... or upload file"></textarea>
         </div>
@@ -69,7 +65,7 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
         </div>
     </div>
 
-<div style="margin-top: 4rem;">
+<div style="margin: 4rem;">
   <h1>JSON Converter Tool: Transform Your Data into Any Format</h1>
 
   <p>Welcome to our <strong>all-in-one JSON converter tool</strong>! Right here, you can upload a JSON file and convert it to CSV, XLSX, XLS, TXT, HTML, PDF, XML, or SQL—all on this single page, <strong>even offline</strong>. Whether you’re a developer streamlining API data, an analyst preparing reports, or a business professional sharing data, our browser-based tool ensures fast, secure conversions without sending your data to any server. Explore each conversion option below and start transforming your data with ease!</p>
@@ -181,13 +177,3 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
 </div>
 
 <script src="/assets/js/json-viewer.js"></script>
-
-
-<div class="page-footer">
-    <div class="page-share">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-    </div>
-  </div>
-  

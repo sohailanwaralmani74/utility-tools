@@ -22,7 +22,6 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
             <i class="fas fa-trash"></i> Clear
         </button>
     </div>
-
     <div class="diff-content">
         <div class="diff-pane">
             <div class="diff-pane-header">
@@ -30,8 +29,7 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
                 <span class="char-count">0 chars</span>
             </div>
             <textarea class="diff-input" id="input-a" placeholder="Paste text/JSON/CSV here..."></textarea>
-        </div>
-        
+        </div>    
         <div class="diff-pane">
             <div class="diff-pane-header">
                 <span>Modified</span>
@@ -40,21 +38,13 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
             <textarea class="diff-input" id="input-b" placeholder="Paste modified version here..."></textarea>
         </div>
     </div>
-
     <div class="diff-results" id="diff-results"></div>
 </div>
 
 <script src="/assets/js/diff-checker.js"></script>
 
-        <div class="page-footer">
-          <div class="page-share">
-            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-          </div>
-        </div>
 
-<section>
+<section style="margin: 4rem;">
   <h1>Difference Between Files or Texts — Free Diff Checker</h1>
   <p>
     Need to find the <strong>difference between</strong> two blocks of text or two files? Our <strong>diff checker</strong> is the perfect solution. Whether you're comparing code snippets, documents, configuration files, or just any plain text, our tool makes it fast and easy to highlight changes line-by-line and word-by-word. No installations, no uploads — everything works right in your browser.
@@ -128,8 +118,8 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
 <style>
     .diff-container {
         font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-        min-width: 100%;
-        margin: 0 auto;
+        width: 98%;
+        margin: 1rem;
         padding: 15px;
         background: #fff;
         border-radius: 8px;
@@ -153,6 +143,7 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
         display: inline-flex;
         align-items: center;
         gap: 6px;
+        max-width: 8rem;
     }
     
     .tool-button:hover {
@@ -206,6 +197,7 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
         padding: 15px;
         background: #f8f9fa;
         min-height: 100px;
+        max-height: 27rem;
     }
     
     /* Diff highlighting */

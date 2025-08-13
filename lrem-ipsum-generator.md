@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Lrem Ipsum Generator - Genrate Placeholder Text
+title: Lrem Ipsum Generator - Generate Placeholder Text
 description: Generate Lrem Ipsum (or Lorem Ipsum) placeholder text instantly. Choose the number of paragraphs and copy with one click.
 keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate placeholder text, generate dummy text
 ---
@@ -99,7 +99,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
 </script>
 
 <h1 style="width: 100%; display: flex; justify-content: center;">Lrem Ipsum Generator | Lorem Ipsum Generator</h1>
-<p> <blockquote> Our Lrem Ipsum Generator helps you quickly create dummy text for your projects—just like a standard Lorem Ipsum generator. Lrem Ipsum is simply a playful variation of Lorem Ipsum, the classic placeholder text used in design and development. Customize the number of paragraphs and copy your text instantly. </blockquote></p>
+<blockquote style="padding-left: 4rem; padding-right: 4rem;"> Our Lrem Ipsum Generator helps you quickly create dummy text for your projects—just like a standard Lorem Ipsum generator. Lrem Ipsum is simply a playful variation of Lorem Ipsum, the classic placeholder text used in design and development. Customize the number of paragraphs and copy your text instantly. </blockquote>
 
 <style>
   .lrem-container {
@@ -202,12 +202,11 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
     font-weight: 600;
     font-size: 0.9rem;
     display: flex;
-    align-items: center;
-    gap: 0.4rem;
+    align-items: start;
+    width: 100%;
   }
-    .output-container {
+  .output-container {
     min-width: 99%;
-    margin: 2rem auto;
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
@@ -217,6 +216,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
     flex: 1 1 45%;
     display: flex;
     flex-direction: column;
+    margin: 1rem;
   }
 
   .output-panel label {
@@ -252,10 +252,11 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   .export-label:hover {
     color: orange;
     text-decoration: underline;
+    color: rgb(201, 143, 35);
   }
 
    .export-label {
-    color: rgb(201, 143, 35);
+    color: black;
   }
 </style>
 
@@ -263,7 +264,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   <!-- Main Options Panel -->
   <div class="lrem-panel">
     <h2>Lorem Ipsum Generator</h2>
-
     <label for="textSource">Text Source</label>
     <select id="textSource">
       <option value="lorem">Lorem Ipsum</option>
@@ -277,7 +277,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
       <option value="pangram">Pangram</option>
       <option value="az">a-z A-Z 123</option>
     </select>
-
     <label for="paragraphCount">Paragraphs</label>
     <select id="paragraphCount">
       <option value="1">1</option>
@@ -291,17 +290,14 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
       <option value="9">9</option>
       <option value="10">10</option>
     </select>
-
     <label for="wordCount">Words per Paragraph</label>
     <input type="number" id="wordCount" value="30" min="5" max="100" />
-
-    <div class="checkbox-wrapper">
-      <label>
-        <input type="checkbox" id="wrapParagraphs" />
-        Wrap with <code>&lt;p&gt;</code> tags
-      </label>
+    <div >
+      <label>    
+       Wrap with <code>&lt;p&gt;</code> tags
+       </label>
+       <input type="checkbox" id="wrapParagraphs" style="width: 10%"/>   
     </div>
-
     <button id="generateBtn">Generate</button>
   </div>
 
@@ -323,7 +319,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>'Palatino Linotype', serif</option>
         </select>
       </div>
-
       <div>
         <label for="fontStyle">Font Style</label>
         <select id="fontStyle">
@@ -332,7 +327,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>oblique</option>
         </select>
       </div>
-
       <div>
         <label for="fontWeight">Font Weight</label>
         <select id="fontWeight">
@@ -351,7 +345,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>900</option>
         </select>
       </div>
-
       <div>
         <label for="fontSize">Font Size</label>
         <select id="fontSize">
@@ -362,7 +355,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>2rem</option>
         </select>
       </div>
-
       <div>
         <label for="letterSpacing">Letter Spacing</label>
         <select id="letterSpacing">
@@ -372,7 +364,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>0.1rem</option>
         </select>
       </div>
-
       <div>
         <label for="lineHeight">Line Height</label>
         <select id="lineHeight">
@@ -383,7 +374,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>2</option>
         </select>
       </div>
-
       <div>
         <label for="textTransform">Text Transform</label>
         <select id="textTransform">
@@ -393,7 +383,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>capitalize</option>
         </select>
       </div>
-
       <div>
         <label for="textDecoration">Text Decoration</label>
         <select id="textDecoration">
@@ -403,7 +392,6 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
           <option>overline</option>
         </select>
       </div>
-
       <div>
         <label for="textAlign">Text Align</label>
         <select id="textAlign">
@@ -441,15 +429,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
 
 <script src="/assets/js/ipsum.js"></script>
 
-<div class="page-footer">
-    <div class="page-share">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-    </div>
-  </div>
-
-  <section>
+  <section style="padding: 4rem;">
   <p>
     Need filler content for your web design, wireframes, or editorial mockups? Our <strong>Lrem Ipsum Generator</strong> helps you generate clean, readable, and customizable dummy text in just one click. Whether you're prototyping a landing page or designing a UI, our tool provides reliable placeholder paragraphs, words, or lists that simulate real content without the distraction of meaning.
   </p>

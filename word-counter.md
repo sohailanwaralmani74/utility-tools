@@ -1,14 +1,13 @@
 ---
 layout: main
 title: Word Counter - Analyse Your Text For Accuracy.
-description: Free online word counter that counts words, characters, sentences & more. Easily check word count in Word or text, with accurate writing time stats.
+description: Free online word counter that counts words, characters, sentences & more. Easily check word count in Wordor text, with accurate writing time stats.
 keywords: word counter, word count counter, count the words in word, count word count, words count in word
 ---
 <script src="/assets/js/jspdf.umd.min.js"></script>
 
 <section class="tool-section container">
     <div style="display: flex; justify-content: end;">
-
         <label style="font-size: 1rem; margin-top: 1px; color: orange;">Export To → → </label>
         <label class="export-label" onclick="exportToTXT()"><u>TXT</u></label>
         <label class="export-label" onclick="exportToWord()"><u>Word</u></label>
@@ -31,7 +30,7 @@ keywords: word counter, word count counter, count the words in word, count word 
     </div>
     <div style="flex: 1; display: flex; flex-direction: row; margin-bottom: 1rem; ">
 
-        <textarea id="textInput"  style="
+        <textarea id="textInput" style="
         flex: 1;
         resize: none;
         font-size: 1rem;
@@ -60,7 +59,6 @@ keywords: word counter, word count counter, count the words in word, count word 
                 <h3 class="stat-heading green-text">Sentences</h3>
                 <h3 class="stat-heading green-text">Unique Words</h3>
             </div>
-
             <div class="stats-values">
                 <span id="wordCount" class="stat-value">0</span>
                 <span id="charCount" class="stat-value">0</span>
@@ -73,7 +71,6 @@ keywords: word counter, word count counter, count the words in word, count word 
                 <h3 class="stat-heading green-text">Spaces</h3>
                 <h3 class="stat-heading green-text">Page Estimate</h3>
             </div>
-
             <div class="stats-values">
                 <span id="paragraphs" class="stat-value">0</span>
                 <span id="lines" class="stat-value">0</span>
@@ -90,12 +87,12 @@ keywords: word counter, word count counter, count the words in word, count word 
                 <div style="width: 95%;">
                     📈 Most Used Words
                 </div>
-                
+
                 <div class="scroll-indicator">→</div>
             </div>
-                <div class="frequency-scroller" id="frequency-scroller">
-                    <!-- Dynamic content will be added here -->
-                  </div>
+            <div class="frequency-scroller" id="frequency-scroller">
+                <!-- Dynamic content will be added here -->
+            </div>
         </div>
     </div>
 
@@ -169,7 +166,8 @@ keywords: word counter, word count counter, count the words in word, count word 
                         style="width: 9%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">0</label>
                 </div>
                 <div style="display: flex; flex-direction: row; border-radius: 10px;">
-                    <label id="hapaxLegomena" style="width: 99%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem; overflow: auto;">
+                    <label id="hapaxLegomena"
+                        style="width: 99%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem; overflow: auto;">
                         - </label>
                 </div>
             </div>
@@ -184,7 +182,7 @@ keywords: word counter, word count counter, count the words in word, count word 
                 </div>
                 <div style="display: flex; flex-direction: row; border-radius: 10px;">
                     <label id="stopWords" style="width: 99%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">
-                        - </label>
+                    0 </label>
                 </div>
             </div>
 
@@ -192,7 +190,8 @@ keywords: word counter, word count counter, count the words in word, count word 
                 style="border: 1px solid orange; margin: 1rem; border-radius: 10px; display: flex; flex-direction: column;">
                 <div
                     style="display: flex; flex-direction: row; background-color: orange; color: white; border-radius: 10px;">
-                    <label style="width: 90%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">Filler Words</label>
+                    <label style="width: 90%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">Filler
+                        Words</label>
                     <label id="fillerWordsUsedCount"
                         style="width: 9%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">0</label>
                 </div>
@@ -375,14 +374,15 @@ keywords: word counter, word count counter, count the words in word, count word 
                 style="border: 1px solid orange; margin: 1rem; border-radius: 10px; display: flex; flex-direction: column;">
                 <div
                     style="display: flex; flex-direction: row; background-color: orange; color: white; border-radius: 10px;">
-                    <label style="width: 90%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">Capitalization Mistakes</label>
+                    <label style="width: 90%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">Capitalization
+                        Mistakes</label>
                     <span id="capitalizationMistakes"
                         style="width: 9%; margin: 0.2rem; font-size: 1.1em; padding-left: 1rem;">0</span>
                 </div>
                 <div style="display: flex; flex-direction: row; border-radius: 10px;">
                     <div class="analysis-scroller" id="capitalization-issues">
                         <!-- Dynamic content will be added here -->
-                      </div>
+                    </div>
                 </div>
             </div>
 
@@ -391,107 +391,93 @@ keywords: word counter, word count counter, count the words in word, count word 
 
 </section>
 
-<section class="tool-section container">
-    <div class="page-footer">
-        <div class="page-share" style="padding-top: 2rem;">
-            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}"
-                title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"
-                rel="nofollow" target="_blank">Facebook</a>
-            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+"
-                rel="nofollow" target="_blank">Google+</a>
-        </div>
-    </div>
-</section>
 <style>
-    h1, h2, h3, h4, p {margin: 1rem; }
-    main {border: 1px solid orange; border-radius: 10px;}
+    h1,
+    h2,
+    h3,
+    h4,
+    p {
+        margin: 1rem;
+    }
+
+    main {
+        border: 1px solid orange;
+        border-radius: 10px;
+    }
 </style>
+
+> *Do you want to see more feature. let me know, I will implement as soon as possible.*
+
 <div style="margin-top: 4rem;">
-  <h1>Word Counter Tool: Your Ultimate Text Analyser Solution</h1>
 
-  <p>Paste your text right here to unlock powerful analysis with our <strong>Word Counter Tool</strong>! This browser-based tool counts words, characters, sentences, and punctuation, plus offers lexical insights—all <strong>offline</strong> after loading. Perfect for writers, students, and SEO experts, it keeps your data private with no server uploads. Discover how our <strong>text analyzer</strong>, <strong>word counter</strong>, <strong>lexical analysis</strong>, and <strong>punctuation count</strong> features can optimize your writing. Start analyzing now on this page!</p>
 
-  <h2>Text Analyzer: Boost Content Quality and SEO</h2>
-  <p>Our <strong>text analyzer</strong> transforms your writing with instant metrics on words, characters, sentences, and readability. Paste your text here to optimize blog posts, essays, or marketing copy for SEO and clarity, all offline. Ideal for content creators, it ensures your text meets search engine standards or word limits. I used this <strong>free text analyzer</strong> to refine a 1,500-word article, tweaking sentence length for a 7th-grade readability score—perfect for Google rankings. The offline feature kept my work secure during a cafe session. No data leaves your device. Analyze your content now on this page to craft engaging, SEO-friendly text effortlessly.</p>
 
-  <ul>
-    <li><strong>Why Text Analyzer?</strong> Enhances readability and SEO performance.</li>
-    <li><strong>Use Case</strong>: Optimize blog posts for higher search rankings.</li>
-    <li><strong>Our Edge</strong>: Offline, private text analysis on one page.</li>
-  </ul>
+ <h1>Word Counter Tool: Your Ultimate Text Analyser Solution</h1>
 
-  <h2>Word Counter: Count Words with Precision</h2>
-  <p>Our <strong>word counter</strong> delivers instant, accurate counts of words, characters, and sentences. Paste your text here to meet essay limits, social media caps (e.g., 280 characters for X), or project requirements, all offline. Perfect for students and writers, it’s fast and user-friendly. I used this <strong>free word counter</strong> to trim a 700-word article to 500 words for a magazine, editing offline during a flight. No server uploads mean your data stays secure. Whether you’re crafting a tweet or a thesis, count words effortlessly on this page with our <strong>online word counter</strong> that works without internet.</p>
+<p>Paste your text right here to unlock powerful analysis with our <strong>Word Counter Tool</strong>! This browser-based tool counts words, characters, sentences, and punctuation, plus offers lexical insights—all <strong>offline</strong> after loading. Perfect for writers, students, and SEO experts, it keeps your data private with no server uploads. Discover how our <strong>text analyzer</strong>, <strong>word counter</strong>,  <strong>lexical analysis</strong>, and <strong>punctuation count</strong> features can optimize your writing. Start analyzing now on this page! </p>
 
-  <ul>
-    <li><strong>Why Word Counter?</strong> Ensures precise counts for any text.</li>
-    <li><strong>Use Case</strong>: Meet word limits for essays or social posts.</li>
-    <li><strong>Our Edge</strong>: Offline, secure counting on one page.</li>
-  </ul>
+<h2>Text Analyzer: Boost Content Quality and SEO</h2>
+    <p>Our <strong>text analyzer</strong> transforms your writing with instant metrics on words, characters, sentences, and readability. Paste your text here to optimize blog posts, essays, or marketing copy for SEO and clarity, all offline. Ideal for content creators, it ensures your text meets search engine standards or word limits. I used this <strong>free text analyzer</strong> to refine a 1,500-word article, tweaking sentence length for a 7th-grade readability score—perfect for Google rankings. The offline feature kept my work secure during a cafe session. No data leaves your device. Analyze your content now on this page to craft engaging, SEO-friendly text    effortlessly.</p>
+    <ul>
+        <li><strong>Why Text Analyzer?</strong> Enhances readability and SEO performance.</li>
+        <li><strong>Use Case</strong>: Optimize blog posts for higher search rankings.</li>
+        <li><strong>Our Edge</strong>: Offline, private text analysis on one page.</li>
+    </ul>
 
-  <h2>Lexical Analysis: Unlock Advanced Text Insights</h2>
-  <p>Our <strong>lexical analysis</strong> feature dives deep into your text’s structure. Paste your text here to analyze word frequency, keyword density, and readability, all offline. Perfect for SEO specialists and technical writers, it optimizes content for search engines or clarity. I used this <strong>free lexical analysis tool</strong> to check a landing page, finding my keyword density was 3.5%—ideal for SEO. Adjusting it offline boosted my site’s ranking. No data is sent to servers, ensuring privacy. Refine your articles, docs, or marketing copy with precise insights on this page, making your <strong>text analysis software</strong> work smarter.</p>
+<h2>Word Counter: Count Words with Precision</h2>
+<p>Our <strong>word counter</strong> delivers instant, accurate counts of words, characters, and sentences. Paste your text here to meet essay limits, social media caps (e.g., 280 characters for X), or project requirements, all offline. Perfect for students and writers, it’s fast and user-friendly. I used this <strong>free word counter</strong> to trim a 700-word article to 500 words for a magazine, editing offline during a flight. No server uploads mean your data stays secure. Whether you’re crafting a tweet or a thesis, count words effortlessly on this page with our <strong>online word counter</strong> that works without internet.</p>
+    <ul>
+        <li><strong>Why Word Counter?</strong> Ensures precise counts for any text.</li>
+        <li><strong>Use Case</strong>: Meet word limits for essays or social posts.</li>
+        <li><strong>Our Edge</strong>: Offline, secure counting on one page.</li>
+    </ul>
 
-  <ul>
-    <li><strong>Why Lexical Analysis?</strong> Optimizes keyword use and text clarity.</li>
-    <li><strong>Use Case</strong>: Enhance SEO content or technical docs.</li>
-    <li><strong>Our Edge</strong>: Secure, offline analysis on one page.</li>
-  </ul>
+<h2>Lexical Analysis: Unlock Advanced Text Insights</h2>
+    <p>Our <strong>lexical analysis</strong> feature dives deep into your text’s structure. Paste your text here to analyze word frequency, keyword density, and readability, all offline. Perfect for SEO specialists and technical writers, it optimizes content for search engines or clarity. I used this <strong>free lexical analysis tool</strong> to check a landing page, finding my keyword density was 3.5%—ideal for SEO. Adjusting it offline boosted my site’s ranking. No data is sent to servers, ensuring privacy. Refine your articles, docs, or marketing copy with precise insights on this page, making your <strong>text analysis software</strong> work smarter.</p>
+    <ul>
+        <li><strong>Why Lexical Analysis?</strong> Optimizes keyword use and text clarity.</li>
+        <li><strong>Use Case</strong>: Enhance SEO content or technical docs.</li>
+        <li><strong>Our Edge</strong>: Secure, offline analysis on one page.</li>
+    </ul>
 
-  <h2>Punctuation Count: Perfect Your Writing’s Structure</h2>
-  <p>Our <strong>punctuation count</strong> feature tracks commas, periods, and other marks. Paste your text here to balance punctuation for polished, professional writing, all offline. Ideal for editors and students, it helps avoid overuse or errors. I used this <strong>punctuation count tool</strong> to refine a 400-word report, spotting 18 commas that muddled clarity. Editing offline made it crisp and professional. No data leaves your device, ensuring privacy. Polish essays, reports, or posts with our <strong>punctuation checker</strong> on this page, ensuring your writing shines.</p>
+ <h2>Punctuation Count: Perfect Your Writing’s Structure</h2>
+    <p>Our <strong>punctuation count</strong> feature tracks commas, periods, and other marks. Paste your text here to balance punctuation for polished, professional writing, all offline. Ideal for editors and students, it helps avoid overuse or errors. I used this <strong>punctuation count tool</strong> to refine a 400-word report, spotting 18 commas that muddled clarity. Editing offline made it crisp and professional. No data leaves your device, ensuring privacy. Polish essays, reports, or posts with our <strong>punctuation checker</strong> on this page, ensuring your writing shines.</p>
+    <ul>
+        <li><strong>Why Punctuation Count?</strong> Ensures clear, professional text.</li>
+        <li><strong>Use Case</strong>: Refine academic papers or business reports.</li>
+        <li><strong>Our Edge</strong>: Offline, private counting on one page.</li>
+    </ul>
 
-  <ul>
-    <li><strong>Why Punctuation Count?</strong> Ensures clear, professional text.</li>
-    <li><strong>Use Case</strong>: Refine academic papers or business reports.</li>
-    <li><strong>Our Edge</strong>: Offline, private counting on one page.</li>
-  </ul>
+<h2>How to Use Our Word Counter Tool</h2>
+    <p>Analyze your text effortlessly with our tool. Here’s how to start right on this page:</p>
+    <ol>
+        <li><strong>Paste or Type Text</strong>: Enter your text or upload a .txt file in the input box.</li>
+        <li><strong>Choose Analysis</strong>: Select word count, lexical analysis, or punctuation count from the
+            options.</li>
+        <li><strong>View Results</strong>: Get real-time metrics like word count, keyword density, or punctuation stats.
+        </li>
+        <li><strong>Save or Export</strong>: Download results or save locally, all offline.</li>
+    </ol>
+    <p>Our tool works offline after loading, keeps your data private, and delivers all analysis on this page—no switching required!</p>
 
-  <h2>How to Use Our Word Counter Tool</h2>
-  <p>Analyze your text effortlessly with our tool. Here’s how to start right on this page:</p>
+<h2>Why Our Word Counter Tool Excels</h2>
+    <p>Our tool combines precision, security, and simplicity:</p>
+    <ul>
+        <li><strong>Offline Analysis</strong>: Analyze text without an internet connection.</li>
+        <li><strong>Data Privacy</strong>: No server uploads—your text stays on your device.</li>
+        <li><strong>All-in-One Metrics</strong>: Word, character, sentence, punctuation counts, and lexical analysis on
+            one page.</li>
+        <li><strong>Free and Unlimited</strong>: Analyze unlimited texts at no cost.</li>
+    </ul>
 
-  <ol>
-    <li><strong>Paste or Type Text</strong>: Enter your text or upload a .txt file in the input box.</li>
-    <li><strong>Choose Analysis</strong>: Select word count, lexical analysis, or punctuation count from the options.</li>
-    <li><strong>View Results</strong>: Get real-time metrics like word count, keyword density, or punctuation stats.</li>
-    <li><strong>Save or Export</strong>: Download results or save locally, all offline.</li>
-  </ol>
-
-  <p>Our tool works offline after loading, keeps your data private, and delivers all analysis on this page—no switching required!</p>
-
-  <h2>Why Our Word Counter Tool Excels</h2>
-  <p>Our tool combines precision, security, and simplicity:</p>
-
-  <ul>
-    <li><strong>Offline Analysis</strong>: Analyze text without an internet connection.</li>
-    <li><strong>Data Privacy</strong>: No server uploads—your text stays on your device.</li>
-    <li><strong>All-in-One Metrics</strong>: Word, character, sentence, punctuation counts, and lexical analysis on one page.</li>
-    <li><strong>Free and Unlimited</strong>: Analyze unlimited texts at no cost.</li>
-  </ul>
-
-  <h2>FAQs: Your Text Analysis Questions Answered</h2>
-  <p>Common questions about our tool:</p>
-
-  <ul>
-    <li><strong>Can it handle large texts?</strong> Yes, it processes complex texts with detailed metrics.</li>
-    <li><strong>Is my data secure?</strong> Completely—everything stays on your device, offline.</li>
-    <li><strong>Does it work on mobile?</strong> Yes, our browser-based tool is mobile-friendly.</li>
-    <li><strong>What metrics are included?</strong> Word, character, sentence, punctuation counts, and lexical analysis.</li>
-  </ul>
-
+<h2>FAQs: Your Text Analysis Questions Answered</h2>
+    <p>Common questions about our tool:</p>
+    <ul>
+        <li><strong>Can it handle large texts?</strong> Yes, it processes complex texts with detailed metrics.</li>
+        <li><strong>Is my data secure?</strong> Completely—everything stays on your device, offline.</li>
+        <li><strong>Does it work on mobile?</strong> Yes, our browser-based tool is mobile-friendly.</li>
+        <li><strong>What metrics are included?</strong> Word, character, sentence, punctuation counts, and lexical
+            analysis.</li>
+    </ul>
 </div>
 <script src="/assets/js/essay-word-counter.js"></script>
-
-<section>
-    <div class="page-footer">
-        <div class="page-share" style="padding-top: 2rem;">
-            <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}"
-                title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-            <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook"
-                rel="nofollow" target="_blank">Facebook</a>
-            <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+"
-                rel="nofollow" target="_blank">Google+</a>
-        </div>
-    </div>
-</section>

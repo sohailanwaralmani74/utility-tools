@@ -95,7 +95,7 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
 
     .preview-pane {
         background-color: var(--preview-bg);
-        overflow-y: auto;
+        overflow: hidden;
     }
 
     .pane-header {
@@ -198,6 +198,8 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
   font-family: "Times New Roman", serif;
   font-size: 12pt;
   line-height: 1.5;
+  overflow-y: auto;  
+  max-height: 30rem;
 }
 
 .section, .subsection {
@@ -238,7 +240,6 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
         <button class="tool-button" id="copy-md"><i class="fas fa-copy"></i>Copy</button>
         <button class="tool-button" id="export-html"><i class="fas fa-file-code"></i> Export HTML</button>
     </div>
-
     <div class="panes">
         <div class="editor-pane">
             <div class="pane-header">
@@ -262,22 +263,22 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
                     ```javascript
                         function hello() {
                                  console.log("Markdown is awesome!");
-                                                    }```
-            </textarea>
+                                                    }``` ```
+        </textarea>
         </div>
-
-        <div class="resize-handle"></div>
+    <div class="resize-handle"></div>
 
         <div class="preview-pane">
             <div class="pane-header">
-                <span>PREVIEW</span>
-                <button id="toggle-preview" class="tool-button"><i class="fas fa-eye"></i> Toggle</button>
+                <span>Preview</span>
             </div>
-            <div id="preview-content" class="preview-content"></div>
+            <div id="preview-content" class="preview-content" ></div>
         </div>
     </div>
 </div>
-<div style="margin-top: 4rem;">
+
+
+<div style="margin: 4rem;">
   <h1>Markdown Editor Tool: Write and Format with Ease</h1>
 
   <p>Welcome to our <strong>Markdown Editor Tool</strong> at <a href="https://reptilebirds.com/md-editor">reptilebirds.com/md-editor</a>! Right here, you can write, edit, and format Markdown (.md) files with a simple, browser-based interface that works <strong>offline</strong> after loading. Perfect for bloggers, developers, or anyone creating web content, our tool lets you craft Markdown documents and export them to HTML, PDF, or other formats without sending data to servers. Explore how our editor simplifies your writing below and start creating now!</p>
@@ -334,12 +335,3 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
 
 </div>
 <script src="/assets/js/md.js"></script>
-<!-- SEO Content Section -->
-
-<div class="page-footer">
-    <div class="page-share">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-    </div>
-</div>

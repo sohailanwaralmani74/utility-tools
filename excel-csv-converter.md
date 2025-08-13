@@ -4,13 +4,8 @@ title: Excel & CSV Converter - Convert To Any Format
 description: Convert XLSX or CSV files to XLS, CSV, JSON, TXT, HTML, PDF, XML, or SQL easily and securely online.
 keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to TXT online, XLSX to HTML generator, XLSX to PDF converter, XLSX to XML, XLSX to SQL free, CSV to XLS tool, CSV to XLSX converter, CSV to JSON online, CSV to TXT tool, CSV to HTML formatter, CSV to PDF free tool, CSV to XML online, CSV to SQL converter
 ---
-
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
-    <!-- jsPDF CDN -->
-    <!-- Include jsPDF -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
-
-    <!-- Include jsPDF AutoTable Plugin -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
         
 <script type="application/ld+json">
@@ -172,12 +167,3 @@ Experience the easiest way to convert XLSX to CSV, convert CSV to XML, convert X
 
 <script src="/assets/js/script.js"></script>
 </section>
-
-
-  <div class="page-footer">
-    <div class="page-share">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-    </div>
-  </div>

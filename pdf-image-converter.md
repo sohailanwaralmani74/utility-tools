@@ -5,7 +5,6 @@ description: Convert PDF to JPG, PNG, AVIF, TIFF. Convert Images to PDF. Bulk co
 keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, convert pdf to png, convert png to pdf, jpg to png, png to jpg, jpg to webp, png to webp, jpg to avif, png to avif, jpg to tiff, png to tiff, tiff to jpg, webp to jpg, image converter, pdf to image converter, image to pdf converter
 
 ---
-<blockquote> No data upload to backend. data lives in your browser.</blockquote>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -53,7 +52,6 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
         <label for="imageUpload" class="upload-label" style="margin-left: 1rem;">Upload Image (s)</label>
         <input type="file" id="imageUpload" accept="image/*" multiple />
     </div>
-
     <div id="loader" style="display:none;">⏳ Loading files...</div>
     <div style="width: 100%; justify-content: center; margin-top: 1rem; position: sticky; display:none;"
         id="exportOptions">
@@ -73,18 +71,10 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
         <label class="export-label" id= "multi-pdf" onclick="exportImagesToMultiplePDFs()"><u>Multiple PDFs</u></label>
     </div>
 </section>
-
-    
-  <div id="uploadedFiles" style="margin-top: 2px; max-height: 85vh; overflow: hidden; width: 100%;"></div>
+ 
+<div id="uploadedFiles" style="margin-top: 2px; max-height: 85vh; overflow: hidden; width: 100%;"></div>
 
 <script src="/assets/js/image-pdf.js"></script>
-      <div class="page-footer">
-        <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-        </div>
-      </div>
 
 <div style="margin: 4rem;">
   <section>
@@ -634,11 +624,4 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
     <h3>Convert JPEG to Multiple PDFs</h3>
     <p><strong>Convert JPEG to Multiple PDFs</strong> if you want one PDF per image. Drag, drop, and <strong>convert JPEG to Multiple PDFs</strong> instantly.</p>
   </section>
-</div>
-<div class="page-footer">
-  <div class="page-share">
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-  </div>
 </div>

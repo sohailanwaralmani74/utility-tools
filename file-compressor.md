@@ -4,6 +4,7 @@ title: File Compressor - Compress Files Without loosing Quality
 keywords: compress pdf, compress csv, compress image, compress word, add file to zip online, compress files to zip online
 description: Compress files to same format without loosing data even in zip, gzip, 7zip etc.
 ---
+
 <script type="application/ld+json">
 {
   "@type": "WebApplication",
@@ -26,10 +27,8 @@ description: Compress files to same format without loosing data even in zip, gzi
     "Secure and privacy-first — files are not stored"
   ]
 }
-
-    </script>
-    
-    <script type="application/ld+json">
+</script>
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
@@ -76,7 +75,7 @@ description: Compress files to same format without loosing data even in zip, gzi
         }
       ]
     }
-    </script>
+</script>
     
 <script src="/assets/js/index.js"></script>
 <script src="/assets/js/index.min.js"></script>
@@ -89,23 +88,16 @@ description: Compress files to same format without loosing data even in zip, gzi
         <label for="file-input" class="upload-label">Upload File</label>
         <input type="file" id="file-input">
     </div>
-
     <div id="loader" style="display:none;">⏳ Loading file...</div>
 </section>
 
-<div style="margin-top: 20px;  max-height: 88vh; overflow: auto; display: flex; width: 80vw;">
-    
-    <div id="fileInfo" style="font-family: Georgia; background-color: #f4f4f4; border-left: 4px solid #4caf50;width: 100%; height: 10rem; margin-left: 1rem; display: none;justify-content: flex-start; ">
-       
-    </div>
-    
+<div style="margin-top: 20px;  max-height: 88vh; overflow: auto; display: flex; width: 99%;">   
+    <div id="fileInfo" style="font-family: Georgia; background-color: #f4f4f4; border-left: 4px solid #4caf50;width: 100%; height: 10rem; margin-left: 1rem; display: none;justify-content: flex-start; "> </div>   
 </div>
 
-<div style="margin-top:4rem;">
-  <h1>Compress Files into GZIP, 7z, RAR, TAR, and GZ Formats</h1>
-  <p>
-    Compress Files Online — Free & Fast File Compressor Tool
-
+<div style="margin: 4rem;">
+<h1>Compress Files into GZIP, 7z, RAR, TAR, and GZ Formats</h1>
+<p> Compress Files Online — Free & Fast File Compressor Tool. 
 Looking to compress large files quickly without downloading any software? Our Free Online File Compressor makes it easy to reduce file size while maintaining quality. Whether you're handling documents, images, videos, or archives, this tool supports formats like ZIP, RAR, 7Z, TAR, GZ, and GZIP.
 
 It works entirely in your browser — no sign-up required. Just drag and drop your files, select your preferred compression format, and download your optimized files in seconds. Perfect for saving storage, faster uploads, and easier sharing.
@@ -178,11 +170,3 @@ Reduce file size now with the most convenient online compression tool.
 
 
 <script src="/assets/js/compress.js"></script>
-
-<div class="page-footer">
-  <div class="page-share">
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-  </div>
-</div>

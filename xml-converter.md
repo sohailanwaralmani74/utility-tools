@@ -119,12 +119,11 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
   </div>
 </section>
 
-<div id="table-container" style="margin-top: 20px; max-height: 88vh; overflow: auto; width: 80vw; ">
-
+<div id="table-container" style="margin-top: 20px; max-height: 88vh; overflow: auto; width: 100%; ">
   <pre><code id="xmlDisplay" contenteditable="true" ></code></pre>
 </div>
 
-<div style="margin-top: 4rem;"> 
+<div style="margin: 4rem;"> 
   <h1>XML Converter Tool: Transform Your Data with Ease</h1>
 
   <p>Upload your XML file right here to convert it to XLSX, XLS, JSON, PDF (RAW), PDF (Table), or CSV with our <strong>XML Converter Tool</strong>! This browser-based tool works <strong>offline</strong> after loading, keeping your data secure with no server uploads. Perfect for developers, analysts, and businesses, it simplifies data transformation for spreadsheets, web apps, or reports. Explore our <strong>XML data converter</strong> features below and start converting now!</p>
@@ -218,14 +217,3 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
 </div>
 
 <script src="/assets/js/xml.js"></script>
-
-<div class="page-footer">
-  <div class="page-share">
-    <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}"
-      title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-    <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow"
-      target="_blank">Facebook</a>
-    <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow"
-      target="_blank">Google+</a>
-  </div>
-</div>
