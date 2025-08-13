@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Authors
-description: Authors And Developers Of Blog.
+description: Authors And Developers Of Blog. See all the professional Contributers To Reptile Birds
 keywords: blog authors, Blog developers, Software Developer, Software engineer, Java Developer, Angular Develpers
 ---
 <script type="application/ld+json">

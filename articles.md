@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Blog Posts
-description: Software Engineer, Java Developer.
+description: Article About Software, Open source alternative to proprietry Software, Nearshore software development companies and So on All about Technology.
 ---
 
 <section style="width: 100%;">
