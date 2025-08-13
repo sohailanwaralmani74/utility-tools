@@ -32,17 +32,8 @@ description: Create stunning videos by combining your images with audio tracks. 
 </section>
 
 <script src="/assets/js/video.js"></script>
-<section>
-      <div class="page-footer">
-        <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-        </div>
-      </div>
-</section>
 
-<section>
+<section style="margin: 4rem;">
   <h1>Create Video from Image and Audio — Free Online Tool</h1>
   <p>
     Looking to <strong>create a video from image and audio</strong> without installing software or uploading files? Our browser-based tool lets you do just that — fast, secure, and completely offline. Whether you’re making a slideshow, a podcast visual, or a social media reel, you can <strong>combine image and audio to make a video</strong> in seconds. Just load the page, select your media, and export.
@@ -143,17 +134,6 @@ description: Create stunning videos by combining your images with audio tracks. 
   }
 }
 </script>
-
-
-<section>
-      <div class="page-footer">
-        <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
-        </div>
-      </div>
-</section>
 
 
       

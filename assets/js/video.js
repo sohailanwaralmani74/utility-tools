@@ -63,8 +63,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
             const imgElement = document.createElement('img');
             imgElement.src = imgSrc;
-            imgElement.style.maxWidth = '100px';
-            imgElement.style.maxHeight = '100px';
+            imgElement.style.width = '180px';
+            imgElement.style.height = '180px';
             imgElement.style.margin = '5px';
 
             imgContainer.appendChild(imgElement);
