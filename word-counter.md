@@ -30,7 +30,7 @@ keywords: word counter, word count counter, count the words in word, count word 
     </div>
     <div style="flex: 1; display: flex; flex-direction: row; margin-bottom: 1rem; ">
 
-        <textarea id="textInput" style="
+  <textarea id="textInput" style="
         flex: 1;
         resize: none;
         font-size: 1rem;
@@ -45,7 +45,7 @@ keywords: word counter, word count counter, count the words in word, count word 
         max-height: 22rem;
       " placeholder="Start typing or paste your text here or upload file on clicking upload icon on right cornor"></textarea>
 
-    </div>
+</div>
 </section>
 <section class="tool-section container">
     <div style="display: flex; flex-direction: row; justify-content: flex-start; min-width: 99%;">
@@ -408,7 +408,7 @@ keywords: word counter, word count counter, count the words in word, count word 
 
 > *Do you want to see more feature. let me know, I will implement as soon as possible.*
 
-<div style="margin-top: 4rem;">
+<div style="margin: 4rem;">
 
 
 

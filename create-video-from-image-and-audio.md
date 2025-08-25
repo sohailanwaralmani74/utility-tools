@@ -104,36 +104,103 @@ description: Create stunning videos by combining your images with audio tracks. 
     Ready to <strong>create a video from image and audio</strong> in seconds? Try our free, no-login tool now and bring your media to life — all from your browser.
   </p>
 </section>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Create Video from Image and Audio",
-  "applicationCategory": "MultimediaApplication",
-  "operatingSystem": "All",
-  "browserRequirements": "Requires JavaScript. Works offline after full load.",
-  "description": "Free, browser-based tool to create video from image and audio. Combine MP3, WAV, or M4A with JPG, PNG, SVG and export as MP4 — fully offline with no uploads.",
-  "url": "https://reptilebirds.com/create-video-from-image-and-audio",
-  "featureList": [
-    "Combine image and audio to generate MP4 video",
-    "Works 100% offline in browser",
-    "Supports MP3, WAV, M4A, AAC, OGG, FLAC, AMR for audio",
-    "Supports JPG, PNG, SVG, WebP for image",
-    "Adjust duration, resolution, and background",
-    "Exports high-quality MP4 files"
-  ],
-  "creator": {
-    "@type": "Organization",
-    "name": "ReptileBirds"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD",
-    "category": "Free"
-  }
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "name": "Create Video from Image and Audio",
+      "operatingSystem": "Any (Web-based)",
+      "applicationCategory": "MultimediaApplication",
+      "description": "Free online tool to create video from image and audio. Merge multiple images and music into MP4 directly in your browser without installation.",
+      "url": "https://reptilebirds.com/create-video-from-image-and-audio",
+      "image": "https://reptilebirds.com/assets/images/create-video.jpg",
+      "softwareVersion": "1.0",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "ReptileBirds",
+        "url": "https://reptilebirds.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+        }
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I make a video with just one picture and audio?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, upload one image and one audio track, and the tool will create a video with that picture as the background."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the tool reduce quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the output video maintains the original audio quality and image resolution."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which format will the final video be in?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "By default, it generates MP4, which works on all devices."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it safe to use this video generator?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, all processing happens locally in your browser. We never upload or store your files."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this tool for YouTube videos?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Absolutely! Many users create YouTube-ready videos by combining podcast audio with cover images."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://reptilebirds.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://reptilebirds.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Create Video from Image and Audio",
+          "item": "https://reptilebirds.com/create-video-from-image-and-audio"
+        }
+      ]
+    }
+  ]
 }
 </script>
-
-
-      

@@ -6,65 +6,143 @@ description: Free browser-based text tools including word counter, diff checker,
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ItemList",
-  "name": "ReptileBirds Text Utilities",
-  "description": "Free browser-based text tools including word counter, diff checker, markdown editor, and Lorem Ipsum generator. Fast, offline capable, and easy to use.",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "item": {
-        "@type": "SoftwareApplication",
-        "name": "Word Counter and Text Analyzer — Free Online Tool",
-        "url": "https://reptilebirds.com/word-counter",
-        "description": "Count words, analyze punctuation and text features. Browser-based and free to use.",
-        "applicationCategory": "Text Tool",
-        "operatingSystem": "Browser",
-        "keywords": "word counter, text analyzer, punctuation checker, online word count, text statistics"
+      "@type": "WebSite",
+      "@id": "https://reptilebirds.com/#website",
+      "url": "https://reptilebirds.com/",
+      "name": "ReptileBirds",
+      "description": "Free browser-based tools to convert, analyze, and edit text, XML, JSON, CSV, Excel, and more instantly without uploads.",
+      "publisher": {
+        "@id": "https://reptilebirds.com/#organization"
       }
     },
     {
-      "@type": "ListItem",
-      "position": 2,
-      "item": {
-        "@type": "SoftwareApplication",
-        "name": "Diff Checker — Online File and Text Difference Tool",
-        "url": "https://reptilebirds.com/diff-checker",
-        "description": "Instantly compare text or files to highlight differences. Easy and free.",
-        "applicationCategory": "Text Tool",
-        "operatingSystem": "Browser",
-        "keywords": "diff checker, compare text online, file difference checker, text comparison tool"
+      "@type": "Organization",
+      "@id": "https://reptilebirds.com/#organization",
+      "name": "ReptileBirds",
+      "url": "https://reptilebirds.com/",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://reptilebirds.com/logo.png"
       }
     },
     {
-      "@type": "ListItem",
-      "position": 3,
-      "item": {
-        "@type": "SoftwareApplication",
-        "name": "Markdown Editor with Live Preview — Free & Offline",
-        "url": "https://reptilebirds.com/best-md-editor",
-        "description": "Create and edit Markdown with live preview, tables, and code blocks. Offline & free.",
-        "applicationCategory": "Text Tool",
-        "operatingSystem": "Browser",
-        "keywords": "markdown editor, md editor, markdown preview, offline markdown editor, readme editor"
-      }
+      "@type": "WebPage",
+      "@id": "https://reptilebirds.com/text-tools#webpage",
+      "url": "https://reptilebirds.com/text-tools",
+      "name": "Text Tools - Free Online Text Analyzers & Generators",
+      "isPartOf": {
+        "@id": "https://reptilebirds.com/#website"
+      },
+      "about": {
+        "@id": "https://reptilebirds.com/#organization"
+      },
+      "description": "Use free online text tools including Word Counter, Diff Checker, Markdown Editor, and Lorem Ipsum Generator. Analyze, compare, and generate text instantly with no installation."
     },
     {
-      "@type": "ListItem",
-      "position": 4,
-      "item": {
-        "@type": "SoftwareApplication",
-        "name": "Lorem Ipsum Generator — Free Placeholder Text Tool",
-        "url": "https://reptilebirds.com/lrem-ipsum-generator",
-        "description": "Generate placeholder text instantly with live preview. Free and offline.",
-        "applicationCategory": "Text Tool",
-        "operatingSystem": "Browser",
-        "keywords": "lorem ipsum generator, placeholder text generator, dummy text generator, offline lorem ipsum"
-      }
+      "@type": "BreadcrumbList",
+      "@id": "https://reptilebirds.com/text-tools#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://reptilebirds.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Text Tools",
+          "item": "https://reptilebirds.com/text-tools"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://reptilebirds.com/text-tools#itemlist",
+      "name": "Text Tools",
+      "itemListElement": [
+        {
+          "@type": "SoftwareApplication",
+          "position": 1,
+          "name": "Word Counter & Text Analyzer",
+          "applicationCategory": "Utility",
+          "operatingSystem": "Any",
+          "description": "Free online word counter and text analyzer tool to count words, characters, sentences, and paragraphs. Includes keyword density checker and text statistics.",
+          "url": "https://reptilebirds.com/word-counter"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "position": 2,
+          "name": "Diff Checker – Compare Text & Files",
+          "applicationCategory": "Utility",
+          "operatingSystem": "Any",
+          "description": "Quickly compare two text blocks or files with our free online diff checker. Highlight differences in code, documents, or data.",
+          "url": "https://reptilebirds.com/diff-checker"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "position": 3,
+          "name": "Markdown (MD) Editor with Live Preview",
+          "applicationCategory": "Utility",
+          "operatingSystem": "Any",
+          "description": "Powerful Markdown editor with real-time preview. Create README.md files, add tables, code blocks, and formatting offline for free.",
+          "url": "https://reptilebirds.com/best-md-editor"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "position": 4,
+          "name": "Lorem Ipsum / Lrem Ipsum Generator",
+          "applicationCategory": "Utility",
+          "operatingSystem": "Any",
+          "description": "Generate lorem ipsum or lrem ipsum placeholder text instantly for design and content mockups. Customize by words, sentences, or paragraphs.",
+          "url": "https://reptilebirds.com/lorem-ipsum-generator"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://reptilebirds.com/text-tools#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are text tools?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Text tools are free online utilities that let you analyze, compare, and generate text. They help writers, developers, and students improve content and save time."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install software to use text tools?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, all ReptileBirds text tools are browser-based. They work offline and require no installation or registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Which text tools are included?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our text tools include a Word Counter & Text Analyzer, Diff Checker, Markdown Editor with live preview, and Lorem Ipsum Generator."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Are text tools secure?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, since all text tools work directly in your browser, no data is uploaded to any server. Everything runs securely offline."
+          }
+        }
+      ]
     }
   ]
 }
 </script>
+
 
 <section style="width: 100%;">
     <h1>Online Browser Based Text Tools For Privacy</h1>
