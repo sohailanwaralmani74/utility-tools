@@ -69,7 +69,7 @@ const tools = [
             'Filler Text for Design'
         ],
         category: 'text',
-        url: 'lorem-ipsum-generator'
+        url: 'lrem-ipsum-generator'
     }
 ];
 
