@@ -1,8 +1,8 @@
 ---
 layout: main
-title: Word Counter - Analyse Your Text For Accuracy.
-description: Free online word counter that counts words, characters, sentences & more. Easily check word count in Wordor text, with accurate writing time stats.
-keywords: word counter, word count counter, count the words in word, count word count, words count in word
+title: Text Analyzer - Analyse Your Text For Accuracy.
+description: Free online text analyzer that counts words, characters, sentences & more. Easily check word count in Wordor text, with accurate writing time stats.
+keywords: text analyzer, text analyser, text analysis, word counter, lexical analyzer
 ---
 <script src="/assets/js/jspdf.umd.min.js"></script>
 
@@ -412,9 +412,9 @@ keywords: word counter, word count counter, count the words in word, count word 
 
 
 
- <h1>Word Counter Tool: Your Ultimate Text Analyser Solution</h1>
+ <h1>Text Analyzer: Your Ultimate Text Analyser Solution</h1>
 
-<p>Paste your text right here to unlock powerful analysis with our <strong>Word Counter Tool</strong>! This browser-based tool counts words, characters, sentences, and punctuation, plus offers lexical insights—all <strong>offline</strong> after loading. Perfect for writers, students, and SEO experts, it keeps your data private with no server uploads. Discover how our <strong>text analyzer</strong>, <strong>word counter</strong>,  <strong>lexical analysis</strong>, and <strong>punctuation count</strong> features can optimize your writing. Start analyzing now on this page! </p>
+<p>Paste your text right here to unlock powerful analysis with our <strong>Text Analyzer Tool</strong>! This browser-based tool counts words, characters, sentences, and punctuation, plus offers lexical insights—all <strong>offline</strong> after loading. Perfect for writers, students, and SEO experts, it keeps your data private with no server uploads. Discover how our <strong>text analyzer</strong>, <strong>word counter</strong>,  <strong>lexical analysis</strong>, and <strong>punctuation count</strong> features can optimize your writing. Start analyzing now on this page! </p>
 
 <h2>Text Analyzer: Boost Content Quality and SEO</h2>
     <p>Our <strong>text analyzer</strong> transforms your writing with instant metrics on words, characters, sentences, and readability. Paste your text here to optimize blog posts, essays, or marketing copy for SEO and clarity, all offline. Ideal for content creators, it ensures your text meets search engine standards or word limits. I used this <strong>free text analyzer</strong> to refine a 1,500-word article, tweaking sentence length for a 7th-grade readability score—perfect for Google rankings. The offline feature kept my work secure during a cafe session. No data leaves your device. Analyze your content now on this page to craft engaging, SEO-friendly text    effortlessly.</p>

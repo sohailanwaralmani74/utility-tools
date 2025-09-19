@@ -69,7 +69,7 @@ const tools = [
             'Filler Text for Design'
         ],
         category: 'text',
-        url: 'lrem-ipsum-generator'
+        url: 'text-analyzer'
     }
 ];
 
