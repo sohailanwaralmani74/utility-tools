@@ -23,3 +23,163 @@ keywords:
 <div id="table-container" style="  max-height: 78vh; overflow: auto; margin-top: 1rem;" contenteditable ></div>
 
 <script src="/assets/js/xlsx-to-excel.js"></script>
+
+<div style="margin:4rem">
+
+  <h2>Convert CSV to Excel – Free Online Tool</h2>
+  <p>
+    Easily convert your <strong>CSV files</strong> into Microsoft <strong>Excel (.xlsx)</strong> format instantly.  
+    Upload your <code>.csv</code> file, click convert, and download a fully compatible Excel workbook.  
+    All processing happens locally in your browser, so your data stays secure and private.
+  </p>
+
+  <h3>How It Works</h3>
+  <ol>
+    <li>Upload your <code>.csv</code> file from your device.</li>
+    <li>The tool reads your CSV data and prepares it for Excel.</li>
+    <li>Click the <strong>Convert to Excel</strong> button.</li>
+    <li>Download the resulting <code>.xlsx</code> file instantly.</li>
+  </ol>
+  <p>
+    The tool works <strong>offline</strong> once the page is loaded, keeping your files private and secure.
+  </p>
+
+  <h3>Why Use This CSV to Excel Converter?</h3>
+  <ul>
+    <li><strong>Fast Conversion:</strong> Instantly transform CSV files into Excel workbooks.</li>
+    <li><strong>Offline & Secure:</strong> Files are processed locally in your browser.</li>
+    <li><strong>Excel-Compatible:</strong> Output works with Microsoft Excel, Google Sheets, and LibreOffice.</li>
+    <li><strong>Cross-Platform:</strong> Works on Windows, Mac, Linux, and mobile browsers.</li>
+  </ul>
+
+  <h3>Key Features</h3>
+  <h4>1. Upload CSV Files</h4>
+  <p>Supports standard <code>.csv</code> files with comma-separated values.</p>
+
+  <h4>2. Convert to Excel</h4>
+  <p>Transforms CSV rows and columns into a fully functional Excel workbook.</p>
+
+  <h4>3. Instant Download</h4>
+  <p>Download the <code>.xlsx</code> file immediately without waiting or email submission.</p>
+
+  <h3>Frequently Asked Questions (FAQ)</h3>
+
+  <h4>1. Is this CSV to Excel converter free?</h4>
+  <p>Yes, it is completely free to use with no restrictions.</p>
+
+  <h4>2. Do I need to install software?</h4>
+  <p>No installation is required; the tool works entirely in your browser.</p>
+
+  <h4>3. Does it work offline?</h4>
+  <p>Yes, after the page loads, the conversion works fully offline.</p>
+
+  <h4>4. Can I open the converted file in Excel?</h4>
+  <p>Yes, the output is fully compatible with Microsoft Excel, Google Sheets, and LibreOffice.</p>
+
+  <h4>5. Will my CSV file be uploaded to a server?</h4>
+  <p>No, everything is processed locally for privacy and security.</p>
+
+</div>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://reptilebirds.com/convert-csv-to-excel",
+      "url": "https://reptilebirds.com/convert-csv-to-excel",
+      "name": "Convert CSV to Excel – Free Online Tool",
+      "description": "Free online tool to convert CSV files into Excel (.xlsx) format instantly. Works offline in your browser for secure and fast conversion.",
+      "inLanguage": "en",
+      "isPartOf": {
+        "@type": "WebSite",
+        "@id": "https://reptilebirds.com/"
+      },
+      "breadcrumb": {
+        "@id": "https://reptilebirds.com/convert-csv-to-excel#breadcrumb"
+      },
+      "mainEntity": {
+        "@id": "https://reptilebirds.com/convert-csv-to-excel#software"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://reptilebirds.com/convert-csv-to-excel#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://reptilebirds.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Convert CSV to Excel"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://reptilebirds.com/convert-csv-to-excel#software",
+      "name": "CSV to Excel Converter",
+      "applicationCategory": "Utility",
+      "operatingSystem": "Web",
+      "url": "https://reptilebirds.com/convert-csv-to-excel",
+      "description": "Convert CSV files to Excel (.xlsx) online instantly. Works offline, secure, and fast.",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://reptilebirds.com/convert-csv-to-excel#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is this CSV to Excel converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, it is completely free to use with no restrictions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No installation is required; the tool works entirely in your browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it work offline?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, after the page loads, the conversion works fully offline."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I open the converted file in Excel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the output is fully compatible with Microsoft Excel, Google Sheets, and LibreOffice."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will my CSV file be uploaded to a server?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, everything is processed locally for privacy and security."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

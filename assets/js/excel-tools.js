@@ -18,7 +18,7 @@ const tools = [
       'json export from excel'
     ],
     category: 'excel',
-    url: 'convert-xlsx-to-json'
+    url: 'excel-to-json'
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ const tools = [
       'excel to text conversion'
     ],
     category: 'excel',
-    url: 'convert-xlsx-to-txt'
+    url: 'excel-to-txt'
   },
   {
     id: 3,
@@ -58,7 +58,7 @@ const tools = [
       'excel pdf conversion'
     ],
     category: 'excel',
-    url: 'convert-xlsx-to-pdf'
+    url: 'xlsx-to-pdf'
   },
   {
     id: 4,
@@ -78,7 +78,7 @@ const tools = [
       'excel html conversion'
     ],
     category: 'excel',
-    url: 'convert-xlsx-to-html'
+    url: 'excel-to-html'
   },
   {
     id: 5,
