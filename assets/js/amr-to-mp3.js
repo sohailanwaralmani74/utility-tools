@@ -11,6 +11,7 @@
     const mp3Audio = document.getElementById("mp3-audio");
     const downloadLink = document.getElementById("download-link");
     convertedPlayer.style.display = "none"; // hide preview if new file selected
+    fileInfo.style.display = "none"; // hide preview if new file selected
     let selectedFile;
 
     fileInput.addEventListener("change", (e) => {
