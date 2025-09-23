@@ -75,7 +75,24 @@ const tools = [
         ],
         category: 'video',
         url: 'm4a-to-mp3'
-    }
+    },
+    {
+    id: 5,
+    icon: 'fa-music',
+    title: 'OGG To MP3',
+    description: 'Convert ogg to mp3 instantly with our fast and reliable OGG to MP3 converter tool. Works securely in your browser.',
+    tags: [
+        'ogg to mp3',
+        'change ogg to mp3',
+        'convert ogg to mp3',
+        'ogg to mp3 converter',
+        'convert ogg file to mp3',
+        'ogg audio to mp3'
+    ],
+    category: 'video',
+    url: 'convert-ogg-to-mp3'
+}
+
 ];
 
         
