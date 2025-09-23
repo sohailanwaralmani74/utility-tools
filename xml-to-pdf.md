@@ -40,3 +40,69 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
 <div id="uploadedFiles" style="margin-top: 2px; max-height: 75vh; overflow: hidden; width: 100%;"></div>
 
 <script src="/assets/js/xml-to-pdf.js"></script>
+
+<div style="margin:4rem">
+
+  <h2>XML to PDF Converter – Free Online Tool</h2>
+  <p>
+    Need to turn your <strong>XML data</strong> into a professional-looking <strong>PDF document</strong>?  
+    This free converter makes it quick and easy. Upload your <code>.xml</code> file, and in seconds, download a clean and structured PDF file — no installation, no signup, and no server uploads.  
+    Everything runs securely inside your browser, ensuring full privacy.
+  </p>
+
+  <h3>How It Works</h3>
+  <ol>
+    <li><strong>Upload XML:</strong> Choose an <code>.xml</code> file from your device.</li>
+    <li><strong>Parse & Convert:</strong> The tool processes your XML structure and prepares it for PDF formatting.</li>
+    <li><strong>Download PDF:</strong> Click <em>Convert</em> and get a downloadable <code>.pdf</code> file instantly.</li>
+  </ol>
+  <p>
+    Since this tool works <strong>offline once loaded</strong>, your sensitive XML content never leaves your computer.
+  </p>
+
+  <h3>Why Use XML to PDF Conversion?</h3>
+  <ul>
+    <li><strong>Readability:</strong> Transform raw XML code into a human-friendly PDF document.</li>
+    <li><strong>Portability:</strong> PDF is a widely accepted format for sharing and archiving structured data.</li>
+    <li><strong>Security:</strong> Keep your data safe — no external servers involved.</li>
+    <li><strong>Convenience:</strong> Works directly in your browser, across devices and platforms.</li>
+  </ul>
+
+  <h3>Key Features</h3>
+
+  <h4>1. Clean PDF Output</h4>
+  <p>
+    Generates a properly formatted PDF file that makes XML content easier to read and share.
+  </p>
+
+  <h4>2. Works Offline</h4>
+  <p>
+    Once the page is loaded, you don’t need an internet connection. Perfect for private or sensitive data.
+  </p>
+
+  <h4>3. Universal Compatibility</h4>
+  <p>
+    The generated PDF can be opened in Adobe Acrobat, browsers, and any standard PDF reader.
+  </p>
+
+  <h3>Frequently Asked Questions (FAQ)</h3>
+
+  <h4>1. Is this XML to PDF converter free?</h4>
+  <p>Yes, it’s completely free with no hidden charges or limits.</p>
+
+  <h4>2. Do I need to install anything?</h4>
+  <p>No, the tool runs entirely in your browser — no software installation required.</p>
+
+  <h4>3. Can I use it offline?</h4>
+  <p>Yes, once the page is loaded, conversions happen offline on your device.</p>
+
+  <h4>4. Is my XML data secure?</h4>
+  <p>Absolutely. Your files are never uploaded to any server. Everything stays local to your device.</p>
+
+  <h4>5. What type of XML files does it support?</h4>
+  <p>
+    It works with standard <code>.xml</code> files containing structured data, attributes, and elements.  
+    For very large or deeply nested XML, performance may depend on your browser and device memory.
+  </p>
+
+</div>

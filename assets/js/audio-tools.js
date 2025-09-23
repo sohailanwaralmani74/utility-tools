@@ -44,6 +44,22 @@ const tools = [
         ],
         category: 'video',
         url: 'create-video-from-image-and-audio'
+    },
+
+    {
+        id: 3,
+        icon: 'fa-font',
+        title: 'AMR To MP3',
+        description: 'Convert amr to mp3 faster with amr to mp3 converter. Converting amr to mp3 is relaible with reptile birds tool',
+        tags: [
+            'amr to mp3',
+            'convert amr to mp3',
+            'Convert amr file to mp3',
+            'Convert amr file to mp3 file',
+            'amr audio to mp3',
+        ],
+        category: 'video',
+        url: 'amr-to-mp3'
     }
 ];
 

@@ -41,3 +41,75 @@ keywords:
 
 <script src="/assets/js/json-to-sql.js"></script>
 
+<div style="margin:4rem">
+
+  <h2>JSON to SQL Converter – Free Online Tool</h2>
+  <p>
+    Easily convert your <strong>JSON data</strong> into clean, ready-to-use <strong>SQL queries</strong> with this free tool.  
+    Upload a <code>.json</code> file or paste raw JSON, click convert, and download SQL statements instantly.  
+    The tool runs directly in your browser, so your data is never uploaded to any server, keeping it safe and private.
+  </p>
+
+  <h3>How It Works</h3>
+  <ol>
+    <li><strong>Upload JSON:</strong> Select a <code>.json</code> file or paste JSON text.</li>
+    <li><strong>Parse Data:</strong> The tool reads objects, arrays, and key-value pairs.</li>
+    <li><strong>Generate SQL:</strong> Instantly produces <code>INSERT</code> statements for your database.</li>
+    <li><strong>Download:</strong> Export the result as a <code>.sql</code> file.</li>
+  </ol>
+  <p>
+    Once loaded, the converter works <strong>offline</strong> — ideal for handling private or sensitive data.
+  </p>
+
+  <h3>Why Convert JSON to SQL?</h3>
+  <ul>
+    <li><strong>Database import:</strong> Quickly load JSON data into MySQL, PostgreSQL, SQLite, or any RDBMS.</li>
+    <li><strong>Automation:</strong> Simplifies migration from JSON APIs to structured databases.</li>
+    <li><strong>Flexibility:</strong> Generates SQL you can edit before execution.</li>
+    <li><strong>Security:</strong> Local conversion means your JSON never leaves your device.</li>
+  </ul>
+
+  <h3>Key Features</h3>
+
+  <h4>1. JSON to SQL Insert Statements</h4>
+  <p>
+    Converts JSON objects into properly formatted <code>INSERT INTO</code> SQL queries.
+  </p>
+
+  <h4>2. Instant Conversion</h4>
+  <p>
+    Get SQL statements in seconds without extra setup.
+  </p>
+
+  <h4>3. Works Offline</h4>
+  <p>
+    After the page loads, no internet connection is required.
+  </p>
+
+  <h4>4. Universal Database Compatibility</h4>
+  <p>
+    The generated SQL works with MySQL, PostgreSQL, SQLite, SQL Server, and more.
+  </p>
+
+  <h3>Frequently Asked Questions (FAQ)</h3>
+
+  <h4>1. Is this JSON to SQL converter free?</h4>
+  <p>Yes, it’s completely free with no hidden costs.</p>
+
+  <h4>2. Do I need to install anything?</h4>
+  <p>No, the tool runs directly in your web browser.</p>
+
+  <h4>3. Is my JSON data safe?</h4>
+  <p>Yes, your files are never uploaded — everything happens locally in your browser.</p>
+
+  <h4>4. What databases can I use the SQL output with?</h4>
+  <p>
+    The generated SQL works with MySQL, PostgreSQL, MariaDB, SQLite, SQL Server, and other relational databases.
+  </p>
+
+  <h4>5. Does it support nested JSON structures?</h4>
+  <p>
+    Yes, nested objects and arrays are processed into normalized SQL rows where possible, but deeply complex JSON may require adjustments.
+  </p>
+
+</div>

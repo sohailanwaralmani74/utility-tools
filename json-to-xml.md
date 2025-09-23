@@ -41,3 +41,65 @@ keywords:
 
 <script src="/assets/js/json-to-xml.js"></script>
 
+<div style="margin:4rem">
+
+  <h2>JSON to XML Converter – Free Online Tool</h2>
+  <p>
+    Easily convert <strong>JSON files</strong> into structured <strong>XML format</strong> with this free online converter.  
+    Upload a <code>.json</code> file or paste raw JSON, click convert, and instantly download an <code>.xml</code> file.  
+    The conversion happens securely in your browser, so your data stays private and safe.
+  </p>
+
+  <h3>How It Works</h3>
+  <ol>
+    <li><strong>Upload JSON:</strong> Choose a <code>.json</code> file or paste JSON data.</li>
+    <li><strong>Convert to XML:</strong> The tool parses JSON keys and values into XML tags.</li>
+    <li><strong>Download:</strong> Export the formatted <code>.xml</code> file instantly.</li>
+  </ol>
+  <p>
+    Once loaded, the tool works <strong>offline</strong>, meaning no data is sent to any server.
+  </p>
+
+  <h3>Why Convert JSON to XML?</h3>
+  <ul>
+    <li><strong>Data Exchange:</strong> XML is widely used in enterprise systems and APIs.</li>
+    <li><strong>Compatibility:</strong> Many applications and databases support XML input.</li>
+    <li><strong>Flexibility:</strong> Convert JSON for use in reporting, integrations, or data migration.</li>
+    <li><strong>Security:</strong> Since it runs in your browser, your data remains private.</li>
+  </ul>
+
+  <h3>Key Features</h3>
+
+  <h4>1. Accurate JSON Parsing</h4>
+  <p>
+    Converts JSON objects, arrays, and nested structures into proper XML tags.
+  </p>
+
+  <h4>2. Instant Conversion</h4>
+  <p>
+    Get a downloadable XML file immediately, without waiting or signing up.
+  </p>
+
+  <h4>3. Offline Support</h4>
+  <p>
+    Works offline after the first load, ensuring secure conversion without internet.
+  </p>
+
+  <h3>Frequently Asked Questions (FAQ)</h3>
+
+  <h4>1. Is this JSON to XML converter free?</h4>
+  <p>Yes, it’s completely free to use without any limits.</p>
+
+  <h4>2. Do I need to install software?</h4>
+  <p>No, it runs in your web browser — no installation required.</p>
+
+  <h4>3. Is my JSON data secure?</h4>
+  <p>Yes, your data never leaves your device. The conversion happens locally.</p>
+
+  <h4>4. What can I do with the XML output?</h4>
+  <p>You can use it in APIs, software integrations, databases, or documentation.</p>
+
+  <h4>5. Does it support large JSON files?</h4>
+  <p>Yes, but performance may vary depending on your device and browser capacity.</p>
+
+</div>

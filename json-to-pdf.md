@@ -41,3 +41,77 @@ keywords:
    <div id="pdf-viewer" placeholder="Data Will Be Displayed Here" style="display:none; margin:1rem; width:98%; height: 68vh" editable></div>
 
 <script src="/assets/js/json-to-pdf.js"></script>
+
+<div style="margin:4rem">
+
+  <h2>JSON to PDF Converter – Free Online Tool</h2>
+  <p>
+    Convert your <strong>JSON files</strong> into a clean and readable <strong>PDF document</strong> instantly.  
+    Upload a <code>.json</code> file, click convert, and download a structured PDF version of your data.  
+    Everything runs locally in your browser, so your data stays secure and private.
+  </p>
+
+  <h3>How It Works</h3>
+  <ol>
+    <li><strong>Upload JSON:</strong> Choose a <code>.json</code> file from your device.</li>
+    <li><strong>Format Data:</strong> The tool automatically parses and formats the JSON.</li>
+    <li><strong>Convert:</strong> Instantly generates a well-structured PDF file.</li>
+    <li><strong>Download:</strong> Save the PDF for offline use, sharing, or documentation.</li>
+  </ol>
+
+  <p>
+    Once loaded, the converter works <strong>offline</strong>, ensuring that your files never leave your device.
+  </p>
+
+  <h3>Why Convert JSON to PDF?</h3>
+  <ul>
+    <li><strong>Documentation:</strong> Present JSON data in a more readable PDF format.</li>
+    <li><strong>Sharing:</strong> PDF files are easier to distribute across teams.</li>
+    <li><strong>Archiving:</strong> Store structured JSON in universally accessible PDF format.</li>
+    <li><strong>Security:</strong> Since the tool runs offline, your data remains private.</li>
+  </ul>
+
+  <h3>Key Features</h3>
+
+  <h4>1. JSON to PDF Conversion</h4>
+  <p>
+    Turns raw JSON objects into a properly formatted PDF document.
+  </p>
+
+  <h4>2. Instant Processing</h4>
+  <p>
+    No waiting time – generate PDFs in just a few seconds.
+  </p>
+
+  <h4>3. Works Offline</h4>
+  <p>
+    After loading the tool, no internet connection is required.
+  </p>
+
+  <h4>4. Clean Formatting</h4>
+  <p>
+    Ensures your JSON is well-structured and easy to read in PDF format.
+  </p>
+
+  <h3>Frequently Asked Questions (FAQ)</h3>
+
+  <h4>1. Is the JSON to PDF converter free?</h4>
+  <p>Yes, it’s 100% free with no hidden fees.</p>
+
+  <h4>2. Can I use it without installing software?</h4>
+  <p>Absolutely. It works directly in your web browser.</p>
+
+  <h4>3. Is my JSON data safe?</h4>
+  <p>Yes. The conversion happens locally in your browser, so no files are uploaded.</p>
+
+  <h4>4. What kind of JSON files are supported?</h4>
+  <p>
+    The tool supports standard <code>.json</code> files, including nested objects and arrays.
+  </p>
+
+  <h4>5. Does the output keep JSON formatting?</h4>
+  <p>
+    Yes, the PDF shows properly indented and formatted JSON for readability.
+  </p>
+
+</div>

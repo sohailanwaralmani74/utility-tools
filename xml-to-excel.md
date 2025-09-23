@@ -41,3 +41,66 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
 <div id="table-container" style="  max-height: 70vh; overflow: auto; margin: 1rem;" contenteditable></div>
 
 <script src="/assets/js/xml-to-excel.js"></script>
+
+<div style="margin:4rem">
+
+  <h2>XML to Excel Converter – Free Online Tool</h2>
+  <p>
+    Convert structured <strong>XML files</strong> into clean, usable <strong>Excel spreadsheets</strong> with this free tool.  
+    Upload your <code>.xml</code> file, click convert, and download an <code>.xlsx</code> file in seconds.  
+    All processing happens inside your browser, keeping your data safe and private.
+  </p>
+
+  <h3>How It Works</h3>
+  <ol>
+    <li><strong>Upload XML:</strong> Select an <code>.xml</code> file from your device.</li>
+    <li><strong>Parse & Convert:</strong> The tool reads elements, attributes, and nested nodes.</li>
+    <li><strong>Download Excel:</strong> Click <em>Convert</em> to generate and download a fully structured <code>.xlsx</code> file.</li>
+  </ol>
+  <p>
+    Once loaded, this converter works <strong>offline</strong>, so your XML never leaves your device.
+  </p>
+
+  <h3>Why Convert XML to Excel?</h3>
+  <ul>
+    <li><strong>Better readability:</strong> View XML data in familiar rows and columns.</li>
+    <li><strong>Data analysis:</strong> Use Excel’s formulas, charts, and filters on your XML data.</li>
+    <li><strong>Universal format:</strong> Excel <code>.xlsx</code> files are widely supported for business, academic, and technical workflows.</li>
+    <li><strong>Privacy first:</strong> Conversion is local, with no server uploads.</li>
+  </ul>
+
+  <h3>Key Features</h3>
+
+  <h4>1. XML to XLSX</h4>
+  <p>
+    Automatically generates an Excel spreadsheet from your XML structure, including nested elements.
+  </p>
+
+  <h4>2. Download & Share</h4>
+  <p>
+    Get a standard Excel file you can open in Microsoft Excel, Google Sheets, LibreOffice, or other spreadsheet apps.
+  </p>
+
+  <h4>3. Works Offline</h4>
+  <p>
+    After the page loads once, you can keep converting XML to Excel without internet access.
+  </p>
+
+  <h3>Frequently Asked Questions (FAQ)</h3>
+
+  <h4>1. Is this XML to Excel converter free?</h4>
+  <p>Yes, it’s 100% free to use without limits.</p>
+
+  <h4>2. Do I need to install software?</h4>
+  <p>No, the tool works directly in your browser.</p>
+
+  <h4>3. Will my XML be uploaded to a server?</h4>
+  <p>No, everything runs locally on your device for full privacy.</p>
+
+  <h4>4. Which versions of Excel are supported?</h4>
+  <p>The tool generates <code>.xlsx</code> files, compatible with Excel 2007 and later, as well as Google Sheets and LibreOffice Calc.</p>
+
+  <h4>5. Can it handle large XML files?</h4>
+  <p>Yes, but very large or deeply nested XML structures may depend on your browser and device performance.</p>
+
+</div>
