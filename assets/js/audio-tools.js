@@ -57,7 +57,7 @@ const tools = [
             'Convert amr file to mp3 file',
             'amr audio to mp3',
         ],
-        category: 'video',
+        category: 'audio',
         url: 'amr-to-mp3'
     },
     {
@@ -73,7 +73,7 @@ const tools = [
             'convert m4a file to mp3',
             'm4a to mp3 mac'
         ],
-        category: 'video',
+        category: 'audio',
         url: 'm4a-to-mp3'
     },
     {
@@ -89,9 +89,59 @@ const tools = [
         'convert ogg file to mp3',
         'ogg audio to mp3'
     ],
-    category: 'video',
+    category: 'audio',
     url: 'convert-ogg-to-mp3'
-}
+   },
+   {
+    id: 6,
+    icon: 'fa-music',
+    title: 'AAC To MP3',
+    description: 'Convert AAC to MP3 quickly and securely with our AAC to MP3 converter tool. 100% browser-based, no upload required.',
+    tags: [
+        'aac to mp3',
+        'convert aac to mp3',
+        'aac to mp3 converter',
+        'change aac to mp3',
+        'convert aac file to mp3',
+        'aac audio to mp3'
+    ],
+    category: 'audio',
+    url: 'aac-to-mp3'
+   },
+   {
+    id: 7,
+    icon: 'fa-music',
+    title: 'OPUS To MP3',
+    description: 'Convert OPUS to MP3 quickly and securely with our OPUS to MP3 converter tool. Works directly in your browser.',
+    tags: [
+        'opus to mp3',
+        'convert opus to mp3',
+        'opus to mp3 converter',
+        'change opus to mp3',
+        'convert opus file to mp3',
+        'opus audio to mp3'
+    ],
+    category: 'video',
+    url: 'opus-to-mp3'
+   },
+   {
+    id: 8,
+    icon: 'fa-music',
+    title: 'ALAC To MP3',
+    description: 'Convert ALAC (Apple Lossless) to MP3 quickly and securely in your browser. No upload required — conversions happen on your device.',
+    tags: [
+        'alac to mp3',
+        'convert alac to mp3',
+        'convert .alac to mp3',
+        'alac to mp3 converter',
+        'alac file to mp3',
+        'apple lossless to mp3'
+    ],
+    category: 'audio',
+    url: 'alac-to-mp3'
+    }
+
+
 
 ];
 

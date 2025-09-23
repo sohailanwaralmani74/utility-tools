@@ -60,6 +60,9 @@ No signup, no watermarks, no hidden costs — just fast and secure conversions.
 - [OGG to MP3](https://reptilebirds.com/convert-ogg-to-mp3)  
 - [MP3 to MP4 with Image](https://reptilebirds.com/mp3-to-mp4-with-image)  
 - [Audio Converter (all formats)](https://reptilebirds.com/audio-converter)  
+- [AAC to MP3](https://reptilebirds.com/aac-to-mp3)  
+- [OPUS to MP3](https://reptilebirds.com/opus-to-mp3)  
+- [ALAC to MP3](https://reptilebirds.com/alac-to-mp3)  
 
 ---
 
