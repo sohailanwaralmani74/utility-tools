@@ -28,8 +28,8 @@ const tools = [
     {
         id: 2,
         icon: 'fa-font',
-        title: 'Create Video from Image and Audio',
-        description: 'Turn your images and audio into MP4 videos instantly. Upload a picture, add music or narration, and create stunning videos directly in your browser. Perfect for YouTube, social media, and presentations — no software needed.',
+        title: 'MP3 To MP4 With Image',
+        description: 'Turn your images and mp3 into MP4 videos instantly. Upload a picture, add music or narration, and create stunning videos directly in your browser. Perfect for YouTube, social media, and presentations — no software needed.',
         tags: [
             'MP3 to MP4 with Image',
             'MP3 to MP4 Image',
@@ -43,9 +43,8 @@ const tools = [
             'Make MP4 from Image and Sound'
         ],
         category: 'video',
-        url: 'create-video-from-image-and-audio'
+        url: 'mp3-to-mp4-with-image'
     },
-
     {
         id: 3,
         icon: 'fa-font',
@@ -60,6 +59,22 @@ const tools = [
         ],
         category: 'video',
         url: 'amr-to-mp3'
+    },
+    {
+        id: 4,
+        icon: 'fa-font',
+        title: 'M4A To MP3',
+        description: 'Convert m4a to mp3 faster with m4a to mp3 converter. Converting m4a to mp3 is relaible with reptile birds tool',
+        tags: [
+            'm4a to mp3',
+            'change m4a to mp3',
+            'convert m4a to mp3',
+            'm4a to mp3 converter',
+            'convert m4a file to mp3',
+            'm4a to mp3 mac'
+        ],
+        category: 'video',
+        url: 'm4a-to-mp3'
     }
 ];
 
