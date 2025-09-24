@@ -112,3 +112,14 @@ description: Convert m4a to mp3 without uploading file to backend. Fast, private
     Ready to <strong>convert M4A file to MP3</strong>? Use our free <strong>M4A to MP3 converter</strong> today and make your audio universally accessible — fast, secure, and easy.
   </p>
 </section>
+<h2>🎵 Audio & Video Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
+  <li><a href="https://reptilebirds.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>
+  <li><a href="https://reptilebirds.com/mp3-to-mp4-with-image" style="color:#0645ad; text-decoration:underline;">MP3 to MP4 with Image</a></li>
+  <li><a href="https://reptilebirds.com/audio-converter" style="color:#0645ad; text-decoration:underline;">Audio Converter (all formats)</a></li>
+  <li><a href="https://reptilebirds.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
+  <li><a href="https://reptilebirds.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
+  <li><a href="https://reptilebirds.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
+  <li><a href="https://reptilebirds.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
+</ul>

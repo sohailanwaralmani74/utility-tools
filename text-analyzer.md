@@ -480,4 +480,12 @@ keywords: text analyzer, text analyser, text analysis, word counter, lexical ana
             analysis.</li>
     </ul>
 </div>
+
+<h2>Other Text Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/lrem-ipsum-generator" style="color:#0645ad; text-decoration:underline;">Lorem Ipsum Generator</a></li>
+  <li><a href="https://reptilebirds.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">MD Editor</a></li>
+  <li><a href="https://reptilebirds.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
+</ul>
+
 <script src="/assets/js/essay-word-counter.js"></script>

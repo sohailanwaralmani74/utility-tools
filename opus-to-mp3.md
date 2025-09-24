@@ -106,3 +106,14 @@ description: Convert OPUS to MP3 instantly in your browser. Fast, secure, and pr
     hit convert, and enjoy universal MP3 compatibility within seconds.
   </p>
 </section>
+<h2>🎵 Audio & Video Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
+  <li><a href="https://reptilebirds.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
+  <li><a href="https://reptilebirds.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>
+  <li><a href="https://reptilebirds.com/mp3-to-mp4-with-image" style="color:#0645ad; text-decoration:underline;">MP3 to MP4 with Image</a></li>
+  <li><a href="https://reptilebirds.com/audio-converter" style="color:#0645ad; text-decoration:underline;">Audio Converter (all formats)</a></li>
+  <li><a href="https://reptilebirds.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
+  <li><a href="https://reptilebirds.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
+  <li><a href="https://reptilebirds.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
+</ul>

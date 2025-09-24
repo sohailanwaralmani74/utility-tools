@@ -138,65 +138,16 @@ For more ideas on micro SaaS products targeting specific needs, sites like <a hr
 
 <br>
 
-### You May Also Like
+<h2>💼 Business & Productivity Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
+  <li><a href="https://reptilebirds.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
+  <li><a href="https://reptilebirds.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
+  <li><a href="https://reptilebirds.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
+  <li><a href="https://reptilebirds.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
+  <li><a href="https://reptilebirds.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
+  <li><a href="https://reptilebirds.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
+  <li><a href="https://reptilebirds.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
+</ul>
 
-<br>
 
-I have created few tools that are free and totaly browser based. Just load the page and disconnect. None of user data is sent to server or backend.
-
-<br>
-
-<section>
-        <div>
-            <a href="/meta-data-remover">
-                <div class="feature-card">
-                    <h2>Metadata Remover - Remove Metadata from PDFs & Images</h2>
-                    <p>Securely erase hidden metadata from sensitive files with one click. Remove <strong>EXIF
-                            data</strong> (GPS locations, camera models, timestamps), <strong>PDF author
-                            details</strong>, and embedded comments to protect your privacy. Supports JPG, PNG, WebP,
-                        and PDF formats. Ideal for scrubbing geotags from social media photos, anonymizing documents
-                        before sharing, or complying with GDPR/CCPA regulations. All processing happens <strong>directly
-                            in your browser</strong> – files never leave your device, and no data is stored. Clean
-                        single files or batches effortlessly, with guaranteed preservation of original quality.</p>
-                </div>
-            </a>
-        </div>
-    </section>
-
-<br>
-
-<section >
-        <div >
-            <a href="/diff-checker">
-                <div class="feature-card">
-                    <h2>Diff Checker - Compare Text, JSON & CSV Side-by-Side</h2>
-                    <p>Identify changes between documents with <strong>precision highlighting</strong>. Compare
-                        <strong>text files</strong> line-by-line, <strong>JSON structures</strong> key-by-key, or
-                        <strong>CSV datasets</strong> cell-by-cell. Visualize differences with <strong>color-coded
-                            outputs</strong> (additions in green, deletions in red, changes in yellow). Supports
-                        <strong>syntax-aware comparison</strong> for code and structured data. All processing occurs
-                        <strong>entirely in your browser</strong> – no file uploads, no server processing, and complete
-                        data privacy. Ideal for version control reviews, data validation, or debugging configuration
-                        files.</p>
-                </div>
-            </a>
-        </div>
-    </section>
-<br>
-
-<section >
-        <div >
-            <a href="/meta-data-remover">
-                <div class="feature-card">
-                    <h2>Metadata Remover - Scrub Metadata from PDFs & Images</h2>
-                    <p>Securely erase hidden metadata from sensitive images with one click. Remove <strong>EXIF
-                            data</strong> (GPS locations, camera models, timestamps), <strong>PDF author
-                            details</strong>, and embedded comments to protect your privacy. Supports JPG, PNG, WebP,
-                        and PDF formats. Ideal for scrubbing geotags from social media photos, anonymizing documents
-                        before sharing, or complying with GDPR/CCPA regulations. All processing happens <strong>directly
-                            in your browser</strong> – files never leave your device, and no data is stored. Clean
-                        single files or batches effortlessly, with guaranteed preservation of original quality.</p>
-                </div>
-            </a>
-        </div>
-    </section>

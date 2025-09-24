@@ -522,3 +522,11 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
     Whether you're building websites, crafting marketing assets, or testing designs, our <strong>Lrem Ipsum Generator</strong> saves time and makes development easier. Try it now and never copy-paste from outdated generators again.
   </p>
 </section>
+
+<h2>Other Text Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">MD Editor</a></li>
+  <li><a href="https://reptilebirds.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
+  <li><a href="https://reptilebirds.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
+</ul>
+

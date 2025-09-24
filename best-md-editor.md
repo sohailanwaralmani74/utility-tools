@@ -281,7 +281,7 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
 <div style="margin: 4rem;">
   <h1>Markdown Editor Tool: Write and Format with Ease</h1>
 
-  <p>Welcome to our <strong>Markdown Editor Tool</strong> at <a href="https://reptilebirds.com/md-editor">reptilebirds.com/md-editor</a>! Right here, you can write, edit, and format Markdown (.md) files with a simple, browser-based interface that works <strong>offline</strong> after loading. Perfect for bloggers, developers, or anyone creating web content, our tool lets you craft Markdown documents and export them to HTML, PDF, or other formats without sending data to servers. Explore how our editor simplifies your writing below and start creating now!</p>
+  <p>Welcome to our <strong>Markdown Editor Tool</strong> at Best MD Editor! Right here, you can write, edit, and format Markdown (.md) files with a simple, browser-based interface that works <strong>offline</strong> after loading. Perfect for bloggers, developers, or anyone creating web content, our tool lets you craft Markdown documents and export them to HTML, PDF, or other formats without sending data to servers. Explore how our editor simplifies your writing below and start creating now!</p>
 
   <h2>Markdown Editor: Create Web-Ready Content Effortlessly</h2>
   <p>Our <strong>Markdown editor</strong> makes writing web content a breeze. Type or paste your Markdown here to create formatted text with headers, lists, links, and more, all with a live preview. Ideal for bloggers or content creators, it supports GitHub Flavored Markdown (GFM) for tables and code blocks. Export to HTML or PDF instantly, even offline. I used this tool to draft a blog post last week. I typed my Markdown, saw the formatted preview, and exported it as HTML for my CMS—all without Wi-Fi. With no server uploads, your data stays private. Start writing in our <strong>free Markdown editor</strong> on this page and see how easy it is!</p>
@@ -334,6 +334,14 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
   </ul>
 
 </div>
+
+<h2>Other Usefull Text Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/lrem-ipsum-generator" style="color:#0645ad; text-decoration:underline;">Lorem Ipsum Generator</a></li>
+  <li><a href="https://reptilebirds.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
+  <li><a href="https://reptilebirds.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
+</ul>
+
 <script src="/assets/js/md.js"></script>
 
 <script type="application/ld+json">

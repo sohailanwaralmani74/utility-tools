@@ -785,14 +785,14 @@ All tools respect privacy:
 
 <br>
 
-## We Have Some Free Usefull Tools
-
-[Excel CSV Converter](/excel-csv-converter) | [JSON Converter](/json-converter) | [XML Converter](/xml-converter) | [PDF & Image Converter](/pdf-image-converter)
-
-<br>
-
-[File Compressor](/file-compressor) | [Meta Data Remover](/meta-data-remover) | [Image Redactor](/image-redactor)
-
-<br>
-
-[Create Video from Image & Audio](/create-video-from-image-and-audio) |[Markdown Editor](/md-editor) | [Diff Checker](/diff-checker)
+<h2>💼 Business & Productivity Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
+  <li><a href="https://reptilebirds.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
+  <li><a href="https://reptilebirds.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
+  <li><a href="https://reptilebirds.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
+  <li><a href="https://reptilebirds.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
+  <li><a href="https://reptilebirds.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
+  <li><a href="https://reptilebirds.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
+  <li><a href="https://reptilebirds.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
+</ul>
