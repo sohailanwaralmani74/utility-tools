@@ -1,9 +1,25 @@
 ---
 layout: main
 title: Free Online XML Editor & Converter To Any Formats
-description: Easily convert XML files to various formats like XLSX, XLS, JSON, PDF (RAW), PDF (Table), and CSV. Free online XML converter.
-keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert xml to pdf raw, convert xml to pdf table, convert xml to csv, xml to xlsx, xml to xls, xml to json, xml to pdf raw, xml to pdf table, xml to csv, online xml converter, xml file converter, free xml converter
+description: Convert XML to JSON easily with our free xml-to-json tool. Quick, reliable, and works in your browser without sending data online.
+keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online XML to JSON tool, free XML to JSON
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "XML to JSON",
+  "url": "https://reptilebirds.com/xml-to-json",
+  "applicationCategory": "Utility",
+  "operatingSystem": "Web",
+  "description": "Convert XML to JSON easily with our free xml-to-json tool. Quick, reliable, and works in your browser without sending data online.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
@@ -111,3 +127,10 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
   <p>The converter uses standard, predictable mappings (attributes as keys, repeated elements as arrays). If you need a custom mapping, you can edit the JSON after conversion.</p>
 
 </div>
+<h2>More XML Conversion Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/xml-to-csv" style="color:#0066cc; text-decoration:underline;">XML to CSV</a></li>
+  <li><a href="https://reptilebirds.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
+  <li><a href="https://reptilebirds.com/xml-to-pdf" style="color:#0066cc; text-decoration:underline;">XML to PDF</a></li>
+  <li><a href="https://reptilebirds.com/xml-to-sql" style="color:#0066cc; text-decoration:underline;">XML to SQL</a></li>
+</ul>

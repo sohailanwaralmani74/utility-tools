@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Convert Excel To HTML Offline Free
-description: Converter and metadata scrubber, Along with png to jpeg, wav to mp3, Recet Image & Much more;
-keywords: 
+description: Convert Excel to HTML instantly with our free browser-based excel-to-html tool. Fast, secure, and works without uploading your files online.
+keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, online Excel to HTML tool, free Excel to HTML
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
@@ -79,6 +79,15 @@ keywords:
   <p>Yes. Since everything runs locally in your browser, your files are never uploaded anywhere.</p>
 
 </div>
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+</ul>
 
 <script type="application/ld+json">
 {

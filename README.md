@@ -63,6 +63,8 @@ No signup, no watermarks, no hidden costs — just fast and secure conversions.
 - [AAC to MP3](https://reptilebirds.com/aac-to-mp3)  
 - [OPUS to MP3](https://reptilebirds.com/opus-to-mp3)  
 - [ALAC to MP3](https://reptilebirds.com/alac-to-mp3)  
+- [AIFF to MP3](https://reptilebirds.com/aiff-to-mp3)
+
 
 ---
 

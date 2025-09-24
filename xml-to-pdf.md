@@ -1,9 +1,25 @@
 ---
 layout: main
 title: Free Online XML Editor & Converter To Any Formats
-description: Easily convert XML files to various formats like XLSX, XLS, JSON, PDF (RAW), PDF (Table), and CSV. Free online XML converter.
-keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert xml to pdf raw, convert xml to pdf table, convert xml to csv, xml to xlsx, xml to xls, xml to json, xml to pdf raw, xml to pdf table, xml to csv, online xml converter, xml file converter, free xml converter
+description: Convert XML to PDF instantly with our free xml-to-pdf tool. Fast, private, and works completely in your browser with no uploads.
+keywords: xml-to-pdf, XML to PDF converter, convert XML files to PDF, online XML to PDF tool, free XML to PDF
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "XML to PDF",
+  "url": "https://reptilebirds.com/xml-to-pdf",
+  "applicationCategory": "Utility",
+  "operatingSystem": "Web",
+  "description": "Convert XML to PDF instantly with our free xml-to-pdf tool. Fast, private, and works completely in your browser with no uploads.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>
 
 <!-- jsPDF CDN -->
 <!-- Include jsPDF -->
@@ -106,3 +122,11 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
   </p>
 
 </div>
+
+<h2>More XML Conversion Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/xml-to-csv" style="color:#0066cc; text-decoration:underline;">XML to CSV</a></li>
+  <li><a href="https://reptilebirds.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
+  <li><a href="https://reptilebirds.com/xml-to-json" style="color:#0066cc; text-decoration:underline;">XML to JSON</a></li>
+  <li><a href="https://reptilebirds.com/xml-to-sql" style="color:#0066cc; text-decoration:underline;">XML to SQL</a></li>
+</ul>

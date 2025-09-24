@@ -121,6 +121,26 @@ const tools = [
     category: 'universal',
     url: 'excel-csv-converter'
   },
+
+    {
+    id: 14,
+    icon: 'fa-font',
+    title: 'CSV To JSON',
+    description: 'Convert csv to json without installation, offline and free, csv to json converter works faster and loads imediatly',
+    tags: [
+      'CSV converter',
+      'convert CSV',
+      'CSV to Json file',
+      'CSV file to josn',
+      'CSV to json converter',
+      'CSV to JSON',
+      'CSV to json text',
+      'offline CSV converter',
+      'universal CSV converter'
+    ],
+    category: 'csv',
+    url: 'convert-csv-to-json'
+  },
 ];
 
         

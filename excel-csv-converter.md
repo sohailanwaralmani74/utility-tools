@@ -52,7 +52,6 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
         <label for="file-input" class="upload-label">Upload Excel / CSV File</label>
         <input type="file" id="file-input" accept=".xlsx,.xls, .csv">
     </div>
-
     <div id="loader" style="display:none;">⏳ Loading file...</div>
     <div style="width: 100%; justify-content: center; margin-top: 1rem; position: sticky; display:none;"
         id="exportOptions">

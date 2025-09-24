@@ -139,7 +139,41 @@ const tools = [
     ],
     category: 'audio',
     url: 'alac-to-mp3'
+    },
+    {
+    id: 10,
+    icon: 'fa-music',
+    title: 'AIFF To MP3',
+    description: 'Convert AIFF audio files to MP3 securely in your browser. No uploads, fast conversion, full privacy.',
+    tags: [
+        'aiff to mp3',
+        'convert aiff to mp3',
+        'aiff file to mp3',
+        'aif to mp3',
+        'aiff to mp3 converter',
+        'convert .aiff to mp3'
+    ],
+    category: 'audio',
+    url: 'aiff-to-mp3'
+    },
+    {
+    id: 10,
+    icon: 'fa-music',
+    title: 'CAF To MP3',
+    description: 'Convert CAF (Core Audio Format) to MP3 quickly and privately in your browser. No uploads — conversions run on your device.',
+    tags: [
+        'caf to mp3',
+        'convert caf to mp3',
+        'change caf to mp3',
+        'convert .caf to mp3',
+        'caf audio to mp3',
+        'core audio format to mp3'
+    ],
+    category: 'audio',
+    url: 'caf-to-mp3'
     }
+
+
 
 
 

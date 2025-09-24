@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Convert Excel To JSON Offline
-description: Convert excel files into json files. Excel to json converter works within browser so no data leaks, private, fast and secure.
-keywords: 
+description: Convert Excel to JSON easily with our free browser-based excel-to-json tool. Fast, secure, and works offline without uploading your files online.
+keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, online Excel to JSON tool, free Excel to JSON
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
@@ -106,6 +106,18 @@ keywords:
   <p>This tool is designed for developers, data analysts, students, and anyone needing quick Excel to JSON conversions.</p>
 
 </div>
+
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+</ul>
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Convert JSON To SQL Offline Free
-description: Converter and metadata scrubber, Along with png to jpeg, wav to mp3, Recet Image & Much more;
-keywords: 
+description: Convert JSON to SQL effortlessly with our free json-to-sql tool. Fast, reliable, and perfect for developers and database integration.
+keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online JSON to SQL tool, free JSON to SQL
 ---
 <script src="https://cdn.jsdelivr.net/npm/sql-formatter@12.2.0/dist/sql-formatter.min.js"></script>
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -113,3 +113,30 @@ keywords:
   </p>
 
 </div>
+
+<h2>Other Useful Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://reptilebirds.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://reptilebirds.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://reptilebirds.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="https://reptilebirds.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+</ul>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "JSON to SQL",
+  "url": "https://reptilebirds.com/json-to-sql",
+  "applicationCategory": "Utility",
+  "operatingSystem": "Web",
+  "description": "Convert JSON to SQL effortlessly with our free json-to-sql tool. Fast, reliable, and perfect for developers and database integration.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

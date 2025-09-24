@@ -2,7 +2,7 @@
 layout: main
 title: AAC To MP3 - Convert .aac to .mp3
 keywords: aac to mp3, .aac to mp3, convert aac to mp3, convert .aac to mp3 online, aac audio to mp3
-description: Convert AAC to MP3 without uploading file to backend. Fast, private, browser-based audio converter.
+description: Convert AAC to MP3 instantly with our free browser-based tool. No uploads, fast, secure, and easy to use.
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
 
@@ -106,3 +106,19 @@ description: Convert AAC to MP3 without uploading file to backend. Fast, private
     this free online tool. Get your MP3 ready to play on any device in seconds.
   </p>
 </section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "AAC to MP3 Converter",
+  "url": "https://reptilebirds.com/aac-to-mp3",
+  "applicationCategory": "MultimediaApplication",
+  "operatingSystem": "Web",
+  "description": "Convert AAC audio files to MP3 instantly with our free browser-based tool. No uploads, fast, secure, and easy to use.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  }
+}
+</script>

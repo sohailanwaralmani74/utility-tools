@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Convert XLSX To CSV Offline
-description: Converter and metadata scrubber, Along with png to jpeg, wav to mp3, Recet Image & Much more;
-keywords: 
+description: Convert XLSX to CSV instantly with our free browser-based convert-xlsx-to-csv tool. Fast, secure, and works without uploading your files online.
+keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV, online XLSX to CSV tool, free XLSX to CSV
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
@@ -86,6 +86,7 @@ keywords:
   <p>Yes. Your XLSX file never leaves your device, as the conversion is done locally.</p>
 
 </div>
+
 
 <script type="application/ld+json">
 {

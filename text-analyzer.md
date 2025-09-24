@@ -2,7 +2,7 @@
 layout: main
 title: Text Analyzer - Analyse Your Text For Accuracy.
 description: Free online text analyzer that counts words, characters, sentences & more. Easily check word count in Wordor text, with accurate writing time stats.
-keywords: text analyzer, text analyser, text analysis, word counter, lexical analyzer
+keywords: text analyzer, text analyser, text analysis, word counter, lexical analyzer, free word counter, best word counter in world
 ---
 <script src="/assets/js/jspdf.umd.min.js"></script>
 

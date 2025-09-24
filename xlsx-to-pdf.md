@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Convert XLSX To PDF Offline Free
-description: Convert xlsx to pdf faster and privatly. no files leave your device.
-keywords: 
+description: Convert XLSX to PDF instantly with our free xlsx-to-pdf tool. Fast, secure, and works directly in your browser without uploading files online.
+keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online XLSX to PDF tool, free XLSX to PDF
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
@@ -90,6 +90,17 @@ keywords:
   <p>Absolutely. The tool processes your XLSX locally in your browser, so your data never leaves your device.</p>
 
 </div>
+
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+</ul>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

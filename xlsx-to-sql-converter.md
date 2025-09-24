@@ -1,8 +1,8 @@
 ---
 layout: main
 title: Convert XLSX To SQL Offline Free
-description: Converter and metadata scrubber, Along with png to jpeg, wav to mp3, Recet Image & Much more;
-keywords: 
+description: Convert XLSX to SQL instantly with our free xlsx-to-sql-converter tool. Fast, reliable, and works directly in your browser without uploading files online.
+keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQL, online XLSX to SQL tool, free XLSX to SQL
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
@@ -80,6 +80,15 @@ keywords:
 
 </div>
 
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+</ul>
 
 <script type="application/ld+json">
 {
