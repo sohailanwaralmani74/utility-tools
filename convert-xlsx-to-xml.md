@@ -6,10 +6,6 @@ keywords: convert-xlsx-to-xml, XLSX to XML converter, convert Excel XLSX to XML,
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
-
-<h1>Convert XLSX To XML | Edit And Export</h1>
-
-
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">
         <label for="file-input" class="upload-label">Upload Excel File</label>

@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Reptile Birds Contributer - Professional Team
-description: Authors And Developers Of Blog. See all the professional Contributers To Reptile Birds
+description: Authors And Developers Of Reptile Birds Tools And Software utilities. See all the professional Contributers To Reptile Birds.
 keywords: blog authors, Blog developers, Software Developer, Software engineer, Java Developer, Angular Develpers
 ---
 

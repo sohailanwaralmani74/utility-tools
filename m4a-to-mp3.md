@@ -2,7 +2,7 @@
 layout: main
 title: M4A To MP3 - Convert .m4a to .mp3
 keywords: m4a to mp3, .m4a to mp3, m4a to .pm3, convert m4a to mp3, convert .m4a to mp3,
-description: Convert m4a to mp3 without uploading file to backend. Fast, private, browser-based audio converter.  
+description: Convert m4a to mp3 without uploading file to backend. Fast, private, browser-based audio converter. m4a to mp3 converter works on any browser.
 ---   
 <script src="/assets/js/ffmpeg.min.js"></script>
 

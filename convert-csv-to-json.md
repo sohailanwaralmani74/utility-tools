@@ -11,8 +11,6 @@ keywords: Convert CSV To JSON, Convert CSV file To JSON, Convert CSV To JSON fil
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 
-<h1>Convert CSV To JSON Faster On The Fly</h1>
-
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">

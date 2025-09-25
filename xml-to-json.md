@@ -1,9 +1,11 @@
 ---
 layout: main
-title: Free Online XML Editor & Converter To Any Formats
+title: Free Online XML To JSON Converter
 description: Convert XML to JSON easily with our free xml-to-json tool. Quick, reliable, and works in your browser without sending data online.
 keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online XML to JSON tool, free XML to JSON
 ---
+<h1>Convert XML to JSON Easily With SIngle Click</h1>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

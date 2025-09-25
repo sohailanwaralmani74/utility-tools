@@ -2,7 +2,7 @@
 layout: main
 title: OGG To MP3 - Convert .ogg to .mp3
 keywords: ogg to mp3, .ogg to mp3, convert ogg to mp3, convert .ogg to mp3 online
-description: Convert OGG to MP3 without uploading file to backend. Fast, private, browser-based audio converter.
+description: Convert OGG to MP3 without uploading file to backend. Fast, private, browser-based audio converter. OGG to MP3 converter is faster and secure.
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
 

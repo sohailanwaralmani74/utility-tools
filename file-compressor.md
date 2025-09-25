@@ -1,8 +1,8 @@
 ---
 layout: main
 title: File Compressor - Compress Files Without loosing Quality
-keywords: compress pdf, compress csv, compress image, compress word, add file to zip online, compress files to zip online
-description: Compress files to same format without loosing data even in zip, gzip, 7zip etc.
+keywords: compress pdf, compress csv, compress image, compress word, add file to zip online, compress files to zip online.
+description: Compress files to same format without loosing data even in zip, gzip, 7zip etc. Compress file to the original format or pack it into zip.
 ---
     
 <script src="/assets/js/index.js"></script>

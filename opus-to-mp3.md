@@ -2,7 +2,7 @@
 layout: main
 title: OPUS To MP3 - Convert .opus to .mp3
 keywords: opus to mp3, .opus to mp3, convert opus to mp3, opus audio to mp3, convert .opus to mp3 online
-description: Convert OPUS to MP3 instantly in your browser. Fast, secure, and private — no file upload required.
+description: Convert OPUS to MP3 instantly in your browser. Fast, secure, and private — no file upload required. OPUS to MP3 is relaible and easy to use tool.
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
 

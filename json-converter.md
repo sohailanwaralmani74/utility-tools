@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Online JSON Editor & Converter | Edit, View, and Export JSON
-description: Edit And Convert JSON to CSV, XLSX, XLS, TXT, HTML, PDF, XML, or SQL formats.
+description: Json Converter Allows You To Edit And Convert JSON to CSV, XLSX, XLS, TXT, HTML, PDF, XML, or SQL formats. All Conversion Happens In Your Browser.
 keywords: json editor online, json to csv, json to xlsx, json to xls, json to txt, json to html, json to pdf, json to xml, json to sql, convert json online, json viewer and editor, edit json, online json formatter, export json, json converter tool, browser based json tool, paste json and convert
 ---
 

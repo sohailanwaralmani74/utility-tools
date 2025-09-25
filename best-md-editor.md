@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Online Markdown Editor with Live Preview & Export
-description: Free browser-based Markdown editor with real-time preview. Supports tables, code blocks.
+title: Online Best Markdown Editor with Live Preview & Export
+description: Best Markdown editor with real-time preview. Supports tables, code blocks. Export data into .md or .txt, or view it in preview editor.
 keywords: markdown editor, online markdown, md editor, github markdown, live preview markdown, browser-based editor, md editor online
 ---
 

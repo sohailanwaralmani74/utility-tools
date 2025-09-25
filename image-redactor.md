@@ -90,6 +90,7 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
     Explore more free online privacy tools:  
     <a href="/file-compressor">File Compressor</a> | 
     <a href="/meta-data-remover">Metadata Remover</a>
+    <a href="/jpg-to-jpeg">Convert JPG To JPEG</a>
   </p>
 
   <!-- JSON-LD Schema for Image Redactor -->

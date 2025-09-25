@@ -2,7 +2,7 @@
 layout: main
 title: AIFF To MP3 Converter- Convert .aiff to .mp3
 keywords: aiff to mp3, .aiff to mp3, convert aiff to mp3, convert .aiff to mp3 online
-description: AIFF to MP3 Converter works directly in your browser. Fast, private, and no uploads to any server.
+description: AIFF to MP3 Converter works directly in your browser. Fast, private, and no uploads to any server. Convert AIFF to MP3 without loosing quality.
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
 

@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Online Utility Tools For Small Tasks
-description: Converter and metadata scrubber, Along with png to jpeg, wav to mp3, Recet Image & Much more;
+title: Software And Technology Blog
+description: Find Articles On Open source software, nearshore software development companies, Alternatives to proprietry software applications and more on tech.
 ---
 <section style="width: 100%;">
     <h1>Find The Detailed Blog Posts On Software And Open Source</h1>

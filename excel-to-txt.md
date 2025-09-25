@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert Excel To TXT Offline
-description: Convert excel to text in clean and managed way. every rw displayd on new line with clean format.
+description: Convert excel to txt in clean and managed way. every rw displayd on new line with clean format. Excel to txt works on fly, No installation required.
 keywords: Convert excel to text, excel to text, Convert excel file to text, Convert excel to text file, Convert excel file to text file, excel to text converter
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>

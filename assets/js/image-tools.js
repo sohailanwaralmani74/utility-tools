@@ -8,15 +8,15 @@ const tools = [
     category: 'excel',
     url:'pdf-image-converter'
   },
-//   {
-//     id: 1,
-//     icon: 'fa-font',
-//     title: 'PNG Format Converter',
-//     description: 'This is a powerful PNG format converter. Easily convert from PNG to various formats and more.',
-//     tags: ['PNG Converter', 'PNG Format Converter', 'Convert PNG To'],
-//     category: 'PNG',
-//     url: 'png-converter'
-//   },
+  {
+    id: 1,
+    icon: 'fa-font',
+    title: 'JPG TO JPEG Converter',
+    description: 'This is a powerful JPG format converter. Easily convert from jpg to various formats and more.',
+    tags: ['jpg to jpeg Converter', 'jpg Format Converter', 'jpg To jpeg'],
+    category: 'jpg',
+    url: 'jpg-to-jpeg'
+  },
 //   {
 //     id: 2,
 //     icon: 'fa-font',

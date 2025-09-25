@@ -10,8 +10,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   "@type": "SoftwareApplication",
   "name": "Lrem Ipsum Generator",
   "applicationCategory": "DeveloperTool",
-  "operatingSystem": "All",
-  "browserRequirements": "Requires JavaScript. Works offline after page load.",
+  "operatingSystem": "web",
   "description": "Lrem Ipsum Generator is a fast, secure, and offline-capable tool that generates placeholder text for designers, developers, and content creators. Create dummy text instantly in paragraphs, sentences, or word format.",
   "url": "https://reptilebirds.com/lrem-ipsum-generator",
   "featureList": [

@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Online Audio Tools For Small Tasks
-description: Audio tools to convert audio file format, creating videos by combining audio and images and so on;
+description: Audio tools to convert all possible formats quickly and securely. Easily change audio file types, Convert mp3 to mp4 with images, and explore more sound utilities.
 ---
 
 <section style="width: 100%;">

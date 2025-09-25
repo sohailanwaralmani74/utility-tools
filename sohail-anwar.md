@@ -133,7 +133,7 @@ layout: main
   <script type="application/ld+json">
   {
     "@context":"https://schema.org",
-    "@type":"Resume",
+    "@type":"Person",
     "name":"Sohail Anwar Almani",
     "url":"https://reptilebirds.com/sohail-anwar",
     "email":"mailto:sohailanwaralmani74@gmail.com",
