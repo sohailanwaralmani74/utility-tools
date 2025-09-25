@@ -9,3 +9,5 @@ group :jekyll_plugins do
   gem "jekyll-toc"
   gem "jekyll-livereload"
 end
+
+gem "jekyll-redirect-from", "~> 0.16.0"

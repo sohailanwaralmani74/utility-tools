@@ -32,6 +32,7 @@ plugins:
   - jemoji
   - jekyll-toc
   - jekyll-livereload
+  - jekyll-redirect-from
 toc:
   min_level: 2  # Adjust if you want to skip h1
   max_level: 6
