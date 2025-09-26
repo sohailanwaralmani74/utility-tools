@@ -20,13 +20,13 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
         "url": "https://reptilebirds.com/assets/images/logo.jpg"
       }
     },
-    "softwareApplication": {
+    "SoftwareApplication": {
       "@type": "SoftwareApplication",
       "name": "XML Converter Tool",
       "operatingSystem": "Web-based",
       "applicationCategory": "Conversion Software",
       "url": "https://reptilebirds.com/xml-converter",
-      "features": [
+      "featureList": [
         "Convert XML to XLSX",
         "Convert XML to XLS",
         "Convert XML to JSON",

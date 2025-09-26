@@ -224,6 +224,10 @@ A selection of elite nearshore software development firms exists that demonstrat
 
 <br>
 
+[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+
+<br>
+
 
 <h2>💼 Business & Productivity Tools</h2>
 <ul>

@@ -17,7 +17,6 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
   "description": "A web-based utility to convert XLSX and CSV files into XLS, CSV, JSON, TXT, HTML, PDF, XML, SQL and vice versa—no installs, no plugins.",
   "applicationCategory": "Utility",
   "operatingSystem": "All",
-  "browserRequirements": "Requires JavaScript enabled",
   "featureList": [
     "Convert XLSX to XLS",
     "Convert XLSX to CSV",

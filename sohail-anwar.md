@@ -129,35 +129,4 @@ layout: main
     <p>Present Location: Karachi, Sindh, Pakistan</p>
   </div>
 
-  <!-- JSON-LD Structured Data -->
-  <script type="application/ld+json">
-  {
-    "@context":"https://schema.org",
-    "@type":"Person",
-    "name":"Sohail Anwar Almani",
-    "url":"https://reptilebirds.com/sohail-anwar",
-    "email":"mailto:sohailanwaralmani74@gmail.com",
-    "sameAs":[
-      "https://www.linkedin.com/in/sohail-anwar-a63063162/",
-      "https://github.com/sohailanwaralmani74"
-    ],
-    "hasOccupation":{
-      "@type":"Occupation",
-      "name":"Consultant, Java Applications",
-      "hiringOrganization":{"@type":"Organization","name":"Systems LTD."}
-    },
-    "skills":["Spring Boot","Microservices","Java","Angular","Hibernate","ATG","DevOps"],
-    "workExperience":[
-      {"@type":"WorkExperience","roleName":"Consultant, Java Applications","startDate":"2021-11","endDate":"Present","description":"Architected mortgage loan management systems for Etisalat UAE clients."},
-      {"@type":"WorkExperience","roleName":"Software Engineer","startDate":"2019-01","endDate":"2020-03","description":"Developed SRS project management tool with payment and analytics integrations."}
-    ],
-    "projects":[
-      {"@type":"CreativeWork","name":"VisiClaims","description":"Mortgage loan management system to claim loans. Technologies: Struts 1, Jersey, Java 17; later revamped into Spring Boot & Angular 15."},
-      {"@type":"CreativeWork","name":"VisiRepurchase","description":"Mortgage loan management system to repurchase loans. Technologies: Struts 1, Java 8."},
-      {"@type":"CreativeWork","name":"TRA Reporting Tool","description":"Telecom complaints reporting platform for Etisalat UAE."},
-      {"@type":"CreativeWork","name":"SRS Product","description":"Integrated project management application with Jira and OLAP analytics."}
-    ],
-    "alumniOf":{"@type":"CollegeOrUniversity","name":"University of Sindh"}
-  }
-  </script>
 </div>

@@ -12,7 +12,6 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
   "name": "PDF to Image and Image Converter",
   "applicationCategory": "Utility",
   "operatingSystem": "All",
-  "browserRequirements": "Requires JavaScript. Works fully offline after page load.",
   "description": "Convert PDF to image and image to any format including JPG, PNG, WebP, AVIF, TIFF, HEIC, HEIF, SVG, EPS, and PDF. This tool works offline, protects your privacy, and requires no uploads.",
   "url": "https://reptilebirds.com/pdf-image-converter",
   "featureList": [
