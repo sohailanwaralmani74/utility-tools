@@ -8,6 +8,5 @@ group :jekyll_plugins do
   gem "jemoji"
   gem "jekyll-toc"
   gem "jekyll-livereload"
+  gem "jekyll-redirect-from"
 end
-
-gem "jekyll-redirect-from", "~> 0.16.0"

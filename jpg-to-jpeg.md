@@ -2,7 +2,7 @@
 layout: main
 title: JPG To JPEG - Convert .jpg to .jpeg
 keywords: jpg to jpeg, .jpg to .jpeg, convert jpg to jpeg, jpg image to jpeg, convert .jpg to .jpeg online
-description: Convert JPG to JPEG instantly in your browser. Fast, secure, and private — no file upload required.
+description: Convert JPG to JPEG instantly in your browser. Fast, secure, and private — No file upload required. JPG to JPEG converter is easy to use and reliable. 
 ---
 
 <section class="tool-section container">

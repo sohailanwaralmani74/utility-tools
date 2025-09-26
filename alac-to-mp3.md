@@ -118,4 +118,5 @@ description: Convert ALAC (Apple Lossless) to MP3 directly in your browser. Fast
   <li><a href="https://reptilebirds.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
   <li><a href="https://reptilebirds.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
   <li><a href="https://reptilebirds.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
+    <li><a href="https://reptilebirds.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
 </ul>
