@@ -1061,19 +1061,7 @@ Nearshore Software development companies arround you can help you in regard of b
 
 <br>
 
-## Check Free Browser Based Tools
-
-<br>
-
-[Excel CSV Converter](/excel-csv-converter) | [JSON Converter](/json-converter) | [XML Converter](/xml-converter) | [PDF & Image Converter](/pdf-image-converter)
-
-<br>
-
-[File Compressor](/file-compressor) | [Meta Data Remover](/meta-data-remover) | [Image Redactor](/image-redactor)
-
-<br>
-
-[Markdown Editor](/best-md-editor) | [Diff Checker](/diff-checker)
+[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
 
 
 <a href="#toc" class="floating-btn" title="Jump to TOC">↑</a>
