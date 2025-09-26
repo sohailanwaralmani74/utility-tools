@@ -138,7 +138,7 @@ For more ideas on micro SaaS products targeting specific needs, sites like <a hr
 
 <br>
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[I am Sohail Anwar, Connect if you want](/sohail-anwar)
 
 <br>
 

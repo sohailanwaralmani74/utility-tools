@@ -271,7 +271,7 @@ If you know some tools, that I have missed, tell me I will exxplore and add here
 
 <br>
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[Looking for author, I am Sohail Anwar](/sohail-anwar)
 
 <br>
 

@@ -224,7 +224,7 @@ A selection of elite nearshore software development firms exists that demonstrat
 
 <br>
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[Sohail Anwar's resume](/sohail-anwar)
 
 <br>
 

@@ -785,7 +785,7 @@ All tools respect privacy:
 
 <br>
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[You Can check my profile here](/sohail-anwar)
 
 <br>
 

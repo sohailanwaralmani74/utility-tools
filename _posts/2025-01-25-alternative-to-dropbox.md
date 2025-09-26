@@ -457,7 +457,7 @@ headline: Dropbox Alternatives - Secure, Reliable, and Feature-Rich Cloud Storag
 
 <br>
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[Hello, I am Sohail Anwar, Please ping me anything you feel](/sohail-anwar)
 
 <br> 
 

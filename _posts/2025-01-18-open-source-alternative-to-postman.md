@@ -382,4 +382,4 @@ I have developed some browser based tools for productivty. Tools do not store an
 
 
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[Hello, I am Sohail Anwar, want some conversation?](/sohail-anwar)

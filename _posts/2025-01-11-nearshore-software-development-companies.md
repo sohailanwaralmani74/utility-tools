@@ -1061,7 +1061,7 @@ Nearshore Software development companies arround you can help you in regard of b
 
 <br>
 
-[Hello, I am Sohail Anwar, You can directly contact me](/sohail-anwar)
+[Blog Post By Sohail Anwar](/sohail-anwar)
 
 
 <a href="#toc" class="floating-btn" title="Jump to TOC">↑</a>
