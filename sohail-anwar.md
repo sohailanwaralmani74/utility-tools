@@ -72,7 +72,7 @@ layout: main
   <div class="section" id="experience">
     <h2>Professional Experience</h2>
     <article>
-      <h3>Consultant, Java Applications — Systems LTD.</h3>
+      <h3>Senior Consultant, Java Applications — Systems LTD.</h3>
       <time datetime="2021-11">Nov 2021 – Present</time>
       <p>Architected and maintained mortgage loan management systems, TRA Reporting Tool, Etisalat B2B Product with Spring Boot, Spring Security, Data JPA, ATG Commerce, and Angular for high-scale UAE AND USA clients.</p>
     </article>

@@ -29,7 +29,7 @@ const posts = [
                           <div class="skills">
                           ${author.skills.map(skill => `<span class="tag">${skill}</span>`).join('')}
                          </div>
-                         <a href="${author.url}" class="profile-button">View Profile</a>
+                         <a href="sohail-anwar" class="profile-button">View Profile</a>
                         </div>
                       </div>
                 `;
