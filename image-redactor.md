@@ -114,7 +114,7 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
       "Blackout images",
       "Metadata remover"
     ],
-    "url": "https://reptilebirds.com/image-redactor"
+    "url": "https://iamrango.com/image-redactor"
   }
   </script>
 

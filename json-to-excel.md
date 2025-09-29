@@ -118,7 +118,7 @@ keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, o
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "JSON to Excel",
-  "url": "https://reptilebirds.com/json-to-excel",
+  "url": "https://iamrango.com/json-to-excel",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Convert JSON to Excel easily using our free json-to-excel tool. Secure, fast, and works offline in your browser with no data uploads.",
@@ -133,12 +133,12 @@ keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, o
 
 <h2>Other Useful Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://reptilebirds.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://reptilebirds.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
-  <li><a href="https://reptilebirds.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
-  <li><a href="https://reptilebirds.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
-  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
-<h2><li><a href="https://reptilebirds.com/json-converter" style="color:#0066cc; text-decoration:underline;">All In One JSON Converter</a></li></h2>
+<h2><li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">All In One JSON Converter</a></li></h2>

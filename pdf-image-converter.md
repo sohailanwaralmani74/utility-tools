@@ -13,7 +13,7 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
   "applicationCategory": "Utility",
   "operatingSystem": "All",
   "description": "Convert PDF to image and image to any format including JPG, PNG, WebP, AVIF, TIFF, HEIC, HEIF, SVG, EPS, and PDF. This tool works offline, protects your privacy, and requires no uploads.",
-  "url": "https://reptilebirds.com/pdf-image-converter",
+  "url": "https://iamrango.com/pdf-image-converter",
   "featureList": [
     "Convert PDF to JPG, JPEG, PNG, WebP, AVIF, TIFF, TIF, HEIC, HEIF, SVG, EPS",
     "Convert JPG, PNG, WebP, AVIF, TIFF, TIF, HEIC, HEIF, SVG, EPS to any other format",
@@ -23,7 +23,7 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
   ],
   "creator": {
     "@type": "Organization",
-    "name": "ReptileBirds"
+    "name": "IMRango"
   },
   "offers": {
     "@type": "Offer",

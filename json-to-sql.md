@@ -116,12 +116,12 @@ keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online 
 
 <h2>Other Useful Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://reptilebirds.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://reptilebirds.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://reptilebirds.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
-  <li><a href="https://reptilebirds.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
-  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -129,7 +129,7 @@ keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online 
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "JSON to SQL",
-  "url": "https://reptilebirds.com/json-to-sql",
+  "url": "https://iamrango.com/json-to-sql",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Convert JSON to SQL effortlessly with our free json-to-sql tool. Fast, reliable, and perfect for developers and database integration.",

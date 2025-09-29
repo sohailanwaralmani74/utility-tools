@@ -10,14 +10,14 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
     "@type": "WebPage",
     "name": "Free Online XML Converter - Convert XML to XLSX, XLS, JSON, PDF, CSV",
     "description": "Convert XML to XLSX, XLS, JSON, PDF (RAW), PDF (Table), and CSV formats for free online. Easily upload, edit, and convert XML files with our fast and efficient utility tool.",
-    "url": "https://reptilebirds.com/xml-converter",
-    "mainEntityOfPage": "https://reptilebirds.com/xml-converter",
+    "url": "https://iamrango.com/xml-converter",
+    "mainEntityOfPage": "https://iamrango.com/xml-converter",
     "publisher": {
       "@type": "Organization",
-      "name": "ReptileBirds",
+      "name": "IMRango",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://reptilebirds.com/assets/images/logo.jpg"
+        "url": "https://iamrango.com/assets/images/logo.jpg"
       }
     },
     "SoftwareApplication": {
@@ -25,7 +25,7 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
       "name": "XML Converter Tool",
       "operatingSystem": "Web-based",
       "applicationCategory": "Conversion Software",
-      "url": "https://reptilebirds.com/xml-converter",
+      "url": "https://iamrango.com/xml-converter",
       "featureList": [
         "Convert XML to XLSX",
         "Convert XML to XLS",

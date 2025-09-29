@@ -108,45 +108,45 @@ keywords: Convert excel to text, excel to text, Convert excel file to text, Conv
 </div>
 <h2>Excel & XLSX Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
 </ul>
-<h2><li><a href="https://reptilebirds.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">Excel, CSV Converter - Convert To Any Format</a></li></h2>
+<h2><li><a href="https://iamrango.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">Excel, CSV Converter - Convert To Any Format</a></li></h2>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/excel-to-txt",
-      "url": "https://reptilebirds.com/excel-to-txt",
+      "@id": "https://iamrango.com/excel-to-txt",
+      "url": "https://iamrango.com/excel-to-txt",
       "name": "Excel to TXT Converter – Free Online Tool",
       "description": "Convert Excel (.xlsx, .xls) files to TXT format instantly with this free tool. Works offline, secure, and easy to use.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/excel-to-txt#breadcrumb"
+        "@id": "https://iamrango.com/excel-to-txt#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/excel-to-txt#software"
+        "@id": "https://iamrango.com/excel-to-txt#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/excel-to-txt#breadcrumb",
+      "@id": "https://iamrango.com/excel-to-txt#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -157,11 +157,11 @@ keywords: Convert excel to text, excel to text, Convert excel file to text, Conv
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/excel-to-txt#software",
+      "@id": "https://iamrango.com/excel-to-txt#software",
       "name": "Excel to TXT Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/excel-to-txt",
+      "url": "https://iamrango.com/excel-to-txt",
       "description": "Free online tool to convert Excel spreadsheets into plain text files. Secure, fast, and works offline in your browser.",
       "offers": {
         "@type": "Offer",
@@ -171,7 +171,7 @@ keywords: Convert excel to text, excel to text, Convert excel file to text, Conv
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/excel-to-txt#faq",
+      "@id": "https://iamrango.com/excel-to-txt#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -85,7 +85,7 @@ description: AIFF to MP3 Converter works directly in your browser. Fast, private
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "AIFF to MP3 Converter",
-  "url": "https://reptilebirds.com/aiff-to-mp3",
+  "url": "https://iamrango.com/aiff-to-mp3",
   "applicationCategory": "MultimediaApplication",
   "operatingSystem": "Web",
   "description": "AIFF to MP3 Converter works quickly with our free browser-based tool. Fast, secure, no uploads, and easy to use for everyone.",
@@ -99,13 +99,13 @@ description: AIFF to MP3 Converter works directly in your browser. Fast, private
 
 <h2>🎵 Audio & Video Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
-  <li><a href="https://reptilebirds.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
-  <li><a href="https://reptilebirds.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>
-  <li><a href="https://reptilebirds.com/mp3-to-mp4-with-image" style="color:#0645ad; text-decoration:underline;">MP3 to MP4 with Image</a></li>
-  <li><a href="https://reptilebirds.com/audio-converter" style="color:#0645ad; text-decoration:underline;">Audio Converter (all formats)</a></li>
-  <li><a href="https://reptilebirds.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
-  <li><a href="https://reptilebirds.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
-  <li><a href="https://reptilebirds.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
-    <li><a href="https://reptilebirds.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
+  <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
+  <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
+  <li><a href="https://iamrango.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>
+  <li><a href="https://iamrango.com/mp3-to-mp4-with-image" style="color:#0645ad; text-decoration:underline;">MP3 to MP4 with Image</a></li>
+  <li><a href="https://iamrango.com/audio-converter" style="color:#0645ad; text-decoration:underline;">Audio Converter (all formats)</a></li>
+  <li><a href="https://iamrango.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
+  <li><a href="https://iamrango.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
+  <li><a href="https://iamrango.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
+    <li><a href="https://iamrango.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
 </ul>

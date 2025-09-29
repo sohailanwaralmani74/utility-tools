@@ -11,7 +11,7 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
       "@context": "https://schema.org",
       "@type": "WebApplication",
       "name": "Online JSON Editor & Converter",
-      "url": "https://reptilebirds.com/json-converter",
+      "url": "https://iamrango.com/json-converter",
       "applicationCategory": "DeveloperApplication",
       "operatingSystem": "All",
       "description": "Edit, view, and convert JSON data online. Export JSON to CSV, Excel, PDF, XML, SQL, and more. Paste or upload JSON with instant conversion.",

@@ -82,12 +82,12 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
 
 <h2>CSV Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-html" style="color:#0066cc; text-decoration:underline;">CSV to HTML</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-txt" style="color:#0066cc; text-decoration:underline;">CSV to TXT</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-html" style="color:#0066cc; text-decoration:underline;">CSV to HTML</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-txt" style="color:#0066cc; text-decoration:underline;">CSV to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -96,31 +96,31 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/csv-to-sql",
-      "url": "https://reptilebirds.com/csv-to-sql",
+      "@id": "https://iamrango.com/csv-to-sql",
+      "url": "https://iamrango.com/csv-to-sql",
       "name": "CSV to SQL Converter – Free Online Tool",
       "description": "Free online CSV to SQL converter. Upload CSV and generate SQL insert scripts instantly. Works offline in your browser, secure and fast.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/csv-to-sql#breadcrumb"
+        "@id": "https://iamrango.com/csv-to-sql#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/csv-to-sql#software"
+        "@id": "https://iamrango.com/csv-to-sql#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/csv-to-sql#breadcrumb",
+      "@id": "https://iamrango.com/csv-to-sql#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -131,11 +131,11 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/csv-to-sql#software",
+      "@id": "https://iamrango.com/csv-to-sql#software",
       "name": "CSV to SQL Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/csv-to-sql",
+      "url": "https://iamrango.com/csv-to-sql",
       "description": "Convert CSV files into SQL insert statements online. Free, offline, and compatible with major databases.",
       "offers": {
         "@type": "Offer",
@@ -145,7 +145,7 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/csv-to-sql#faq",
+      "@id": "https://iamrango.com/csv-to-sql#faq",
       "mainEntity": [
         {
           "@type": "Question",

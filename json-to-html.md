@@ -117,12 +117,12 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
 
 <h2>Other Useful Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://reptilebirds.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://reptilebirds.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
-  <li><a href="https://reptilebirds.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
-  <li><a href="https://reptilebirds.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
-  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -130,7 +130,7 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "JSON to HTML",
-  "url": "https://reptilebirds.com/json-to-html",
+  "url": "https://iamrango.com/json-to-html",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Transform JSON into structured HTML with our free json-to-html tool. Quick, private, and browser-based — no installation required.",

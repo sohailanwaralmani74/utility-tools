@@ -93,15 +93,15 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
 
 <h2>Excel & XLSX Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
 </ul>
 
-<h2><li><a href="https://reptilebirds.com/xml-converter" style="color:#0066cc; text-decoration:underline;">Here Is Universal XML Converter</a></li></h2>
+<h2><li><a href="https://iamrango.com/xml-converter" style="color:#0066cc; text-decoration:underline;">Here Is Universal XML Converter</a></li></h2>
 
 <script type="application/ld+json">
 {
@@ -109,31 +109,31 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/xlsx-to-pdf",
-      "url": "https://reptilebirds.com/xlsx-to-pdf",
+      "@id": "https://iamrango.com/xlsx-to-pdf",
+      "url": "https://iamrango.com/xlsx-to-pdf",
       "name": "XLSX to PDF Converter – Free Online Tool",
       "description": "Convert XLSX Excel files into PDF instantly with this free tool. Works offline, secure, and easy to use directly in your browser.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/xlsx-to-pdf#breadcrumb"
+        "@id": "https://iamrango.com/xlsx-to-pdf#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/xlsx-to-pdf#software"
+        "@id": "https://iamrango.com/xlsx-to-pdf#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/xlsx-to-pdf#breadcrumb",
+      "@id": "https://iamrango.com/xlsx-to-pdf#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -144,11 +144,11 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/xlsx-to-pdf#software",
+      "@id": "https://iamrango.com/xlsx-to-pdf#software",
       "name": "XLSX to PDF Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/xlsx-to-pdf",
+      "url": "https://iamrango.com/xlsx-to-pdf",
       "description": "Free online tool to convert XLSX Excel spreadsheets into PDF format. Secure, fast, and works offline in your browser.",
       "offers": {
         "@type": "Offer",
@@ -158,7 +158,7 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/xlsx-to-pdf#faq",
+      "@id": "https://iamrango.com/xlsx-to-pdf#faq",
       "mainEntity": [
         {
           "@type": "Question",

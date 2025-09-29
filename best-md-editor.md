@@ -337,9 +337,9 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
 
 <h2>Other Usefull Text Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/lrem-ipsum-generator" style="color:#0645ad; text-decoration:underline;">Lorem Ipsum Generator</a></li>
-  <li><a href="https://reptilebirds.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
-  <li><a href="https://reptilebirds.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
+  <li><a href="https://iamrango.com/lrem-ipsum-generator" style="color:#0645ad; text-decoration:underline;">Lorem Ipsum Generator</a></li>
+  <li><a href="https://iamrango.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
+  <li><a href="https://iamrango.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
 </ul>
 
 <script src="/assets/js/md.js"></script>
@@ -349,7 +349,7 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Best MD Editor",
-  "url": "https://reptilebirds.com/best-md-editor",
+  "url": "https://iamrango.com/best-md-editor",
   "applicationCategory": "WebApplication",
   "operatingSystem": "Web",
   "description": "Best MD Editor is a free, browser-based Markdown editor that lets you write, edit, and preview Markdown files instantly. Fast, secure, and easy to use.",

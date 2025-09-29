@@ -86,12 +86,12 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
 
 <h2>CSV Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-html" style="color:#0066cc; text-decoration:underline;">CSV to HTML</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
-  <li><a href="https://reptilebirds.com/csv-to-sql" style="color:#0066cc; text-decoration:underline;">CSV to SQL</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-html" style="color:#0066cc; text-decoration:underline;">CSV to HTML</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
+  <li><a href="https://iamrango.com/csv-to-sql" style="color:#0066cc; text-decoration:underline;">CSV to SQL</a></li>
 </ul>
 
 
@@ -101,31 +101,31 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/convert-csv-to-txt",
-      "url": "https://reptilebirds.com/convert-csv-to-txt",
+      "@id": "https://iamrango.com/convert-csv-to-txt",
+      "url": "https://iamrango.com/convert-csv-to-txt",
       "name": "Convert CSV to TXT – Free Online Tool",
       "description": "Free online tool to convert CSV files into TXT format instantly. Works offline in your browser for fast and secure conversion.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/convert-csv-to-txt#breadcrumb"
+        "@id": "https://iamrango.com/convert-csv-to-txt#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/convert-csv-to-txt#software"
+        "@id": "https://iamrango.com/convert-csv-to-txt#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/convert-csv-to-txt#breadcrumb",
+      "@id": "https://iamrango.com/convert-csv-to-txt#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -136,11 +136,11 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/convert-csv-to-txt#software",
+      "@id": "https://iamrango.com/convert-csv-to-txt#software",
       "name": "CSV to TXT Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/convert-csv-to-txt",
+      "url": "https://iamrango.com/convert-csv-to-txt",
       "description": "Convert CSV files to TXT instantly with this free online tool. Works offline, secure, and fast.",
       "offers": {
         "@type": "Offer",
@@ -150,7 +150,7 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/convert-csv-to-txt#faq",
+      "@id": "https://iamrango.com/convert-csv-to-txt#faq",
       "mainEntity": [
         {
           "@type": "Question",

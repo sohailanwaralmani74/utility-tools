@@ -99,7 +99,7 @@ description: Convert FLAC, WAV, M4A, AAC, OGG, OPUS, ALAC, AMR, AIFF, WMA, CAF t
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Free Online Audio Converter",
-  "url": "https://reptilebirds.com/audio-converter",
+  "url": "https://iamrango.com/audio-converter",
   "applicationCategory": "MultimediaApplication",
   "operatingSystem": "Any",
   "description": "Convert audio files online to MP3, WAV, FLAC, M4A, AAC, OGG, Opus, ALAC, AMR, AIFF, WMA, and CAF instantly in your browser with no installation or uploads.",
@@ -134,19 +134,19 @@ description: Convert FLAC, WAV, M4A, AAC, OGG, OPUS, ALAC, AMR, AIFF, WMA, CAF t
       "@type": "ListItem",
       "position": 1,
       "name": "Home",
-      "item": "https://reptilebirds.com/"
+      "item": "https://iamrango.com/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "Audio Tools",
-      "item": "https://reptilebirds.com/audio-tools"
+      "item": "https://iamrango.com/audio-tools"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "Audio Converter",
-      "item": "https://reptilebirds.com/audio-converter"
+      "item": "https://iamrango.com/audio-converter"
     }
   ]
 }
@@ -154,15 +154,15 @@ description: Convert FLAC, WAV, M4A, AAC, OGG, OPUS, ALAC, AMR, AIFF, WMA, CAF t
 
 <h2>🎵 Audio & Video Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
-  <li><a href="https://reptilebirds.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
-  <li><a href="https://reptilebirds.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>
-  <li><a href="https://reptilebirds.com/mp3-to-mp4-with-image" style="color:#0645ad; text-decoration:underline;">MP3 to MP4 with Image</a></li>
-  <li><a href="https://reptilebirds.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
-  <li><a href="https://reptilebirds.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
-  <li><a href="https://reptilebirds.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
-  <li><a href="https://reptilebirds.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
-    <li><a href="https://reptilebirds.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
+  <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
+  <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
+  <li><a href="https://iamrango.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>
+  <li><a href="https://iamrango.com/mp3-to-mp4-with-image" style="color:#0645ad; text-decoration:underline;">MP3 to MP4 with Image</a></li>
+  <li><a href="https://iamrango.com/aac-to-mp3" style="color:#0645ad; text-decoration:underline;">AAC to MP3</a></li>
+  <li><a href="https://iamrango.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
+  <li><a href="https://iamrango.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
+  <li><a href="https://iamrango.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
+    <li><a href="https://iamrango.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
 </ul>
 
 <script src="/assets/js/audio.js"></script>

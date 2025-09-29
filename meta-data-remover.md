@@ -115,7 +115,7 @@ keywords: metadata remover, remove metadata from photo, metadata scrubber, meta 
       "Browser-based metadata removal",
       "Anonymize files"
     ],
-    "url": "https://reptilebirds.com/meta-data-remover"
+    "url": "https://iamrango.com/meta-data-remover"
   }
   </script>
 

@@ -5,7 +5,7 @@ author: sohail
 date: 2025-03-06 14:10:00 +0800
 categories: [Nearshore Software Development, Nearshore Software Development Companies]
 img: best-nearshore-software-development-companies.webp
-description: Looking for the best nearshore software development companies? ReptileBirds connects you with top-tier nearshore teams for agile, scalable solutions.
+description: Looking for the best nearshore software development companies? IMRango connects you with top-tier nearshore teams for agile, scalable solutions.
 keywords: nearshore software development companies, top nearshore outsourcing, custom nearshore developers, dedicated development teams, agile nearshore software, nearshore IT outsourcing services, software outsourcing firms 2025, cost-effective software development
 headline: Best Nearshore Software Development Companies For Project Outsourcing
 ---
@@ -17,17 +17,17 @@ headline: Best Nearshore Software Development Companies For Project Outsourcing
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Top Nearshore Software Development Companies",
-  "url": "https://reptilebirds.com/nearshore-software-development-companies",
-  "description": "ReptileBirds helps you find and connect with the best nearshore software development companies for scalable, cost-effective outsourcing solutions.",
+  "url": "https://iamrango.com/nearshore-software-development-companies",
+  "description": "IMRango helps you find and connect with the best nearshore software development companies for scalable, cost-effective outsourcing solutions.",
   "datePublished": "2025-03-06T14:10:00+08:00",  // ISO 8601 formatted
   "dateModified": "2025-09-22T14:10:00+08:00",   // Update if revised later
   "publisher": {
     "@type": "Organization",
-    "name": "ReptileBirds",
-    "url": "https://reptilebirds.com",
+    "name": "IMRango",
+    "url": "https://iamrango.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png",
+      "url": "https://iamrango.com/assets/img/IMRango.png",
       "width": 300,   // Add logo dimensions (adjust as needed)
       "height": 60
     }
@@ -39,7 +39,7 @@ headline: Best Nearshore Software Development Companies For Project Outsourcing
   },
   "primaryImageOfPage": {   // Recommended for WebPage schema
     "@type": "ImageObject",
-    "url": "https://reptilebirds.com/assets/img/nearshore-software.jpg", // Add a relevant image
+    "url": "https://iamrango.com/assets/img/nearshore-software.jpg", // Add a relevant image
     "width": 1200,
     "height": 630
   }
@@ -1090,12 +1090,12 @@ Nearshore Software development companies arround you can help you in regard of b
 
 <h2>💼 Business & Productivity Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
-  <li><a href="https://reptilebirds.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
-  <li><a href="https://reptilebirds.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
-  <li><a href="https://reptilebirds.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
-  <li><a href="https://reptilebirds.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
+  <li><a href="https://iamrango.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
+  <li><a href="https://iamrango.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
+  <li><a href="https://iamrango.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
+  <li><a href="https://iamrango.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
+  <li><a href="https://iamrango.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
+  <li><a href="https://iamrango.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
 </ul>

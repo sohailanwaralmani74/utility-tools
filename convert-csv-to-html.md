@@ -81,12 +81,12 @@ keywords: convert csv to html, CSV to HTML converter, convert CSV files to HTML,
 </div>
 <h2>CSV Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-txt" style="color:#0066cc; text-decoration:underline;">CSV to TXT</a></li>
-  <li><a href="https://reptilebirds.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
-  <li><a href="https://reptilebirds.com/csv-to-sql" style="color:#0066cc; text-decoration:underline;">CSV to SQL</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-txt" style="color:#0066cc; text-decoration:underline;">CSV to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
+  <li><a href="https://iamrango.com/csv-to-sql" style="color:#0066cc; text-decoration:underline;">CSV to SQL</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -95,31 +95,31 @@ keywords: convert csv to html, CSV to HTML converter, convert CSV files to HTML,
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/convert-csv-to-html",
-      "url": "https://reptilebirds.com/convert-csv-to-html",
+      "@id": "https://iamrango.com/convert-csv-to-html",
+      "url": "https://iamrango.com/convert-csv-to-html",
       "name": "Convert CSV to HTML – Free Online Tool",
       "description": "Free online tool to convert CSV files into HTML tables instantly. Works offline in your browser for secure and fast conversion.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/convert-csv-to-html#breadcrumb"
+        "@id": "https://iamrango.com/convert-csv-to-html#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/convert-csv-to-html#software"
+        "@id": "https://iamrango.com/convert-csv-to-html#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/convert-csv-to-html#breadcrumb",
+      "@id": "https://iamrango.com/convert-csv-to-html#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -130,11 +130,11 @@ keywords: convert csv to html, CSV to HTML converter, convert CSV files to HTML,
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/convert-csv-to-html#software",
+      "@id": "https://iamrango.com/convert-csv-to-html#software",
       "name": "CSV to HTML Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/convert-csv-to-html",
+      "url": "https://iamrango.com/convert-csv-to-html",
       "description": "Convert CSV files to HTML tables online instantly. Works offline, secure, and fast.",
       "offers": {
         "@type": "Offer",
@@ -144,7 +144,7 @@ keywords: convert csv to html, CSV to HTML converter, convert CSV files to HTML,
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/convert-csv-to-html#faq",
+      "@id": "https://iamrango.com/convert-csv-to-html#faq",
       "mainEntity": [
         {
           "@type": "Question",

@@ -18,26 +18,26 @@ headline: Figma Alternatives - Free UX and UI Design Software
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://reptilebirds.com/alternatives-to-figma/"
+    "@id": "https://iamrango.com/alternatives-to-figma/"
   },
   "headline": "Best Open Source Alternatives to Figma for UI/UX Design",
   "image": {
     "@type": "ImageObject",
-    "url": "https://reptilebirds.com/assets/img/figma.png",
+    "url": "https://iamrango.com/assets/img/figma.png",
     "width": 1200,
     "height": 630
   },
   "author": {
     "@type": "Organization",
-    "name": "ReptileBirds",
-    "url": "https://reptilebirds.com"
+    "name": "IMRango",
+    "url": "https://iamrango.com"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "ReptileBirds",
+    "name": "IMRango",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png",
+      "url": "https://iamrango.com/assets/img/IMRango.png",
       "width": 300,
       "height": 60
     }
@@ -277,15 +277,15 @@ If you know some tools, that I have missed, tell me I will exxplore and add here
 
 <h2>💼 Business & Productivity Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
-  <li><a href="https://reptilebirds.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
-  <li><a href="https://reptilebirds.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
-  <li><a href="https://reptilebirds.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
-  <li><a href="https://reptilebirds.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
+  <li><a href="https://iamrango.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
+  <li><a href="https://iamrango.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
+  <li><a href="https://iamrango.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
+  <li><a href="https://iamrango.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
+  <li><a href="https://iamrango.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
+  <li><a href="https://iamrango.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
+  <li><a href="https://iamrango.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
 </ul>
 
 

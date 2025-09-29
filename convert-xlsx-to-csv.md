@@ -94,31 +94,31 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/xlsx-to-csv",
-      "url": "https://reptilebirds.com/xlsx-to-csv",
+      "@id": "https://iamrango.com/xlsx-to-csv",
+      "url": "https://iamrango.com/xlsx-to-csv",
       "name": "XLSX to CSV Converter – Free Online Tool",
       "description": "Free online tool to convert Excel XLSX spreadsheets into CSV files instantly. Works offline in your browser, secure and fast.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/xlsx-to-csv#breadcrumb"
+        "@id": "https://iamrango.com/xlsx-to-csv#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/xlsx-to-csv#software"
+        "@id": "https://iamrango.com/xlsx-to-csv#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/xlsx-to-csv#breadcrumb",
+      "@id": "https://iamrango.com/xlsx-to-csv#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -129,11 +129,11 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/xlsx-to-csv#software",
+      "@id": "https://iamrango.com/xlsx-to-csv#software",
       "name": "XLSX to CSV Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/xlsx-to-csv",
+      "url": "https://iamrango.com/xlsx-to-csv",
       "description": "Convert XLSX Excel spreadsheets into CSV files for free. Secure, offline, and browser-based.",
       "offers": {
         "@type": "Offer",
@@ -143,7 +143,7 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/xlsx-to-csv#faq",
+      "@id": "https://iamrango.com/xlsx-to-csv#faq",
       "mainEntity": [
         {
           "@type": "Question",

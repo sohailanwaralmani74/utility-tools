@@ -6,7 +6,7 @@ const posts = [
     date: "2025, April, 01 ",
     categories: ['Nearshore Software Development', 'Nearshore Software Development Companies'],
     img: 'best-nearshore-software-development-companies.webp',
-    description: 'Looking for the best nearshore software development companies? ReptileBirds connects you with top-tier nearshore teams for agile, scalable solutions.',
+    description: 'Looking for the best nearshore software development companies? IMRango connects you with top-tier nearshore teams for agile, scalable solutions.',
     url: 'nearshore-software-development-companies',
     tags:['nearshore software development companies', 'top nearshore outsourcing', 'custom nearshore developers', 'dedicated development teams', 'agile nearshore software', 'nearshore IT outsourcing services', 'software outsourcing firms 2025', 'cost-effective software development']
     },

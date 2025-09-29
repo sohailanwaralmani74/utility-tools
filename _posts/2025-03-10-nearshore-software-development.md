@@ -20,20 +20,20 @@ headline: Nearshore Software Development - Guide To It Outsourcing
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://reptilebirds.com/nearshore-software-development"
+    "@id": "https://iamrango.com/nearshore-software-development"
   },
   "headline": "What Is Nearshore Software Development? Benefits, Examples & Insights",
-  "image": "https://reptilebirds.com/assets/img/NearshoreSoftwareDevelopment.webp",
+  "image": "https://iamrango.com/assets/img/NearshoreSoftwareDevelopment.webp",
   "author": {
     "@type": "Organization",
-    "name": "ReptileBirds"
+    "name": "IMRango"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "ReptileBirds",
+    "name": "IMRango",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://reptilebirds.com/assets/img/ReptileBirds.png"
+      "url": "https://iamrango.com/assets/img/IMRango.png"
     }
   },
   "description": "Nearshore software development is the practice of outsourcing software projects to teams in nearby countries. This guide breaks down what it is, how it works, its pros and cons, and real-world use cases."
@@ -231,12 +231,12 @@ A selection of elite nearshore software development firms exists that demonstrat
 
 <h2>💼 Business & Productivity Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
-  <li><a href="https://reptilebirds.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
-  <li><a href="https://reptilebirds.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
-  <li><a href="https://reptilebirds.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
-  <li><a href="https://reptilebirds.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
+  <li><a href="https://iamrango.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
+  <li><a href="https://iamrango.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
+  <li><a href="https://iamrango.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
+  <li><a href="https://iamrango.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
+  <li><a href="https://iamrango.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
+  <li><a href="https://iamrango.com/law-firm-billing-software" style="color:#0645ad; text-decoration:underline;">Law Firm Billing Software</a></li>
+  <li><a href="https://iamrango.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
 </ul>

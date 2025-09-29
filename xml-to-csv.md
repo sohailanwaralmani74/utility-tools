@@ -108,7 +108,7 @@ keywords: xml-to-csv, XML to CSV converter, convert XML files to CSV, online XML
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "XML to CSV",
-  "url": "https://reptilebirds.com/xml-to-csv",
+  "url": "https://iamrango.com/xml-to-csv",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Convert XML to CSV easily with our free xml-to-csv tool. Fast, secure, and works directly in your browser without uploading files online.",
@@ -121,10 +121,10 @@ keywords: xml-to-csv, XML to CSV converter, convert XML files to CSV, online XML
 </script>
 <h2>XML Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
-  <li><a href="https://reptilebirds.com/xml-to-json" style="color:#0066cc; text-decoration:underline;">XML to JSON</a></li>
-  <li><a href="https://reptilebirds.com/xml-to-pdf" style="color:#0066cc; text-decoration:underline;">XML to PDF</a></li>
-  <li><a href="https://reptilebirds.com/xml-to-sql" style="color:#0066cc; text-decoration:underline;">XML to SQL</a></li>
+  <li><a href="https://iamrango.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
+  <li><a href="https://iamrango.com/xml-to-json" style="color:#0066cc; text-decoration:underline;">XML to JSON</a></li>
+  <li><a href="https://iamrango.com/xml-to-pdf" style="color:#0066cc; text-decoration:underline;">XML to PDF</a></li>
+  <li><a href="https://iamrango.com/xml-to-sql" style="color:#0066cc; text-decoration:underline;">XML to SQL</a></li>
 </ul>
 
-<h2><li><a href="https://reptilebirds.com/xml-converter" style="color:#0066cc; text-decoration:underline;">XML Converter - All In One Converter</a></li></h2>
+<h2><li><a href="https://iamrango.com/xml-converter" style="color:#0066cc; text-decoration:underline;">XML Converter - All In One Converter</a></li></h2>

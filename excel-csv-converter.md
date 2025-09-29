@@ -13,7 +13,7 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "Excel & CSV Converter",
-  "url": "https://reptilebirds.com/excel-csv-converter",
+  "url": "https://iamrango.com/excel-csv-converter",
   "description": "A web-based utility to convert XLSX and CSV files into XLS, CSV, JSON, TXT, HTML, PDF, XML, SQL and vice versa—no installs, no plugins.",
   "applicationCategory": "Utility",
   "operatingSystem": "All",

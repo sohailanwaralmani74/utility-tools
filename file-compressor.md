@@ -119,7 +119,7 @@ description: Compress files to same format without loosing data even in zip, gzi
       "RAR file compressor",
       "Browser-based file compression"
     ],
-    "url": "https://reptilebirds.com/file-compressor"
+    "url": "https://iamrango.com/file-compressor"
   }
   </script>
 

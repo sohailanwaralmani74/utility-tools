@@ -10,7 +10,7 @@ keywords: xml-to-sql, XML to SQL converter, convert XML files to SQL, online XML
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "XML to SQL",
-  "url": "https://reptilebirds.com/xml-to-sql",
+  "url": "https://iamrango.com/xml-to-sql",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Convert XML to SQL easily with our free xml-to-sql tool. Fast, secure, and designed for developers needing structured database output.",
@@ -117,8 +117,8 @@ keywords: xml-to-sql, XML to SQL converter, convert XML files to SQL, online XML
 
 <h2>More XML Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/xml-to-csv" style="color:#0066cc; text-decoration:underline;">XML to CSV</a></li>
-  <li><a href="https://reptilebirds.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
-  <li><a href="https://reptilebirds.com/xml-to-json" style="color:#0066cc; text-decoration:underline;">XML to JSON</a></li>
-  <li><a href="https://reptilebirds.com/xml-to-pdf" style="color:#0066cc; text-decoration:underline;">XML to PDF</a></li>
+  <li><a href="https://iamrango.com/xml-to-csv" style="color:#0066cc; text-decoration:underline;">XML to CSV</a></li>
+  <li><a href="https://iamrango.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
+  <li><a href="https://iamrango.com/xml-to-json" style="color:#0066cc; text-decoration:underline;">XML to JSON</a></li>
+  <li><a href="https://iamrango.com/xml-to-pdf" style="color:#0066cc; text-decoration:underline;">XML to PDF</a></li>
 </ul>

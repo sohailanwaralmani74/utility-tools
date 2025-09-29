@@ -82,15 +82,15 @@ keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQ
 
 <h2>Excel & XLSX Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
 </ul>
 
-<h2><li><a href="https://reptilebirds.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">All In Excel, CSV Converter</a></li></h2>
+<h2><li><a href="https://iamrango.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">All In Excel, CSV Converter</a></li></h2>
 
 <script type="application/ld+json">
 {
@@ -98,31 +98,31 @@ keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQ
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/xlsx-to-sql",
-      "url": "https://reptilebirds.com/xlsx-to-sql",
+      "@id": "https://iamrango.com/xlsx-to-sql",
+      "url": "https://iamrango.com/xlsx-to-sql",
       "name": "XLSX to SQL Converter – Free Online Tool",
       "description": "Convert Excel XLSX spreadsheets into SQL scripts instantly. Free, secure, offline tool to generate SQL insert statements from Excel.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/xlsx-to-sql#breadcrumb"
+        "@id": "https://iamrango.com/xlsx-to-sql#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/xlsx-to-sql#software"
+        "@id": "https://iamrango.com/xlsx-to-sql#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/xlsx-to-sql#breadcrumb",
+      "@id": "https://iamrango.com/xlsx-to-sql#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -133,11 +133,11 @@ keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQ
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/xlsx-to-sql#software",
+      "@id": "https://iamrango.com/xlsx-to-sql#software",
       "name": "XLSX to SQL Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/xlsx-to-sql",
+      "url": "https://iamrango.com/xlsx-to-sql",
       "description": "Free online tool to convert XLSX spreadsheets into SQL insert scripts. Works offline, secure, and compatible with major databases.",
       "offers": {
         "@type": "Offer",
@@ -147,7 +147,7 @@ keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQ
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/xlsx-to-sql#faq",
+      "@id": "https://iamrango.com/xlsx-to-sql#faq",
       "mainEntity": [
         {
           "@type": "Question",

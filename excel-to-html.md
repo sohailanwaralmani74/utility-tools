@@ -81,12 +81,12 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
 </div>
 <h2>Excel & XLSX Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -95,31 +95,31 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/excel-to-html",
-      "url": "https://reptilebirds.com/excel-to-html",
+      "@id": "https://iamrango.com/excel-to-html",
+      "url": "https://iamrango.com/excel-to-html",
       "name": "Excel to HTML Converter – Free Online Tool",
       "description": "Convert Excel (.xlsx, .xls) spreadsheets into HTML tables with this free online tool. Secure, works offline, and easy to use.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/excel-to-html#breadcrumb"
+        "@id": "https://iamrango.com/excel-to-html#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/excel-to-html#software"
+        "@id": "https://iamrango.com/excel-to-html#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/excel-to-html#breadcrumb",
+      "@id": "https://iamrango.com/excel-to-html#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -130,11 +130,11 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/excel-to-html#software",
+      "@id": "https://iamrango.com/excel-to-html#software",
       "name": "Excel to HTML Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/excel-to-html",
+      "url": "https://iamrango.com/excel-to-html",
       "description": "Free online tool to convert Excel spreadsheets into HTML code. Fast, secure, and works offline.",
       "offers": {
         "@type": "Offer",
@@ -144,7 +144,7 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/excel-to-html#faq",
+      "@id": "https://iamrango.com/excel-to-html#faq",
       "mainEntity": [
         {
           "@type": "Question",
@@ -256,31 +256,31 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/xlsx-to-xml",
-      "url": "https://reptilebirds.com/xlsx-to-xml",
+      "@id": "https://iamrango.com/xlsx-to-xml",
+      "url": "https://iamrango.com/xlsx-to-xml",
       "name": "XLSX to XML Converter – Free Online Tool",
       "description": "Convert XLSX Excel files into XML instantly with this free tool. Works offline in your browser, secure and easy to use.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/xlsx-to-xml#breadcrumb"
+        "@id": "https://iamrango.com/xlsx-to-xml#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/xlsx-to-xml#software"
+        "@id": "https://iamrango.com/xlsx-to-xml#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/xlsx-to-xml#breadcrumb",
+      "@id": "https://iamrango.com/xlsx-to-xml#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -291,11 +291,11 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/xlsx-to-xml#software",
+      "@id": "https://iamrango.com/xlsx-to-xml#software",
       "name": "XLSX to XML Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/xlsx-to-xml",
+      "url": "https://iamrango.com/xlsx-to-xml",
       "description": "Free online tool to convert XLSX Excel spreadsheets into XML format. Secure, fast, and works offline in your browser.",
       "offers": {
         "@type": "Offer",
@@ -305,7 +305,7 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/xlsx-to-xml#faq",
+      "@id": "https://iamrango.com/xlsx-to-xml#faq",
       "mainEntity": [
         {
           "@type": "Question",

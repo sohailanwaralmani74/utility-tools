@@ -106,12 +106,12 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
 
 <h2>Other Useful Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://reptilebirds.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://reptilebirds.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://reptilebirds.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
-  <li><a href="https://reptilebirds.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
-  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -119,7 +119,7 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "JSON to TXT",
-  "url": "https://reptilebirds.com/json-to-txt",
+  "url": "https://iamrango.com/json-to-txt",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Convert JSON to TXT quickly with our free json-to-txt tool. Simple, secure, and works entirely in your browser without data sharing.",

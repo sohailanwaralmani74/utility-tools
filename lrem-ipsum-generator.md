@@ -12,7 +12,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   "applicationCategory": "DeveloperTool",
   "operatingSystem": "web",
   "description": "Lrem Ipsum Generator is a fast, secure, and offline-capable tool that generates placeholder text for designers, developers, and content creators. Create dummy text instantly in paragraphs, sentences, or word format.",
-  "url": "https://reptilebirds.com/lrem-ipsum-generator",
+  "url": "https://iamrango.com/lrem-ipsum-generator",
   "featureList": [
     "Generate lorem ipsum placeholder text instantly",
     "Choose between words, sentences, or paragraphs",
@@ -22,7 +22,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   ],
   "creator": {
     "@type": "Organization",
-    "name": "ReptileBirds"
+    "name": "IMRango"
   },
   "offers": {
     "@type": "Offer",
@@ -38,7 +38,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   "@context": "https://schema.org",
   "@type": "WebPage",
   "name": "Lrem Ipsum Generator - Advanced Dummy Text Generator",
-  "url": "https://reptilebirds.com/lrem-ipsum-generator",
+  "url": "https://iamrango.com/lrem-ipsum-generator",
   "description": "A fully offline, advanced Lrem Ipsum Generator to generate dummy text including Lorem Ipsum, Kafka, Werther, and more. Customize font, paragraphs, and export easily.",
   "inLanguage": "en",
   "keywords": [
@@ -51,7 +51,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   ],
   "isPartOf": {
     "@type": "WebSite",
-    "url": "https://reptilebirds.com"
+    "url": "https://iamrango.com"
   }
 }
 </script>
@@ -524,8 +524,8 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
 
 <h2>Other Text Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">MD Editor</a></li>
-  <li><a href="https://reptilebirds.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
-  <li><a href="https://reptilebirds.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
+  <li><a href="https://iamrango.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">MD Editor</a></li>
+  <li><a href="https://iamrango.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
+  <li><a href="https://iamrango.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
 </ul>
 

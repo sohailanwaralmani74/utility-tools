@@ -128,19 +128,19 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Tools",
-          "item": "https://reptilebirds.com/json-tools"
+          "item": "https://iamrango.com/json-tools"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "JSON to CSV Converter",
-          "item": "https://reptilebirds.com/json-to-csv"
+          "item": "https://iamrango.com/json-to-csv"
         }
       ]
     },
@@ -152,12 +152,12 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
       "applicationCategory": "UtilityApplication",
       "applicationSubCategory": "Data Conversion Tool",
       "softwareVersion": "1.0",
-      "url": "https://reptilebirds.com/json-to-csv",
+      "url": "https://iamrango.com/json-to-csv",
       "description": "Free JSON to CSV converter tool that works offline once loaded. Convert JSON data into CSV or TXT instantly with built-in editors and export options.",
       "creator": {
         "@type": "Organization",
-        "name": "ReptileBirds",
-        "url": "https://reptilebirds.com"
+        "name": "IMRango",
+        "url": "https://iamrango.com"
       },
       "featureList": [
         "JSON editor with preview",
@@ -178,7 +178,7 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
     {
       "@type": "WebPage",
       "name": "JSON to CSV Converter Online",
-      "url": "https://reptilebirds.com/json-to-csv",
+      "url": "https://iamrango.com/json-to-csv",
       "description": "Convert JSON to CSV easily with this free tool. Works offline once loaded, supports file upload, manual input, preview, and export to CSV or TXT."
     },
 
@@ -225,12 +225,12 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
 </script>
 <h2>Other Useful Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://reptilebirds.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://reptilebirds.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
-  <li><a href="https://reptilebirds.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
-  <li><a href="https://reptilebirds.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
-  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
-<h2><li><a href="https://reptilebirds.com/json-converter" style="color:#0066cc; text-decoration:underline;">Here Is Universal JSON Converter</a></li></h2>
+<h2><li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">Here Is Universal JSON Converter</a></li></h2>

@@ -16,46 +16,46 @@ headline: Law Firm Billing Software - Enhanced Invoices & Billing Systems
   "@graph": [
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/law-firm-billing-software#breadcrumb",
+      "@id": "https://iamrango.com/law-firm-billing-software#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Law Firm Billing Software",
-          "item": "https://reptilebirds.com/law-firm-billing-software"
+          "item": "https://iamrango.com/law-firm-billing-software"
         }
       ]
     },
     {
       "@type": "Article",
-      "@id": "https://reptilebirds.com/law-firm-billing-software#article",
+      "@id": "https://iamrango.com/law-firm-billing-software#article",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://reptilebirds.com/law-firm-billing-software"
+        "@id": "https://iamrango.com/law-firm-billing-software"
       },
       "headline": "Best Law Firm Billing Software Compared (Features, Pricing, Reviews)",
       "description": "Discover and compare top law firm billing software with features, pricing, pros and cons, and user reviews. Perfect for law practices of all sizes.",
       "image": {
         "@type": "ImageObject",
-        "url": "https://reptilebirds.com/assets/img/law-firm-billing-software-banner.webp"
+        "url": "https://iamrango.com/assets/img/law-firm-billing-software-banner.webp"
       },
       "author": {
         "@type": "Organization",
-        "name": "ReptileBirds",
-        "url": "https://reptilebirds.com"
+        "name": "IMRango",
+        "url": "https://iamrango.com"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "ReptileBirds",
+        "name": "IMRango",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://reptilebirds.com/assets/img/logo.png"
+          "url": "https://iamrango.com/assets/img/logo.png"
         }
       },
       "datePublished": "2025-05-14",
@@ -2170,12 +2170,12 @@ style="color: #0056b3; text-decoration: none;">Explore More About Clio Law Firm 
 
 <h2>💼 Business & Productivity Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
-  <li><a href="https://reptilebirds.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
-  <li><a href="https://reptilebirds.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
-  <li><a href="https://reptilebirds.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
-  <li><a href="https://reptilebirds.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
-  <li><a href="https://reptilebirds.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
+  <li><a href="https://iamrango.com/open-source-alternative-to-postman" style="color:#0645ad; text-decoration:underline;">Open Source Alternative to Postman</a></li>
+  <li><a href="https://iamrango.com/alternative-to-dropbox" style="color:#0645ad; text-decoration:underline;">Alternative to Dropbox</a></li>
+  <li><a href="https://iamrango.com/free-crm" style="color:#0645ad; text-decoration:underline;">Free CRM</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development</a></li>
+  <li><a href="https://iamrango.com/nearshore-software-development-companies" style="color:#0645ad; text-decoration:underline;">Nearshore Software Development Companies</a></li>
+  <li><a href="https://iamrango.com/alternative-to-office" style="color:#0645ad; text-decoration:underline;">Alternative to Microsoft Office</a></li>
+  <li><a href="https://iamrango.com/alternatives-to-figma" style="color:#0645ad; text-decoration:underline;">Alternatives to Figma</a></li>
+  <li><a href="https://iamrango.com/software-product-ideas" style="color:#0645ad; text-decoration:underline;">Software Product Ideas</a></li>
 </ul>

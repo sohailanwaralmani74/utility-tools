@@ -118,12 +118,12 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
 
 <h2>Other Useful Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://reptilebirds.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://reptilebirds.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://reptilebirds.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
-  <li><a href="https://reptilebirds.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
-  <li><a href="https://reptilebirds.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
 <script type="application/ld+json">
@@ -131,7 +131,7 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "JSON to PDF",
-  "url": "https://reptilebirds.com/json-to-pdf",
+  "url": "https://iamrango.com/json-to-pdf",
   "applicationCategory": "Utility",
   "operatingSystem": "Web",
   "description": "Convert JSON to PDF instantly with our free json-to-pdf tool. Works offline in your browser, keeping your data safe and secure.",
@@ -142,4 +142,4 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
   }
 }
 </script>
-<h2><li><a href="https://reptilebirds.com/json-converter" style="color:#0066cc; text-decoration:underline;">JSON Converter - Convert Into Any Format</a></li></h2>
+<h2><li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">JSON Converter - Convert Into Any Format</a></li></h2>

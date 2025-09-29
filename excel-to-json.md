@@ -109,46 +109,46 @@ keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, o
 
 <h2>Excel & XLSX Conversion Tools</h2>
 <ul>
-  <li><a href="https://reptilebirds.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
-  <li><a href="https://reptilebirds.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
-  <li><a href="https://reptilebirds.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
-  <li><a href="https://reptilebirds.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
 </ul>
 
-<h2><li><a href="https://reptilebirds.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">Here Is Universal Excel, CSV Converter</a></li></h2>
+<h2><li><a href="https://iamrango.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">Here Is Universal Excel, CSV Converter</a></li></h2>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "WebPage",
-      "@id": "https://reptilebirds.com/excel-to-json",
-      "url": "https://reptilebirds.com/excel-to-json",
+      "@id": "https://iamrango.com/excel-to-json",
+      "url": "https://iamrango.com/excel-to-json",
       "name": "Excel to JSON Converter – Free Online Tool",
       "description": "Convert Excel (.xlsx, .xls) files to JSON instantly with this free online tool. Works offline, secure, and easy to use.",
       "inLanguage": "en",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://reptilebirds.com/"
+        "@id": "https://iamrango.com/"
       },
       "breadcrumb": {
-        "@id": "https://reptilebirds.com/excel-to-json#breadcrumb"
+        "@id": "https://iamrango.com/excel-to-json#breadcrumb"
       },
       "mainEntity": {
-        "@id": "https://reptilebirds.com/excel-to-json#software"
+        "@id": "https://iamrango.com/excel-to-json#software"
       }
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://reptilebirds.com/excel-to-json#breadcrumb",
+      "@id": "https://iamrango.com/excel-to-json#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://reptilebirds.com/"
+          "item": "https://iamrango.com/"
         },
         {
           "@type": "ListItem",
@@ -159,11 +159,11 @@ keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, o
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://reptilebirds.com/excel-to-json#software",
+      "@id": "https://iamrango.com/excel-to-json#software",
       "name": "Excel to JSON Converter",
       "applicationCategory": "Utility",
       "operatingSystem": "Web",
-      "url": "https://reptilebirds.com/excel-to-json",
+      "url": "https://iamrango.com/excel-to-json",
       "description": "Free online tool to convert Excel files to JSON securely in your browser. Works offline after first load.",
       "offers": {
         "@type": "Offer",
@@ -173,7 +173,7 @@ keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, o
     },
     {
       "@type": "FAQPage",
-      "@id": "https://reptilebirds.com/excel-to-json#faq",
+      "@id": "https://iamrango.com/excel-to-json#faq",
       "mainEntity": [
         {
           "@type": "Question",
