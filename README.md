@@ -9,7 +9,7 @@
 
 # IMRango - Free Online Tools
 
-IMRango is a collection of **privacy-first, free, and browser-based tools**.  
+IMRango is a collection of **privacy-first, free, and browser-based Productivity tools**.  
 All tools run **100% client-side**, meaning your files never leave your device.  
 No signup, no watermarks, no hidden costs — just fast and secure conversions.  
 

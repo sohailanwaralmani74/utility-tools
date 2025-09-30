@@ -1,8 +1,8 @@
 ---
 layout: main
-title: AMR To MP3 - Convert .amr to .mp3
 keywords: amr to mp3, .amr to mp3, amr to .pm3, convert amr to mp3, convert .amr to mp3,
-description: Convert amr to mp3 without uploading file to backend. Fast, private, browser-based audio converter. amr to mp3 Converter works fine on all browser. 
+title: AMR to MP3 Converter - Fast & Free Online Tool
+description: Convert AMR audio files to MP3 instantly with iamrango's browser-based AMR to MP3 converter. No installation needed, secure and easy.
 ---   
 <script src="/assets/js/ffmpeg.min.js"></script>
 

@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Image Redactor - Redact Images at pixel level
-description: Use our free Image Redactor tool to pixelate, blur, or hide sensitive data in photos. Fully browser-based, secure, and easy to use. No uploads required.
+title: Image Redactor – Edit and Blur Sensitive Parts of Images Online
+description: Protect your privacy by blurring, censoring, or redacting parts of your images directly in the browser. Fast, secure, and fully online image redaction tool.
 keywords: redact image, redact image online, redact photo online, redacted picture, redact this pic, online image redactor, hide faces in photo, blur sensitive data, image censor tool, pixelate image, redact image tool
 ---
 
@@ -22,68 +22,58 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
 
 <script src="/assets/js/redactor.js"></script>
 
-<div style="margin-top:3rem">
+<div style="margin: 4rem">
 
-  <h1>Free Online Image Redactor – Redact, Blur & Pixelate Images Instantly</h1>
+  <h1>Image Redactor – Blur, Censor, and Edit Images Securely</h1>
   <p>
-    Our <strong>Image Redactor tool</strong> lets you <strong>redact images online</strong> 
-    quickly and securely. Whether you need to <strong>blackout, blur, or pixelate images</strong>, 
-    this free tool makes it easy to hide sensitive information before sharing. 
-    It also works as a <strong>metadata remover</strong> to ensure your privacy by stripping EXIF data 
-    from photos.
+    Quickly <strong>redact sensitive areas in your images</strong> such as faces, text, or confidential content.  
+    This browser-based tool allows you to blur, pixelate, or cover parts of your images without installing software, keeping your data private and secure.
   </p>
 
-  <h2>Why Use an Image Redaction Tool?</h2>
-  <p>
-    In today’s digital world, protecting your privacy is crucial. Images often contain 
-    <strong>hidden metadata (EXIF data)</strong> and sensitive details such as faces, addresses, 
-    license plates, or personal information. Our <strong>image redactor</strong> helps you 
-    <strong>censor images</strong> and remove unwanted details for safe sharing online.
-  </p>
-
-  <h2>Redaction Features</h2>
-  <ul>
-    <li><strong>Redact Images</strong> – Hide sensitive parts of images instantly.</li>
-    <li><strong>Pixelate Images</strong> – Apply pixelation to protect identity.</li>
-    <li><strong>Blur Images</strong> – Blur confidential text or faces easily.</li>
-    <li><strong>Blackout Images</strong> – Add black boxes over private details.</li>
-    <li><strong>Metadata Remover</strong> – Delete hidden EXIF data from images.</li>
-    <li><strong>Browser-Based Privacy</strong> – 100% offline, no uploads required.</li>
-  </ul>
-
-  <h2>How to Redact an Image Online</h2>
+  <h2>How the Image Redactor Works</h2>
   <ol>
-    <li>Upload or paste your image into the tool.</li>
-    <li>Select <strong>blur, pixelate, or blackout</strong> as your preferred method.</li>
-    <li>Apply redaction to sensitive areas.</li>
-    <li>Save the <strong>redacted image without metadata</strong> instantly.</li>
+    <li>Upload your image in formats like JPEG, PNG, or GIF.</li>
+    <li>Select the area you want to redact using the intuitive editor.</li>
+    <li>Choose your redaction style: blur, pixelate, or color overlay.</li>
+    <li>Click <strong>Apply</strong> and download the edited image instantly.</li>
   </ol>
 
-  <h2>Use Cases of Image Redaction</h2>
-  <p>
-    The <strong>image redactor</strong> is perfect for protecting privacy in documents, 
-    screenshots, ID cards, and photos. Use it to 
-    <strong>hide faces in social media uploads</strong>, 
-    <strong>remove addresses from scanned files</strong>, or 
-    <strong>delete metadata from pictures before sharing</strong>.
-  </p>
+  <h3>Key Benefits</h3>
+  <ul>
+    <li><strong>Privacy Protection:</strong> Safely redact sensitive information in images.</li>
+    <li><strong>Multiple Styles:</strong> Blur, pixelate, or cover areas with solid colors.</li>
+    <li><strong>Fast & Easy:</strong> User-friendly interface for quick edits.</li>
+    <li><strong>Browser-Based:</strong> No installation required; works on any device.</li>
+    <li><strong>Secure Processing:</strong> Images are edited locally; nothing is uploaded.</li>
+  </ul>
 
-  <h2>Frequently Asked Questions (FAQs)</h2>
+  <h3>Why Use This Image Redactor?</h3>
+  <ul>
+    <li>Blur faces, personal information, or confidential details.</li>
+    <li>Create safe images for sharing online or in reports.</li>
+    <li>Maintain image quality while protecting sensitive areas.</li>
+    <li>Perfect for social media posts, presentations, or documentation.</li>
+  </ul>
 
-  <h3>1. Is the image redactor free?</h3>
-  <p>Yes, it is completely free with no sign-up required.</p>
+  <h3>Frequently Asked Questions (FAQ)</h3>
 
-  <h3>2. Does it work offline?</h3>
-  <p>Yes. The <strong>image redaction tool</strong> runs in your browser, keeping files private.</p>
+  <h4>1. What image formats are supported?</h4>
+  <p>JPEG, PNG, and GIF files are fully supported for redaction.</p>
 
-  <h3>3. Can I remove metadata (EXIF) from images?</h3>
-  <p>Yes. The tool also works as a <strong>metadata remover</strong> and deletes hidden EXIF data.</p>
+  <h4>2. Do I need to install software?</h4>
+  <p>No, everything runs directly in your browser without downloads.</p>
 
-  <h3>4. What redaction methods are available?</h3>
-  <p>You can <strong>pixelate, blur, or blackout images</strong> instantly.</p>
+  <h4>3. Is my data safe?</h4>
+  <p>Yes, all edits are performed locally; no images are uploaded to servers.</p>
 
-  <h3>5. Does image redaction reduce quality?</h3>
-  <p>No. Only the selected areas are altered while the rest of the image remains in full quality.</p>
+  <h4>4. Can I undo or adjust redactions?</h4>
+  <p>Yes, the editor allows you to modify selections before downloading.</p>
+
+  <h4>5. Is this tool free?</h4>
+  <p>Yes, the Image Redactor is completely free with no hidden charges.</p>
+
+</div>
+
 
   <h2>Related Tools</h2>
   <p>
@@ -167,5 +157,3 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
     ]
   }
   </script>
-
-</div>

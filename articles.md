@@ -1,11 +1,11 @@
 ---
 layout: main
-title: Blog Posts And Articles On Software
+title: Blog Posts On IMRango
 description: Article About Software, Open source alternative to proprietry Software, Nearshore software development companies and So on All about Technology.
 ---
 
 <section style="width: 100%;">
-    <h1>Find The Detailed Blog Posts On Software And Open Source</h1>
+    <h1>Productivity Tools And Software For Every Professionals</h1>
 
 <div class="search-container">
    <i class="fas fa-search search-icon"></i>

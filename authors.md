@@ -7,7 +7,7 @@ keywords: blog authors, Blog developers, Software Developer, Software engineer, 
 
 <!-- hero section -->
 <section style="width: 100%;">
-    <h1>Blog Authors</h1>
+    <h1>Blog Authors And Developers</h1>
 
 <div class="search-container">
    <i class="fas fa-search search-icon"></i>

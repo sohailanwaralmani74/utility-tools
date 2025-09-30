@@ -7,7 +7,7 @@ description: Free online browser-based XML converters including XML to Excel, JS
 
 
 <section style="width: 100%;">
-    <h1>Online Browser Based XML Tools For Privacy</h1>
+    <h1>Free XML Tools For Privacy And Productivity</h1>
 <div class="search-container">
    <i class="fas fa-search search-icon"></i>
    <input type="text" class="search-bar" id="searchInput" placeholder="Search The Tool Like XML ....">

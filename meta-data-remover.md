@@ -1,8 +1,8 @@
 ---
 layout: main
-title: Secure Metadata Remover - Clean EXIF & PDF Data Privately
-description: Remove hidden metadata from images & PDFs without uploading files. Client-side EXIF cleaner & PDF Metadata Scrubber.
-keywords: metadata remover, remove metadata from photo, metadata scrubber, meta data scruber, remove meta data
+title: Metadata Remover & Deleter - Secure Online Tool
+description: Remove hidden metadata from images, PDFs, and documents instantly with our free, browser-based Metadata Remover. Keep your files private and safe—no uploads required.
+keywords: metadata remover, remove metadata from photo, metadata scrubber, meta data scruber, remove meta data, meta data deleter
 ---
 
 <script src="/assets/js/pdf-lib.min.js"></script>
@@ -28,64 +28,34 @@ keywords: metadata remover, remove metadata from photo, metadata scrubber, meta 
     </div>
     
 </div>
-<div style="margin-top:3rem">
+<div style="margin: 4rem;">
+  <h1>Metadata Remover & Deleter</h1>
 
-  <h1>Free Online Metadata Remover – Delete Metadata from Files</h1>
   <p>
-    Protect your privacy with our <strong>free metadata remover</strong>. Instantly 
-    <strong>delete metadata from photos, documents, and other files</strong>. Our 
-    <strong>metadata deleter</strong> works entirely in your browser, ensuring that your files never leave your device. 
-    Remove EXIF data, secure your files, and anonymize sensitive details in just one click.
+    Protect your privacy with our <strong>Metadata Remover</strong> tool. Easily delete hidden information from images, PDFs, and documents directly in your browser. No software installation or sign-ups are required, and all processing happens locally—your files never leave your device.
   </p>
 
   <h2>Why Remove Metadata?</h2>
   <p>
-    Metadata often contains hidden information like location (GPS), device details, timestamps, 
-    and personal identifiers. By using our <strong>metadata removal tool</strong>, you can 
-    <strong>delete metadata from photos, PDFs, Word documents, and other files</strong>, ensuring 
-    your privacy is protected before sharing online.
+    Metadata can contain sensitive information such as location, author, device details, or editing history. Removing it ensures your shared files are safe and free from hidden data that could compromise your privacy.
   </p>
-
-  <h2>Features of the Metadata Deleter</h2>
-  <ul>
-    <li><strong>Remove Metadata from Photos</strong> – Strip EXIF data (location, camera info, etc.).</li>
-    <li><strong>Delete Metadata from Documents</strong> – Securely clean Word, PDF, Excel, and text files.</li>
-    <li><strong>Browser-Based Security</strong> – 100% offline, no file uploads.</li>
-    <li><strong>Fast & Free</strong> – One-click solution to <strong>remove metadata instantly</strong>.</li>
-    <li><strong>Protect Privacy</strong> – Share files without exposing hidden details.</li>
-  </ul>
 
   <h2>How to Use the Metadata Remover</h2>
   <ol>
-    <li>Upload or drop your file into the metadata remover tool.</li>
-    <li>Click on <strong>Delete Metadata</strong>.</li>
-    <li>Download your clean, anonymized file instantly.</li>
+    <li><strong>Upload Your File:</strong> Select the image, PDF, or document you want to clean.</li>
+    <li><strong>Remove Metadata:</strong> Click the "Remove" button to strip all hidden data.</li>
+    <li><strong>Download Clean File:</strong> Download your file instantly, now free of metadata.</li>
   </ol>
 
-  <h2>Best Use Cases for Metadata Removal</h2>
-  <p>
-    The <strong>metadata deleter</strong> is widely used for <strong>removing EXIF data from photos</strong>, 
-    cleaning sensitive documents, and ensuring privacy when sharing files online. Whether you are 
-    <strong>anonymizing photos, deleting metadata from Word or PDF, or securing confidential data</strong>, 
-    this tool guarantees safe file cleaning.
-  </p>
+  <h2>Key Features</h2>
+  <ul>
+    <li>Works for images, PDFs, and other common file types.</li>
+    <li>100% local processing for maximum privacy.</li>
+    <li>Fast and simple—no technical skills required.</li>
+    <li>Free to use with unlimited files.</li>
+  </ul>
+</div>
 
-  <h2>Frequently Asked Questions (FAQs)</h2>
-
-  <h3>1. What is metadata?</h3>
-  <p>Metadata is hidden information stored in files, such as location, device, date, and author details.</p>
-
-  <h3>2. Can I remove metadata from photos?</h3>
-  <p>Yes, you can <strong>remove EXIF data</strong> such as GPS, camera type, and timestamps.</p>
-
-  <h3>3. Does this tool work for documents?</h3>
-  <p>Yes, it works for Word, PDF, Excel, and text files by deleting hidden properties.</p>
-
-  <h3>4. Is the metadata removal process safe?</h3>
-  <p>Yes. The tool runs inside your browser, meaning no files are uploaded to a server.</p>
-
-  <h3>5. Is this metadata remover free?</h3>
-  <p>Yes, it is 100% free and requires no sign-up.</p>
 
   <h2>Related Privacy Tools</h2>
   <p>
@@ -168,9 +138,5 @@ keywords: metadata remover, remove metadata from photo, metadata scrubber, meta 
     ]
   }
   </script>
-
-</div>
-
   
 <script src="/assets/js/metadata.js"></script>
-</div>

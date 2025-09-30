@@ -49,7 +49,7 @@ const tools = [
         id: 3,
         icon: 'fa-font',
         title: 'AMR To MP3',
-        description: 'Convert amr to mp3 faster with amr to mp3 converter. Converting amr to mp3 is relaible with reptile birds tool',
+        description: 'Convert amr to mp3 faster with amr to mp3 converter. Converting amr to mp3 is relaible with IamRango tool',
         tags: [
             'amr to mp3',
             'convert amr to mp3',
@@ -64,7 +64,7 @@ const tools = [
         id: 4,
         icon: 'fa-font',
         title: 'M4A To MP3',
-        description: 'Convert m4a to mp3 faster with m4a to mp3 converter. Converting m4a to mp3 is relaible with reptile birds tool',
+        description: 'Convert m4a to mp3 faster with m4a to mp3 converter. Converting m4a to mp3 is relaible with IamRango tool',
         tags: [
             'm4a to mp3',
             'change m4a to mp3',

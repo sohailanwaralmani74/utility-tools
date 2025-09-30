@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Convert CSV To PDF Offline Free
-description: Convert CSV to PDF instantly with our free browser-based convert-csv-to-pdf tool. Fast, secure, and works without uploading your files online.
+title: CSV to PDF Converter - Free Online Tool
+description: Convert CSV files to clean, professional PDF documents instantly with iamrango's browser-based CSV to PDF converter. Fast, secure, and easy.
 keywords: convert csv to pdf, CSV to PDF converter, convert CSV files to PDF, online CSV to PDF tool, free CSV to PDF 
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
@@ -11,8 +11,6 @@ keywords: convert csv to pdf, CSV to PDF converter, convert CSV files to PDF, on
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
-
-<h1>Convert CSV To PDF | Preview And Download</h1>
 
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
@@ -36,7 +34,9 @@ keywords: convert csv to pdf, CSV to PDF converter, convert CSV files to PDF, on
 
 <div style="margin:4rem">
 
-  <h2>Convert CSV to PDF – Free Online Tool</h2>
+<div style="margin: 4rem">
+
+  <h2>Convert CSV to PDF – Preview, Edit And Export</h2>
   <p>
     Convert your <strong>CSV files</strong> into clean, professional-looking <strong>PDF documents</strong> instantly.  
     Just upload your <code>.csv</code> file, click convert, and download the PDF in seconds.  
@@ -90,6 +90,7 @@ keywords: convert csv to pdf, CSV to PDF converter, convert CSV files to PDF, on
   <p>Yes, your CSV rows and columns are converted into structured PDF tables.</p>
 
 </div>
+
 <h2>CSV Conversion Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>

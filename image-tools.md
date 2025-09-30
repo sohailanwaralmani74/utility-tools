@@ -6,10 +6,10 @@ description: Convert Image to any formats like jpg to png, heic to png, png to w
 
 
 <section style="width: 100%;">
-    <h1>Online Browser Based Image Tools For Privacy</h1>
+    <h1>Image Tools For Editing, Redacting And Converting Formats</h1>
 <div class="search-container">
    <i class="fas fa-search search-icon"></i>
-   <input type="text" class="search-bar" id="searchInput" placeholder="Search The Tool JPEG To PNG ...">
+   <input type="text" class="search-bar" id="searchInput" placeholder="Search The Tool hiec to jpg ...">
 </div>
 
 
