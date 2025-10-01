@@ -27,14 +27,14 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
 
 <div style="margin: 4rem">
 
-  <h2>Convert CSV to TXT – Quick and Easy</h2>
+  <h1>Convert CSV to TXT – Quick and Easy</h1>
   <p>
     Turn your <strong>CSV files</strong> into clean, readable <strong>TXT documents</strong> in seconds.  
     Just upload your <code>.csv</code> file, click convert, and download your TXT file instantly.  
     Everything runs directly in your browser, so your data never leaves your device.
   </p>
 
-  <h2>How It Works</h2>
+  <h2>How CSV To TXT Works</h2>
   <ol>
     <li>Upload your <code>.csv</code> file from your computer.</li>
     <li>The tool converts each row and column into a neat plain text format.</li>
