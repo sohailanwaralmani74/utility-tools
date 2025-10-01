@@ -2,7 +2,7 @@
 layout: main
 keywords: opus to mp3, .opus to mp3, convert opus to mp3, opus audio to mp3, convert .opus to mp3 online
 title: OPUS to MP3 Converter - Free Online Audio Conversion
-description: Convert OPUS audio files to MP3 online for free. Fast, high-quality, browser-based conversion that runs offline, keeps your files private, and works on all devices.
+description: Convert OPUS audio files to MP3 online for free. Fast, high-quality, browser-based conversion that runs offline, keeps your files private.
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
 

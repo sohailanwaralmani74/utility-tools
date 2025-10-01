@@ -11,14 +11,14 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
 
 <div style="margin: 4rem">
 
-  <h2>Convert XLSX to CSV – Simple and Fast</h2>
+  <h1>Convert XLSX to CSV – Simple and Fast</h1>
   <p>
     Easily transform your <strong>XLSX spreadsheets</strong> into <strong>CSV files</strong> in seconds.  
     Just upload your <code>.xlsx</code> file, click convert, and download the CSV instantly.  
     This tool runs entirely in your browser, so your data remains private and secure.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How XLSX To CSV Works</h2>
   <ol>
     <li>Upload your <code>.xlsx</code> file from your computer.</li>
     <li>The tool reads your spreadsheet and converts it into CSV format.</li>
@@ -29,7 +29,7 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
     All processing happens locally, so it works <strong>offline</strong> once the page is loaded.
   </p>
 
-  <h3>Why Use This XLSX to CSV Converter?</h3>
+  <h2>Why Use This XLSX to CSV Converter?</h2>
   <ul>
     <li><strong>Fast & Reliable:</strong> Convert spreadsheets to CSV in seconds.</li>
     <li><strong>Offline & Secure:</strong> Your files stay private on your device.</li>

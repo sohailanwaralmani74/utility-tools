@@ -46,14 +46,14 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
 
 <div style="margin: 4rem">
 
-  <h2>Diff Checker – Compare Text and Code Easily</h2>
+  <h1>Diff Checker – Compare Text and Code Easily</h1>
   <p>
     Instantly find differences between two pieces of <strong>text</strong> or <strong>code</strong>.  
     Just paste your content, click compare, and see the changes highlighted side by side.  
     The entire process runs in your browser, so your data remains private and secure.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How Free Diff Checker Works</h2>
   <ol>
     <li>Paste or upload the first piece of text or code.</li>
     <li>Paste or upload the second piece of text or code.</li>
@@ -64,7 +64,7 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
     All comparisons are processed locally, so it works <strong>offline</strong> once the page is loaded.
   </p>
 
-  <h3>Why Use This Diff Checker?</h3>
+  <h2>Why Use This Diff Checker?</h2>
   <ul>
     <li><strong>Fast & Efficient:</strong> Instantly see differences between any two texts or code snippets.</li>
     <li><strong>Offline & Secure:</strong> Your data never leaves your device.</li>

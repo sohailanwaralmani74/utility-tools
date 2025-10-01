@@ -23,14 +23,14 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
 
 <div style="margin: 4rem">
 
-  <h2>Convert CSV to SQL – Fast and Reliable</h2>
+  <h1>Convert CSV to SQL – Fast and Reliable And Secure</h1>
   <p>
     Easily convert your <strong>CSV files</strong> into <strong>SQL statements</strong> ready for databases.  
     Just upload your <code>.csv</code> file, click convert, and download the SQL file instantly.  
     All processing runs in your browser, so your data never leaves your device.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How CSV To SQL Works</h2>
   <ol>
     <li>Upload your <code>.csv</code> file from your computer.</li>
     <li>The tool converts each row into SQL <code>INSERT</code> statements automatically.</li>
@@ -41,7 +41,7 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
     Everything is processed locally, so it works <strong>offline</strong> once the page is loaded.
   </p>
 
-  <h3>Why Use This CSV to SQL Converter?</h3>
+  <h2>Why Use This CSV to SQL Converter?</h2>
   <ul>
     <li><strong>Fast & Accurate:</strong> Converts CSV rows into SQL statements quickly and correctly.</li>
     <li><strong>Offline & Secure:</strong> Your files stay private on your device.</li>

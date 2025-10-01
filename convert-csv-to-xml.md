@@ -30,14 +30,14 @@ keywords: convert csv to xml, CSV to XML converter, convert CSV files to XML, on
 
 <div style="margin: 4rem">
 
-  <h2>Convert CSV to XML – Fast and Reliable</h2>
+  <h1>Convert CSV to XML – Fast and Reliable</h1>
   <p>
     Transform your <strong>CSV files</strong> into structured <strong>XML documents</strong> in seconds.  
     Just upload your <code>.csv</code> file, click convert, and download the XML file instantly.  
     The entire process runs in your browser, keeping your data private and secure.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How CSV to XML Converter Works</h2>
   <ol>
     <li>Upload your <code>.csv</code> file from your computer.</li>
     <li>The tool automatically converts each row and column into proper XML elements.</li>
@@ -48,7 +48,7 @@ keywords: convert csv to xml, CSV to XML converter, convert CSV files to XML, on
     Everything is processed locally, so it works <strong>offline</strong> once the page is loaded.
   </p>
 
-  <h3>Why Use This CSV to XML Converter?</h3>
+  <h2>Why Use This CSV to XML Converter?</h2>
   <ul>
     <li><strong>Fast & Efficient:</strong> Convert CSV to XML in seconds.</li>
     <li><strong>Offline & Secure:</strong> Your files stay private on your device.</li>

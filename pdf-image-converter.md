@@ -1,7 +1,7 @@
 ---
 layout: main
-title: Online Image & PDF Converter - Convert JPG, PNG, PDF, WebP, AVIF & TIFF
-description: Convert images and PDFs online for free. Our all-in-one tool supports JPG, PNG, PDF, WebP, AVIF, and TIFF conversions directly in your browser, securely and offline.
+title: Online Image & PDF Converter - Convert Formats
+description: Convert images and PDFs online for free. Our all-in-one tool supports JPG, PNG, PDF, WebP, AVIF, and TIFF conversions directly in your browser.
 keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, convert pdf to png, convert png to pdf, jpg to png, png to jpg, jpg to webp, png to webp, jpg to avif, png to avif, jpg to tiff, png to tiff, tiff to jpg, webp to jpg, image converter, pdf to image converter, image to pdf converter
 
 ---

@@ -29,14 +29,14 @@ keywords: convert-xlsx-to-xml, XLSX to XML converter, convert Excel XLSX to XML,
 
 <div style="margin: 4rem">
 
-  <h2>Convert XLSX to XML – Fast and Reliable</h2>
+  <h1>Convert XLSX to XML – Fast and Reliable</h1>
   <p>
     Easily convert your <strong>XLSX spreadsheets</strong> into well-structured <strong>XML documents</strong> in seconds.  
     Just upload your <code>.xlsx</code> file, click convert, and download the XML instantly.  
     All processing happens in your browser, keeping your data secure and private.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How XLSX to XML Converter Works</h2>
   <ol>
     <li>Upload your <code>.xlsx</code> spreadsheet from your computer.</li>
     <li>The tool converts rows and columns into proper XML elements automatically.</li>

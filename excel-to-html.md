@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Excel To HTML – Convert Spreadsheets into Web-Ready Tables
-description: Transform your Excel files into clean, responsive HTML tables directly in your browser. Preserve headers, formatting, and structure without installing any software.
+description: Transform your Excel files into clean, responsive HTML tables directly in your browser. Preserve headers, formatting, and structure easily.
 keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, online Excel to HTML tool, free Excel to HTML
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>

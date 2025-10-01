@@ -1,6 +1,6 @@
 ---
 layout: main
-title: XLSX to SQL Converter – Fast, Accurate & Browser-Based Excel to SQL Tool
+title: XLSX to SQL Converter – Browser-Based Excel to SQL Tool
 description: Convert XLSX files to SQL instantly with our safe, browser-based tool. Accurate, fast, and easy-to-use solution for developers and data professionals.
 keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQL, online XLSX to SQL tool, free XLSX to SQL
 ---

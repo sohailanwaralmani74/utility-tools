@@ -16,8 +16,24 @@ keywords: blog authors, Blog developers, Software Developer, Software engineer, 
 
 
 <div class="container">
-<div class="tool-grid" id="authorsGrid">
+ <div class="tool-grid" id="authorsGrid">
+  <div class="profile-container">
+    <div class="profile-card">
+        <div class="profile-image">
+          <img src="assets/img/sohail-anwar.png" alt="${author.name}">
+        </div>
+        <div class="profile-content">
+          <h2 style="display:flex; justify-content: center;">Sohail Anwar</h2>
+          <p class="title">Senior Software Engineer</p>
+          <p class="bio">Proficient problem-solver and collaborator, skilled at translating business      requirements into robust technical solutions.</p>
+        <div class="skills">
+          <span class="tag">Java</span>
+          <span class="tag">Angular</span>
+          <span class="tag">Android</span>
+        </div>
+        <a href="sohail-anwar" class="profile-button">See More About Sohail</a>
+    </div>
+  </div>
+ </div>
 </div>
-</div>
-<script src="/assets/js/authors.js"></script>
 

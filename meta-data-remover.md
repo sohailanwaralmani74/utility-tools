@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Metadata Remover & Deleter - Secure Online Tool
-description: Remove hidden metadata from images, PDFs, and documents instantly with our free, browser-based Metadata Remover. Keep your files private and safe—no uploads required.
+description: Remove hidden metadata from images, PDFs, and documents instantly with our free, browser-based Metadata Remover. Keep your files private.
 keywords: metadata remover, remove metadata from photo, metadata scrubber, meta data scruber, remove meta data, meta data deleter
 ---
 

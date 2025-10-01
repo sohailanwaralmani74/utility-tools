@@ -43,14 +43,14 @@ description: Convert your OGG or .ogg files to high-quality MP3 instantly with i
 
 <div style="margin: 4rem">
 
-  <h2>Convert OGG to MP3 – Fast and Reliable</h2>
+  <h1>Convert OGG to MP3 – Fast and Reliable</h1>
   <p>
     Easily convert your <strong>OGG files</strong> (.ogg) into universally compatible <strong>MP3 audio</strong> in seconds.  
     Just upload your file, click convert, and download the MP3 instantly.  
     This tool runs entirely in your browser, so your audio stays private and secure.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How OGG To MP3 Converter Works</h2>
   <ol>
     <li>Upload your <code>.ogg</code> or <code>OGG</code> file from your device.</li>
     <li>The tool converts your audio into high-quality MP3 format.</li>
@@ -61,7 +61,7 @@ description: Convert your OGG or .ogg files to high-quality MP3 instantly with i
     Conversion happens locally in your browser, so it works <strong>offline</strong> after the page loads.
   </p>
 
-  <h3>Why Use This OGG to MP3 Converter?</h3>
+  <h2>Why Use This OGG to MP3 Converter?</h2>
   <ul>
     <li><strong>Fast & Easy:</strong> Convert OGG to MP3 in seconds.</li>
     <li><strong>Offline & Secure:</strong> Your audio files remain private.</li>

@@ -34,7 +34,7 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
     Everything runs directly in your browser, so your data never leaves your device.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How It Works</h2>
   <ol>
     <li>Upload your <code>.csv</code> file from your computer.</li>
     <li>The tool converts each row and column into a neat plain text format.</li>
@@ -45,7 +45,7 @@ keywords: convert csv to txt, CSV to TXT converter, convert CSV files to TXT, on
     All processing happens locally, so it works <strong>offline</strong> once the page is loaded.
   </p>
 
-  <h3>Why Use This CSV to TXT Converter?</h3>
+  <h2>Why Use This CSV to TXT Converter?</h2>
   <ul>
     <li><strong>Fast & Reliable:</strong> Convert CSV to TXT in seconds.</li>
     <li><strong>Offline & Secure:</strong> Your files stay private on your device.</li>

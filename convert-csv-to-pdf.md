@@ -32,18 +32,16 @@ keywords: convert csv to pdf, CSV to PDF converter, convert CSV files to PDF, on
 
 <script src="/assets/js/xlsx-to-pdf.js"></script>
 
-<div style="margin:4rem">
-
 <div style="margin: 4rem">
 
-  <h2>Convert CSV to PDF – Preview, Edit And Export</h2>
+  <h1>Convert CSV to PDF – Preview, Edit And Export</h1>
   <p>
     Convert your <strong>CSV files</strong> into clean, professional-looking <strong>PDF documents</strong> instantly.  
     Just upload your <code>.csv</code> file, click convert, and download the PDF in seconds.  
     This tool runs entirely in your browser, so your data never leaves your device.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How CSV To PDF Works</h2>
   <ol>
     <li>Upload your <code>.csv</code> file from your computer.</li>
     <li>The tool automatically formats rows and columns into a neat PDF layout.</li>
@@ -54,7 +52,7 @@ keywords: convert csv to pdf, CSV to PDF converter, convert CSV files to PDF, on
     Everything is processed locally, so it works <strong>offline</strong> once the page is loaded.
   </p>
 
-  <h3>Why Use This CSV to PDF Converter?</h3>
+  <h2>Why Use This CSV to PDF Converter?</h2>
   <ul>
     <li><strong>Free & Fast:</strong> Instant conversion without signup.</li>
     <li><strong>Offline & Secure:</strong> Your files stay on your device.</li>
