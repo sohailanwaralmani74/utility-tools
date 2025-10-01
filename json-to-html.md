@@ -11,7 +11,6 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
 
 
 
-<h1>Convert JSON To HTML | Preview, Edit And Export To HTML</h1>
 <!-- Tool section -->
 <section class="tool-section container">
     <div class="upload-section">

@@ -5,26 +5,12 @@ description: Edit and convert XML files to XLSX, JSON, PDF, CSV, and more instan
 keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert xml to pdf raw, convert xml to pdf table, convert xml to csv, xml to xlsx, xml to xls, xml to json, xml to pdf raw, xml to pdf table, xml to csv, online xml converter, xml file converter, free xml converter
 ---
 <script type="application/ld+json">
-{
+  {
     "@context": "https://schema.org",
-    "@type": "WebPage",
-    "name": "Free Online XML Converter - Convert XML to XLSX, XLS, JSON, PDF, CSV",
-    "description": "Convert XML to XLSX, XLS, JSON, PDF (RAW), PDF (Table), and CSV formats for free online. Easily upload, edit, and convert XML files with our fast and efficient utility tool.",
-    "url": "https://iamrango.com/xml-converter",
-    "mainEntityOfPage": "https://iamrango.com/xml-converter",
-    "publisher": {
-      "@type": "Organization",
-      "name": "IMRango",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://iamrango.com/assets/images/logo.jpg"
-      }
-    },
-    "SoftwareApplication": {
       "@type": "SoftwareApplication",
       "name": "XML Converter Tool",
       "operatingSystem": "Web-based",
-      "applicationCategory": "Conversion Software",
+      "applicationCategory": "Productivity Tools",
       "url": "https://iamrango.com/xml-converter",
       "featureList": [
         "Convert XML to XLSX",
@@ -34,7 +20,11 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
         "Convert XML to PDF (Table)",
         "Convert XML to CSV",
         "Convert XML to SQL"
-      ]
+      ],
+       "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
     }
   }
 </script>
