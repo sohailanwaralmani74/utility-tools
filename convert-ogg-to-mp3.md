@@ -49,6 +49,8 @@ description: Convert your OGG or .ogg files to high-quality MP3 instantly with i
     Just upload your file, click convert, and download the MP3 instantly.  
     This tool runs entirely in your browser, so your audio stays private and secure.
   </p>
+  <p>If you are looking for OGX To MP3 Converter Check it on link below</p>
+ <a href="/ogx-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG OGX To MP3 Converter</a>
 
   <h2>How OGG To MP3 Converter Works</h2>
   <ol>

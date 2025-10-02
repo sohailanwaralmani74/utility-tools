@@ -171,12 +171,23 @@ const tools = [
     ],
     category: 'audio',
     url: 'caf-to-mp3'
-    }
-
-
-
-
-
+    },
+    {
+    id: 11,
+    icon: 'fa-music',
+    title: 'OGX To MP3',
+    description: 'Convert ogx to mp3 instantly with our fast and reliable OGX to MP3 converter tool. Works securely in your browser.',
+    tags: [
+        'ogx to mp3',
+        'Convert ogg to mp3',
+        'convert ogg to mp3 free',
+        'ogx to mp3 converter',
+        'convert ogx file to mp3',
+        'ogg ogx to mp3'
+    ],
+    category: 'audio',
+    url: 'ogx-to-mp3'
+   }
 ];
 
         

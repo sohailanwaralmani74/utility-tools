@@ -1,5 +1,5 @@
     const { createFFmpeg, fetchFile } = FFmpeg;
-    const ffmpeg = createFFmpeg({ log: true });
+    const ffmpeg = createFFmpeg({ log: true, memory: 268435456  });
 
     const fileInput = document.getElementById("audio-file");
     const fileInfo = document.getElementById("file-info");
