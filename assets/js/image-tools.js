@@ -17,6 +17,15 @@ const tools = [
     category: 'jpg',
     url: 'jpg-to-jpeg'
   },
+  {
+    id: 2,
+    icon: 'fa-font',
+    title: 'PNG TO JPG',
+    description: 'Convert PNG to JPG or jpeg faster and secure. png to jpg converter is browser based and works offline after first load',
+    tags: ['png to jpg Converter', 'png Format Converter', 'png To jpeg, png to jpg'],
+    category: 'jpg',
+    url: 'png-to-jpg'
+  },
 //   {
 //     id: 2,
 //     icon: 'fa-font',

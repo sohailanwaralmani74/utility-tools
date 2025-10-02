@@ -2,7 +2,6 @@
 layout: main
 title: Excel To JSON – Convert Spreadsheets into Structured Data
 description: Transform your Excel files into clean JSON format for web applications, APIs, or data processing. Fast, secure, and fully browser-based.
-
 keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, online Excel to JSON tool, free Excel to JSON
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
