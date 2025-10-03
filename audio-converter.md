@@ -56,66 +56,6 @@ description: Convert any audio file to MP3 or convert MP3 to popular formats lik
   <p>Currently, one file at a time is supported to ensure fast and reliable conversions.</p>
 </div>
 
-
-<!-- JSON-LD Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Free Online Audio Converter",
-  "url": "https://iamrango.com/audio-converter",
-  "applicationCategory": "MultimediaApplication",
-  "operatingSystem": "Any",
-  "description": "Convert audio files online to MP3, WAV, FLAC, M4A, AAC, OGG, Opus, ALAC, AMR, AIFF, WMA, and CAF instantly in your browser with no installation or uploads.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  },
-  "featureList": [
-    "Convert to MP3",
-    "Convert to WAV",
-    "Convert to FLAC",
-    "Convert to M4A",
-    "Convert to AAC",
-    "Convert to OGG",
-    "Convert to Opus",
-    "Convert to ALAC",
-    "Convert to AMR",
-    "Convert to AIFF",
-    "Convert to WMA",
-    "Convert to CAF"
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
-    {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Home",
-      "item": "https://iamrango.com/"
-    },
-    {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Audio Tools",
-      "item": "https://iamrango.com/audio-tools"
-    },
-    {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "Audio Converter",
-      "item": "https://iamrango.com/audio-converter"
-    }
-  ]
-}
-</script>
-
 <h2>🎵 Audio & Video Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>

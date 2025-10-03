@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Free XML to Excel Converter – Convert XML Files to Excel Online
-description: Easily convert XML files to Excel (XLSX) with our free online XML to Excel converter. Fast, secure, and accurate tool for data analysts, developers, and professionals.
+description: Easily convert XML files to Excel (XLSX) with our free online XML to Excel converter. Fast, secure, and accurate tool for anyone.
 keywords: xml-to-excel, XML to Excel converter, convert XML files to Excel, online XML to Excel tool, free XML to Excel
 ---
 
