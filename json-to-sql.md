@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to SQL Converter Online – Fast & Secure
-Description: Convert JSON files to SQL scripts instantly with our free, browser-based tool. Generate database-ready queries offline, with full privacy and no uploads.
+title: JSON to SQL Converter Online – Fast & Secure
+description: Convert JSON files to SQL scripts instantly with our free, browser-based tool. Generate database-ready queries offline, with full privacy and no uploads.
 keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online JSON to SQL tool, free JSON to SQL
 ---
 <script src="https://cdn.jsdelivr.net/npm/sql-formatter@12.2.0/dist/sql-formatter.min.js"></script>
@@ -77,19 +77,3 @@ keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online 
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "JSON to SQL",
-  "url": "https://iamrango.com/json-to-sql",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert JSON to SQL effortlessly with our free json-to-sql tool. Fast, reliable, and perfect for developers and database integration.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>

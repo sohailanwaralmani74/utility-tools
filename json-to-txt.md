@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to TXT Converter Online – Quick & Private
-Description: Convert JSON files to plain TXT format instantly with our free, browser-based tool. Extract readable text offline, safely, with no uploads.
+title: JSON to TXT Converter Online – Quick & Private
+description: Convert JSON files to plain TXT format instantly with our free, browser-based tool. Extract readable text offline, safely, with no uploads.
 keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online JSON to TXT tool, free JSON to TXT
 ---
 
@@ -80,19 +80,3 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "JSON to TXT",
-  "url": "https://iamrango.com/json-to-txt",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert JSON to TXT quickly with our free json-to-txt tool. Simple, secure, and works entirely in your browser without data sharing.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>

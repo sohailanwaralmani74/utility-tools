@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to CSV Converter Online – Fast, Secure, Offline
-Description: Convert JSON to CSV instantly with our free, browser-based tool. Fast, secure, offline, and easy to use. Perfect for  everyone.
+title: JSON to CSV Converter Online – Fast, Secure, Offline
+description: Convert JSON to CSV instantly with our free, browser-based tool. Fast, secure, offline, and easy to use. Perfect for  everyone.
 keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online JSON to CSV tool, free JSON to CSV
 ---
 
@@ -85,113 +85,6 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
 
 </div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://iamrango.com/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Tools",
-          "item": "https://iamrango.com/json-tools"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "JSON to CSV Converter",
-          "item": "https://iamrango.com/json-to-csv"
-        }
-      ]
-    },
-
-    {
-      "@type": "SoftwareApplication",
-      "name": "JSON to CSV Converter",
-      "operatingSystem": "Any (Web-based, works offline after load)",
-      "applicationCategory": "UtilityApplication",
-      "applicationSubCategory": "Data Conversion Tool",
-      "softwareVersion": "1.0",
-      "url": "https://iamrango.com/json-to-csv",
-      "description": "Free JSON to CSV converter tool that works offline once loaded. Convert JSON data into CSV or TXT instantly with built-in editors and export options.",
-      "creator": {
-        "@type": "Organization",
-        "name": "IMRango",
-        "url": "https://iamrango.com"
-      },
-      "featureList": [
-        "JSON editor with preview",
-        "Upload JSON files",
-        "Instant JSON to CSV conversion",
-        "Export as CSV or TXT",
-        "Works offline once loaded",
-        "Free browser-based tool"
-      ],
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "USD",
-        "category": "free"
-      }
-    },
-
-    {
-      "@type": "WebPage",
-      "name": "JSON to CSV Converter Online",
-      "url": "https://iamrango.com/json-to-csv",
-      "description": "Convert JSON to CSV easily with this free tool. Works offline once loaded, supports file upload, manual input, preview, and export to CSV or TXT."
-    },
-
-    {
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Does the JSON to CSV tool work offline?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, once the page is loaded, the JSON to CSV converter works completely offline in your browser. No data is sent to any server."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Can I upload a JSON file?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, you can upload JSON files directly from your computer or paste JSON data into the editor."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What export formats are available?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "You can export your converted data as .CSV for spreadsheets and databases or as .TXT for plain text usage."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is this JSON to CSV converter free?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, this tool is 100% free to use, with no signup or installation required."
-          }
-        }
-      ]
-    }
-
-  ]
-}
-</script>
 <h2>Other Useful Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>

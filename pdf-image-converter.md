@@ -4,34 +4,6 @@ title: Online Image & PDF Converter - Convert Formats
 description: Convert images and PDFs online for free. Our all-in-one tool supports JPG, PNG, PDF, WebP, AVIF, and TIFF conversions directly in your browser.
 keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, convert pdf to png, convert png to pdf, jpg to png, png to jpg, jpg to webp, png to webp, jpg to avif, png to avif, jpg to tiff, png to tiff, tiff to jpg, webp to jpg, image converter, pdf to image converter, image to pdf converter
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "PDF to Image and Image Converter",
-  "applicationCategory": "Utility",
-  "operatingSystem": "All",
-  "description": "Convert PDF to image and image to any format including JPG, PNG, WebP, AVIF, TIFF, HEIC, HEIF, SVG, EPS, and PDF. This tool works offline, protects your privacy, and requires no uploads.",
-  "url": "https://iamrango.com/pdf-image-converter",
-  "featureList": [
-    "Convert PDF to JPG, JPEG, PNG, WebP, AVIF, TIFF, TIF, HEIC, HEIF, SVG, EPS",
-    "Convert JPG, PNG, WebP, AVIF, TIFF, TIF, HEIC, HEIF, SVG, EPS to any other format",
-    "Convert images to single PDF or multiple PDFs",
-    "100% offline conversion in-browser",
-    "No data uploaded or stored"
-  ],
-  "creator": {
-    "@type": "Organization",
-    "name": "IMRango"
-  },
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD",
-    "category": "Free"
-  }
-}
-</script>
 
 <script src="/assets/js/jszip.min.js"></script>
 <script src="/assets/js/html2canvas.min.js"></script>

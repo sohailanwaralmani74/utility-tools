@@ -8,42 +8,6 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
         
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Excel & CSV Converter",
-  "url": "https://iamrango.com/excel-csv-converter",
-  "description": "A web-based utility to convert XLSX and CSV files into XLS, CSV, JSON, TXT, HTML, PDF, XML, SQL and vice versa—no installs, no plugins.",
-  "applicationCategory": "Utility",
-  "operatingSystem": "All",
-  "featureList": [
-    "Convert XLSX to XLS",
-    "Convert XLSX to CSV",
-    "Convert XLSX to JSON",
-    "Convert XLSX to TXT",
-    "Convert XLSX to HTML",
-    "Convert XLSX to PDF",
-    "Convert XLSX to XML",
-    "Convert XLSX to SQL",
-    "Convert CSV to XLS",
-    "Convert CSV to XLSX",
-    "Convert CSV to JSON",
-    "Convert CSV to TXT",
-    "Convert CSV to HTML",
-    "Convert CSV to PDF",
-    "Convert CSV to XML",
-    "Convert CSV to SQL"
-  ],
-  "keywords": "XLSX to XLS, XLSX to CSV, XLSX to JSON, XLSX to TXT, XLSX to HTML, XLSX to PDF, XLSX to XML, XLSX to SQL, CSV to XLS, CSV to XLSX, CSV to JSON, CSV to TXT, CSV to HTML, CSV to PDF, CSV to XML, CSV to SQL",
-  "offers": {
-    "@type": "Offer",
-    "price": "0.00",
-    "priceCurrency": "USD"
-  }
-}
-</script>
-
 
 <!-- Tool section -->
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">

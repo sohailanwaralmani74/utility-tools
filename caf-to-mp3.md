@@ -44,22 +44,6 @@ keywords: caf to mp3, .caf to mp3, convert caf to mp3, convert .caf to mp3 onlin
 
 <script src="/assets/js/caf-to-mp3.js"></script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "CAF to MP3 Converter",
-  "url": "https://iamrango.com/caf-to-mp3",
-  "applicationCategory": "MultimediaApplication",
-  "operatingSystem": "Web",
-  "description": "Convert CAF audio files to MP3 instantly with our free browser-based CAF to MP3 converter. Fast, secure, and easy to use without uploads.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
 
 <div style="margin: 4rem">
   <h1>CAF to MP3 Converter</h1>

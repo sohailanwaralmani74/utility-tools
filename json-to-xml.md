@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to XML Converter Online – Fast & Secure
-Description: Convert JSON files to structured XML instantly with our free browser-based tool. Offline, private, and perfect for API or system integration.
+title: JSON to XML Converter Online – Fast & Secure
+description: Convert JSON files to structured XML instantly with our free browser-based tool. Offline, private, and perfect for API or system integration.
 keywords: json-to-xml, JSON to XML converter, convert JSON files to XML, online JSON to XML tool, free JSON to XML
 ---
 <script src="https://cdn.jsdelivr.net/gh/vkiryukhin/vkBeautify/vkbeautify.js"></script>
@@ -67,7 +67,7 @@ keywords: json-to-xml, JSON to XML converter, convert JSON files to XML, online 
   </ul>
 </div>
 
-<h2>Other Useful Tools</h2>
+<h2>Our Site Also Have These Productivity Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
@@ -76,21 +76,3 @@ keywords: json-to-xml, JSON to XML converter, convert JSON files to XML, online 
   <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
 </ul>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "JSON to XML",
-  "url": "https://iamrango.com/json-to-xml",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert JSON to XML instantly with our free json-to-xml tool. Safe, offline processing ensures your data remains private and secure.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
-

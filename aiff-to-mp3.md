@@ -81,23 +81,6 @@ keywords: aiff to mp3, .aiff to mp3, convert aiff to mp3, convert .aiff to mp3 o
 </div>
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "AIFF to MP3 Converter",
-  "url": "https://iamrango.com/aiff-to-mp3",
-  "applicationCategory": "MultimediaApplication",
-  "operatingSystem": "Web",
-  "description": "AIFF to MP3 Converter works quickly with our free browser-based tool. Fast, secure, no uploads, and easy to use for everyone.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
-
 <h2>🎵 Audio & Video Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>

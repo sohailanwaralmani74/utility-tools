@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to PDF Converter Online – Secure & Fast
-Description: Convert JSON files to professional PDF documents instantly. Our free, browser-based tool creates clean, shareable PDFs from JSON — offline.
+title: JSON to PDF Converter Online – Secure & Fast
+description: Convert JSON files to professional PDF documents instantly. Our free, browser-based tool creates clean, shareable PDFs from JSON — offline.
 keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online JSON to PDF tool, free JSON to PDF
 ---
 
@@ -70,7 +70,7 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
   </ul>
 </div>
 
-<h2>Other Useful Tools</h2>
+<h2>Are You Looking For These JSON Tools ?</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
@@ -80,20 +80,4 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "JSON to PDF",
-  "url": "https://iamrango.com/json-to-pdf",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert JSON to PDF instantly with our free json-to-pdf tool. Works offline in your browser, keeping your data safe and secure.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
 <h2><li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">JSON Converter - Convert Into Any Format</a></li></h2>

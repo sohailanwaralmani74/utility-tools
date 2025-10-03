@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to Excel Converter Online – Fast, Secure, Offline
-Description: Convert JSON to Excel (XLSX/XLS) instantly with our free, browser-based tool. Fast, offline, and private — perfect for analysts, developers, and business reporting.
+title: JSON to Excel Converter Online – Fast, Secure, Offline
+description: Convert JSON to Excel (XLSX/XLS) instantly with our free, browser-based tool. Fast, offline, and private — perfect for analysts, developers, and business reporting.
 keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, online JSON to Excel tool, free JSON to Excel
 ---
 
@@ -81,25 +81,8 @@ keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, o
 </div>
 
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "JSON to Excel",
-  "url": "https://iamrango.com/json-to-excel",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert JSON to Excel easily using our free json-to-excel tool. Secure, fast, and works offline in your browser with no data uploads.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
 
-
-<h2>Other Useful Tools</h2>
+<h2>Other Useful JSON Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
   <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>

@@ -139,110 +139,12 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
 
   <h4>5. Is my Excel file secure?</h4>
   <p>Yes. Your XLSX file never leaves your device, as the conversion is done locally.</p>
-
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc; text-decoration:underline;">XLSX to SQL</a></li>
+</ul>
 </div>
-
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "WebPage",
-      "@id": "https://iamrango.com/xlsx-to-csv",
-      "url": "https://iamrango.com/xlsx-to-csv",
-      "name": "XLSX to CSV Converter – Free Online Tool",
-      "description": "Free online tool to convert Excel XLSX spreadsheets into CSV files instantly. Works offline in your browser, secure and fast.",
-      "inLanguage": "en",
-      "isPartOf": {
-        "@type": "WebSite",
-        "@id": "https://iamrango.com/"
-      },
-      "breadcrumb": {
-        "@id": "https://iamrango.com/xlsx-to-csv#breadcrumb"
-      },
-      "mainEntity": {
-        "@id": "https://iamrango.com/xlsx-to-csv#software"
-      }
-    },
-    {
-      "@type": "BreadcrumbList",
-      "@id": "https://iamrango.com/xlsx-to-csv#breadcrumb",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://iamrango.com/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "XLSX to CSV"
-        }
-      ]
-    },
-    {
-      "@type": "SoftwareApplication",
-      "@id": "https://iamrango.com/xlsx-to-csv#software",
-      "name": "XLSX to CSV Converter",
-      "applicationCategory": "Utility",
-      "operatingSystem": "Web",
-      "url": "https://iamrango.com/xlsx-to-csv",
-      "description": "Convert XLSX Excel spreadsheets into CSV files for free. Secure, offline, and browser-based.",
-      "offers": {
-        "@type": "Offer",
-        "price": "0",
-        "priceCurrency": "USD"
-      }
-    },
-    {
-      "@type": "FAQPage",
-      "@id": "https://iamrango.com/xlsx-to-csv#faq",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Is this XLSX to CSV converter free?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, this tool is 100% free to use."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Do I need to install anything?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No, it works directly in your web browser."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Does it work offline?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes, once the page loads, conversions happen offline."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Why convert XLSX to CSV?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "CSV is a lightweight, universal format used in programming, databases, and data analysis."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is my Excel file secure?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Your XLSX file never leaves your device, as the conversion is done locally."
-          }
-        }
-      ]
-    }
-  ]
-}
-</script>
-

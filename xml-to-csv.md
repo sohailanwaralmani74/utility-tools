@@ -70,22 +70,6 @@ keywords: xml-to-csv, XML to CSV converter, convert XML files to CSV, online XML
   <p>Our tool simplifies XML to CSV conversion, saving time and reducing manual errors. Experience a fast, secure, and hassle-free solution to handle your XML data today.</p>
 </div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "XML to CSV",
-  "url": "https://iamrango.com/xml-to-csv",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert XML to CSV easily with our free xml-to-csv tool. Fast, secure, and works directly in your browser without uploading files online.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
 
 <h2>XML Conversion Tools</h2>
 <ul>

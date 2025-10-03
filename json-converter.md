@@ -4,26 +4,6 @@ title: JSON Converter – Edit, Format, and Transform JSON Instantly
 description: Edit, validate, and convert JSON files online with our fast, browser-based JSON editor. No installation required; secure and free.
 keywords: json editor online, json to csv, json to xlsx, json to xls, json to txt, json to html, json to pdf, json to xml, json to sql, convert json online, json viewer and editor, edit json, online json formatter, export json, json converter tool, browser based json tool, paste json and convert
 ---
-
-
-<script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebApplication",
-      "name": "Online JSON Editor & Converter",
-      "url": "https://iamrango.com/json-converter",
-      "applicationCategory": "DeveloperApplication",
-      "operatingSystem": "All",
-      "description": "Edit, view, and convert JSON data online. Export JSON to CSV, Excel, PDF, XML, SQL, and more. Paste or upload JSON with instant conversion.",
-      "browserRequirements": "Requires JavaScript enabled",
-      "featureList": [
-        "Paste or upload JSON",
-        "Edit and format JSON",
-        "View JSON tree structure",
-        "Convert JSON to CSV, XLSX, XLS, TXT, HTML, PDF, XML, SQL"
-      ]
-    }
-    </script>
     
 <!-- JSONView (depends on jQuery) -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>

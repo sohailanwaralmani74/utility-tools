@@ -4,23 +4,6 @@ title: Free XML to PDF Converter – Convert XML Files to PDF Online Instantly
 description: Convert XML files to PDF instantly with our free online XML to PDF converter. Fast, accurate, and browser-based tool for developers and business professionals.
 keywords: xml-to-pdf, XML to PDF converter, convert XML files to PDF, online XML to PDF tool, free XML to PDF
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "XML to PDF",
-  "url": "https://iamrango.com/xml-to-pdf",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert XML to PDF instantly with our free xml-to-pdf tool. Fast, private, and works completely in your browser with no uploads.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
-
 <!-- jsPDF CDN -->
 <!-- Include jsPDF -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/themes/prism.min.css" rel="stylesheet">

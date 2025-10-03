@@ -1,0 +1,150 @@
+# IMRango – Privacy-Focused Software & Utility Tools
+IMRango provides free browser-based tools for Excel, CSV, JSON, XML, text, audio, image, and file management — fast, secure, and private.
+
+## Excel Tools
+[Excel Tools](https://iamrango.com/excel-tools): Enhance productivity when working with Excel files, offering data manipulation and conversion features.  
+[Excel to JSON](https://iamrango.com/excel-to-json): Convert Excel spreadsheets into structured JSON data.  
+[Excel to TXT](https://iamrango.com/excel-to-txt): Export Excel files into plain text format.  
+[Excel to HTML](https://iamrango.com/excel-to-html): Convert Excel data into clean HTML tables.  
+[Excel CSV Converter](https://iamrango.com/excel-csv-converter): Seamlessly switch between Excel and CSV formats.  
+[XLSX to PDF](https://iamrango.com/xlsx-to-pdf): Convert Excel spreadsheets into secure, shareable PDF documents.  
+[XLSX to SQL Converter](https://iamrango.com/xlsx-to-sql-converter): Generate SQL scripts from Excel spreadsheets.  
+[Convert XLSX to CSV](https://iamrango.com/convert-xlsx-to-csv): Export Excel files into CSV format instantly.  
+[Convert XLSX to XML](https://iamrango.com/convert-xlsx-to-xml): Transform Excel spreadsheets into XML format.  
+
+**FAQs**  
+**Q: Do these Excel tools support large files?**  
+A: Yes, they are optimized to handle large spreadsheets.  
+**Q: Is installation required?**  
+A: No, all tools are browser-based.  
+
+---
+
+## CSV Tools
+[CSV Tools](https://iamrango.com/csv-tools): Edit, convert, and analyze CSV data online.  
+[Convert CSV to Excel](https://iamrango.com/convert-csv-to-excel): Export CSV data into Excel spreadsheets.  
+[Convert CSV to HTML](https://iamrango.com/convert-csv-to-html): Render CSV data as HTML tables.  
+[Convert CSV to JSON](https://iamrango.com/convert-csv-to-json): Convert CSV files into JSON data.  
+[Convert CSV to PDF](https://iamrango.com/convert-csv-to-pdf): Export CSV files into shareable PDF documents.  
+[Convert CSV to TXT](https://iamrango.com/convert-csv-to-txt): Convert CSV into plain text.  
+[Convert CSV to XML](https://iamrango.com/convert-csv-to-xml): Transform CSV files into XML format.  
+[CSV to SQL](https://iamrango.com/csv-to-sql): Generate SQL scripts directly from CSV files.  
+
+**FAQs**  
+**Q: Can I use these tools for database imports?**  
+A: Yes, CSV to SQL and CSV to Excel tools are designed for database workflows.  
+**Q: Are my CSV files stored?**  
+A: No, all processing happens locally in your browser.  
+
+---
+
+## JSON Tools
+[JSON Tools](https://iamrango.com/json-tools): Validate, format, and convert JSON data.  
+[JSON Converter](https://iamrango.com/json-converter): A multipurpose JSON conversion tool.  
+[JSON to CSV](https://iamrango.com/json-to-csv): Convert JSON into CSV spreadsheets.  
+[JSON to Excel](https://iamrango.com/json-to-excel): Export JSON into Excel format.  
+[JSON to HTML](https://iamrango.com/json-to-html): Present JSON data as HTML tables.  
+[JSON to PDF](https://iamrango.com/json-to-pdf): Save JSON as PDF documents.  
+[JSON to SQL](https://iamrango.com/json-to-sql): Generate SQL scripts from JSON.  
+[JSON to TXT](https://iamrango.com/json-to-txt): Flatten JSON into plain text.  
+[JSON to XML](https://iamrango.com/json-to-xml): Convert JSON into XML.  
+
+**FAQs**  
+**Q: Can I validate JSON with these tools?**  
+A: Yes, the JSON Tools set includes validation and formatting.  
+**Q: Do these tools support nested JSON?**  
+A: Yes, conversions handle nested JSON structures.  
+
+---
+
+## XML Tools
+[XML Tools](https://iamrango.com/xml-tools): Edit, validate, and convert XML documents.  
+[XML Converter](https://iamrango.com/xml-converter): Universal converter for XML.  
+[XML to CSV](https://iamrango.com/xml-to-csv): Transform XML into CSV spreadsheets.  
+[XML to Excel](https://iamrango.com/xml-to-excel): Export XML into Excel format.  
+[XML to JSON](https://iamrango.com/xml-to-json): Convert XML into JSON.  
+[XML to PDF](https://iamrango.com/xml-to-pdf): Save XML documents as PDFs.  
+[XML to SQL](https://iamrango.com/xml-to-sql): Generate SQL scripts from XML.  
+
+**FAQs**  
+**Q: Can I edit XML before converting?**  
+A: Yes, you can preview and edit XML data directly in your browser.  
+**Q: Does it preserve XML structure?**  
+A: Yes, conversions maintain hierarchical structures.  
+
+---
+
+## Audio Tools
+[Audio Tools](https://iamrango.com/audio-tools): Convert and manage audio files.  
+[Audio Converter](https://iamrango.com/audio-converter): Universal audio conversion tool.  
+[AAC to MP3](https://iamrango.com/aac-to-mp3): Convert AAC to MP3 format.  
+[AIFF to MP3](https://iamrango.com/aiff-to-mp3): Convert AIFF to MP3.  
+[ALAC to MP3](https://iamrango.com/alac-to-mp3): Convert ALAC files to MP3.  
+[AMR to MP3](https://iamrango.com/amr-to-mp3): Convert AMR to MP3.  
+[CAF to MP3](https://iamrango.com/caf-to-mp3): Convert CAF files to MP3.  
+[M4A to MP3](https://iamrango.com/m4a-to-mp3): Convert M4A audio to MP3.  
+[OGG to MP3](https://iamrango.com/convert-ogg-to-mp3): Convert OGG to MP3.  
+[Opus to MP3](https://iamrango.com/opus-to-mp3): Convert Opus to MP3.  
+[MP3 to MP4 with Image](https://iamrango.com/mp3-to-mp4-with-image): Add images to MP3 and export as MP4.  
+
+**FAQs**  
+**Q: Is audio quality preserved?**  
+A: Yes, conversions maintain high audio quality.  
+**Q: Do these tools run online?**  
+A: Yes, they are fully browser-based.  
+
+---
+
+## Image Tools
+[Image Tools](https://iamrango.com/image-tools): Edit and convert image files online.  
+[Image Redactor](https://iamrango.com/image-redactor): Redact sensitive details in images.  
+[JPG to JPEG](https://iamrango.com/jpg-to-jpeg): Convert JPG to JPEG format.  
+[PDF Image Converter](https://iamrango.com/pdf-image-converter): Convert PDFs into images and vice versa.  
+
+**FAQs**  
+**Q: Can I use these tools for privacy protection?**  
+A: Yes, the redactor removes sensitive information from images.  
+**Q: Do they support batch conversion?**  
+A: Some tools allow multiple image conversions.  
+
+---
+
+## Text Tools
+[Text Tools](https://iamrango.com/text-tools): Process, format, and analyze text.  
+[Text Analyzer](https://iamrango.com/text-analyzer): Analyze text and count words, characters, and lexical properties.  
+[Diff Checker](https://iamrango.com/diff-checker): Compare text or code for differences.  
+[Lorem Ipsum Generator](https://iamrango.com/lrem-ipsum-generator): Generate placeholder text.  
+
+**FAQs**  
+**Q: Are these tools useful for writers?**  
+A: Yes, especially the text analyzer and lorem ipsum generator.  
+**Q: Can developers benefit?**  
+A: Yes, Diff Checker is ideal for comparing code.  
+
+---
+
+## Privacy Tools
+[Privacy Tools](https://iamrango.com/privacy-tools): Tools focused on user data privacy.  
+[Meta Data Remover](https://iamrango.com/meta-data-remover): Remove hidden metadata from files.  
+[File Compressor](https://iamrango.com/file-compressor): Compress files into multiple formats.  
+
+**FAQs**  
+**Q: Does compression reduce quality?**  
+A: No, it maintains file integrity while reducing size.  
+**Q: Does metadata removal affect file usage?**  
+A: No, files remain usable after stripping metadata.  
+
+---
+
+## Additional Resources
+[Articles](https://iamrango.com/articles): Insights on productivity and software tools.  
+[Developers & Authors](https://iamrango.com/authors): Contributor profiles and resources.  
+[Sohail Anwar](https://iamrango.com/sohail-anwar): Tools and curated articles.  
+[Best Markdown Editor](https://iamrango.com/best-md-editor): Online Markdown writing tool.  
+[IMRango Home](https://iamrango.com/): Main landing page.  
+
+**FAQs**  
+**Q: Where can I learn about new tools?**  
+A: The Articles section is regularly updated.  
+**Q: Who builds these tools?**  
+A: Developers and contributors listed under Authors.  

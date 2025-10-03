@@ -325,19 +325,3 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
 
 <script src="/assets/js/md.js"></script>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "Best MD Editor",
-  "url": "https://iamrango.com/best-md-editor",
-  "applicationCategory": "WebApplication",
-  "operatingSystem": "Web",
-  "description": "Best MD Editor is a free, browser-based Markdown editor that lets you write, edit, and preview Markdown files instantly. Fast, secure, and easy to use.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>

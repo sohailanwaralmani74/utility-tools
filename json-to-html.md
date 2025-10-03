@@ -1,7 +1,7 @@
 ---
 layout: main
-Title: JSON to HTML Converter Online – Fast & Private
-Description: Convert JSON to HTML instantly with our free, browser-based tool. Generate clean, web-ready HTML tables from JSON files — offline, secure, and easy to use.
+title: JSON to HTML Converter Online – Fast & Private
+description: Convert JSON to HTML instantly with our free, browser-based tool. Generate clean, web-ready HTML tables from JSON files — offline, secure, and easy to use.
 keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, online JSON to HTML tool, free JSON to HTML
 ---
 
@@ -70,7 +70,7 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
 </div>
 
 
-<h2>Other Useful Tools</h2>
+<h2>Other JSON Tools You May Like</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
@@ -79,20 +79,3 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
 </ul>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "JSON to HTML",
-  "url": "https://iamrango.com/json-to-html",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Transform JSON into structured HTML with our free json-to-html tool. Quick, private, and browser-based — no installation required.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>

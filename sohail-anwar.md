@@ -1,5 +1,7 @@
 ---
 layout: main
+title: Senior Software Engineer - Java
+description: A passionate Software Enginner works on Open source technologies mainly focused on java related technology. He love working in struts and JSF as he do Spring.
 ---
 
 <!-- Author Profile & Resume Template: insert inside <body> -->

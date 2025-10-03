@@ -77,22 +77,6 @@ description: Convert AAC audio files to MP3 instantly with iamrango's browser-ba
   <p>Our tool preserves high audio quality during the AAC to MP3 conversion, so your output will sound just as good as the original.</p>
 </div>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "AAC to MP3 Converter",
-  "url": "https://iamrango.com/aac-to-mp3",
-  "applicationCategory": "MultimediaApplication",
-  "operatingSystem": "Web",
-  "description": "Convert AAC audio files to MP3 instantly with our free browser-based tool. No uploads, fast, secure, and easy to use.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
 
 <h2>🎵 Audio & Video Tools</h2>
 <ul>

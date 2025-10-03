@@ -82,5 +82,13 @@ keywords: convert-xlsx-to-xml, XLSX to XML converter, convert Excel XLSX to XML,
   <h4>5. Is the XML output compatible with applications?</h4>
   <p>Yes, the converter produces standard XML suitable for APIs, apps, and data exchange.</p>
 
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc;   text-decoration:underline;">XLSX to SQL</a></li>
+</ul>
 </div>
 

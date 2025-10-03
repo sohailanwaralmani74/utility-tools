@@ -4,24 +4,6 @@ title: Free XML to JSON Converter – Fast & Accurate Online Tool
 description: Convert XML files to JSON instantly with our free online XML to JSON converter. Browser-based, fast, and reliable tool for developers and data professionals.
 keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online XML to JSON tool, free XML to JSON
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "XML to JSON",
-  "url": "https://iamrango.com/xml-to-json",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert XML to JSON easily with our free xml-to-json tool. Quick, reliable, and works in your browser without sending data online.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
-
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">

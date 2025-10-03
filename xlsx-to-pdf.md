@@ -9,8 +9,6 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
-<link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">

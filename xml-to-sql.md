@@ -4,22 +4,6 @@ title: Free XML to SQL Converter – Convert XML Files to SQL Online Instantly
 description: Instantly convert XML files to SQL with our free online XML to SQL converter. Fast, accurate, and browser-based tool for developers and data analysts.
 keywords: xml-to-sql, XML to SQL converter, convert XML files to SQL, online XML to SQL tool, free XML to SQL
 ---
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "XML to SQL",
-  "url": "https://iamrango.com/xml-to-sql",
-  "applicationCategory": "Utility",
-  "operatingSystem": "Web",
-  "description": "Convert XML to SQL easily with our free xml-to-sql tool. Fast, secure, and designed for developers needing structured database output.",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  }
-}
-</script>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
