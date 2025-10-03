@@ -5,6 +5,90 @@ description: Quickly find differences between two pieces of text or code with ia
 keywords: diff checker, compare text online, json diff, csv comparison, online diff tool, browser-based diff, data comparison
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Text Tools",
+          "item": "https://iamrango.com/text-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Diff Checker",
+          "item": "https://iamrango.com/diff-checker"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the Diff Checker tool do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Diff Checker compares two pieces of text and highlights additions, deletions, or changes."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a limit to how much text I can compare?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Large text blocks can be compared, but performance depends on your device’s processing power."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install anything?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the tool runs in your browser without any installation."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Can it highlight differences in code or markup?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — it supports comparing structured text, code, and markup with diff highlighting."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the service free to use?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the Diff Checker tool is free without registration or payment."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it work on mobile devices?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the Diff Checker is responsive and works on phones and tablets."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <div class="diff-container">
     <div class="diff-toolbar">
         <button class="tool-button" id="compare-btn">

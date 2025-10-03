@@ -5,6 +5,73 @@ title: OPUS to MP3 Converter - Free Online Audio Conversion
 description: Convert OPUS audio files to MP3 online for free. Fast, high-quality, browser-based conversion that runs offline, keeps your files private.
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://iamrango.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "OPUS to MP3 Converter",
+          "item": "https://iamrango.com/opus-to-mp3"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is OPUS format?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "OPUS is an audio codec optimized for speech and audio streaming, known for efficient compression with high quality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why convert OPUS to MP3?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You may convert to MP3 for broader compatibility across devices and media players."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does audio quality reduce during conversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "There might be slight loss, but the tool aims to preserve as much original quality as possible."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the tool free to use?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, free without registration or hidden fees."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <div style="width: 100%; margin: auto; padding: 1rem; font-family: sans-serif;">
     <!-- Upload Button -->

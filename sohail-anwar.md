@@ -3,6 +3,17 @@ layout: main
 title: Senior Software Engineer - Java
 description: A passionate Software Enginner works on Open source technologies mainly focused on java related technology. He love working in struts and JSF as he do Spring.
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sohail Anwar",
+  "url": "https://iamrango.com/sohail-anwar",
+  "description": "Author and developer at I Am Rango.",
+  "sameAs": [],
+  "mainEntityOfPage": "https://iamrango.com/sohail-anwar"
+}
+</script>
 
 <!-- Author Profile & Resume Template: insert inside <body> -->
 <style>

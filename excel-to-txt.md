@@ -12,6 +12,90 @@ keywords: Convert excel to text, excel to text, Convert excel file to text, Conv
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Excel Tools",
+          "item": "https://iamrango.com/excel-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Excel to TXT Converter",
+          "item": "https://iamrango.com/excel-to-txt"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Excel to TXT conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool converts spreadsheet data from Excel format into plain text (CSV, tab-separated, or space-separated)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install any software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the conversion happens inside your browser without requiring any installation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can this handle large Excel files?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, though performance may slow for very large data sets depending on your machine."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data secure during conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — all operations occur client-side, so your data stays on your device and is not uploaded."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the Excel to TXT converter is free to use with no sign-up required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it preserve formatting or cell formulas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the converter extracts raw cell content; formatting and formulas typically aren’t preserved."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">
         <label for="file-input" class="upload-label">Upload Excel File</label>

@@ -9,6 +9,29 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://iamrango.com/" },
+    { "@type": "ListItem", "position": 2, "name": "JSON Tools", "item": "https://iamrango.com/json-tools" },
+    { "@type": "ListItem", "position": 3, "name": "JSON to TXT", "item": "https://iamrango.com/json-to-txt" }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What does JSON to TXT mean?", "acceptedAnswer": { "@type": "Answer", "text": "JSON to TXT conversion allows you to extract raw JSON data into a readable plain text format." } },
+    { "@type": "Question", "name": "Can I edit JSON after converting to TXT?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, TXT format allows you to manually edit and share JSON data easily." } },
+    { "@type": "Question", "name": "Does conversion change the JSON structure?", "acceptedAnswer": { "@type": "Answer", "text": "No, the structure remains the same. TXT is just a plain representation of JSON content." } }
+  ]
+}
+</script>
 
 
 <!-- Tool section -->

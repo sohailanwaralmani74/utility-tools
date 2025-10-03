@@ -9,6 +9,31 @@ keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online 
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://iamrango.com/" },
+    { "@type": "ListItem", "position": 2, "name": "JSON Tools", "item": "https://iamrango.com/json-tools" },
+    { "@type": "ListItem", "position": 3, "name": "JSON to SQL", "item": "https://iamrango.com/json-to-sql" }
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    { "@type": "Question", "name": "What is JSON to SQL conversion?", "acceptedAnswer": { "@type": "Answer", "text": "JSON to SQL conversion allows you to transform JSON data into SQL queries or tables that can be directly used in databases." } },
+    { "@type": "Question", "name": "Why convert JSON to SQL?", "acceptedAnswer": { "@type": "Answer", "text": "It helps developers and data analysts store structured JSON data into relational databases for querying and analysis." } },
+    { "@type": "Question", "name": "Is my JSON data secure during conversion?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, conversions happen in the browser, ensuring your data is never uploaded to a server." } },
+    { "@type": "Question", "name": "Which databases support SQL from JSON?", "acceptedAnswer": { "@type": "Answer", "text": "Most relational databases such as MySQL, PostgreSQL, and SQLite support SQL scripts generated from JSON." } }
+  ]
+}
+</script>
+
 <!-- Tool section -->
 <section class="tool-section container">
     <div class="upload-section">

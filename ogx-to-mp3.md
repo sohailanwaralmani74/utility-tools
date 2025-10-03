@@ -6,6 +6,74 @@ description: Convert OGX to MP3 online — fast, free, and secure. Upload your .
 ---   
 <script src="/assets/js/ffmpeg.min.js"></script>
 <script src="/sw.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://iamrango.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "OGX to MP3 Converter",
+          "item": "https://iamrango.com/ogx-to-mp3"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an OGX file?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "OGX is a media container format derived from OGG, capable of containing audio, video, and subtitles."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I convert OGX to MP3?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — this tool extracts the audio from OGX and converts it into MP3 format."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does conversion degrade audio quality?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Some loss may occur because MP3 is lossy, but the tool works to maintain audio fidelity."
+            }
+        },
+        {
+          "@type": "Question",
+            "name": "Is this tool free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — available to use without cost or registration."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 
 <div style="width: 100%; margin: auto; padding: 1rem; font-family: sans-serif;">
     <!-- Upload Button -->

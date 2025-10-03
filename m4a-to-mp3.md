@@ -5,6 +5,17 @@ title: M4A To MP3 Converter - Fast & Secure Online Audio Conversion
 description: Convert M4A audio files to MP3 instantly using our secure, browser-based converter. High-quality, offline, and free—no uploads or software required.
 ---   
 <script src="/assets/js/ffmpeg.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://iamrango.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Audio Tools", "item": "https://iamrango.com/audio-tools" },
+    { "@type": "ListItem", "position": 3, "name": "M4A to MP3", "item": "https://iamrango.com/m4a-to-mp3" }
+  ]
+}
+</script>
 
 <div style="width: 100%; margin: auto; padding: 1rem; font-family: sans-serif;">
     <!-- Upload Button -->

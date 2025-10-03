@@ -5,6 +5,89 @@ description: Convert AIFF audio files to MP3 instantly with iamrango's browser-b
 keywords: aiff to mp3, .aiff to mp3, convert aiff to mp3, convert .aiff to mp3 online
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://iamrango.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AIFF to MP3 Converter",
+          "item": "https://iamrango.com/aiff-to-mp3"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is AIFF and why convert it to MP3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AIFF is an uncompressed audio format. Converting it to MP3 reduces file size while maintaining reasonable quality."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Will converting AIFF to MP3 degrade sound quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "There may be some loss due to compression, but our converter preserves as much audio quality as possible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I convert AIFF files on mobile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — our tool works on mobile browsers and desktop devices alike."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to upload files to your server?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the conversion happens in your browser. Your files are not sent to any remote server."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there any limit to file size?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can convert fairly large files; performance depends on your device’s capabilities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the AIFF to MP3 converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the tool is completely free to use, with no registration needed."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <div style="width:100%; margin:auto; padding:1rem; font-family:sans-serif;">
   <!-- Upload Button -->

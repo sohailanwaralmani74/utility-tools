@@ -9,6 +9,73 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Excel Tools",
+          "item": "https://iamrango.com/excel-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "XLSX to PDF Converter",
+          "item": "https://iamrango.com/xlsx-to-pdf"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does XLSX to PDF conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool converts Excel (.xlsx) spreadsheets into PDF documents, preserving layout and tables."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need any software to use this?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the conversion runs in your browser without installations or plugins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data private during conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — all processing happens locally in your device’s browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the XLSX to PDF converter is free with no registration needed."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">

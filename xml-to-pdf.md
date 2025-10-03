@@ -13,6 +13,65 @@ keywords: xml-to-pdf, XML to PDF converter, convert XML files to PDF, online XML
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "XML Tools",
+          "item": "https://iamrango.com/xml-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "XML to PDF Converter",
+          "item": "https://iamrango.com/xml-to-pdf"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does converting XML to PDF do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool transforms XML content into a formatted PDF document for download or printing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need software to use this tool?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — conversion is handled entirely in your browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — it’s free and no registration is needed."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <!-- Tool section -->
 <section class="tool-section container">

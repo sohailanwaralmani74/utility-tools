@@ -11,6 +11,90 @@ keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, o
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "JSON Tools",
+          "item": "https://iamrango.com/json-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JSON to Excel Converter",
+          "item": "https://iamrango.com/json-to-excel"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does JSON to Excel conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It converts JSON data into an Excel (.xlsx) file, structuring keys and values into sheets, rows, and columns."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install external software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the conversion runs in your browser, so nothing else is needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data private during conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the conversion happens locally; your data isn’t sent to any server."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can nested JSON be converted to Excel?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the tool supports nested JSON structures by representing nested objects as separate sheets or columns."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this JSON to Excel converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — it’s free to use and doesn’t require registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it preserve data types?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — numeric and boolean values are preserved where possible."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- Tool section -->
 <section class="tool-section container">
     <div class="upload-section">

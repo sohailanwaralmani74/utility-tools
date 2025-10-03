@@ -6,6 +6,90 @@ description: Convert AMR audio files to MP3 instantly with iamrango's browser-ba
 ---   
 <script src="/assets/js/ffmpeg.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://iamrango.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AMR to MP3 Converter",
+          "item": "https://iamrango.com/amr-to-mp3"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an AMR audio file?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "AMR (Adaptive Multi-Rate) is an audio codec used in voice recordings and mobile devices."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why convert AMR to MP3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Converting AMR to MP3 makes the file more compatible with a wider range of devices and media players."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the conversion reduce audio quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Some quality loss can occur because MP3 is a lossy format, but our tool aims to preserve as much fidelity as possible."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a file size limit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can convert fairly large files, but the limit depends on your device’s memory and browser capability."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this tool without installing any software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — no installation or plugin is required. The conversion runs completely in your browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this service free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the AMR to MP3 converter is free to use without sign-up or cost."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <div style="width: 100%; margin: auto; padding: 1rem; font-family: sans-serif;">
     <!-- Upload Button -->
     <div style="display: flex; justify-content: center; margin-top: 2rem; width: 100%;">

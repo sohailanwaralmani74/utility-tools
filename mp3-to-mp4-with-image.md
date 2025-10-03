@@ -8,6 +8,83 @@ keywords: mp3 to mp4 with image, convert mp3 to mp4 with image, mp3 to mp4 image
 
 <script src="/assets/js/ffmpeg.min.js"></script>
 <script src="/sw.js"></script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://iamrango.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MP3 to MP4 with Image",
+          "item": "https://iamrango.com/mp3-to-mp4-with-image"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does MP3 to MP4 with image do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It takes an MP3 audio file and combines it with an image to create a video file in MP4 format."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to upload files to server?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the conversion happens in your browser. Your files are not uploaded."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the tool is free and doesn’t require sign-up."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the output keep audio quality?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the audio from the MP3 is preserved while a still image is added to make a video container."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Which image formats are supported?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "You can use common image formats like JPG or PNG in the conversion."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <section class="tool-section container">
     <div class="upload-section">
         <label for="audioUpload" class="upload-label">Upload Audio</label>

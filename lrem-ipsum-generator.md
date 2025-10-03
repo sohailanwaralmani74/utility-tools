@@ -4,6 +4,17 @@ title: Lrem Ipsum Generator - DUmmy Text Generation Made Easy
 description: Generate Lrem Ipsum (or Lorem Ipsum) placeholder text instantly. Choose the number of paragraphs and copy with one click like Kafka, a to z and numbers.
 keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate placeholder text, generate dummy text
 ---
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://iamrango.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Text Tools", "item": "https://iamrango.com/text-tools" },
+    { "@type": "ListItem", "position": 3, "name": "Lorem Ipsum Generator", "item": "https://iamrango.com/lrem-ipsum-generator" }
+  ]
+}
+</script>
 
 <style>
   .lrem-container {

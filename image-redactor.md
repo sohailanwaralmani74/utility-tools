@@ -5,6 +5,90 @@ description: Protect your privacy by blurring, censoring, or redacting parts of 
 keywords: redact image, redact image online, redact photo online, redacted picture, redact this pic, online image redactor, hide faces in photo, blur sensitive data, image censor tool, pixelate image, redact image tool
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Image Tools",
+          "item": "https://iamrango.com/image-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Image Redactor",
+          "item": "https://iamrango.com/image-redactor"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What can the image redactor tool do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The image redactor tool lets you censor, blur, or remove parts of an image (e.g. text, faces) before downloading."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I have to upload the image to a server?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the editing is done client-side in your browser, so your image never leaves your device."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the image redactor is free and doesn’t require signup or payment."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this on mobile devices?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the tool is designed to work on smartphones, tablets, and desktops."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does redacting affect image quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Redaction may slightly alter affected regions, but the rest of the image should remain intact."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I undo edits?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — typical image redactor tools offer undo/redo controls during editing before download."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <section class="image-redactor">
     <div class="redactor-container">
         <div class="upload-panel">

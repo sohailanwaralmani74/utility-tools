@@ -13,6 +13,65 @@ keywords: xml-to-excel, XML to Excel converter, convert XML files to Excel, onli
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-xml-doc.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "XML Tools",
+          "item": "https://iamrango.com/xml-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "XML to Excel Converter",
+          "item": "https://iamrango.com/xml-to-excel"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does XML to Excel conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It transforms XML data into an Excel spreadsheet format (XLSX), creating sheets, rows, and columns."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need any external software?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — this conversion takes place within your browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — free with no registration required."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <!-- Tool section -->
 <section class="tool-section container">

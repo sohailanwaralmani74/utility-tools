@@ -12,6 +12,90 @@ keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, o
 <script src="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.js"></script>
 <link href="https://cdn.jsdelivr.net/npm/jsonview@1.2.0/dist/jquery.jsonview.min.css" rel="stylesheet">
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Excel Tools",
+          "item": "https://iamrango.com/excel-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Excel to JSON Converter",
+          "item": "https://iamrango.com/excel-to-json"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Excel to JSON conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool converts Excel spreadsheet data into JSON format, structuring rows and columns accordingly."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install software for conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the process is handled in-browser without additional software."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is data kept private during conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — conversion happens locally in your browser and your data is not uploaded."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I convert large Excel files?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, though performance may be slower on larger spreadsheets depending on device capabilities."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the Excel to JSON converter is free and requires no registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it support multiple sheets?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the tool supports converting multiple sheets into nested JSON arrays or objects, when formatted correctly."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">

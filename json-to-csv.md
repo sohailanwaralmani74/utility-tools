@@ -11,6 +11,90 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "JSON Tools",
+          "item": "https://iamrango.com/json-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JSON to CSV Converter",
+          "item": "https://iamrango.com/json-to-csv"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does JSON to CSV conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It transforms JSON data into a CSV file format, with columns and rows based on the JSON structure."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need special software to convert JSON to CSV?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — conversion is done directly in your browser without requiring installation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data private during conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — everything is processed client-side; your data never leaves your device."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can this handle nested JSON structures?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It supports many nested formats, but extremely complex or deeply nested data may require manual flattening."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the JSON to CSV converter is free and doesn’t require any registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it preserve data types (numbers, booleans)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the converter attempts to preserve data types when mapping JSON to CSV."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- Tool section -->
 <section class="tool-section container">
     <div class="upload-section">

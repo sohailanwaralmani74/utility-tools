@@ -6,6 +6,89 @@ description: Convert ALAC audio files to MP3 instantly with iamrango's browser-b
 
 ---
 <script src="/assets/js/ffmpeg.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Audio Tools",
+          "item": "https://iamrango.com/audio-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "ALAC to MP3 Converter",
+          "item": "https://iamrango.com/alac-to-mp3"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is ALAC (Apple Lossless Audio Codec)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "ALAC is Apple’s lossless audio codec that preserves full audio quality without compression artifacts."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why convert ALAC to MP3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You might convert to MP3 for better compatibility with non-Apple devices or to reduce file size."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does conversion reduce audio quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "MP3 is a lossy format, so some quality loss is inevitable, but our converter minimizes degradation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this converter free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the ALAC to MP3 converter is completely free with no registration required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need software or plugin to use this?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the conversion works purely in-browser — no downloads or installations necessary."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this tool work on mobile devices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the converter is mobile-friendly and works on phones, tablets, and desktops alike."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <div style="width:100%; margin:auto; padding:1rem; font-family:sans-serif;">
   <!-- Upload Button -->

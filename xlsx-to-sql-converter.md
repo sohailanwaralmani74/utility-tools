@@ -7,6 +7,65 @@ keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQ
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Excel Tools",
+          "item": "https://iamrango.com/excel-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "XLSX to SQL Converter",
+          "item": "https://iamrango.com/xlsx-to-sql-converter"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does XLSX to SQL conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It transforms Excel spreadsheets to SQL insert statements or tables, preserving rows and columns."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need software to run it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — conversion is performed in the browser, no extra software needed."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — free to use without registration."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">

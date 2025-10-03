@@ -8,6 +8,89 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
         
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Excel Tools",
+          "item": "https://iamrango.com/excel-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Excel-to-CSV Converter",
+          "item": "https://iamrango.com/excel-csv-converter"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does Excel to CSV conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool converts Excel (.xlsx, .xls) files into CSV format, preserving rows and cell contents."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is any software required?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the conversion runs fully in the browser without additional software."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data secure during the conversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — the conversion is done locally in your browser; no data is uploaded."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it handle large Excel files?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, though performance might slow with very large files depending on device capacity."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — Excel to CSV conversion is free and doesn’t need registration."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this conversion preserve formulas or formatting?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — formulas and formatting are not preserved because CSV stores only raw data."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <!-- Tool section -->
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">

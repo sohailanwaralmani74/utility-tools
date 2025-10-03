@@ -7,6 +7,89 @@ keywords: convert-csv-to-excel, CSV to Excel converter, convert CSV files to Exc
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "CSV Tools",
+          "item": "https://iamrango.com/csv-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Convert CSV to Excel",
+          "item": "https://iamrango.com/convert-csv-to-excel"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does this tool do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool converts a CSV file into an Excel (.xlsx) file, preserving rows, columns, and data formatting."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install software to use CSV to Excel conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the conversion runs entirely in your browser without requiring any installations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data secure during conversion?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the conversion happens locally in your browser and your data is not uploaded to any external server."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I convert large CSV files?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can convert sizable files, but performance depends on your device’s memory and browser limitations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the CSV to Excel converter is completely free to use without any registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it work on mobile devices?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — this converter is mobile-responsive and works across phones, tablets, and desktops."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">

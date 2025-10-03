@@ -13,6 +13,73 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
     pdfjsLib.GlobalWorkerOptions.workerSrc = '/assets/js/pdf.worker.min.js';
 </script>
 <script src="/assets/js/jspdf.umd.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "PDF Tools",
+          "item": "https://iamrango.com/pdf-image-converter"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PDF-Image Converter",
+          "item": "https://iamrango.com/pdf-image-converter"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does PDF Image Converter do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "It extracts images from PDF files or converts images into a PDF format."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need software for the conversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the conversion happens in your browser, with no uploads or installs needed."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free to use?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, it's completely free and no registration is required."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does conversion affect image quality?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Conversion aims to preserve quality; any loss depends on format settings."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <!-- Tool section -->
 <section class="tool-section container">

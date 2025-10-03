@@ -9,6 +9,83 @@ description: Quickly compress PDF, CSV, image, and Word files, or create ZIP arc
 <script src="/assets/js/index.min.js"></script>
 <script src="/assets/js/jszip.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "File Compressor",
+          "item": "https://iamrango.com/file-compressor"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does file compression do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "File compression reduces the size of files by removing redundancy, making them smaller and easier to store or transfer."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to upload my files to a server?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the compression process happens locally in your browser, and files are not uploaded."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, the file compressor tool is free to use with no hidden charges."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I compress any file type?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can compress many common file types — the tool supports images, documents, and archives, depending on file format."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a file size limit?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The limit depends on your browser and system capabilities; extremely large files may be slower or not compress fully."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does compression affect file quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "For lossy compression (e.g. images), some quality loss may occur. For lossless modes, original quality is retained."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
  <!-- Tool section -->
  <section class="tool-section container">

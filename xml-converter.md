@@ -16,6 +16,66 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
 <!-- Include jsPDF AutoTable Plugin -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.5.26/jspdf.plugin.autotable.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "XML Tools",
+          "item": "https://iamrango.com/xml-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "XML Converter",
+          "item": "https://iamrango.com/xml-converter"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is an XML converter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "An XML converter transforms data into or out of XML format, supporting many input types."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need software or plugin to use this?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the conversion runs entirely in your browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this tool free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — it’s free to use with no registration."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- Tool section -->
 <section class="tool-section container">
   <div class="upload-section">

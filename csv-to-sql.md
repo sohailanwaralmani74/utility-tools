@@ -7,6 +7,89 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <!-- JSONView (depends on jQuery) -->
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "CSV Tools",
+          "item": "https://iamrango.com/csv-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CSV to SQL Converter",
+          "item": "https://iamrango.com/csv-to-sql"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does converting CSV to SQL do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool transforms CSV data into SQL insert statements, suitable for importing into a database."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need software to perform the conversion?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No, the conversion happens directly in your web browser — no external software needed."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my data kept private during this process?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — conversion is done client-side, so your data never leaves your device."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Can it handle large CSV files?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, though performance depends on your device’s memory and browser capability."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a charge for using this tool?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the CSV to SQL converter is free to use without registration."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Does it support custom table names or schemas?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — you can specify table names and column types in many conversions if the UI supports it."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <section class="tool-section container" style="width: 99%; overflow-y: hidden;">
     <div class="upload-section">

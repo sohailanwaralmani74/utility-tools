@@ -9,6 +9,82 @@ keyword: png to jpg, png to jpeg, png to jpg converter, png to jpeg converter, c
 <script src="/assets/js/html2canvas.min.js"></script>
 <script src="/assets/js/FileSaver.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Image Tools",
+          "item": "https://iamrango.com/image-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PNG to JPG Converter",
+          "item": "https://iamrango.com/png-to-jpg"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Why convert PNG to JPG?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "JPG typically has smaller file sizes, making it more efficient for web use, though some image quality loss may occur."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does changing PNG to JPG affect transparency?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — JPG does not support transparency, so transparent areas will be filled with a background color."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is the converter free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — this PNG to JPG converter is free and requires no sign-up."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to upload files?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the conversion is handled entirely in your browser."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I convert large images?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes — however, very large images may slow down performance depending on device capabilities."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
+
 <!-- Tool section -->
 <section class="tool-section container">
     <div class="upload-section">

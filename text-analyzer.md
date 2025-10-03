@@ -5,6 +5,81 @@ description: Analyze text online for free with our Text Analyzer. Count words, c
 keywords: text analyzer, text analyser, text analysis, word counter, lexical analyzer, free word counter, best word counter in world
 ---
 <script src="/assets/js/jspdf.umd.min.js"></script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Text Tools",
+          "item": "https://iamrango.com/text-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Text Analyzer",
+          "item": "https://iamrango.com/text-analyzer"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does the Text Analyzer tool do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Text Analyzer tool examines your text and provides metrics like word count, character count, readability, frequency, etc."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install anything to use it?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No — the tool runs in your browser without requiring external software."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is my text data private?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the analysis happens locally and no text is uploaded to a server."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can it analyze large text blocks?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — though very large text may slow performance depending on your device."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this analyzer free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the Text Analyzer tool is completely free with no account required."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <section class="tool-section container">
     <div style="display: flex; justify-content: end;">

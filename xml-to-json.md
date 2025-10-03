@@ -13,6 +13,65 @@ keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-xml-doc.min.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "XML Tools",
+          "item": "https://iamrango.com/xml-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "XML to JSON Converter",
+          "item": "https://iamrango.com/xml-to-json"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What does XML to JSON conversion do?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This tool maps XML elements and attributes into JSON structures."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does conversion preserve hierarchy?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — nested XML elements are preserved as nested JSON objects or arrays."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is this converter free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — free to use with no signup required."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 <!-- Tool section -->
 <section class="tool-section container">

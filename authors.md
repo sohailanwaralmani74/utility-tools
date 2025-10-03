@@ -5,6 +5,39 @@ description: Authors And Developers Of IMRango Tools And Software utilities. See
 keywords: blog authors, Blog developers, Software Developer, Software engineer, Java Developer, Angular Develpers
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Authors",
+          "item": "https://iamrango.com/authors"
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://iamrango.com/authors",
+      "url": "https://iamrango.com/authors",
+      "name": "Authors",
+      "description": "Browse the list of authors who contribute articles and tools on I Am Rango."
+    }
+  ]
+}
+</script>
+
+
 <!-- hero section -->
 <section style="width: 100%;">
     <h1>Blog Authors And Developers</h1>

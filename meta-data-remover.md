@@ -8,6 +8,81 @@ keywords: metadata remover, remove metadata from photo, metadata scrubber, meta 
 <script src="/assets/js/pdf-lib.min.js"></script>
 <script src="/assets/js/exif.js"></script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://iamrango.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Image Tools",
+          "item": "https://iamrango.com/image-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Meta Data Remover",
+          "item": "https://iamrango.com/meta-data-remover"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is metadata in images?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Metadata includes hidden information embedded in images like camera settings, GPS, timestamp, and authorship details."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Why would I want to remove metadata?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Removing metadata helps protect privacy and reduces file size in some cases."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this tool upload my image?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "No — the metadata removal happens in your browser. Your image is not uploaded to any server."
+            }
+        },
+        {
+          "@type": "Question",
+          "name": "Is it free to use?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the metadata remover tool is free and doesn’t require registration."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use it on mobile devices?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes, the tool works on both desktop and mobile browsers."
+            }
+        }
+      ]
+    }
+  ]
+}
+</script>
 
 
  <!-- Tool section -->
