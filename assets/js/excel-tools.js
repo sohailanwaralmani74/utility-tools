@@ -229,11 +229,6 @@ const tools = [
                 });
         }
         
-        function clearAll() {
-            textInput.value = '';
-            resultOutput.textContent = 'Your converted text will appear here...';
-        }
-        
         // Initialize with sample conversion
         window.addEventListener('DOMContentLoaded', () => {
         });

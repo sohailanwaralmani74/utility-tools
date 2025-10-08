@@ -1,5 +1,5 @@
 # IMRango – Privacy-Focused Software & Utility Tools
-IMRango provides free browser-based tools for Excel, CSV, JSON, XML, text, audio, image, and file management — fast, secure, and private.
+IMRango provides free browser-based productivity tools for Excel, CSV, JSON, XML, text, audio, image, and file management — fast, secure, and private.
 
 ## Excel Tools
 [Excel Tools](https://iamrango.com/excel-tools): Enhance productivity when working with Excel files, offering data manipulation and conversion features.  
@@ -148,3 +148,41 @@ A: No, files remain usable after stripping metadata.
 A: The Articles section is regularly updated.  
 **Q: Who builds these tools?**  
 A: Developers and contributors listed under Authors.  
+
+## Video Tools
+[Video Tools](https://iamrango.com/video-tools): Convert and manage video files online — fast, secure, and privacy-focused.
+
+[MOV to GIF](https://iamrango.com/mov-to-gif): Convert MOV videos into animated GIFs instantly and share them easily.  
+[MOV to MP3](https://iamrango.com/mov-to-mp3): Extract MP3 audio from MOV videos without losing quality.  
+[MOV to MP4](https://iamrango.com/mov-to-mp4): Transform MOV files into MP4 for smooth playback on all devices.  
+[MOV to WAV](https://iamrango.com/mov-to-wav): Convert MOV video files into WAV audio format in seconds.  
+[MP4 to GIF](https://iamrango.com/mp4-to-gif): Turn MP4 videos into smooth, high-quality GIF animations.  
+[MP4 to MOV](https://iamrango.com/mp4-to-mov): Convert MP4 videos to MOV format for Apple and editing software compatibility.  
+[Video to GIF](https://iamrango.com/video-to-gif): Create GIFs from any video format — MOV, MP4, WebM, and more.  
+[WebM to GIF](https://iamrango.com/webm-to-gif): Convert WebM videos to GIFs with transparency preserved.  
+[MP4 to MP3](https://iamrango.com/mp4-to-mp3): Extract MP3 audio from MP4 videos quickly and securely.
+
+**FAQs**  
+**Q: Can I convert videos offline?**  
+A: Yes, all conversions run entirely in your browser after the page loads.  
+
+**Q: Which video formats are supported?**  
+A: MOV, MP4, WebM, and most common video formats are supported.  
+
+**Q: Can I create high-quality GIFs from videos?**  
+A: Yes, GIFs can be generated in high resolution while keeping file sizes reasonable.  
+
+**Q: Can I extract audio from any video format?**  
+A: Yes, tools like MOV to MP3 and MP4 to MP3 support multiple video sources.  
+
+**Q: Are my files private during conversion?**  
+A: Absolutely — all tools work locally in the browser, no uploads are made.  
+
+**Q: Does it support HD and 4K videos?**  
+A: Yes, high-resolution videos are supported depending on your device.  
+
+**Q: Can I make GIFs with transparent backgrounds?**  
+A: Yes, WebM to GIF supports transparency, and we reference popular tools like [Ezgif](https://ezgif.com/webm-to-gif) for guidance.  
+
+**Q: Is trimming or editing possible before conversion?**  
+A: Yes, basic trimming and previewing are available in most video tools.

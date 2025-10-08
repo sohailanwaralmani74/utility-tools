@@ -1,6 +1,6 @@
 ---
 layout: main
-keywords: m4a to mp3, .m4a to mp3, m4a to .pm3, convert m4a to mp3, convert .m4a to mp3,
+keywords: m4a to mp3, .m4a to mp3, m4a to .pm3, convert m4a to mp3, convert .m4a to mp3,m4q to mp3
 title: M4A To MP3 Converter - Fast & Secure Online Audio Conversion
 description: Convert M4A audio files to MP3 instantly using our secure, browser-based converter. High-quality, offline, and free—no uploads or software required.
 ---   
