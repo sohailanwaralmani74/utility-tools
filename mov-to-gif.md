@@ -165,7 +165,7 @@ keywords: mov to gif, convert mov to gif, turn mov into gif, mov file to gif, mo
 <h3>More Video Tools For You</h3>
 <ul>
   <li><a href="/mov-to-mp3">Convert MOV to MP3</a></li>
-  <li><a href="/mov-to-mp4">Convert MOV to MP4</a></li>
+  <li><a href="/mkv-to-mp4">Convert MKV to MP4</a></li>
   <li><a href="/mov-to-wav">Convert MOV to WAV</a></li>
   <li><a href="/mp4-to-gif">Convert MP4 to GIF</a></li>
   <li><a href="/mp4-to-mov">Convert MP4 to MOV</a></li>

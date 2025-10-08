@@ -245,7 +245,40 @@ const tools = [
     'video-to-gif',
     'webm-to-gif'
   ]
+},
+{
+  id: 10, // unique ID
+  icon: 'fa-video', // FontAwesome or similar icon
+  title: 'Convert MKV to MP4',
+  description: 'Fast MKV to MP4 converter. Works offline, secure, and easy to use.',
+  tags: [
+    'mkv to mp4',
+    'convert mkv to mp4',
+    'mkv to mp4 converter',
+    'video format converter',
+    'offline mkv converter',
+    'mkv to mp4 high quality',
+    'free mkv converter',
+    'browser mkv to mp4'
+  ],
+  category: 'video-tools',
+  url: 'mkv-to-mp4',
+  ai_summary: 'Browser-based MKV to MP4 converter for fast, secure, and lossless video conversion.',
+  schema: {
+    "@type": "SoftwareApplication",
+    "name": "MKV to MP4 Converter",
+    "applicationCategory": "VideoConverter",
+    "operatingSystem": "Web",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  },
+  related_tools: [
+    'mov-to-mp4',
+    'mp4-to-mov',
+    'mov-to-mp3',
+    'mp4-to-mp3'
+  ]
 }
+
 
 ];
 
