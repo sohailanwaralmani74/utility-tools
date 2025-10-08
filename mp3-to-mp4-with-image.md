@@ -1,6 +1,6 @@
 ---
 layout: main
-title: MP3 to MP4 Converter with Image - Online Tool
+title: MP3 to MP4 Converter with Image 
 description: Convert your MP3 audio files into MP4 videos by adding an image. Free, browser-based, and secure—no uploads required, fast and easy.
 keywords: mp3 to mp4 with image, convert mp3 to mp4 with image, mp3 to mp4 image, mp3 to mp4 with picture, convert mp3 to mp4 with picture, mp3 and image to mp4, mp3 to video with image, audio and picture to video, image and audio to video, audio and image to video
 ---
@@ -110,7 +110,7 @@ keywords: mp3 to mp4 with image, convert mp3 to mp4 with image, mp3 to mp4 image
 <script src="/assets/js/video.js"></script>
 
 <div style="margin: 4rem;">
-  <h1>MP3 to MP4 Converter with Image</h1>
+  <h1>MP3 to MP4 Converter with Image - Free Offline</h1>
 
   <p>
     Transform your audio into engaging videos with our <strong>MP3 to MP4 converter</strong>. Add a custom image to your MP3 file and create a shareable MP4 video instantly, right in your browser. No software installation, no sign-ups, and all processing happens locally—your files never leave your device.
