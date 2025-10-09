@@ -117,8 +117,9 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
 
 <h2>Other Image Tools</h2>
 <ul>
-<li><a href="https://iamrango.com/png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG Converter</a></li>
-<li><a href="https://iamrango.com/jpg-to-jpeg" style="color:#0066cc; text-decoration:underline;">JPG To JPEG Converter</a></li>
+<li><a href="png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG Converter</a></li>
+<li><a href="jpg-to-jpeg" style="color:#0066cc; text-decoration:underline;">JPG To JPEG Converter</a></li>
+<li><a href="webp-to-png" style="color:#0066cc; text-decoration:underline;">Convert WebP To PNG</a></li>
 </ul>
 
 </div>

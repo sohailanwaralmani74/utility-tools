@@ -59,7 +59,7 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
  <label class="export-label" onclick="exportToTXT()"><u> Export To TXT</u></label>
  <label class="export-label" onclick="showJson()"><u>Show JSON</u></label>
 </div>
-   <textarea id="csv-viewer" placeholder="Data Will Be Displayed Here" style="display:none; height: 68vh"></textarea>
+   <textarea id="csv-viewer" placeholder="Data Will Be Displayed Here" style="display:none; height: 60vh; width: 99%"></textarea>
 
 <script src="/assets/js/json-to-txt.js"></script>
 
@@ -93,13 +93,16 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
 </div>
 
 
-<h2>Other Useful Tools</h2>
+<h2>Other JSON Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
   <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
   <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">Convert Json String To Json Object</a></li>
+  <li><a href="https://iamrango.com/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">Convert Json To Json Schema</a></li>
+  <li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">All In One JSON Converter</a></li>
 </ul>
 

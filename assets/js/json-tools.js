@@ -1,76 +1,95 @@
-        const tools = [
-            {
-                id: 16,
-                icon: 'fa-font',
-                title: 'JSON To Excel Converter',
-                description: 'Edit JSON , Preview And Convert JSON To Excel, Offline And Faster',
-                tags: ['JSON To Excel','Convert JSON To Excel', 'JSON To XLSX', 'JSON To XLS'],
-                category: 'JSON',
-                url:'json-to-excel'
-            },
-            {
-                id: 17,
-                icon: 'fa-font',
-                title: 'JSON To CSV Converter',
-                description: 'Edit JSON , Preview And Convert JSON To CSV',
-                tags: ['JSON To CSV','Convert JSON To CSV', 'JSON To CSV Converter'],
-                category: 'JSON',
-                url:'json-to-csv'
-            },
-            {
-                id: 17,
-                icon: 'fa-font',
-                title: 'JSON To TXT Converter',
-                description: 'Edit JSON , Preview And Convert JSON To TXT',
-                tags: ['JSON To TXT','Convert JSON To TXT', 'JSON To TXT Converter'],
-                category: 'JSON',
-                url:'json-to-txt'
-            },
-            {
-                id: 18,
-                icon: 'fa-font',
-                title: 'JSON To HTML Converter',
-                description: 'Edit JSON , Preview And Convert JSON To HTML',
-                tags: ['JSON To HTML','Convert JSON To HTML', 'JSON To HTML Converter'],
-                category: 'JSON',
-                url:'json-to-html'
-            },
-            {
-                id: 19,
-                icon: 'fa-font',
-                title: 'JSON To PDF Converter',
-                description: 'Edit JSON , Preview And Convert JSON To PDF',
-                tags: ['JSON To PDF','Convert JSON To PDF', 'JSON To PDF Converter'],
-                category: 'JSON',
-                url:'json-to-pdf'
-            },
-            {
-                id: 20,
-                icon: 'fa-font',
-                title: 'JSON To XML Converter',
-                description: 'Edit JSON , Preview And Convert JSON To XML. Edit XML and Export',
-                tags: ['JSON To XML','Convert JSON To XML', 'JSON To XML Converter'],
-                category: 'JSON',
-                url:'json-to-xml'
-            },
-            {
-                id: 21,
-                icon: 'fa-font',
-                title: 'JSON To SQL Converter',
-                description: 'Edit JSON , Preview And Convert JSON To SQL. Production Ready SQL',
-                tags: ['JSON To SQL','Convert JSON To SQL', 'JSON To SQL Converter'],
-                category: 'JSON',
-                url:'json-to-sql'
-            },
-            {
-                id: 22,
-                icon: 'fa-font',
-                title: 'Uinversal JSON Converter',
-                description: 'Edit And Convert JSON to CSV, XLSX, XLS, TXT, HTML, PDF, XML, or SQL formats',
-                tags: ['JSON Converter', 'JSON Format Converter', 'JSON Editor'],
-                category: 'JSON',
-                url:'json-converter'
-            },
+const tools = [
+    {
+        id: 16,
+        icon: 'fa-font',
+        title: 'JSON To Excel Converter',
+        description: 'Edit JSON , Preview And Convert JSON To Excel, Offline And Faster',
+        tags: ['JSON To Excel', 'Convert JSON To Excel', 'JSON To XLSX', 'JSON To XLS'],
+        category: 'JSON',
+        url: 'json-to-excel'
+    },
+    {
+        id: 17,
+        icon: 'fa-font',
+        title: 'JSON To CSV Converter',
+        description: 'Edit JSON , Preview And Convert JSON To CSV',
+        tags: ['JSON To CSV', 'Convert JSON To CSV', 'JSON To CSV Converter'],
+        category: 'JSON',
+        url: 'json-to-csv'
+    },
+    {
+        id: 17,
+        icon: 'fa-font',
+        title: 'JSON To TXT Converter',
+        description: 'Edit JSON , Preview And Convert JSON To TXT',
+        tags: ['JSON To TXT', 'Convert JSON To TXT', 'JSON To TXT Converter'],
+        category: 'JSON',
+        url: 'json-to-txt'
+    },
+    {
+        id: 18,
+        icon: 'fa-font',
+        title: 'JSON To HTML Converter',
+        description: 'Edit JSON , Preview And Convert JSON To HTML',
+        tags: ['JSON To HTML', 'Convert JSON To HTML', 'JSON To HTML Converter'],
+        category: 'JSON',
+        url: 'json-to-html'
+    },
+    {
+        id: 19,
+        icon: 'fa-font',
+        title: 'JSON To PDF Converter',
+        description: 'Edit JSON , Preview And Convert JSON To PDF',
+        tags: ['JSON To PDF', 'Convert JSON To PDF', 'JSON To PDF Converter'],
+        category: 'JSON',
+        url: 'json-to-pdf'
+    },
+    {
+        id: 20,
+        icon: 'fa-font',
+        title: 'JSON To XML Converter',
+        description: 'Edit JSON , Preview And Convert JSON To XML. Edit XML and Export',
+        tags: ['JSON To XML', 'Convert JSON To XML', 'JSON To XML Converter'],
+        category: 'JSON',
+        url: 'json-to-xml'
+    },
+    {
+        id: 21,
+        icon: 'fa-font',
+        title: 'JSON To SQL Converter',
+        description: 'Edit JSON , Preview And Convert JSON To SQL. Production Ready SQL',
+        tags: ['JSON To SQL', 'Convert JSON To SQL', 'JSON To SQL Converter'],
+        category: 'JSON',
+        url: 'json-to-sql'
+    },
+    {
+        id: 22,
+        icon: 'fa-font',
+        title: 'Uinversal JSON Converter',
+        description: 'Edit And Convert JSON to CSV, XLSX, XLS, TXT, HTML, PDF, XML, or SQL formats',
+        tags: ['JSON Converter', 'JSON Format Converter', 'JSON Editor'],
+        category: 'JSON',
+        url: 'json-converter'
+    },
+    {
+        id: 23,
+        icon: 'fa-code',
+        title: 'JSON String to JSON Object Converter',
+        description: 'Instantly convert any JSON string to a fully formatted JSON object. Copy or download the converted object for your projects.',
+        tags: ['JSON String to Object', 'JSON Parser', 'JSON Formatter', 'String to JSON Online'],
+        category: 'JSON',
+        url: 'json-string-to-json-object'
+    },
+    {
+        id: 24,
+        icon: 'fa-sitemap',
+        title: 'JSON to JSON Schema Converter',
+        description: 'Convert any JSON object to a valid JSON Schema online. Generate, copy, or download schemas instantly for API validation or data contracts.',
+        tags: ['JSON to JSON Schema', 'Convert JSON to Schema', 'JSON Schema Generator', 'JSON to JSON Schema Online'],
+        category: 'JSON',
+        url: 'json-to-json-schema'
+    },
+
 
         ];
         

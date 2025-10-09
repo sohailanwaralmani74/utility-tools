@@ -5,7 +5,7 @@ const tools = [
     title: 'Image / PDF Converter',
     description: 'Convert PDF to JPG, PNG, AVIF, TIFF. Convert Images to PDF. Bulk convert JPG to PNG, PNG to WEBP, and more—100% browser-based, secure, and free',
     tags: ['Image Converter', 'PDF To Image Converter'],
-    category: 'excel',
+    category: 'image',
     url:'pdf-image-converter'
   },
   {
@@ -26,6 +26,16 @@ const tools = [
     category: 'jpg',
     url: 'png-to-jpg'
   },
+  {
+  id: 3,
+  icon: 'fa-image',
+  title: 'WEBP TO PNG',
+  description: 'Convert WEBP to PNG instantly in your browser. This webp to png converter works offline, keeps original quality, and ensures full privacy — no upload required.',
+  tags: ['webp to png converter', 'convert webp to png', 'webp image converter', 'change webp to png'],
+  category: 'png',
+  url: 'webp-to-png'
+},
+
 //   {
 //     id: 2,
 //     icon: 'fa-font',

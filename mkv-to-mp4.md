@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert MKV to MP4 Online - Free MKV to MP4 Converter
-description: Quickly convert MKV videos to MP4 online. Free MKV to MP4 converter works in-browser — fast, secure, and watermark-free. Transform MKV into MP4 effortlessly on any device.
+description: Quickly convert MKV videos to MP4 online. Free MKV to MP4 converter works in-browser — fast, secure, and watermark-free, and effortlessly on any device.
 keywords: mkv to mp4, mkv to mp4 converter, convert mkv to mp4, mkv convert to mp4, convert mkv to mp4 online, mkv converter to mp4, how to convert mkv to mp4, mkv file converter
 ---
 

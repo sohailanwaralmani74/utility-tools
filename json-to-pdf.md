@@ -145,6 +145,18 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
     <li><strong>Download:</strong> Save the PDF document instantly to your device.</li>
   </ol>
 
+  <h2>Other JSON Tools You May Like</h2>
+<ul>
+  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="https://iamrango.com/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">Convert Json String To Json Object</a></li>
+  <li><a href="https://iamrango.com/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">Convert Json To Json Schema</a></li>
+  <li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">All In One JSON Converter</a></li>
+</ul>
+
   <h2>FAQs</h2>
   <ul>
     <li><strong>Can I convert large JSON files?</strong> Yes, our tool handles large JSON datasets efficiently.</li>
@@ -152,15 +164,3 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
     <li><strong>Can I customize the PDF layout?</strong> Basic formatting is preserved automatically for clean, readable output.</li>
   </ul>
 </div>
-
-<h2>Are You Looking For These JSON Tools ?</h2>
-<ul>
-  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
-  <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
-  <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
-</ul>
-
-<h2><li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">JSON Converter - Convert Into Any Format</a></li></h2>

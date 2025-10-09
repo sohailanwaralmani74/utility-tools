@@ -162,7 +162,9 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
   <h2>Related Tools</h2>
   <p>
     Explore more free online privacy tools:  
+    <ul>
     <a href="/file-compressor">File Compressor</a> | 
-    <a href="/meta-data-remover">Metadata Remover</a>
+    <a href="/meta-data-remover">Metadata Remover</a> | 
     <a href="/jpg-to-jpeg">Convert JPG To JPEG</a>
+    </ul>
   </p>
