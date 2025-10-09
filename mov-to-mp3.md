@@ -133,7 +133,8 @@ keywords: mov to mp3, convert mov to mp3, convert a mov to mp3, mov into mp3, tr
     <li>Click <strong>“Convert”</strong> to extract audio and transform it into MP3 format.</li>
     <li>Download your MP3 file instantly — high quality and ready to use.</li>
   </ol>
-
+  <p>Explore all <a href="/video-tools">Video Tools</a> for converting, editing, and optimizing videos quickly and securely directly in your browser.
+</p>
   <h2>Why Use This MOV to MP3 Converter</h2>
   <ul>
     <li><strong>Instant conversion</strong> — no upload delays or server queues.</li>

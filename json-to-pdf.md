@@ -127,7 +127,8 @@ keywords: json-to-pdf, JSON to PDF converter, convert JSON files to PDF, online 
 <div style="margin: 4rem;">
   <h1>JSON to PDF Converter: Create Professional Reports Instantly</h1>
 
-  <p>Our <strong>JSON to PDF converter</strong> lets you transform JSON data into polished, shareable PDF documents. Perfect for reports, presentations, or archiving, this tool ensures your data is secure and private — everything is processed directly in your browser, with no uploads required.</p>
+  <p>Our <strong>JSON to PDF converter</strong> lets you transform JSON data into polished, shareable PDF documents. Perfect for reports, presentations, or archiving, this tool ensures your data is secure and private — everything is processed directly in your browser, with no uploads required. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</p>
 
   <h2>Convert JSON to PDF Easily</h2>
   <p>Upload your JSON file and generate a professional PDF in seconds. The tool preserves structure and formatting for readability, making it ideal for client reports, dashboards, or offline review.</p>

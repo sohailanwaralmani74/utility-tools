@@ -134,7 +134,7 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
   <p>
     Instantly find differences between two pieces of <strong>text</strong> or <strong>code</strong>.  
     Just paste your content, click compare, and see the changes highlighted side by side.  
-    The entire process runs in your browser, so your data remains private and secure.
+    The entire process runs in your browser, so your data remains private and secure. Explore all <a href="/text-tools">Text Tools</a> for formatting, cleaning, and converting text files easily in your browser.
   </p>
 
   <h2>How Free Diff Checker Works</h2>

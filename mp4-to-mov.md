@@ -150,7 +150,8 @@ keywords: mp4 to mov, convert mp4 to mov, mp4 to mov converter, video converter 
   <li>Wait a few seconds — everything happens in your browser.</li>
   <li>Download your new MOV file instantly.</li>
 </ol>
-
+<p>Explore all <a href="/video-tools">Video Tools</a> for converting, editing, and optimizing videos quickly and securely directly in your browser.
+</p>
 <h3>Why Use This MP4 to MOV Tool?</h3>
 <ul>
   <li><strong>QuickTime-ready:</strong> Generates MOV files optimized for Apple software.</li>

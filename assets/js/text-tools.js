@@ -15,7 +15,7 @@ const tools = [
             'Text Statistics'
         ],
         category: 'text',
-        url: 'word-counter'
+        url: 'text-analyzer'
     },
     {
         id: 2,

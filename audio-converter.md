@@ -53,10 +53,11 @@ description: Convert any audio file to MP3 or convert MP3 to popular formats lik
   <h3>Does converting affect audio quality?</h3>
   <p>Our tool preserves the highest possible audio quality during conversion.</p>
   <h3>Can I convert multiple files at once?</h3>
-  <p>Currently, one file at a time is supported to ensure fast and reliable conversions.</p>
+  <p>Currently, one file at a time is supported to ensure fast and reliable conversions. Explore all <a href="/audio-tools">Audio Tools</a> for converting, merging, and editing audio files quickly and securely in your browser.
+</p>
 </div>
 
-<h2>🎵 Audio & Video Tools</h2>
+<h2>🎵 Audio Tools You Might Like</h2>
 <ul>
   <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
   <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>

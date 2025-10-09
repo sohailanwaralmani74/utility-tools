@@ -143,7 +143,8 @@ description: Convert AMR audio files to MP3 instantly with iamrango's browser-ba
     <li>Download the MP3 file instantly.</li>
   </ol>
   <p>
-    Everything runs locally in your browser — your recordings and files remain private and secure.
+    Everything runs locally in your browser — your recordings and files remain private and secure. Explore all <a href="/audio-tools">Audio Tools</a> for converting, merging, and editing audio files quickly and securely in your browser.
+
   </p>
 
   <h2>Key Features</h2>
@@ -191,7 +192,7 @@ description: Convert AMR audio files to MP3 instantly with iamrango's browser-ba
     Ready to <strong>convert AMR to MP3</strong>? Use our free tool today and make your audio accessible everywhere — fast, secure, and simple.
   </p>
 </section>
-<h2>🎵 Audio & Video Tools</h2>
+<h2>Would You Like To See More🎵 Audio Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
   <li><a href="https://iamrango.com/convert-ogg-to-mp3" style="color:#0645ad; text-decoration:underline;">OGG to MP3</a></li>

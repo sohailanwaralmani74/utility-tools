@@ -144,7 +144,8 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
     <li><strong>Upload Your JSON File</strong>: Click the upload button and select your JSON file from your device.</li>
     <li><strong>Select CSV Format</strong>: Choose CSV as the output format.</li>
     <li><strong>Adjust Settings</strong>: Customize delimiters, headers, or other options if needed.</li>
-    <li><strong>Convert and Download</strong>: Click "Convert" to generate your CSV file instantly. Download it and use it anywhere, offline.</li>
+    <li><strong>Convert and Download</strong>: Click "Convert" to generate your CSV file instantly. Download it and use it anywhere, offline. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</li>
   </ol>
 
   <h2>Features of Our JSON to CSV Tool</h2>
@@ -163,7 +164,6 @@ keywords: json-to-csv, JSON to CSV converter, convert JSON files to CSV, online 
 <ul>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
   <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
-  <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
   <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>

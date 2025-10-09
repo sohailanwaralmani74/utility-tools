@@ -112,7 +112,8 @@ keywords: json-to-jsonschema, JSON to JSON Schema converter, convert JSON files 
   <p>Simply paste your JSON object into the editor. The converter supports complex nested structures and arrays.</p>
 
   <h3>Step 2: Generate Schema</h3>
-  <p>Click the <strong>Generate Schema</strong> button. The tool will instantly create a clean, standard-compliant JSON Schema.</p>
+  <p>Click the <strong>Generate Schema</strong> button. The tool will instantly create a clean, standard-compliant JSON Schema. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</p>
 
   <h3>Step 3: Copy or Download Schema</h3>
   <p>Use the <strong>Copy to Clipboard</strong> button to quickly copy the schema, or <strong>Download JSON</strong> to save it as a file for your projects.</p>

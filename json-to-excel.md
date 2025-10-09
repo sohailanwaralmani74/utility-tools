@@ -132,7 +132,8 @@ keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, o
   <p>Our <strong>JSON to Excel converter</strong> allows you to convert JSON files into XLSX or XLS formats effortlessly. Whether you’re preparing reports, analyzing API data, or sharing data with teams, our browser-based tool ensures fast, secure, and offline conversions. No server uploads — your data stays private on your device.</p>
 
   <h2>Convert JSON to XLSX</h2>
-  <p>Transform JSON data into modern Excel (XLSX) workbooks. XLSX supports large datasets, advanced formatting, and formulas, making it ideal for analytics and business reporting. Upload your JSON file, select XLSX, and download instantly — all offline.</p>
+  <p>Transform JSON data into modern Excel (XLSX) workbooks. XLSX supports large datasets, advanced formatting, and formulas, making it ideal for analytics and business reporting. Upload your JSON file, select XLSX, and download instantly — all offline. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</p>
 
   <ul>
     <li><strong>Why XLSX?</strong> Modern Excel format with rich features.</li>
@@ -169,7 +170,6 @@ keywords: json-to-excel, JSON to Excel converter, convert JSON files to Excel, o
 <h2>Other Useful JSON Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
-  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
   <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
   <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>

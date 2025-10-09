@@ -123,7 +123,8 @@ keywords: mov to wav, mov to wav converter, convert mov to wav, extract audio fr
 
 <h1>Convert MOV to WAV Online - Free MOV Audio Extractor</h1>
 
-<p>Need to extract audio from your video? This <strong>MOV to WAV converter</strong> lets you turn any QuickTime MOV file into a clean, lossless WAV audio file directly in your browser. No upload, no sign-up, no software required.</p>
+<p>Need to extract audio from your video? This <strong>MOV to WAV converter</strong> lets you turn any QuickTime MOV file into a clean, lossless WAV audio file directly in your browser. No upload, no sign-up, no software required. Explore all <a href="/video-tools">Video Tools</a> for converting, editing, and optimizing videos quickly and securely directly in your browser.
+</p>
 
 <h2>What is a MOV to WAV Converter?</h2>
 <p>A MOV to WAV converter extracts the sound track from a MOV video file and saves it as an uncompressed <code>.wav</code> audio file. WAV files offer crystal-clear quality and are ideal for editing, mixing, or archiving original audio.</p>

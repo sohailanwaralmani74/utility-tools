@@ -121,7 +121,7 @@ keywords: excel to json, Excel to JSON converter, convert Excel files to JSON, o
   <h1>Excel To JSON – Export Spreadsheets as Structured Data</h1>
   <p>
     Easily convert your <strong>Excel spreadsheets (XLSX/XLS)</strong> into <strong>JSON format</strong> for web applications, APIs, or data processing.  
-    Each row becomes a JSON object, with column headers serving as keys, producing clean, structured, and ready-to-use data.
+    Each row becomes a JSON object, with column headers serving as keys, producing clean, structured, and ready-to-use data. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
   </p>
 
   <h2>How the Excel To JSON Conversion Works</h2>

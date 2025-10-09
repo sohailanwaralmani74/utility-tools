@@ -126,7 +126,8 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
 <div style="margin: 4rem;">
   <h1>JSON to HTML Converter: Web-Ready Tables Instantly</h1>
 
-  <p>Our <strong>JSON to HTML converter</strong> lets you transform JSON data into clean, structured HTML tables. Perfect for websites, blogs, dashboards, or web apps, this tool ensures your data is ready for web display without any server uploads — entirely offline and private.</p>
+  <p>Our <strong>JSON to HTML converter</strong> lets you transform JSON data into clean, structured HTML tables. Perfect for websites, blogs, dashboards, or web apps, this tool ensures your data is ready for web display without any server uploads — entirely offline and private. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</p>
 
   <h2>Convert JSON to HTML Tables</h2>
   <p>Upload your JSON file and generate responsive HTML tables with ease. This tool preserves nested data and ensures a readable table layout, making your JSON instantly usable for web applications or reports.</p>
@@ -155,7 +156,6 @@ keywords: json-to-html, JSON to HTML converter, convert JSON files to HTML, onli
 
 <h2>Other JSON Tools You May Like</h2>
 <ul>
-  <li><a href="https://iamrango.com/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
   <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
   <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>

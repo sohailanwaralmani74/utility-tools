@@ -97,9 +97,7 @@ keywords: metadata remover, remove metadata from photo, metadata scrubber, meta 
 </section>
 
 <div style="margin-top: 20px;  max-height: 88vh; overflow: auto; display: flex; width: 99%;">
-    
     <div id="fileInfo" style="font-family: Georgia; background-color: #f4f4f4; border-left: 4px solid #4caf50;width: 100%; min-height:30vh; margin-left: 1rem; display: none;justify-content: flex-start; ">
-       
     </div>
     
 </div>
@@ -112,7 +110,8 @@ keywords: metadata remover, remove metadata from photo, metadata scrubber, meta 
 
   <h2>Why Use a Metadata Remover or Deleter?</h2>
   <p>
-    Files can contain hidden <strong>metadata</strong> such as location data, author information, device details, and editing history. Sharing files without removing this information may compromise your privacy or leak sensitive data. A <strong>metadata remover</strong> or <strong>meta data deleter</strong> ensures your shared documents and images are safe, clean, and free of hidden information, giving you complete control over your personal and professional files.
+    Files can contain hidden <strong>metadata</strong> such as location data, author information, device details, and editing history. Sharing files without removing this information may compromise your privacy or leak sensitive data. A <strong>metadata remover</strong> or <strong>meta data deleter</strong> ensures your shared documents and images are safe, clean, and free of hidden information, giving you complete control over your personal and professional files. Explore all <a href="/privacy-tools">Privacy Tools</a> for protecting your data, removing metadata, and securing files safely and locally.
+
   </p>
 
   <h2>How to Use Our Metadata Remover Tool</h2>

@@ -374,7 +374,8 @@ keywords: markdown editor, online markdown, md editor, github markdown, live pre
   <p>Create, edit, and preview Markdown files effortlessly using our free, browser-based Markdown editor. Whether you need GitHub Markdown support or live preview, our editor provides a smooth, responsive experience without any installation.</p>
 
   <h2>What is a Markdown Editor?</h2>
-  <p>A Markdown editor allows you to write formatted text using simple Markdown syntax. This tool supports GitHub-flavored Markdown and provides live preview so you can instantly see how your document will appear.</p>
+  <p>A Markdown editor allows you to write formatted text using simple Markdown syntax. This tool supports GitHub-flavored Markdown and provides live preview so you can instantly see how your document will appear. Explore all <a href="/text-tools">Text Tools</a> for formatting, cleaning, and converting text files easily in your browser.
+</p>
 
   <h2>Why Use Our Online Markdown Editor?</h2>
   <p>Markdown is widely used for documentation, blogging, and note-taking. Our browser-based editor lets you work from anywhere without installing software, ensuring your workflow stays fast and hassle-free.</p>

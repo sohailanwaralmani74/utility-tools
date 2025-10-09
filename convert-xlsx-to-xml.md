@@ -128,7 +128,8 @@ keywords: convert-xlsx-to-xml, XLSX to XML converter, convert Excel XLSX to XML,
     <li>Download your XML file immediately.</li>
   </ol>
   <p>
-    The conversion runs entirely locally, so it works <strong>offline</strong> once the page is loaded.
+    The conversion runs entirely locally, so it works <strong>offline</strong> once the page is loaded. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
+
   </p>
 
   <h3>Why Use This XLSX to XML Converter?</h3>

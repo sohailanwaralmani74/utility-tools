@@ -119,7 +119,8 @@ keywords: Convert excel to text, excel to text, Convert excel file to text, Conv
   <h1>Excel To TXT – Transform Spreadsheets into Plain Text</h1>
   <p>
     Easily convert your <strong>Excel files (XLSX/XLS)</strong> into <strong>plain-text TXT documents</strong>.  
-    Preserve rows, columns, and cell values while generating a simple, readable format suitable for archival, logs, or import into legacy systems.
+    Preserve rows, columns, and cell values while generating a simple, readable format suitable for archival, logs, or import into legacy systems. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
+
   </p>
 
   <h2>How the Excel To TXT Conversion Works</h2>

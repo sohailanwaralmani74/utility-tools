@@ -103,7 +103,8 @@ keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online 
   <h1>XML to JSON Converter – Convert Your XML Files to JSON Online</h1>
   
   <h2>Instantly Convert XML Files to JSON</h2>
-  <p>Easily transform your XML data into JSON format with our fast, accurate, and browser-based converter. No installation required—convert directly online.</p>
+  <p>Easily transform your XML data into JSON format with our fast, accurate, and browser-based converter. No installation required—convert directly online. Explore all <a href="/xml-tools">XML Tools</a> for converting, validating, and formatting XML files directly in your browser.
+</p>
   
   <h3>Key Features</h3>
   <ul>

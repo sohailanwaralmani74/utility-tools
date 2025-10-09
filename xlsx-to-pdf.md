@@ -114,7 +114,8 @@ keywords: xlsx to pdf, XLSX to PDF converter, convert XLSX files to PDF, online 
     <li><strong>Upload XLSX File:</strong> Click the upload button and select your Excel spreadsheet.</li>
     <li><strong>Adjust Settings:</strong> Choose page orientation, margins, or add headers/footers if needed.</li>
     <li><strong>Convert:</strong> Click convert to generate a PDF preview instantly.</li>
-    <li><strong>Download:</strong> Save the PDF file directly to your device—offline and secure.</li>
+    <li><strong>Download:</strong> Save the PDF file directly to your device—offline and secure. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
+</li>
   </ol>
 
   <h2>Key Features</h2>

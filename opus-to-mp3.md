@@ -111,7 +111,8 @@ description: Convert OPUS audio files to MP3 online for free. Fast, high-quality
 <div style="margin: 2rem;">
   <h1>OPUS to MP3 Converter: Fast & Free Online Tool</h1>
 
-  <p>Convert your <strong>OPUS audio files</strong> to universally compatible <strong>MP3 format</strong> instantly with our browser-based converter. Whether you have recordings from VoIP apps, music files, or podcasts in OPUS, our tool ensures fast, high-quality conversion without installing any software. Everything runs locally in your browser, keeping your data private and secure.</p>
+  <p>Convert your <strong>OPUS audio files</strong> to universally compatible <strong>MP3 format</strong> instantly with our browser-based converter. Whether you have recordings from VoIP apps, music files, or podcasts in OPUS, our tool ensures fast, high-quality conversion without installing any software. Everything runs locally in your browser, keeping your data private and secure. Explore all <a href="/audio-tools">Audio Tools</a> for converting, merging, and editing audio files quickly and securely in your browser.
+</p>
 
   <h2>Why Convert OPUS to MP3?</h2>
   <p>OPUS is a modern, efficient audio codec, but MP3 is supported everywhere—from smartphones and media players to websites and social apps. Converting OPUS to MP3 allows you to:</p>
@@ -154,7 +155,7 @@ description: Convert OPUS audio files to MP3 online for free. Fast, high-quality
 
 </div>
 
-<h2>🎵 Audio & Video Tools</h2>
+<h2>You Might Like These 🎵 Audio Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
   <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>

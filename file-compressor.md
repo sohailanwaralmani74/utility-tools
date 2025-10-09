@@ -106,7 +106,8 @@ description: Quickly compress PDF, CSV, image, and Word files, or create ZIP arc
   <p>
     Easily <strong>compress PDF, CSV, image, and Word files</strong> directly in your browser.  
     Combine multiple files into a single <strong>ZIP archive</strong> for easier sharing or storage.  
-    All processing happens locally, ensuring your data remains secure and private.
+    All processing happens locally, ensuring your data remains secure and private. Explore all <a href="/privacy-tools">Privacy Tools</a> for protecting your data, removing metadata, and securing files safely and locally.
+
   </p>
 
   <h2>How File Compression Works</h2>

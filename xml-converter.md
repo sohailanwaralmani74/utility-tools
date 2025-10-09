@@ -109,7 +109,8 @@ keywords: convert xml to xlsx, convert xml to xls, convert xml to json, convert 
   
   <h3>Key Features of Our XML Converter</h3>
   <ul>
-    <li><strong>Multiple Format Support:</strong> Convert XML files to XLSX, XLS, JSON, CSV, PDF (RAW), or PDF (Table) effortlessly.</li>
+    <li><strong>Multiple Format Support:</strong> Convert XML files to XLSX, XLS, JSON, CSV, PDF (RAW), or PDF (Table) effortlessly. Explore all <a href="/xml-tools">XML Tools</a> for converting, validating, and formatting XML files directly in your browser.
+</li>
     <li><strong>Browser-Based:</strong> No software installation needed; works directly in your web browser.</li>
     <li><strong>Fast & Accurate:</strong> Quickly process large XML files while maintaining data integrity.</li>
     <li><strong>User-Friendly Interface:</strong> Intuitive design suitable for beginners and professionals alike.</li>

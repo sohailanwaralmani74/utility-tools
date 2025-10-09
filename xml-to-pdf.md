@@ -113,6 +113,8 @@ keywords: xml-to-pdf, XML to PDF converter, convert XML files to PDF, online XML
     <li><strong>User-Friendly:</strong> Simple interface suitable for beginners and professionals.</li>
     <li><strong>Secure & Private:</strong> Files are processed locally, keeping your data safe and confidential.</li>
   </ul>
+  <p>Explore all <a href="/xml-tools">XML Tools</a> for converting, validating, and formatting XML files directly in your browser.
+</p>
   
   <h2>How to Use the XML to PDF Converter</h2>
   <ol>

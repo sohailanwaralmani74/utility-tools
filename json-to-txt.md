@@ -66,7 +66,8 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
 <div style="margin: 4rem;">
   <h1>JSON to TXT Converter: Extract Readable Text Instantly</h1>
 
-  <p>Our <strong>JSON to TXT converter</strong> turns structured JSON data into plain, readable text files. Ideal for logs, quick data reviews, debugging, or lightweight storage, this browser-based tool works fully offline to ensure privacy and security.</p>
+  <p>Our <strong>JSON to TXT converter</strong> turns structured JSON data into plain, readable text files. Ideal for logs, quick data reviews, debugging, or lightweight storage, this browser-based tool works fully offline to ensure privacy and security. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</p>
 
   <h2>Convert JSON to TXT Easily</h2>
   <p>Upload your JSON file, select TXT as the output format, and download a clean text file in seconds. Perfect for developers, analysts, or anyone who wants a simple, portable representation of their JSON data.</p>
@@ -102,7 +103,6 @@ keywords: json-to-txt, JSON to TXT converter, convert JSON files to TXT, online 
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
   <li><a href="https://iamrango.com/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
   <li><a href="https://iamrango.com/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">Convert Json String To Json Object</a></li>
-  <li><a href="https://iamrango.com/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">Convert Json To Json Schema</a></li>
   <li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">All In One JSON Converter</a></li>
 </ul>
 

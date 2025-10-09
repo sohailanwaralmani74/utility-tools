@@ -130,7 +130,8 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
     <li><strong>Browser-Based:</strong> No installation required; works on any device.</li>
     <li><strong>Secure Processing:</strong> Images are edited locally; nothing is uploaded.</li>
   </ul>
-
+  <p>Explore all <a href="/privacy-tools">Privacy Tools</a> for protecting your data, removing metadata, and securing files safely and locally.
+</p>
   <h3>Why Use This Image Redactor?</h3>
   <ul>
     <li>Blur faces, personal information, or confidential details.</li>
@@ -165,6 +166,5 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
     <ul>
     <a href="/file-compressor">File Compressor</a> | 
     <a href="/meta-data-remover">Metadata Remover</a> | 
-    <a href="/jpg-to-jpeg">Convert JPG To JPEG</a>
     </ul>
   </p>

@@ -130,7 +130,7 @@ description: Easily convert JPG images to JPEG format instantly. Free, secure, b
   <p>
     Easily convert your <strong>JPG images</strong> to the <strong>JPEG format</strong> in seconds.  
     Our free, browser-based tool ensures your images maintain high quality without any software installation.  
-    Whether you’re preparing photos for web publishing, social media, or professional projects, converting JPG to JPEG has never been easier.
+    Whether you’re preparing photos for web publishing, social media, or professional projects, converting JPG to JPEG has never been easier. 
   </p>
 
   <h2>How to Convert JPG to JPEG</h2>
@@ -141,7 +141,8 @@ description: Easily convert JPG images to JPEG format instantly. Free, secure, b
     <li>Download your new JPEG image instantly — no email or signup required.</li>
   </ol>
   <p>
-    The conversion happens entirely in your browser, keeping your images <strong>private</strong> and secure.
+    The conversion happens entirely in your browser, keeping your images <strong>private</strong> and secure. Explore all <a href="/text-tools">Text Tools</a> for formatting, cleaning, and converting text files easily in your browser.
+
   </p>
 
   <h2>Why Use Our JPG to JPEG Converter?</h2>

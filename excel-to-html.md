@@ -117,7 +117,8 @@ keywords: excel-to-html, Excel to HTML converter, convert Excel files to HTML, o
     <li>Upload your <code>.xlsx</code> or <code>.xls</code> file from your device.</li>
     <li>The tool converts your spreadsheet into a structured HTML table while maintaining rows, columns, and headers.</li>
     <li>Click <strong>Convert</strong>.</li>
-    <li>Download the HTML file instantly and embed it into your website or application.</li>
+    <li>Download the HTML file instantly and embed it into your website or application. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
+</li>
   </ol>
 
   <h3>Key Benefits</h3>

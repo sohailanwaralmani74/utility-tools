@@ -120,7 +120,8 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
   <h1>All-in-One Excel & CSV File Converter</h1>
   <p>
     Quickly convert your <strong>Excel (XLSX/XLS) and CSV files</strong> into a wide range of formats, including <strong>JSON, TXT, HTML, PDF, XML, SQL</strong>, and more.  
-    This browser-based tool is fast, secure, and works entirely offline, keeping your data private while streamlining your workflow.
+    This browser-based tool is fast, secure, and works entirely offline, keeping your data private while streamlining your workflow. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
+
   </p>
 
   <h2>Supported Conversions</h2>

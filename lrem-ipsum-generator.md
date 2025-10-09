@@ -348,7 +348,8 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
   <h1>Lrem Ipsum Generator</h1>
 
   <p>
-    Create placeholder text instantly with our <strong>Lrem Ipsum Generator</strong>. Whether you’re a designer building layouts, a developer testing UI, or a content creator drafting prototypes, this tool generates customizable filler text directly in your browser. No downloads, no sign-ups, and your data stays private—all processing happens locally.
+    Create placeholder text instantly with our <strong>Lrem Ipsum Generator</strong>. Whether you’re a designer building layouts, a developer testing UI, or a content creator drafting prototypes, this tool generates customizable filler text directly in your browser. No downloads, no sign-ups, and your data stays private—all processing happens locally. Explore all <a href="/text-tools">Text Tools</a> for formatting, cleaning, and converting text files easily in your browser.
+
   </p>
 
   <h2>Features of Lrem Ipsum Generator</h2>

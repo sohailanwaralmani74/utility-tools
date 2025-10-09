@@ -141,7 +141,8 @@ keywords: mov to gif, convert mov to gif, turn mov into gif, mov file to gif, mo
 
 <h1>Convert MOV to GIF Online - Free & Fast MOV to GIF Converter</h1>
 
-<p>Need to turn your MOV video into a quick, looping GIF? Our <strong>free MOV to GIF converter</strong> helps you create lightweight, shareable GIFs directly in your browser. No software downloads or uploads — just fast, private, and high-quality conversions.</p>
+<p>Need to turn your MOV video into a quick, looping GIF? Our <strong>free MOV to GIF converter</strong> helps you create lightweight, shareable GIFs directly in your browser. No software downloads or uploads — just fast, private, and high-quality conversions. Explore all <a href="/video-tools">Video Tools</a> for converting, editing, and optimizing videos quickly and securely directly in your browser.
+</p>
 
 <h2>What is a MOV to GIF Converter?</h2>
 <p>A MOV to GIF converter transforms Apple QuickTime <code>.mov</code> video files into animated <code>.gif</code> images. GIFs are smaller, easier to share, and perfect for social media, websites, or chat platforms. This online tool makes the process simple — just load your MOV file and get a looping GIF in seconds.</p>

@@ -154,6 +154,7 @@ description: Convert ALAC audio files to MP3 instantly with iamrango's browser-b
     <li>High-quality MP3 output</li>
     <li>Compatible with all major platforms and devices</li>
   </ul>
+   Explore all <a href="/audio-tools">Audio Tools</a> for converting, merging, and editing audio files quickly and securely in your browser.
 
   <h2>Frequently Asked Questions</h2>
   <h3>Does the conversion reduce audio quality?</h3>
@@ -164,7 +165,7 @@ description: Convert ALAC audio files to MP3 instantly with iamrango's browser-b
   <p>Yes, the conversion is done entirely in your browser, so your files never leave your device.</p>
 </div>
 
-<h2>🎵 Audio & Video Tools</h2>
+<h2>Faster 🎵 Audio Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/amr-to-mp3" style="color:#0645ad; text-decoration:underline;">AMR to MP3</a></li>
   <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>

@@ -69,7 +69,8 @@ keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online 
   <p>Our <strong>JSON to SQL converter</strong> transforms JSON data into ready-to-use SQL queries, ideal for importing into MySQL, PostgreSQL, or other relational databases. Process everything securely in your browser — no server uploads, fully offline, and safe for sensitive data.</p>
 
   <h2>Convert JSON to SQL Effortlessly</h2>
-  <p>Upload your JSON file, select SQL as the output format, and generate INSERT statements instantly. Perfect for developers, DBAs, or data engineers who need quick database migration or testing data setup.</p>
+  <p>Upload your JSON file, select SQL as the output format, and generate INSERT statements instantly. Perfect for developers, DBAs, or data engineers who need quick database migration or testing data setup. Explore all <a href="/json-tools">JSON Tools</a> for converting, formatting, and generating JSON data efficiently for development and data management.
+</p>
 
   <ul>
     <li><strong>Why SQL?</strong> Prepares JSON for direct database imports.</li>

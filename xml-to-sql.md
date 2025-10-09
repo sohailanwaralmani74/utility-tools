@@ -104,7 +104,8 @@ keywords: xml-to-sql, XML to SQL converter, convert XML files to SQL, online XML
   <h1>Free XML to SQL Converter – Instantly Transform Your XML Files into SQL Scripts Online</h1>
   
   <h2>Convert XML Files to SQL Quickly and Accurately</h2>
-  <p>Effortlessly transform your XML data into ready-to-use SQL scripts with our fast and browser-based converter. No software installation is required—convert directly online.</p>
+  <p>Effortlessly transform your XML data into ready-to-use SQL scripts with our fast and browser-based converter. No software installation is required—convert directly online. Explore all <a href="/xml-tools">XML Tools</a> for converting, validating, and formatting XML files directly in your browser.
+</p>
   
   <h3>Key Features</h3>
   <ul>

@@ -166,10 +166,8 @@ description: Convert AAC audio files to MP3 instantly with iamrango's browser-ba
   <p>Currently, our tool supports one file at a time for optimal speed and reliability.</p>
   <h3>Does converting affect audio quality?</h3>
   <p>Our tool preserves high audio quality during the AAC to MP3 conversion, so your output will sound just as good as the original.</p>
-</div>
 
-
-<h2>🎵 Audio & Video Tools</h2>
+  <h2>More 🎵 Audio Tools</h2>
 <ul>
       <li><a href="https://iamrango.com/ogx-to-mp3" style="color:#0645ad; text-decoration:underline;">OGX To MP3 Converter</a></li>
   <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
@@ -179,5 +177,12 @@ description: Convert AAC audio files to MP3 instantly with iamrango's browser-ba
   <li><a href="https://iamrango.com/opus-to-mp3" style="color:#0645ad; text-decoration:underline;">OPUS to MP3</a></li>
   <li><a href="https://iamrango.com/alac-to-mp3" style="color:#0645ad; text-decoration:underline;">ALAC to MP3</a></li>
   <li><a href="https://iamrango.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
-  <li><a href="https://iamrango.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
+  <li>
 </ul>
+
+Explore all <a href="/audio-tools">Audio Tools</a> for converting, merging, and editing audio files quickly and securely in your browser.
+
+</div>
+
+
+

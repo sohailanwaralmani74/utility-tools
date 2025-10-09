@@ -172,9 +172,9 @@ keywords: convert-xlsx-to-csv, XLSX to CSV converter, convert Excel XLSX to CSV,
 
   <h2>XLSX to CSV Converter – Free Online Tool</h2>
   <p>
-    Convert <strong>Excel XLSX spreadsheets</strong> into <strong>CSV (Comma-Separated Values)</strong> files instantly with this free tool. 
+    Convert <strong>Excel XLSX spreadsheets</strong> into <strong>CSV (Comma-Separated Values)</strong> files instantly with this free tool. Explore all <a href="/excel-tools">Excel Tools</a> for converting, formatting, and managing spreadsheets efficiently in your browser without any software installation.
     Just upload your <code>.xlsx</code> file, click convert, and download your clean CSV output. 
-    All conversions happen directly in your browser, so your files stay safe and private.
+    All conversions happen directly in your browser, so your files stay safe and private. 
   </p>
 
   <h3>How It Works</h3>
