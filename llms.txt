@@ -48,6 +48,9 @@ A: No, all processing happens locally in your browser.
 [JSON to SQL](https://iamrango.com/json-to-sql): Generate SQL scripts from JSON.  
 [JSON to TXT](https://iamrango.com/json-to-txt): Flatten JSON into plain text.  
 [JSON to XML](https://iamrango.com/json-to-xml): Convert JSON into XML.  
+[JSON String to JSON Object](https://iamrango.com/json-string-to-json-object): Convert JSON strings into formatted JSON objects instantly.  
+[JSON to JSON Schema](https://iamrango.com/json-to-json-schema): Generate JSON Schema from any JSON data quickly and easily.  
+
 
 **FAQs**  
 **Q: Can I validate JSON with these tools?**  
@@ -180,9 +183,6 @@ A: Absolutely — all tools work locally in the browser, no uploads are made.
 
 **Q: Does it support HD and 4K videos?**  
 A: Yes, high-resolution videos are supported depending on your device.  
-
-**Q: Can I make GIFs with transparent backgrounds?**  
-A: Yes, WebM to GIF supports transparency, and we reference popular tools like [Ezgif](https://ezgif.com/webm-to-gif) for guidance.  
 
 **Q: Is trimming or editing possible before conversion?**  
 A: Yes, basic trimming and previewing are available in most video tools.
