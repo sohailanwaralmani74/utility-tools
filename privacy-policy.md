@@ -134,7 +134,7 @@ keywords: privacy policy, GDPR, CCPA, data protection, local file processing, se
     "url": "https://iamrango.com",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://iamrango.com/assets/images/logo.png"
+      "url": "https://iamrango.com/assets/img/iamrango.webp"
     }
   },
   "mainEntity": {
