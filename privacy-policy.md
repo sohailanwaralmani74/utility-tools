@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: "IamRango Privacy Policy"
 description: "IamRango Privacy Policy — Learn how we protect your privacy with 100% local file processing. No uploads, no tracking, and full GDPR & CCPA compliance."
 keywords: privacy policy, GDPR, CCPA, data protection, local file processing, secure file converter, privacy focused tools, iamrango privacy, browser-based tools, no file upload
