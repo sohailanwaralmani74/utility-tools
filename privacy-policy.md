@@ -108,8 +108,8 @@ keywords: privacy policy, GDPR, CCPA, data protection, local file processing, se
     <h3>Explore Our Privacy Tools</h3>
     <p>
       Enhance your file safety with our privacy-focused utilities like 
-      <a href="/metadata-remover">Metadata Remover</a> and 
-      <a href="/pdf-protector">PDF Protector</a>. 
+      <a href="/meta-data-remover">Metadata Remover</a> and 
+      <a href="/sohail-anwar">Check Out My Profile</a>. 
       Each tool ensures complete data security with 100% local processing.
     </p>
   </div>
