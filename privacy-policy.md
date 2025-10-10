@@ -114,3 +114,37 @@ keywords: privacy policy, GDPR, CCPA, data protection, local file processing, se
     </p>
   </div>
 </div>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://iamrango.com/privacy-policy#webpage",
+  "url": "https://iamrango.com/privacy-policy",
+  "name": "Privacy Policy - iamrango.com",
+  "description": "Read the Privacy Policy of iamrango.com. Learn how we handle user data, protect uploaded files, and ensure your privacy and security while using our free online tools.",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://iamrango.com/#website",
+    "url": "https://iamrango.com/",
+    "name": "iamrango.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "iamrango.com",
+    "url": "https://iamrango.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://iamrango.com/assets/images/logo.png"
+    }
+  },
+  "mainEntity": {
+    "@type": "CreativeWork",
+    "name": "Privacy Policy",
+    "about": "This Privacy Policy explains how iamrango.com collects, uses, and protects user data, including uploaded files, cookies, and analytics information.",
+    "inLanguage": "en"
+  },
+  "inLanguage": "en",
+  "datePublished": "2025-09-25",
+  "dateModified": "2025-10-10"
+}
+</script>
