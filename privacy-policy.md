@@ -6,7 +6,7 @@ keywords: privacy policy, GDPR, CCPA, data protection, local file processing, se
 ---
 
 <div class="tool-page" style="margin: 4rem;">
-  <h1>Privacy Policy</h1>
+  <h1>Privacy Policy - IMRango Cares About Your Privacy</h1>
   <p>
     Welcome to <strong>IamRango.com</strong>. We respect your privacy and are committed to protecting it through our transparent and user-first approach. 
     This Privacy Policy explains how our tools work, what information (if any) is handled, and your rights under global privacy laws including GDPR, CCPA, and others.

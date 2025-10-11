@@ -168,16 +168,18 @@ keywords: mp4 to gif, convert mp4 to gif, mp4 to gif converter, turn mp4 into gi
 
 <h3>More Video Tools</h3>
 <ul>
-  <li><a href="/mov-to-gif">Convert MOV to GIF</a></li>
-  <li><a href="/mov-to-mp3">Convert MOV to MP3</a></li>
-  <li><a href="/mov-to-mp4">Convert MOV to MP4</a></li>
-  <li><a href="/mov-to-wav">Convert MOV to WAV</a></li>
-  <li><a href="/mp4-to-mov">Convert MP4 to MOV</a></li>
-  <li><a href="/video-to-gif">Convert Video to GIF</a></li>
-  <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
-    <li><a href="/mkv-to-mp4">Convert MKV to MP4</a></li>
-  <li><a href="/mp4-to-mp3">Convert MP4 To MP3 </a></li>
-</ul>
+        <li><a href="/mkv-to-mp4">MKV to MP4 Converter</a></li>
+        <li><a href="/mov-to-gif">MOV to GIF</a></li>
+        <li><a href="/mov-to-mp3">MOV to MP3</a></li>
+        <li><a href="/mov-to-mp4">MOV to MP4</a></li>
+        <li><a href="/mov-to-wav">MOV to WAV</a></li>
+        <li><a href="/mp4-to-mov">MP4 to MOV</a></li>
+        <li><a href="/mp4-to-mp3">MP4 to MP3</a></li>
+        <li><a href="/avi-to-mp4">AVI To MP4</a></li>
+        <li><a href="/webm-to-gif">WEBM To GIF</a></li>
+        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
+        <li><a href="/video-tools">Video Tools Home</a></li>
+      </ul>
 
 <h3>FAQs About MP4 to GIF Conversion</h3>
 <p><strong>Can I convert MP4 to GIF free?</strong><br>Yes — this browser-based converter is fully free and watermark-free.</p>

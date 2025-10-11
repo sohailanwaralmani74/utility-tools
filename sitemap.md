@@ -40,6 +40,8 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
         <li><a href="/mp4-to-mov">MP4 to MOV</a></li>
         <li><a href="/mp4-to-mp3">MP4 to MP3</a></li>
         <li><a href="/video-to-gif">Video to GIF</a></li>
+        <li><a href="/avi-to-mp4">AVI To MP4</a></li>
+        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
         <li><a href="/video-tools">Video Tools Home</a></li>
       </ul>
     </div>
@@ -91,7 +93,7 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
     </div>
     <!-- CSV & Excel Tools -->
     <div class="category-box">
-      <h2>CSV & Excel Tools</h2>
+      <h2>CSV Tools</h2>
       <ul>
         <li><a href="/convert-csv-to-excel">CSV to Excel</a></li>
         <li><a href="/convert-csv-to-html">CSV to HTML</a></li>
@@ -99,9 +101,16 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
         <li><a href="/convert-csv-to-pdf">CSV to PDF</a></li>
         <li><a href="/convert-csv-to-txt">CSV to TXT</a></li>
         <li><a href="/convert-csv-to-xml">CSV to XML</a></li>
+        <li><a href="/csv-to-sql">CSV to SQL</a></li>
+        <li><a href="/excel-csv-converter">Excel CSV Converter</a></li>
+        <li><a href="/csv-tools">All CSV Converters</a></li>
+      </ul>
+    </div>
+    <div class="category-box">
+      <h2>Excel Tools</h2>
+      <ul>
         <li><a href="/convert-xlsx-to-csv">XLSX to CSV</a></li>
         <li><a href="/convert-xlsx-to-xml">XLSX to XML</a></li>
-        <li><a href="/csv-to-sql">CSV to SQL</a></li>
         <li><a href="/excel-csv-converter">Excel CSV Converter</a></li>
         <li><a href="/excel-to-html">Excel to HTML</a></li>
         <li><a href="/excel-to-json">Excel to JSON</a></li>

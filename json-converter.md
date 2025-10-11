@@ -185,12 +185,13 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
   </ul>
 
   <h2>Convert JSON to XML</h2>
-  <p>Convert JSON to XML for API integrations or system data exchange. Upload JSON, select XML, and download offline. Perfect for enterprise and developer workflows.</p>
+  <p>Convert JSON to XML for API integrations or system data exchange. Upload JSON, select XML, and download offline. Perfect for enterprise and developer workflows. </p>
   <ul>
     <li><strong>Why XML?</strong> Standard format for data exchange and web services.</li>
     <li><strong>Use Case:</strong> Transform JSON for API or system integration.</li>
     <li><strong>Our Edge:</strong> Offline, private conversion in one page.</li>
   </ul>
+  <p></p>
 
   <h2>Convert JSON to SQL</h2>
   <p>Generate SQL queries directly from JSON data for easy database imports. Upload JSON, select SQL, customize table structures if needed, and download offline. Ideal for migrating API or app data into relational databases.</p>
@@ -219,7 +220,7 @@ keywords: json editor online, json to csv, json to xlsx, json to xls, json to tx
   <h2>Other Useful Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
-  <li><a href="https://iamrango.com/json-to-html" style="color:#0066cc; text-decoration:underline;">JSON to HTML</a></li>
+  <li><a href="https://iamrango.com/json-to-dart" style="color:#0066cc; text-decoration:underline;">JSON to Dart</a></li>
   <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
   <li><a href="https://iamrango.com/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>

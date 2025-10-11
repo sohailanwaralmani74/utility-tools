@@ -176,6 +176,8 @@ keywords: mov into mp4, mov to mp4, convert mov to mp4, transform mov to mp4, mo
   <li><a href="/mp4-to-mov">Convert MP4 to MOV</a></li>
   <li><a href="/video-to-gif">Convert Video to GIF</a></li>
   <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
+  <li><a href="/avi-to-mp4">Convert AVI to MP4</a></li>
+  <li><a href="mp4-to-avi">MP4 to AVI </a></li>
 </ul>
 <p>You might also like to us<a href="/mp4-to-mp3">MP4 To MP3 Converter Free And Faster</a></p>
 <h3>FAQs About MOV to MP4 Conversion</h3>

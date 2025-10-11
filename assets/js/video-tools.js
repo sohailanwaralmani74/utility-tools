@@ -277,8 +277,71 @@ const tools = [
     'mov-to-mp3',
     'mp4-to-mp3'
   ]
-}
-
+},
+{
+  "id": 11,
+  "icon": "fa-video",
+  "title": "Convert AVI to MP4",
+  "description": "Fast AVI to MP4 converter. Browser-based, secure, and easy to use.",
+  "tags": [
+    "avi to mp4",
+    "convert avi to mp4",
+    "avi to mp4 converter",
+    "video format converter",
+    "free avi converter",
+    "avi to mp4 high quality",
+    "browser avi converter",
+    "online avi to mp4"
+  ],
+  "category": "video-tools",
+  "url": "avi-to-mp4",
+  "ai_summary": "Browser-based AVI to MP4 converter for fast, secure, and high-quality video conversion.",
+  "schema": {
+    "@type": "SoftwareApplication",
+    "name": "AVI to MP4 Converter",
+    "applicationCategory": "VideoConverter",
+    "operatingSystem": "Web",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  },
+  "related_tools": [
+    "mp4-to-avi",
+    "mov-to-mp4",
+    "mp4-to-mov",
+    "mp4-to-mp3"
+  ]
+},
+{
+  "id": 12,
+  "icon": "fa-video",
+  "title": "Convert MP4 to AVI",
+  "description": "Quick MP4 to AVI converter. Secure, browser-based, and easy to use.",
+  "tags": [
+    "mp4 to avi",
+    "convert mp4 to avi",
+    "mp4 to avi converter",
+    "video format converter",
+    "free mp4 converter",
+    "mp4 to avi high quality",
+    "browser mp4 converter",
+    "online mp4 to avi"
+  ],
+  "category": "video-tools",
+  "url": "mp4-to-avi",
+  "ai_summary": "Browser-based MP4 to AVI converter for fast, secure, and high-quality video conversion.",
+  "schema": {
+    "@type": "SoftwareApplication",
+    "name": "MP4 to AVI Converter",
+    "applicationCategory": "VideoConverter",
+    "operatingSystem": "Web",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" }
+  },
+  "related_tools": [
+    "avi-to-mp4",
+    "mov-to-mp4",
+    "mp4-to-mov",
+    "mp4-to-mp3"
+  ]
+},
 
 ];
 

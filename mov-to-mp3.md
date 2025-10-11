@@ -156,5 +156,16 @@ keywords: mov to mp3, convert mov to mp3, convert a mov to mp3, mov into mp3, tr
 
   <p><strong>Can I use this as an audio extractor?</strong><br>Absolutely. It’s ideal for extracting soundtracks, podcasts, or background music from video clips.</p>
 
-  <p><strong>Need to convert other video formats?</strong><br>Try our <a href="/mov-to-wav">MOV to WAV</a>, <a href="/mov-to-mp4">MOV to MP4</a>, or <a href="/video-to-gif">Video to GIF</a> or  or <a href="/mkv-to-mp4">MKV to MP4</a> converters for more options.</p>
+  <h3>More Video Conversion Tools</h3>
+<ul>
+  <li><a href="/mkv-to-mp4">Convert MKV to MP4</a></li>
+  <li><a href="/mov-to-gif">Convert MOV to GIF</a></li>
+  <li><a href="/mov-to-wav">Convert MOV to WAV</a></li>
+  <li><a href="/mp4-to-gif">Convert MP4 to GIF</a></li>
+  <li><a href="/mp4-to-mov">Convert MP4 to MOV</a></li>
+  <li><a href="/video-to-gif">Convert Video to GIF</a></li>
+  <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
+  <li><a href="/avi-to-mp4">Convert AVI to MP4</a></li>
+  <li><a href="mp4-to-avi">MP4 to AVI </a></li>
+</ul>
 </section>

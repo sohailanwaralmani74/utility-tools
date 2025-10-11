@@ -40,7 +40,7 @@ description: A passionate Software Enginner works on Open source technologies ma
   <div class="profile-header">
     <img src="assets/img/sohail-anwar.png" alt="Sohail Anwar - Senior Software Engineer" class="author-avatar" />
     <div class="author-info">
-      <h1>Sohail Anwar Almani</h1>
+      <h1>Sohail Anwar Almani - Passionate Software Engineer</h1>
       <p>Senior Consultant, Java Applications at Systems LTD.</p>
       <div class="links">
         <a href="mailto:sohailanwaralmani74@gmail.com">sohailanwaralmani74@gmail.com</a>

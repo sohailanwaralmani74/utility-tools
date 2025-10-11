@@ -89,8 +89,15 @@ const tools = [
         category: 'JSON',
         url: 'json-to-json-schema'
     },
-
-
+{
+    id: 25,
+    icon: 'fa-code',
+    title: 'JSON to Dart Converter',
+    description: 'Quickly convert any JSON object or string into fully structured Dart models online. Supports null safety, private fields, default values, and generates ready-to-use classes for Flutter and Dart applications.',
+    tags: ['JSON to Dart Converter', 'JSON to Dart Model', 'JSON to Dart Null Safety', 'JSON to Dart Class', 'JSON to Dart Online', 'JSON to Dart Flutter', 'JSON to Dart Freezed', 'JSON to Dart QuickType'],
+    category: 'JSON',
+    url: 'json-to-dart'
+},
         ];
         
         // Render Tools

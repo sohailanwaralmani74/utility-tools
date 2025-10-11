@@ -162,17 +162,17 @@ keywords: mp4 to mov, convert mp4 to mov, mp4 to mov converter, video converter 
 
 <h3>More Video Tools</h3>
 <ul>
-  <li><a href="/mov-to-gif">Convert MOV to GIF</a></li>
-  <li><a href="/mov-to-mp3">Convert MOV to MP3</a></li>
-  <li><a href="/mov-to-mp4">Convert MOV to MP4</a></li>
-  <li><a href="/mov-to-wav">Convert MOV to WAV</a></li>
-  <li><a href="/mp4-to-gif">Convert MP4 to GIF</a></li>
-  <li><a href="/video-to-gif">Convert Video to GIF</a></li>
-  <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
-  <li><a href="/mp4-to-mp3">Convert MP4 To MP3 </a></li>
-    <li><a href="/mkv-to-mp4">Convert MKV to MP4</a></li>
-
-</ul>
+        <li><a href="/mkv-to-mp4">MKV to MP4 Converter</a></li>
+        <li><a href="/mov-to-gif">MOV to GIF</a></li>
+        <li><a href="/mov-to-mp3">MOV to MP3</a></li>
+        <li><a href="/mov-to-mp4">MOV to MP4</a></li>
+        <li><a href="/mov-to-wav">MOV to WAV</a></li>
+        <li><a href="/mp4-to-gif">MP4 to GIF</a></li>
+        <li><a href="/mp4-to-mp3">MP4 to MP3</a></li>
+        <li><a href="/avi-to-mp4">AVI To MP4</a></li>
+        <li><a href="/webm-to-gif">WEBM To GIF</a></li>
+        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
+      </ul>
 
 <h3>FAQs About MP4 to MOV Conversion</h3>
 <p><strong>How do I change MP4 to MOV?</strong><br>Just upload your MP4 file and click Convert. Your MOV file will be ready in seconds, no software needed.</p>

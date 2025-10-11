@@ -178,6 +178,7 @@ keywords: mkv to mp4, mkv to mp4 converter, convert mkv to mp4, mkv convert to m
   <li><a href="/video-to-gif">Convert Video to GIF</a></li>
   <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
   <li><a href="/mp4-to-mp3">Convert MP4 to MP3</a></li>
+  <li><a href="/avi-to-mp4">Convert AVI to MP4</a></li>
 </ul>
 
 <h3>FAQs About MKV to MP4 Conversion</h3>

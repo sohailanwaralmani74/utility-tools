@@ -173,6 +173,8 @@ keywords: mov to gif, convert mov to gif, turn mov into gif, mov file to gif, mo
   <li><a href="/video-to-gif">Convert Video to GIF</a></li>
   <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
   <li><a href="/mp4-to-mp3">MP4 To MP3 Converter</a></li>
+  <li><a href="/avi-to-mp4">Convert AVI to MP4</a></li>
+  <li><a href="mp4-to-avi">MP4 to AVI </a></li>
 </ul>
 
 <h3>FAQs About MOV to GIF Conversion</h3>
