@@ -41,7 +41,7 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
         <li><a href="/mp4-to-mp3">MP4 to MP3</a></li>
         <li><a href="/video-to-gif">Video to GIF</a></li>
         <li><a href="/avi-to-mp4">AVI To MP4</a></li>
-        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
+        <li><a href="/mp4-to-avi">MP4 to AVI </a></li>
         <li><a href="/video-tools">Video Tools Home</a></li>
       </ul>
     </div>
@@ -79,12 +79,13 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
         <li><a href="/json-to-xml">JSON to XML</a></li>
         <li><a href="/json-string-to-json-object">JSON String to JSON Object</a></li>
         <li><a href="/json-to-json-schema">JSON to JSON Schema</a></li>
+        <li><a href="/json-to-dart">JSON to Dart</a></li>
         <li><a href="/json-tools">All JSON Tools</a></li>
       </ul>
     </div>
     <!-- Privacy & Utility Tools -->
     <div class="category-box">
-      <h2>Privacy & Utility Tools</h2>
+      <h2>Privacy Tools</h2>
       <ul>
         <li><a href="/file-compressor">File Compressor</a></li>
         <li><a href="/meta-data-remover">Meta Data Remover</a></li>

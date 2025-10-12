@@ -10,14 +10,15 @@ keywords: json to dart converter, json to dart model, json to dart null safety, 
 
 <!-- Tool section -->
 <section class="tool-section container" style="min-width: 99%">
+<h1>JSON to Dart Converter - Browser Based</h1>
   <div id="json-tool-wrapper">
     <!-- JSON Editor -->
     <div id="json-editor-container">
      <div style="width: 100%; display: flex; justify-content: flex-end; gap: 1rem; margin-bottom: 0.5rem;">
-      <label style="color: whitesmoke"><input type="checkbox" id="null-safety"> Null Safety</label>
-      <label style="color: whitesmoke"><input type="checkbox" id="private-fields"> Private Fields</label>
-      <label style="color: whitesmoke"><input type="checkbox" id="required-fields"> Required Fields</label>
-      <label style="color: whitesmoke"><input type="checkbox" id="default-values"> Default Values</label>
+      <label class="export-label"><input type="checkbox" id="null-safety"> Null Safety</label>
+      <label class="export-label"><input type="checkbox" id="private-fields"> Private Fields</label>
+      <label class="export-label"><input type="checkbox" id="required-fields"> Required Fields</label>
+      <label class="export-label"><input type="checkbox" id="default-values"> Default Values</label>
       </div>
       <textarea id="json-editor" placeholder="Paste your JSON string here..."></textarea>
     </div>
@@ -363,7 +364,6 @@ $(document).ready(function () {
 
 
 <div style="margin: 4rem;">
-  <h1>JSON to Dart Converter Online</h1>
 
   <p>Looking for a fast and reliable <strong>json to dart converter</strong>? Our online tool allows you to quickly generate a <strong>json to dart model</strong> or a <strong>json to dart class</strong> directly in your browser. Whether you are working with Flutter or Dart, you can easily create models with <strong>json to dart null safety</strong> or leverage <strong>json to dart • quicktype</strong> for advanced conversions.</p>
 
@@ -389,13 +389,29 @@ $(document).ready(function () {
     <li>Copy the code to your clipboard or download it as <code>model.dart</code>.</li>
   </ol>
 
-  <h2>Related JSON Tools</h2>
-  <ul>
-    <li><a href="/json-to-sql">JSON to SQL</a></li>
-    <li><a href="/json-string-to-json-object">JSON String to JSON Object</a></li>
-    <li><a href="/json-to-json-schema">JSON to JSON Schema</a></li>
-    <li><a href="/json-tools">All JSON Tools</a></li>
-  </ul>
+  <!-- 🔹 Related JSON Tools -->
+<h2>Related JSON Tools</h2>
+<p>Explore more developer-focused utilities to format, validate, and generate structured code from your JSON data.</p>
+<ul>
+  <li><a href="/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">JSON to JSON Schema Generator</a></li>
+  <li><a href="/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">JSON String to JSON Object Parser</a></li>
+  <li><a href="/json-formatter" style="color:#0066cc; text-decoration:underline;">Online JSON Formatter</a></li>
+  <li><a href="/json-tools" style="color:#0066cc; text-decoration:underline;">All JSON Tools</a></li>
+</ul>
+<br>
+<!-- 🔹 Other Useful JSON Tools -->
+<h2>Other Useful JSON Tools</h2>
+<p>Convert and transform your JSON files into other popular formats for quick data handling and analysis.</p>
+<ul>
+  <li><a href="/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV Converter</a></li>
+  <li><a href="/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel Converter</a></li>
+  <li><a href="/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF Converter</a></li>
+  <li><a href="/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL Generator</a></li>
+  <li><a href="/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT Converter</a></li>
+  <li><a href="/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML Converter</a></li>
+  <li><a href="/json-converter" style="color:#0066cc; text-decoration:underline;">All-in-One JSON Converter</a></li>
+</ul>
+
 
   <p>With our <strong>json to dart converter</strong>, converting <strong>from json to dart</strong> has never been easier. Whether you need <strong>convert json to dart null safety</strong>, <strong>convert from json to dart</strong>, or a simple <strong>json to dart model generator</strong>, this tool makes it fast, efficient, and reliable for any Dart or Flutter project.</p>
 
@@ -447,6 +463,7 @@ $(document).ready(function () {
     <h3>15. Can I convert multiple JSON files at once?</h3>
     <p>Currently, the tool converts one JSON input at a time. You can, however, paste JSON arrays or objects to generate multiple Dart models in one go.</p>
   </div>
+  
 </div>
 
 
