@@ -58,18 +58,18 @@ keywords: tiff to jpg, convert tiff to jpg, tiff to jpg converter, batch convert
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/jpg-to-tiff">JPG to TIFF Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/tiff-to-gif">TIFF to GIF Converter</a></li>
-<li><a href="/tiff-to-webp">TIFF to WebP Converter</a></li>
-<li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
-<li><a href="/jpg-to-webp">JPG to WebP Converter</a></li>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
-<li><a href="/jpeg-to-tiff">JPEG to TIFF Converter</a></li>
-<li><a href="/gif-to-jpg">GIF to JPG Converter</a></li>
-<li><a href="/webp-to-jpg">WebP to JPG Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
+<li><a href="/jpg-to-tiff">JPG to TIFF</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/tiff-to-gif">TIFF to GIF</a></li>
+<li><a href="/tiff-to-webp">TIFF to WebP</a></li>
+<li><a href="/png-to-jpg">PNG to JPG</a></li>
+<li><a href="/jpg-to-webp">JPG to WebP</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
+<li><a href="/jpeg-to-tiff">JPEG to TIFF</a></li>
+<li><a href="/gif-to-jpg">GIF to JPG</a></li>
+<li><a href="/webp-to-jpg">WebP to JPG</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/jpg-to-png">JPG to PNG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

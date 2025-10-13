@@ -92,9 +92,9 @@ keywords: json-to-sql, JSON to SQL converter, convert JSON files to SQL, online 
   <li><a href="https://iamrango.com/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
   <li><a href="https://iamrango.com/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
   <li><a href="https://iamrango.com/json-to-dart" style="color:#0066cc; text-decoration:underline;">JSON to Dart</a></li>
-  <li><a href="https://iamrango.com/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">Convert Json String To Json Object</a></li>
-  <li><a href="https://iamrango.com/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">Convert Json To Json Schema</a></li>
-  <li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">All In One JSON Converter</a></li>
+  <li><a href="https://iamrango.com/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">Json String To Json Object</a></li>
+  <li><a href="https://iamrango.com/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">Json To Json Schema</a></li>
+  <li><a href="https://iamrango.com/json-converter" style="color:#0066cc; text-decoration:underline;">JSON Converter</a></li>
 </ul>
 
   <h2>FAQs</h2>

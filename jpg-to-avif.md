@@ -57,16 +57,16 @@ keywords: jpg to avif, convert jpg to avif, jpg to avif converter, .jpg to .avif
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
-<li><a href="/jpg-to-bmp">JPG to BMP Converter</a></li>
-<li><a href="/jpg-to-webp">JPG to WebP Converter</a></li>
-<li><a href="/jpeg-to-avif">JPEG to AVIF Converter</a></li>
-<li><a href="/png-to-avif">PNG to AVIF Converter</a></li>
-<li><a href="/avif-to-jpg">AVIF to JPG Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF Converter</a></li>
-<li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
-<li><a href="/webp-to-jpg">WebP to JPG Converter</a></li>
+<li><a href="/jpg-to-png">JPG to PNG</a></li>
+<li><a href="/jpg-to-bmp">JPG to BMP</a></li>
+<li><a href="/jpg-to-webp">JPG to WebP</a></li>
+<li><a href="/jpeg-to-avif">jpeg to AVIF</a></li>
+<li><a href="/png-to-avif">PNG to AVIF</a></li>
+<li><a href="/avif-to-jpg">AVIF to JPG</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/png-to-jpg">PNG to JPG</a></li>
+<li><a href="/webp-to-jpg">WebP to JPG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

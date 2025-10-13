@@ -58,11 +58,11 @@ keywords: png to tiff, convert png to tiff, png to tiff converter, png to tiff o
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/png-to-webp">PNG to WebP Converter</a></li>
-<li><a href="/png-to-bmp">PNG to BMP Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-bmp">PNG to BMP</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

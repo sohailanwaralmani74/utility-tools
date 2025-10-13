@@ -58,16 +58,16 @@ keywords: tiff to png, convert tiff to png, tiff to png converter, batch convert
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/png-to-tiff">PNG to TIFF Converter</a></li>
-<li><a href="/tiff-to-jpg">TIFF to JPG Converter</a></li>
-<li><a href="/tiff-to-gif">TIFF to GIF Converter</a></li>
-<li><a href="/tiff-to-webp">TIFF to WebP Converter</a></li>
-<li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/webp-to-png">WebP to PNG Converter</a></li>
-<li><a href="/gif-to-png">GIF to PNG Converter</a></li>
-<li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
-<li><a href="/png-to-webp">PNG to WebP Converter</a></li>
+<li><a href="/png-to-tiff">PNG to TIFF</a></li>
+<li><a href="/tiff-to-jpg">TIFF to JPG</a></li>
+<li><a href="/tiff-to-gif">TIFF to GIF</a></li>
+<li><a href="/tiff-to-webp">TIFF to WebP</a></li>
+<li><a href="/jpg-to-png">JPG to PNG</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/gif-to-png">GIF to PNG</a></li>
+<li><a href="/png-to-jpg">PNG to JPG</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

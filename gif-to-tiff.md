@@ -56,13 +56,13 @@ keywords: gif to tiff, convert gif to tiff, animated gif to tiff, gif tiff onlin
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/gif-to-jpg">GIF to JPG Converter</a></li>
-<li><a href="/gif-to-png">GIF to PNG Converter</a></li>
-<li><a href="/gif-to-bmp">GIF to BMP Converter</a></li>
-<li><a href="/jpeg-to-gif">JPEG to GIF Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/bmp-to-tiff">BMP to TIFF Converter</a></li>
-<li><a href="/webp-to-tiff">WebP to TIFF Converter</a></li>
+<li><a href="/gif-to-jpg">GIF to JPG</a></li>
+<li><a href="/gif-to-png">GIF to PNG</a></li>
+<li><a href="/gif-to-bmp">GIF to BMP</a></li>
+<li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/bmp-to-tiff">BMP to TIFF</a></li>
+<li><a href="/webp-to-tiff">WebP to TIFF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

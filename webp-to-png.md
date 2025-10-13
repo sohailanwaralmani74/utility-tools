@@ -113,9 +113,9 @@ keywords: webp to png, convert webp to png, webp to png converter, .webp to png,
 
 <h3>More Image Conversion Tools</h3>
 <ul>
-  <li><a href="pdf-image-converter" style="color:#0066cc; text-decoration:underline;">All In One Image And PDF Converter</a></li>
- <li><a href="png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG Converter</a></li>
- <li><a href="jpg-to-jpeg" style="color:#0066cc; text-decoration:underline;">JPG To JPEG Converter</a></li>
+  <li><a href="pdf-image-converter" style="color:#0066cc; text-decoration:underline;">PDF Image Converter</a></li>
+ <li><a href="png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG</a></li>
+ <li><a href="jpg-to-jpeg" style="color:#0066cc; text-decoration:underline;">JPG To JPEG</a></li>
 </ul>
 
 <h3>FAQs About WebP to PNG Conversion</h3>

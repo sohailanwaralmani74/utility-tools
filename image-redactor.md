@@ -165,6 +165,6 @@ keywords: redact image, redact image online, redact photo online, redacted pictu
     Explore more free online privacy tools:  
     <ul>
     <a href="/file-compressor">File Compressor</a> | 
-    <a href="/meta-data-remover">Metadata Remover</a> | 
+    <a href="/meta-data-remover">Meta data Remover</a> | 
     </ul>
   </p>

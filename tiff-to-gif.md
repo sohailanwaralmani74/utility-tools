@@ -59,11 +59,11 @@ keywords: tiff to gif, convert tiff to gif, tiff to gif converter, batch convert
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/gif-to-tiff">GIF to TIFF Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/tiff-to-bmp">TIFF to BMP Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/jpg-to-gif">JPG to GIF Converter</a></li>
+<li><a href="/gif-to-tiff">GIF to TIFF</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/tiff-to-bmp">TIFF to BMP</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/jpg-to-gif">JPG to GIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

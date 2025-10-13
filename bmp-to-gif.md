@@ -59,11 +59,11 @@ keywords: bmp to gif, convert bmp to gif, bmp to gif online, bmp to animated gif
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/gif-to-bmp">GIF to BMP Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/jpg-to-gif">JPG to GIF Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
+<li><a href="/gif-to-bmp">GIF to BMP</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/jpg-to-gif">JPG to GIF</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -57,15 +57,15 @@ keywords: avif to jpg, avif file to jpg, avif convert to jpg, avif file convert 
 
 <h2>Other AVIF Related Tools</h2>
 <ul>
-<li><a href="/avif-to-bmp">AVIF to BMP Converter</a></li>
-<li><a href="/avif-to-png">AVIF to PNG Converter</a></li>
-<li><a href="/avif-to-jpeg">AVIF to JPEG Converter</a></li>
-<li><a href="/png-to-avif">PNG to AVIF Converter</a></li>
-<li><a href="/jpg-to-avif">JPG to AVIF Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF Converter</a></li>
-<li><a href="/tiff-to-avif">Tiff To Avif Converter</a></li>
-<li><a href="/avif-to-gif">AVIF to JPG Converter</a></li>
+<li><a href="/avif-to-bmp">AVIF to BMP</a></li>
+<li><a href="/avif-to-png">AVIF to PNG</a></li>
+<li><a href="/avif-to-jpeg">AVIF to JPEG</a></li>
+<li><a href="/png-to-avif">PNG to AVIF</a></li>
+<li><a href="/jpg-to-avif">JPG to AVIF </a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/tiff-to-avif">Tiff To Avif</a></li>
+<li><a href="/avif-to-gif">AVIF to Gif</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -58,14 +58,14 @@ keywords: png to bmp, convert png to bmp, png to bmp converter, png to bmp 24-bi
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
-<li><a href="/png-to-webp">PNG to WebP Converter</a></li>
-<li><a href="/png-to-avif">PNG to AVIF Converter</a></li>
-<li><a href="/jpg-to-bmp">JPG to BMP Converter</a></li>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
-<li><a href="/gif-to-bmp">GIF to BMP Converter</a></li>
-<li><a href="/bmp-to-gif">BMP to GIF Converter</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/png-to-jpg">PNG to JPG</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-avif">PNG to AVIF</a></li>
+<li><a href="/jpg-to-bmp">JPG to BMP</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
+<li><a href="/gif-to-bmp">GIF to BMP</a></li>
+<li><a href="/bmp-to-gif">BMP to GIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -182,10 +182,14 @@ keywords: diff checker, compare text online, json diff, csv comparison, online d
 
   <h4>5. Can I use this tool offline?</h4>
   <p>Yes, once the page is loaded, the Diff Checker works fully offline.</p>
-
+<h2>More Text Tools</h2>
+      <ul>
+        <li><a href="/text-analyzer">Text Analyzer</a></li>
+        <li><a href="/lrem-ipsum-generator">Lrem Ipsum Generator</a></li>
+      </ul>
 </div>
 
-
+ 
 <style>
     .diff-container {
         font-family: -apple-system, BlinkMacSystemFont, sans-serif;

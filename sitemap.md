@@ -31,7 +31,7 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
     <div class="category-box">
       <h2>Video Tools</h2>
       <ul>
-        <li><a href="/mkv-to-mp4">MKV to MP4 Converter</a></li>
+        <li><a href="/mkv-to-mp4">MKV to MP4</a></li>
         <li><a href="/mov-to-gif">MOV to GIF</a></li>
         <li><a href="/mov-to-mp3">MOV to MP3</a></li>
         <li><a href="/mov-to-mp4">MOV to MP4</a></li>
@@ -42,14 +42,14 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
         <li><a href="/video-to-gif">Video to GIF</a></li>
         <li><a href="/avi-to-mp4">AVI To MP4</a></li>
         <li><a href="/mp4-to-avi">MP4 to AVI </a></li>
-        <li><a href="/video-tools">Video Tools Home</a></li>
+        <li><a href="/video-tools">Video Tools</a></li>
       </ul>
     </div>
     <!-- Image Tools -->
     <div class="category-box">
       <h2>Image Tools</h2>
       <ul>
-        <li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
+        <li><a href="/png-to-jpg">PNG to JPG</a></li>
         <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
         <li><a href="/webp-to-png">Webp To PNG</a></li>
         <li><a href="/image-tools">All Image Tools</a></li>
@@ -57,7 +57,7 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
     </div>
     <!-- Text & Utility Tools -->
     <div class="category-box">
-      <h2>Text & Utility Tools</h2>
+      <h2>Text Tools</h2>
       <ul>
         <li><a href="/text-analyzer">Text Analyzer</a></li>
         <li><a href="/lrem-ipsum-generator">Lorem Ipsum Generator</a></li>

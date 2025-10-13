@@ -57,11 +57,11 @@ keywords: png to webp, convert png to webp, png to webp converter, png to webp c
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/webp-to-png">WebP to PNG Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/png-to-avif">PNG to AVIF Converter</a></li>
-<li><a href="/png-to-bmp">PNG to BMP Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
+<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/png-to-avif">PNG to AVIF</a></li>
+<li><a href="/png-to-bmp">PNG to BMP</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

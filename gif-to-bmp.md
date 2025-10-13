@@ -57,13 +57,13 @@ keywords: gif to bmp, gif to bmp converter, convert gif to bmp, gif bmp online, 
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/gif-to-jpg">GIF to JPG Converter</a></li>
-<li><a href="/gif-to-png">GIF to PNG Converter</a></li>
-<li><a href="/bmp-to-gif">BMP to GIF Converter</a></li>
-<li><a href="/gif-to-webp">GIF to WebP Converter</a></li>
-<li><a href="/webp-to-bmp">WebP to BMP Converter</a></li>
-<li><a href="/jpg-to-bmp">JPG to BMP Converter</a></li>
-<li><a href="/png-to-bmp">PNG to BMP Converter</a></li>
+<li><a href="/gif-to-jpg">GIF to JPG</a></li>
+<li><a href="/gif-to-png">GIF to PNG</a></li>
+<li><a href="/bmp-to-gif">BMP to GIF</a></li>
+<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/webp-to-bmp">WebP to BMP</a></li>
+<li><a href="/jpg-to-bmp">JPG to BMP</a></li>
+<li><a href="/png-to-bmp">PNG to BMP</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

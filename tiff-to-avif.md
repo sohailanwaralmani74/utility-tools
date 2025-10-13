@@ -58,11 +58,11 @@ keywords: tiff to avif, convert tiff to avif, tiff to avif converter, batch conv
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/avif-to-tiff">AVIF to TIFF Converter</a></li>
-<li><a href="/tiff-to-jpeg">TIFF to JPEG Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/png-to-avif">PNG to AVIF Converter</a></li>
-<li><a href="/jpg-to-avif">JPG to AVIF Converter</a></li>
+<li><a href="/avif-to-tiff">AVIF to TIFF</a></li>
+<li><a href="/tiff-to-jpeg">TIFF to JPEG</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/png-to-avif">PNG to AVIF</a></li>
+<li><a href="/jpg-to-avif">JPG to AVIF </a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

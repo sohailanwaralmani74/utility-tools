@@ -58,16 +58,16 @@ keywords: jpeg to png, changing jpeg to png, jpeg to png converter, jpeg vs png,
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/jpeg-to-jpg">JPEG to JPG Converter</a></li>
-<li><a href="/jpeg-to-bmp">JPEG to BMP Converter</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/png-to-bmp">PNG to BMP Converter</a></li>
-<li><a href="/png-to-webp">PNG to WebP Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/webp-to-png">WebP to PNG Converter</a></li>
-<li><a href="/jpeg-to-tiff">JPEG to TIFF Converter</a></li>
-<li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
+<li><a href="/jpeg-to-jpg">JPEG to JPG</a></li>
+<li><a href="/jpeg-to-bmp">JPEG to BMP</a></li>
+<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/png-to-bmp">PNG to BMP</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/jpeg-to-tiff">JPEG to TIFF</a></li>
+<li><a href="/jpg-to-png">JPG to PNG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

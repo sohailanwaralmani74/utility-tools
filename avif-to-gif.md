@@ -60,13 +60,13 @@ keywords: avif to gif converter, convert avif to gif, avif to gif online, avif t
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/gif-to-avif">GIF to AVIF Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/jpg-to-gif">JPG to GIF Converter</a></li>
-<li><a href="/webp-to-gif">WebP to GIF Converter</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP Converter</a></li>
-<li><a href="/avif-to-png">AVIF to PNG Converter</a></li>
-<li><a href="/avif-to-jpg">AVIF to JPG Converter</a></li>
+<li><a href="/gif-to-avif">GIF to AVIF</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/jpg-to-gif">JPG to GIF</a></li>
+<li><a href="/webp-to-gif">WebP to GIF</a></li>
+<li><a href="/avif-to-webp">AVIF to WebP</a></li>
+<li><a href="/avif-to-png">AVIF to PNG</a></li>
+<li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

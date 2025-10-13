@@ -58,11 +58,11 @@ keywords: tiff to bmp, convert tiff to bmp, tiff to bmp converter, batch convert
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-tiff">BMP to TIFF Converter</a></li>
-<li><a href="/tiff-to-jpeg">TIFF to JPEG Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/png-to-bmp">PNG to BMP Converter</a></li>
-<li><a href="/jpg-to-bmp">JPG to BMP Converter</a></li>
+<li><a href="/bmp-to-tiff">BMP to TIFF</a></li>
+<li><a href="/tiff-to-jpeg">TIFF to JPEG</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/png-to-bmp">PNG to BMP</a></li>
+<li><a href="/jpg-to-bmp">JPG to BMP</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

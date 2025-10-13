@@ -129,7 +129,6 @@ keywords: xml-to-pdf, XML to PDF converter, convert XML files to PDF, online XML
   
   <h2>Why Choose Our XML to PDF Converter?</h2>
   <p>Our browser-based XML to PDF converter saves time, ensures accurate formatting, and eliminates manual errors. Experience a fast, secure, and hassle-free way to generate PDF documents from XML data.</p>
-</div>
 
 
 <h2>More XML Conversion Tools</h2>
@@ -138,6 +137,7 @@ keywords: xml-to-pdf, XML to PDF converter, convert XML files to PDF, online XML
   <li><a href="https://iamrango.com/xml-to-excel" style="color:#0066cc; text-decoration:underline;">XML to Excel</a></li>
   <li><a href="https://iamrango.com/xml-to-json" style="color:#0066cc; text-decoration:underline;">XML to JSON</a></li>
   <li><a href="https://iamrango.com/xml-to-sql" style="color:#0066cc; text-decoration:underline;">XML to SQL</a></li>
-</ul>
 
-<h2><li><a href="https://iamrango.com/xml-converter" style="color:#0066cc; text-decoration:underline;"> XML Converter To Any Format</a></li></h2>
+  <li><a href="https://iamrango.com/xml-converter" style="color:#0066cc; text-decoration:underline;"> XML Converter To Any Format</a></li>
+</ul>
+</div>

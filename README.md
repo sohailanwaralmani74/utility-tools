@@ -59,7 +59,7 @@ No signup, no watermarks, no hidden costs — just fast and secure conversions.
 - [M4A to MP3](https://iamrango.com/m4a-to-mp3)  
 - [OGG to MP3](https://iamrango.com/convert-ogg-to-mp3)  
 - [MP3 to MP4 with Image](https://iamrango.com/mp3-to-mp4-with-image)  
-- [Audio Converter (all formats)](https://iamrango.com/audio-converter)  
+- [Audio Converter](https://iamrango.com/audio-converter)  
 - [AAC to MP3](https://iamrango.com/aac-to-mp3)  
 - [OPUS to MP3](https://iamrango.com/opus-to-mp3)  
 - [ALAC to MP3](https://iamrango.com/alac-to-mp3)  

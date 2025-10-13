@@ -57,16 +57,16 @@ keywords: jpeg to tiff, jpeg to tiff converter, convert jpeg to tiff, jpeg file 
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/jpeg-to-jpg">JPEG to JPG Converter</a></li>
-<li><a href="/jpeg-to-png">JPEG to PNG Converter</a></li>
-<li><a href="/jpeg-to-bmp">JPEG to BMP Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/bmp-to-jpeg">BMP to JPEG Converter</a></li>
-<li><a href="/tiff-to-jpeg">TIFF to JPEG Converter</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP Converter</a></li>
-<li><a href="/png-to-tiff">PNG to TIFF Converter</a></li>
-<li><a href="/bmp-to-tiff">BMP to TIFF Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
+<li><a href="/jpeg-to-jpg">JPEG to JPG</a></li>
+<li><a href="/jpeg-to-png">JPEG to PNG</a></li>
+<li><a href="/jpeg-to-bmp">JPEG to BMP</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/bmp-to-jpeg">BMP to JPEG</a></li>
+<li><a href="/tiff-to-jpeg">TIFF to JPEG</a></li>
+<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/png-to-tiff">PNG to TIFF</a></li>
+<li><a href="/bmp-to-tiff">BMP to TIFF</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

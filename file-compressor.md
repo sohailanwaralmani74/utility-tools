@@ -159,7 +159,7 @@ description: Quickly compress PDF, CSV, image, and Word files, or create ZIP arc
   <p>
     Explore other free privacy & optimization tools:  
     <a href="/image-redactor">Image Redactor</a> | 
-    <a href="/meta-data-remover">Metadata Remover</a>
+    <a href="/meta-data-remover">Meta Data Remover</a>
   </p>
 
 <script src="/assets/js/compress.js"></script>

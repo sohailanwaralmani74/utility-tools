@@ -59,16 +59,16 @@ keywords: jpg to gif, convert jpg to gif, jpg to gif converter, .jpg to .gif, ho
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
-<li><a href="/jpg-to-bmp">JPG to BMP Converter</a></li>
-<li><a href="/jpeg-to-gif">JPEG to GIF Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/gif-to-jpg">GIF to JPG Converter</a></li>
-<li><a href="/gif-to-png">GIF to PNG Converter</a></li>
-<li><a href="/bmp-to-gif">BMP to GIF Converter</a></li>
-<li><a href="/webp-to-gif">WebP to GIF Converter</a></li>
-<li><a href="/jpg-to-avif">JPG to AVIF Converter</a></li>
-<li><a href="/avif-to-jpg">AVIF to JPG Converter</a></li>
+<li><a href="/jpg-to-png">JPG to PNG</a></li>
+<li><a href="/jpg-to-bmp">JPG to BMP</a></li>
+<li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/gif-to-jpg">GIF to JPG</a></li>
+<li><a href="/gif-to-png">GIF to PNG</a></li>
+<li><a href="/bmp-to-gif">BMP to GIF</a></li>
+<li><a href="/webp-to-gif">WebP to GIF</a></li>
+<li><a href="/jpg-to-avif">JPG to AVIF </a></li>
+<li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

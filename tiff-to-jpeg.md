@@ -57,11 +57,11 @@ keywords: tiff to jpeg, convert tiff to jpeg, tiff to jpeg converter, batch conv
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/jpeg-to-tiff">JPEG to TIFF Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/tiff-to-gif">TIFF to GIF Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/jpg-to-jpeg">JPG to JPEG Converter</a></li>
+<li><a href="/jpeg-to-tiff">JPEG to TIFF</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/tiff-to-gif">TIFF to GIF</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

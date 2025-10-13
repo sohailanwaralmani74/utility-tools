@@ -57,12 +57,12 @@ keywords: bmp to png, convert bmp to png, bmp file to png, free bmp to png conve
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
-<li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
-<li><a href="/webp-to-png">WebP to PNG Converter</a></li>
-<li><a href="/avif-to-png">AVIF to PNG Converter</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/jpg-to-png">JPG to PNG</a></li>
+<li><a href="/png-to-jpg">PNG to JPG</a></li>
+<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/avif-to-png">AVIF to PNG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

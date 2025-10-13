@@ -165,9 +165,9 @@ keywords: csv-to-sql, CSV to SQL converter, convert CSV files to SQL, online CSV
 <h2>CSV Conversion Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/convert-csv-to-excel" style="color:#0066cc; text-decoration:underline;">CSV to Excel</a></li>
-  <li><a href="https://iamrango.com/convert-csv-to-html" style="color:#0066cc; text-decoration:underline;">CSV to HTML</a></li>
-  <li><a href="https://iamrango.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">CSV to JSON</a></li>
-  <li><a href="https://iamrango.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">CSV to PDF</a></li>
-  <li><a href="https://iamrango.com/convert-csv-to-txt" style="color:#0066cc; text-decoration:underline;">CSV to TXT</a></li>
-  <li><a href="https://iamrango.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">CSV to XML</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-html" style="color:#0066cc; text-decoration:underline;">Convert CSV to HTML</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-json" style="color:#0066cc; text-decoration:underline;">Convert CSV to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-pdf" style="color:#0066cc; text-decoration:underline;">Convert CSV to PDF</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-txt" style="color:#0066cc; text-decoration:underline;">Convert CSV to TXT</a></li>
+  <li><a href="https://iamrango.com/convert-csv-to-xml" style="color:#0066cc; text-decoration:underline;">Convert CSV to XML</a></li>
 </ul>

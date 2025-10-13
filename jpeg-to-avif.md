@@ -58,12 +58,12 @@ keywords: jpeg to avif, convert jpeg to avif, jpg to avif converter, jpeg avif o
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/jpeg-to-png">JPEG to PNG Converter</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP Converter</a></li>
-<li><a href="/jpeg-to-bmp">JPEG to BMP Converter</a></li>
-<li><a href="/png-to-avif">PNG to AVIF Converter</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
+<li><a href="/jpeg-to-png">JPEG to PNG</a></li>
+<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/jpeg-to-bmp">JPEG to BMP</a></li>
+<li><a href="/png-to-avif">PNG to AVIF</a></li>
+<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

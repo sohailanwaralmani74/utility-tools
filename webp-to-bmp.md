@@ -58,16 +58,16 @@ keywords: webp to bmp, webp to bmp converter, webp to bmp online, convert webp t
 
 <h2>Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-webp">BMP to WebP Converter</a></li>
-<li><a href="/webp-to-jpg">WebP to JPG Converter</a></li>
-<li><a href="/webp-to-png">WebP to PNG Converter</a></li>
-<li><a href="/webp-to-gif">WebP to GIF Converter</a></li>
-<li><a href="/jpg-to-webp">JPG to WebP Converter</a></li>
-<li><a href="/png-to-webp">PNG to WebP Converter</a></li>
-<li><a href="/tiff-to-webp">TIFF to WebP Converter</a></li>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/gif-to-webp">GIF to WebP Converter</a></li>
+<li><a href="/bmp-to-webp">BMP to WebP</a></li>
+<li><a href="/webp-to-jpg">WebP to JPG</a></li>
+<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/webp-to-gif">WebP to GIF</a></li>
+<li><a href="/jpg-to-webp">JPG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/tiff-to-webp">TIFF to WebP</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/gif-to-webp">GIF to WebP</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -56,13 +56,13 @@ keywords: gif to png, convert gif to png, animated gif to png, gif png online, f
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/gif-to-jpg">GIF to JPG Converter</a></li>
-<li><a href="/gif-to-bmp">GIF to BMP Converter</a></li>
-<li><a href="/gif-to-webp">GIF to WebP Converter</a></li>
-<li><a href="/jpeg-to-gif">JPEG to GIF Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/webp-to-png">WebP to PNG Converter</a></li>
+<li><a href="/gif-to-jpg">GIF to JPG</a></li>
+<li><a href="/gif-to-bmp">GIF to BMP</a></li>
+<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/webp-to-png">WebP to PNG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -57,13 +57,13 @@ keywords: bmp to jpeg, convert bmp file to jpeg, bmp to jpeg converter, bmp file
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/avif-to-jpg">AVIF to JPG Converter</a></li>
-<li><a href="/jpg-to-avif">JPG to AVIF Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/webp-to-jpeg">WebP to JPEG Converter</a></li>
-<li><a href="/jpeg-to-png">JPEG to PNG Converter</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/avif-to-jpg">AVIF to JPG</a></li>
+<li><a href="/jpg-to-avif">JPG to AVIF </a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/webp-to-jpeg">WebP to JPEG</a></li>
+<li><a href="/jpeg-to-png">JPEG to PNG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

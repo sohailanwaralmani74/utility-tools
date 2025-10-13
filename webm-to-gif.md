@@ -195,7 +195,7 @@ keywords: webm to gif, webm to gif converter, webm to gif online, convert webm t
 
    <h2>Explore More Video Tools </h2>
       <ul>
-        <li><a href="/mkv-to-mp4">MKV to MP4 Converter</a></li>
+        <li><a href="/mkv-to-mp4">MKV to MP4</a></li>
         <li><a href="/mov-to-gif">MOV to GIF</a></li>
         <li><a href="/mov-to-mp3">MOV to MP3</a></li>
         <li><a href="/mov-to-mp4">MOV to MP4</a></li>
@@ -205,8 +205,8 @@ keywords: webm to gif, webm to gif converter, webm to gif online, convert webm t
         <li><a href="/mp4-to-mp3">MP4 to MP3</a></li>
         <li><a href="/video-to-gif">Video to GIF</a></li>
         <li><a href="/avi-to-mp4">AVI To MP4</a></li>
-        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
-        <li><a href="/video-tools">Video Tools Home</a></li>
+        <li><a href="/mp4-to-avi">MP4 to AVI </a></li>
+        <li><a href="/video-tools">Video Tools</a></li>
       </ul>
 
 </section>

@@ -185,7 +185,7 @@ keywords: video to gif, turn video into gif, video to gif converter, gif maker f
 
 <h3>More Useful Video Tools</h3>
       <ul>
-        <li><a href="/mkv-to-mp4">MKV to MP4 Converter</a></li>
+        <li><a href="/mkv-to-mp4">MKV to MP4</a></li>
         <li><a href="/mov-to-gif">MOV to GIF</a></li>
         <li><a href="/mov-to-mp3">MOV to MP3</a></li>
         <li><a href="/mov-to-mp4">MOV to MP4</a></li>
@@ -195,8 +195,8 @@ keywords: video to gif, turn video into gif, video to gif converter, gif maker f
         <li><a href="/mp4-to-mp3">MP4 to MP3</a></li>
         <li><a href="/avi-to-mp4">AVI To MP4</a></li>
         <li><a href="/webm-to-gif">WEBM To GIF</a></li>
-        <li><a href="/video-tools">Video Tools Home</a></li>
-        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
+        <li><a href="/video-tools">Video Tools</a></li>
+        <li><a href="/mp4-to-avi">MP4 to AVI </a></li>
       </ul>
 
 <h3>FAQs About Converting Video to GIF</h3>

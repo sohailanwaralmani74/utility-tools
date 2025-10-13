@@ -158,14 +158,14 @@ keywords: mov to mp3, convert mov to mp3, convert a mov to mp3, mov into mp3, tr
 
   <h3>More Video Conversion Tools</h3>
 <ul>
-  <li><a href="/mkv-to-mp4">Convert MKV to MP4</a></li>
-  <li><a href="/mov-to-gif">Convert MOV to GIF</a></li>
-  <li><a href="/mov-to-wav">Convert MOV to WAV</a></li>
-  <li><a href="/mp4-to-gif">Convert MP4 to GIF</a></li>
-  <li><a href="/mp4-to-mov">Convert MP4 to MOV</a></li>
-  <li><a href="/video-to-gif">Convert Video to GIF</a></li>
-  <li><a href="/webm-to-gif">Convert WEBM to GIF</a></li>
-  <li><a href="/avi-to-mp4">Convert AVI to MP4</a></li>
-  <li><a href="mp4-to-avi">MP4 to AVI </a></li>
+  <li><a href="/mkv-to-mp4">MKV to MP4</a></li>
+  <li><a href="/mov-to-gif">MOV to GIF</a></li>
+  <li><a href="/mov-to-wav">MOV to WAV</a></li>
+  <li><a href="/mp4-to-gif">MP4 to GIF</a></li>
+  <li><a href="/mp4-to-mov">MP4 to MOV</a></li>
+  <li><a href="/video-to-gif">Video to GIF</a></li>
+  <li><a href="/webm-to-gif">WEBM to GIF</a></li>
+  <li><a href="/avi-to-mp4">AVI to MP4</a></li>
+  <li><a href="/mp4-to-avi">MP4 to AVI </a></li>
 </ul>
 </section>

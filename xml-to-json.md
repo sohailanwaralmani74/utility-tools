@@ -128,7 +128,7 @@ keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online 
   
   <h2>Why Choose Our XML to JSON Converter?</h2>
   <p>Our browser-based XML to JSON converter simplifies data transformation, reduces manual errors, and saves time. Experience a secure, efficient, and hassle-free solution for your XML data today.</p>
-</div>
+
 
 <h2>More XML Conversion Tools</h2>
 <ul>
@@ -137,3 +137,4 @@ keywords: xml-to-json, XML to JSON converter, convert XML files to JSON, online 
   <li><a href="https://iamrango.com/xml-to-pdf" style="color:#0066cc; text-decoration:underline;">XML to PDF</a></li>
   <li><a href="https://iamrango.com/xml-to-sql" style="color:#0066cc; text-decoration:underline;">XML to SQL</a></li>
 </ul>
+</div>

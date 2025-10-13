@@ -179,6 +179,14 @@ keywords: XLSX to XLS online, XLSX to CSV converter, XLSX to JSON tool, XLSX to 
     <li><strong>Intuitive Workflow:</strong> Upload, select format, convert, download—done in seconds.</li>
   </ul>
 
+<h2>Excel & XLSX Conversion Tools</h2>
+<ul>
+  <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
+  <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">Convert XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+  <li><a href="https://iamrango.com/xlsx-to-sql-converter" style="color:#0066cc;   text-decoration:underline;">XLSX to SQL Converter</a></li>
+</ul>
   <h3>Frequently Asked Questions (FAQ)</h3>
 
   <h4>1. Can I convert multiple formats at once?</h4>

@@ -388,7 +388,7 @@ keywords: lorem ipsum, lrem ipsum generator, ipsum lorem generator, generate pla
 
 <h2>Other Text Tools</h2>
 <ul>
-  <li><a href="https://iamrango.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">MD Editor</a></li>
+  <li><a href="https://iamrango.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">Best MD Editor</a></li>
   <li><a href="https://iamrango.com/text-analyzer" style="color:#0645ad; text-decoration:underline;">Text Analyzer</a></li>
   <li><a href="https://iamrango.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
 </ul>

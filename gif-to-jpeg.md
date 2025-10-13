@@ -57,13 +57,13 @@ keywords: gif to jpeg, gif to jpeg converter, convert gif to jpeg, gif jpeg onli
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/gif-to-png">GIF to PNG Converter</a></li>
-<li><a href="/gif-to-bmp">GIF to BMP Converter</a></li>
-<li><a href="/gif-to-webp">GIF to WebP Converter</a></li>
-<li><a href="/jpeg-to-gif">JPEG to GIF Converter</a></li>
-<li><a href="/png-to-jpeg">PNG to JPEG Converter</a></li>
-<li><a href="/bmp-to-jpeg">BMP to JPEG Converter</a></li>
-<li><a href="/webp-to-jpeg">WebP to JPEG Converter</a></li>
+<li><a href="/gif-to-png">GIF to PNG</a></li>
+<li><a href="/gif-to-bmp">GIF to BMP</a></li>
+<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
+<li><a href="/png-to-jpeg">PNG to JPEG</a></li>
+<li><a href="/bmp-to-jpeg">BMP to JPEG</a></li>
+<li><a href="/webp-to-jpeg">WebP to JPEG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

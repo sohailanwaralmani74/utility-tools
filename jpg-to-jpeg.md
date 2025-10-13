@@ -130,7 +130,7 @@ description: Easily convert JPG images to JPEG format instantly. Free, secure, b
   <p>
     Easily convert your <strong>JPG images</strong> to the <strong>JPEG format</strong> in seconds.  
     Our free, browser-based tool ensures your images maintain high quality without any software installation.  
-    Whether you’re preparing photos for web publishing, social media, or professional projects, converting JPG to JPEG has never been easier. 
+    Whether you’re preparing photos for web publishing, social media, or professional projects, converting JPG to JPEG has never been easier. We have a detailed list of <a href="/image-tools">Image Tools</a>. You might also like them.
   </p>
 
   <h2>How to Convert JPG to JPEG</h2>
@@ -178,8 +178,8 @@ description: Easily convert JPG images to JPEG format instantly. Free, secure, b
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="https://iamrango.com/pdf-image-converter" style="color:#0066cc; text-decoration:underline;">All In One Image And PDF Converter</a></li>
-<li><a href="https://iamrango.com/png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG Converter</a></li>
-<li><a href="webp-to-png" style="color:#0066cc; text-decoration:underline;">Convert WebP To PNG</a></li>
+<li><a href="https://iamrango.com/pdf-image-converter" style="color:#0066cc; text-decoration:underline;">PDF Image Converter</a></li>
+<li><a href="https://iamrango.com/png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG</a></li>
+<li><a href="webp-to-png" style="color:#0066cc; text-decoration:underline;">WebP To PNG</a></li>
 </ul>
 </div>

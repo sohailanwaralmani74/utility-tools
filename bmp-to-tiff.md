@@ -58,12 +58,12 @@ keywords: bmp to tiff, bmp to tiff converter, bmp to tiff converter online, bmp 
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/tiff-to-jpg">TIFF to JPG Converter</a></li>
-<li><a href="/tiff-to-png">TIFF to PNG Converter</a></li>
-<li><a href="/png-to-tiff">PNG to TIFF Converter</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/tiff-to-jpg">TIFF to JPG</a></li>
+<li><a href="/tiff-to-png">TIFF to PNG</a></li>
+<li><a href="/png-to-tiff">PNG to TIFF</a></li>
 <li><a href="/jpg-to-tiff">JPG to TIFF Converter</a></li>
 </ul>
 

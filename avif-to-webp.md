@@ -115,12 +115,12 @@ This tool is particularly useful for:
 
 <h2>More Image Tools</h2>
 <ul>
-  <li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
+  <li><a href="/png-to-jpg">PNG to JPG</a></li>
   <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
   <li><a href="/webp-to-png">WebP to PNG</a></li>
   <li><a href="/image-tools">All Image Tools</a></li>
-  <li><a href="/tiff-to-avif">Tiff To Avif Converter</a></li>
-  <li><a href="/avif-to-gif">AVIF to JPG Converter</a></li>
+  <li><a href="/tiff-to-avif">Tiff To Avif</a></li>
+  <li><a href="/avif-to-gif">AVIF to Gif</a></li>
 </ul>
 
 </div>

@@ -58,13 +58,13 @@ keywords: gif to webp, convert gif to webp, animated gif to webp, gif webp onlin
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/gif-to-jpg">GIF to JPG Converter</a></li>
-<li><a href="/gif-to-png">GIF to PNG Converter</a></li>
-<li><a href="/gif-to-bmp">GIF to BMP Converter</a></li>
-<li><a href="/jpeg-to-gif">JPEG to GIF Converter</a></li>
-<li><a href="/png-to-gif">PNG to GIF Converter</a></li>
-<li><a href="/webp-to-gif">WebP to GIF Converter</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP Converter</a></li>
+<li><a href="/gif-to-jpg">GIF to JPG</a></li>
+<li><a href="/gif-to-png">GIF to PNG</a></li>
+<li><a href="/gif-to-bmp">GIF to BMP</a></li>
+<li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/webp-to-gif">WebP to GIF</a></li>
+<li><a href="/avif-to-webp">AVIF to WebP</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

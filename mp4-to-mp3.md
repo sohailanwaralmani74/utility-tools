@@ -176,7 +176,7 @@ description: Convert MP4 to MP3 online for free. Instantly extract high-quality 
 
 <h2>See Also These Useful Video Converter</h2>
 <ul>
-        <li><a href="/mkv-to-mp4">MKV to MP4 Converter</a></li>
+        <li><a href="/mkv-to-mp4">MKV to MP4</a></li>
         <li><a href="/mov-to-gif">MOV to GIF</a></li>
         <li><a href="/mov-to-mp3">MOV to MP3</a></li>
         <li><a href="/mov-to-mp4">MOV to MP4</a></li>
@@ -185,8 +185,8 @@ description: Convert MP4 to MP3 online for free. Instantly extract high-quality 
         <li><a href="/mp4-to-mov">MP4 to MOV</a></li>
         <li><a href="/avi-to-mp4">AVI To MP4</a></li>
         <li><a href="/webm-to-gif">WEBM To GIF</a></li>
-        <li><a href="mp4-to-avi">MP4 to AVI </a></li>
-        <li><a href="/video-tools">Video Tools Home</a></li>
+        <li><a href="/mp4-to-avi">MP4 to AVI </a></li>
+        <li><a href="/video-tools">Video Tools</a></li>
       </ul>
 
 <h2>FAQs About Converting MP4 to MP3</h2>

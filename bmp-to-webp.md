@@ -57,13 +57,13 @@ keywords: bmp to webp, bmp to webp converter, bmp webp 変換, convert bmp to we
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/bmp-to-jpg">BMP to JPG Converter</a></li>
-<li><a href="/bmp-to-png">BMP to PNG Converter</a></li>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/webp-to-bmp">WebP to BMP Converter</a></li>
-<li><a href="/jpg-to-webp">JPG to WebP Converter</a></li>
-<li><a href="/png-to-webp">PNG to WebP Converter</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP Converter</a></li>
+<li><a href="/bmp-to-jpg">BMP to JPG</a></li>
+<li><a href="/bmp-to-png">BMP to PNG</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/webp-to-bmp">WebP to BMP</a></li>
+<li><a href="/jpg-to-webp">JPG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/avif-to-webp">AVIF to WebP</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

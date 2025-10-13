@@ -192,7 +192,13 @@ keyword: png to jpg, png to jpeg, png to jpg converter, png to jpeg converter, c
   </p>
 <h2>Other Image Tools</h2>
 <ul>
-<li><a href="https://iamrango.com/pdf-image-converter" style="color:#0066cc; text-decoration:underline;">All In One Image And PDF Converter</a></li>
+<li><a href="https://iamrango.com/pdf-image-converter" style="color:#0066cc; text-decoration:underline;">PDF Image Converter</a></li>
 <li><a href="https://iamrango.com/jpg-to-jpeg" style="color:#0066cc; text-decoration:underline;">JPG To JPEG Converter</a></li>
+<li><a href="/jpeg-to-png">JPEG to PNG</a></li>
+<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-bmp">PNG to BMP</a></li>
+<li><a href="/png-to-gif">PNG to GIF</a></li>
+<li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
 </ul>
+
 </div>

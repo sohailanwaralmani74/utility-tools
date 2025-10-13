@@ -490,8 +490,8 @@ keywords: text analyzer, text analyser, text analysis, word counter, lexical ana
 
 <h2>Other Text Tools</h2>
 <ul>
-  <li><a href="https://iamrango.com/lrem-ipsum-generator" style="color:#0645ad; text-decoration:underline;">Lorem Ipsum Generator</a></li>
-  <li><a href="https://iamrango.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">MD Editor</a></li>
+  <li><a href="https://iamrango.com/lrem-ipsum-generator" style="color:#0645ad; text-decoration:underline;">Lrem Ipsum Generator</a></li>
+  <li><a href="https://iamrango.com/best-md-editor" style="color:#0645ad; text-decoration:underline;">Best MD Editor</a></li>
   <li><a href="https://iamrango.com/diff-checker" style="color:#0645ad; text-decoration:underline;">Diff Checker</a></li>
 </ul>
 

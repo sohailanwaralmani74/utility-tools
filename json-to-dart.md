@@ -402,13 +402,13 @@ $(document).ready(function () {
 <h2>Other Useful JSON Tools</h2>
 <p>Convert and transform your JSON files into other popular formats for quick data handling and analysis.</p>
 <ul>
-  <li><a href="/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV Converter</a></li>
-  <li><a href="/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel Converter</a></li>
-  <li><a href="/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF Converter</a></li>
-  <li><a href="/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL Generator</a></li>
-  <li><a href="/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT Converter</a></li>
-  <li><a href="/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML Converter</a></li>
-  <li><a href="/json-converter" style="color:#0066cc; text-decoration:underline;">All-in-One JSON Converter</a></li>
+  <li><a href="/json-to-csv" style="color:#0066cc; text-decoration:underline;">JSON to CSV</a></li>
+  <li><a href="/json-to-excel" style="color:#0066cc; text-decoration:underline;">JSON to Excel</a></li>
+  <li><a href="/json-to-pdf" style="color:#0066cc; text-decoration:underline;">JSON to PDF</a></li>
+  <li><a href="/json-to-sql" style="color:#0066cc; text-decoration:underline;">JSON to SQL</a></li>
+  <li><a href="/json-to-txt" style="color:#0066cc; text-decoration:underline;">JSON to TXT</a></li>
+  <li><a href="/json-to-xml" style="color:#0066cc; text-decoration:underline;">JSON to XML</a></li>
+  <li><a href="/json-converter" style="color:#0066cc; text-decoration:underline;">SON Converter</a></li>
 </ul>
 
 

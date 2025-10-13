@@ -112,17 +112,18 @@ keywords: xlsx to sql converter, XLSX to SQL converter, convert XLSX files to SQ
   
   <h2>Advantages of Using Our XLSX to SQL Converter</h2>
   <p>Our converter streamlines the data migration process, saves time, and reduces the risk of errors compared to manual conversion. Experience hassle-free database integration today.</p>
-</div>
 
 <h2>Excel & XLSX Conversion Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/excel-to-html" style="color:#0066cc; text-decoration:underline;">Excel to HTML</a></li>
   <li><a href="https://iamrango.com/excel-to-json" style="color:#0066cc; text-decoration:underline;">Excel to JSON</a></li>
   <li><a href="https://iamrango.com/excel-to-txt" style="color:#0066cc; text-decoration:underline;">Excel to TXT</a></li>
-  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">XLSX to CSV</a></li>
-  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">XLSX to XML</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-csv" style="color:#0066cc; text-decoration:underline;">Convert XLSX to CSV</a></li>
+  <li><a href="https://iamrango.com/convert-xlsx-to-xml" style="color:#0066cc; text-decoration:underline;">Convert XLSX to XML</a></li>
   <li><a href="https://iamrango.com/xlsx-to-pdf" style="color:#0066cc; text-decoration:underline;">XLSX to PDF</a></li>
+
+  <li><a href="https://iamrango.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">Excel CSV Converter</a></li>
 </ul>
 
-<h2><li><a href="https://iamrango.com/excel-csv-converter" style="color:#0066cc; text-decoration:underline;">All In Excel, CSV Converter</a></li></h2>
+</div>
 

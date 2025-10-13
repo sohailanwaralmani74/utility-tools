@@ -57,11 +57,11 @@ keywords: avif to bmp, avif to bmp converter, avif to bmp online, avif to bitmap
 
 <h2>Other AVIF and BMP Conversion Tools</h2>
 <ul>
-<li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
-<li><a href="/avif-to-png">AVIF to PNG Converter</a></li>
-<li><a href="/avif-to-jpg">AVIF to JPG Converter</a></li>
-<li><a href="/tiff-to-avif">Tiff To Avif Converter</a></li>
-<li><a href="/avif-to-gif">AVIF to JPG Converter</a></li>
+<li><a href="/bmp-to-avif">BMP to AVIF</a></li>
+<li><a href="/avif-to-png">AVIF to PNG</a></li>
+<li><a href="/avif-to-jpg">AVIF to JPG</a></li>
+<li><a href="/tiff-to-avif">Tiff To Avif</a></li>
+<li><a href="/avif-to-gif">AVIF to Gif</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>
