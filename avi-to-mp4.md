@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Free Online AVI to MP4 Converter – Fast, Secure, and Browser-Based
-description: Convert AVI videos to MP4 online instantly. Our free AVI to MP4 converter works directly in your browser — no downloads, no sign-ups, watermark-free, and optimized for speed and quality on any device.
+description: Convert AVI videos to MP4 online instantly. Our free AVI to MP4 converter works directly in your browser — no downloads, no sign-ups.
 keywords: avi to mp4 converter, convert avi to mp4 online, free avi to mp4 tool, avi file conversion, online video converter, fast avi to mp4, secure avi to mp4 conversion, avi to mp4 online free
 ---
 
