@@ -24,7 +24,7 @@ keywords: bmp to webp, bmp to webp converter, bmp webp 変換, convert bmp to we
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="bmp" data-output="webp"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

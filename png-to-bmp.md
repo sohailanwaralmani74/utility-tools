@@ -24,7 +24,7 @@ keywords: png to bmp, convert png to bmp, png to bmp converter, png to bmp 24-bi
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="png" data-output="bmp"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

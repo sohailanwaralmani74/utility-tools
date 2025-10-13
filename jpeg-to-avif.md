@@ -24,7 +24,7 @@ keywords: jpeg to avif, convert jpeg to avif, jpg to avif converter, jpeg avif o
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="jpeg" data-output="avif"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

@@ -24,7 +24,7 @@ keywords: tiff to webp, convert tiff to webp, tiff to webp converter, batch conv
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="tiff" data-output="webp"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

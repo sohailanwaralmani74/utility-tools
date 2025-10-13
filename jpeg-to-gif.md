@@ -5,7 +5,7 @@ description: Convert JPG images to GIF format instantly with our free JPG to GIF
 keywords: jpg to gif, convert jpg to gif, jpg to gif converter, batch jpg to gif, bulk jpg to gif, animated gif from jpg, jpg into gif, jpg to gif free online
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/gif.js.optimized/dist/gif.js"></script>
+<script src="/assets/js/gif.js"></script>
 <script src="/assets/js/jszip.min.js"></script>
 <section class="tool-section container">
   <div class="upload-section">
@@ -25,7 +25,7 @@ keywords: jpg to gif, convert jpg to gif, jpg to gif converter, batch jpg to gif
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="jpeg" data-output="gif"></div>
 
 <script src="/assets/js/image-to-gif.js"></script>
 

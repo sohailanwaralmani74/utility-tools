@@ -5,7 +5,7 @@ description: Convert TIFF images to GIF format instantly with our free TIFF to G
 keywords: tiff to gif, convert tiff to gif, tiff to gif converter, batch convert tiff to gif, bulk tiff to gif, tiff into gif, gif image converter, best tiff to gif converter
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/gif.js.optimized/dist/gif.js"></script>
+<script src="/assets/js/gif.js"></script>
 <script src="/assets/js/jszip.min.js"></script>
 <section class="tool-section container">
   <div class="upload-section">
@@ -25,7 +25,7 @@ keywords: tiff to gif, convert tiff to gif, tiff to gif converter, batch convert
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="tiff" data-output="gif"></div>
 
 <script src="/assets/js/image-to-gif.js"></script>
 

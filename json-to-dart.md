@@ -466,3 +466,78 @@ $(document).ready(function () {
 </div>
 
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://mydomain/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "JSON Tools",
+          "item": "https://mydomain/json-tools"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "JSON to Dart Converter",
+          "item": "https://mydomain/json-to-dart"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I convert JSON to Dart online for free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes — the JSON to Dart converter is free and runs directly in your browser, no signup required."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the converter preserve types and null-safety for Dart?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The tool attempts to infer types and generate null-safe Dart classes where possible; review and tweak the output for complex schemas."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I convert large JSON files?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Large files may be limited by your browser's memory. For very large datasets, we recommend testing smaller samples or using a local tool."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does the converter generate Dart classes or Maps?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "You can choose output as typed Dart classes (with fromJson/toJson helpers) or as simple Map representations depending on your preference."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to install anything?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No installation is required — the converter works client-side in modern browsers. Nothing is uploaded to a server."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>

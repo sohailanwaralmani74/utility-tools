@@ -24,7 +24,7 @@ keywords: jpeg to jpg, convert jpeg to jpg, jpeg to jpg converter, convert file 
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="jpeg" data-output="jpg"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

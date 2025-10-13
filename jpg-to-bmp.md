@@ -24,7 +24,7 @@ keywords: jpg to bmp, convert jpg to bmp, jpg to bmp converter, .jpg to .bmp, ho
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="jpg" data-output="bmp"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

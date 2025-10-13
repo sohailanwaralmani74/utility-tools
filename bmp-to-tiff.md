@@ -24,7 +24,7 @@ keywords: bmp to tiff, bmp to tiff converter, bmp to tiff converter online, bmp 
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="bmp" data-output="tiff"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

@@ -24,7 +24,7 @@ keywords: tiff to avif, convert tiff to avif, tiff to avif converter, batch conv
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="tiff" data-output="avif"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

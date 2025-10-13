@@ -24,7 +24,7 @@ keywords: jpg to png, changing jpg to png, jpg to png transparent, jpg to png fo
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="jpg" data-output="png"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

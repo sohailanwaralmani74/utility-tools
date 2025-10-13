@@ -24,7 +24,7 @@ keywords: avif to png, avif file to png, avif convert to png, avif file convert 
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="webp" data-output="avif"></div>
+<div id="converter" data-input="avif" data-output="png"></div>
 
 <script src="/assets/js/image-converter.js"></script>
 

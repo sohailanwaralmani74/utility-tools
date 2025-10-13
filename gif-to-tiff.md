@@ -24,8 +24,7 @@ keywords: gif to tiff, convert gif to tiff, animated gif to tiff, gif tiff onlin
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
-
+<div id="converter" data-input="gif" data-output="tiff"></div>
 <script src="/assets/js/image-converter.js"></script>
 
 

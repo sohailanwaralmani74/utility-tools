@@ -1,21 +1,31 @@
 // to-gif.js
-// Requires gif.js: <script src="https://cdn.jsdelivr.net/npm/gif.js.optimized/dist/gif.js"></script>
+// Requires gif.js: <script src="/assets/js/gif.js"></script>
 
 document.addEventListener("DOMContentLoaded", () => {
+  const converter = document.getElementById("converter");
+  const inputFormat = converter?.dataset.input?.toLowerCase() || "webp"; // default fallback
+  const outputFormat = converter?.dataset.output?.toLowerCase() || "gif";
+
   const fileInput = document.getElementById("imageUpload");
   const convertBtn = document.getElementById("convertButton");
   const exportOptions = document.getElementById("exportOptions");
   let uploadedImages = [];
 
-  // Update button text
-  convertBtn.innerHTML = `<u>Convert Images to GIF</u>`;
+  // Restrict accepted input format
+  fileInput.setAttribute("accept", `.${inputFormat}`);
+  convertBtn.innerHTML = `<u>Convert ${inputFormat.toUpperCase()} to ${outputFormat.toUpperCase()}</u>`;
 
   // File selection
   fileInput.addEventListener("change", e => {
     const files = Array.from(e.target.files).filter(f =>
-      /\.(png|jpg|jpeg|webp|bmp|tiff?)$/i.test(f.name)
+      f.name.toLowerCase().endsWith(`.${inputFormat}`)
     );
-    if (!files.length) return alert(`Please upload valid images.`);
+
+    if (!files.length) {
+      alert(`Please upload only .${inputFormat} files.`);
+      fileInput.value = "";
+      return;
+    }
 
     uploadedImages = files;
     previewImages(files);
@@ -24,12 +34,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Conversion click
   convertBtn.addEventListener("click", () => {
-    if (!uploadedImages.length) return alert("Upload at least one image.");
+    if (!uploadedImages.length) return alert(`Upload at least one .${inputFormat} file.`);
     exportToGIF(uploadedImages);
   });
 });
 
-// Preview logic
+// Preview logic (unchanged)
 function previewImages(files) {
   const container = document.getElementById("uploadedFiles");
   container.innerHTML = "";
@@ -71,12 +81,12 @@ function previewImages(files) {
   container.appendChild(fragment);
 }
 
-// GIF Conversion
+// GIF Conversion (unchanged)
 function exportToGIF(files) {
   const gif = new GIF({
     workers: 2,
     quality: 10,
-    workerScript: 'https://cdn.jsdelivr.net/npm/gif.js.optimized/dist/gif.worker.js'
+    workerScript: '/assets/js/gif.worker.js'
   });
 
   let loadedCount = 0;
@@ -92,7 +102,7 @@ function exportToGIF(files) {
         const ctx = canvas.getContext("2d");
         ctx.drawImage(img, 0, 0);
 
-        gif.addFrame(ctx, { copy: true, delay: 500 });
+        gif.addFrame(canvas, { copy: true, delay: 500 });
         loadedCount++;
 
         // Render GIF after last image is added

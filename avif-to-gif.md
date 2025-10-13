@@ -6,7 +6,7 @@ keywords: avif to gif converter, convert avif to gif, avif to gif online, avif t
 ---
 
 
-<script src="https://cdn.jsdelivr.net/npm/gif.js.optimized/dist/gif.js"></script>
+<script src="/assets/js/gif.js"></script>
 <script src="/assets/js/jszip.min.js"></script>
 <section class="tool-section container">
   <div class="upload-section">
@@ -26,7 +26,7 @@ keywords: avif to gif converter, convert avif to gif, avif to gif online, avif t
 <div id="uploadedFiles" style="margin-top:2px; max-height:85vh; overflow:hidden; width:100%;"></div>
 
 <!-- Main converter config -->
-<div id="converter" data-input="avif" data-output="webp"></div>
+<div id="converter" data-input="avif" data-output="gif"></div>
 
 <script src="/assets/js/image-to-gif.js"></script>
 
