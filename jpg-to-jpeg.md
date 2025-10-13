@@ -140,11 +140,6 @@ description: Easily convert JPG images to JPEG format instantly. Free, secure, b
     <li>Preview your image in the browser to ensure quality.</li>
     <li>Download your new JPEG image instantly — no email or signup required.</li>
   </ol>
-  <p>
-    The conversion happens entirely in your browser, keeping your images <strong>private</strong> and secure. Explore all <a href="/text-tools">Text Tools</a> for formatting, cleaning, and converting text files easily in your browser.
-
-  </p>
-
   <h2>Why Use Our JPG to JPEG Converter?</h2>
   <ul>
     <li><strong>Fast & Simple:</strong> Convert images in seconds without losing quality.</li>

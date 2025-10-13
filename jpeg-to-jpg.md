@@ -68,7 +68,6 @@ keywords: jpeg to jpg, convert jpeg to jpg, jpeg to jpg converter, convert file 
 <li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
 <li><a href="/jpg-to-bmp">JPG to BMP Converter</a></li>
 <li><a href="/jpg-to-webp">JPG to WebP Converter</a></li>
-<li><a href="/jpeg-to-jpg-free">Free JPEG to JPG Converter</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -68,7 +68,6 @@ keywords: jpeg to png, changing jpeg to png, jpeg to png converter, jpeg vs png,
 <li><a href="/webp-to-png">WebP to PNG Converter</a></li>
 <li><a href="/jpeg-to-tiff">JPEG to TIFF Converter</a></li>
 <li><a href="/jpg-to-png">JPG to PNG Converter</a></li>
-<li><a href="/free-jpeg-to-png">Free JPEG to PNG Converter</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

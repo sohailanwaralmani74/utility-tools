@@ -60,15 +60,8 @@ keywords: avif to bmp, avif to bmp converter, avif to bmp online, avif to bitmap
 <li><a href="/bmp-to-avif">BMP to AVIF Converter</a></li>
 <li><a href="/avif-to-png">AVIF to PNG Converter</a></li>
 <li><a href="/avif-to-jpg">AVIF to JPG Converter</a></li>
-<li><a href="/avif-to-bmp-3">AVIF to BMP-3 Converter</a></li>
-<li><a href="/avif-to-bmp280">AVIF to BMP280 Converter</a></li>
-<li><a href="/avif-to-bmp-to-png">AVIF to BMP to PNG Converter</a></li>
-<li><a href="/avif-to-bmp-to-jpg">AVIF to BMP to JPG Converter</a></li>
-<li><a href="/avif-to-bmp-lab">AVIF to BMP Lab Converter</a></li>
-<li><a href="/avif-to-bmp-finder">AVIF to BMP Finder</a></li>
-<li><a href="/avif-to-bmp-tuning">AVIF to BMP Tuning</a></li>
-<li><a href="/avif-to-bmp-test">AVIF to BMP Test</a></li>
-<li><a href="/avif-to-bmp-tube">AVIF to BMP Tube</a></li>
+<li><a href="/tiff-to-avif">Tiff To Avif Converter</a></li>
+<li><a href="/avif-to-gif">AVIF to JPG Converter</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

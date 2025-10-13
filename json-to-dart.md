@@ -395,7 +395,6 @@ $(document).ready(function () {
 <ul>
   <li><a href="/json-to-json-schema" style="color:#0066cc; text-decoration:underline;">JSON to JSON Schema Generator</a></li>
   <li><a href="/json-string-to-json-object" style="color:#0066cc; text-decoration:underline;">JSON String to JSON Object Parser</a></li>
-  <li><a href="/json-formatter" style="color:#0066cc; text-decoration:underline;">Online JSON Formatter</a></li>
   <li><a href="/json-tools" style="color:#0066cc; text-decoration:underline;">All JSON Tools</a></li>
 </ul>
 <br>
