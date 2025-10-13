@@ -146,33 +146,61 @@ keywords: mp4 to avi, mp4 to avi converter, convert mp4 to avi, mp4 convert to a
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "SoftwareApplication",
-  "name": "MP4 to AVI Converter",
-  "url": "https://iamrango.com/mp4-to-avi",
-  "applicationCategory": "VideoConverter",
-  "operatingSystem": "Web",
-  "offers": {
-    "@type": "Offer",
-    "price": "0",
-    "priceCurrency": "USD"
-  },
-  "breadcrumb": {
-    "@type": "BreadcrumbList",
-    "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://iamrango.com/" },
-      { "@type": "ListItem", "position": 2, "name": "Video Tools", "item": "https://iamrango.com/video-tools" },
-      { "@type": "ListItem", "position": 3, "name": "MP4 to AVI Converter", "item": "https://iamrango.com/mp4-to-avi" }
-    ]
-  },
-  "mainEntity": {
-    "@type": "FAQPage",
-    "mainEntity": [
-      { "@type": "Question", "name": "Can I convert MP4 to AVI online for free?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, our tool is completely free and works directly in your browser." } },
-      { "@type": "Question", "name": "Does MP4 to AVI conversion reduce video quality?", "acceptedAnswer": { "@type": "Answer", "text": "No, the tool keeps video and audio quality intact during conversion." } },
-      { "@type": "Question", "name": "How long does it take to convert MP4 to AVI?", "acceptedAnswer": { "@type": "Answer", "text": "Conversion speed depends on file size, but most videos are processed quickly in-browser." } },
-      { "@type": "Question", "name": "Can I use this converter on mobile?", "acceptedAnswer": { "@type": "Answer", "text": "Yes, it works on all devices without installation." } },
-      { "@type": "Question", "name": "Do I need to sign up or register?", "acceptedAnswer": { "@type": "Answer", "text": "No, no registration is needed. Simply upload your MP4 and convert to AVI." } }
-    ]
-  }
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://iamrango.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Video Tools", "item": "https://iamrango.com/video-tools" },
+        { "@type": "ListItem", "position": 3, "name": "MP4 to AVI Converter", "item": "https://iamrango.com/mp4-to-avi" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can I convert MP4 to AVI online for free?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, our tool is completely free and works directly in your browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does MP4 to AVI conversion reduce video quality?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, the tool keeps video and audio quality intact during conversion."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long does it take to convert MP4 to AVI?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Conversion speed depends on file size, but most videos are processed quickly in-browser."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can I use this converter on mobile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, it works on all devices without installation."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do I need to sign up or register?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No, no registration is needed. Simply upload your MP4 and convert to AVI."
+          }
+        }
+      ]
+    }
+  ]
 }
 </script>
+
