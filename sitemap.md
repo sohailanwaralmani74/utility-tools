@@ -51,7 +51,7 @@ keywords: iamrango sitemap, audio tools, video tools, image tools, text tools, j
       <ul>
         <li><a href="/png-to-jpg">PNG to JPG Converter</a></li>
         <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
-        <li><a href="/image-redactor">Image Redactor</a></li>
+        <li><a href="/webp-to-png">Webp To PNG</a></li>
         <li><a href="/image-tools">All Image Tools</a></li>
       </ul>
     </div>
