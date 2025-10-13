@@ -33,7 +33,7 @@ keywords: jpg to gif, convert jpg to gif, jpg to gif converter, .jpg to .gif, ho
 
 <div style="margin:4rem">
 
-<h1>Convert JPG to GIF Online – Free JPG to GIF Converter</h1>
+<h1>JPG to GIF Converter – Merge Your Images As Gif</h1>
 
 <p>Our <strong>JPG to GIF converter</strong> allows you to quickly convert your JPG images into GIF format. This tool works entirely in your browser, ensuring privacy and fast conversions without uploading files to any server.</p>
 
