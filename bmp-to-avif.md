@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert BMP to AVIF Online - Free BMP to AVIF Converter
-description: Convert BMP images to AVIF quickly with this free online BMP to AVIF converter. Preserve quality, batch convert multiple files, and download securely without any upload.
+description: Convert BMP images to AVIF quickly with this free online BMP to AVIF converter. Preserve quality, batch convert multiple files.
 keywords: bmp to avif, bmp to avif converter, bmp to avif file, bmp to avif convert, bmp to avif viewer, bmp to avif format, bmp to avif files, bmp to avif into jpg, bmp to avif to png, bmp to avif to jpg, bmp to avif to jpeg, bmp to avif to pdf, bmp to avif to webp
 ---
 

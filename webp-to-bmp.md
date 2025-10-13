@@ -1,7 +1,7 @@
 ---
 layout: main
 title: WebP to BMP Converter - Free WebP to BMP Online Tool
-description: Convert WebP images to BMP format instantly with our free WebP to BMP converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert WebP images to BMP format instantly with our free WebP to BMP converter. Supports batch conversion, high-quality output.
 keywords: webp to bmp, webp to bmp converter, webp to bmp online, convert webp to bmp, webp to bitmap, webp save to bmp, change webp to bmp, webp bmp 変換, webp bmp 変換 フリーソフト
 ---
 

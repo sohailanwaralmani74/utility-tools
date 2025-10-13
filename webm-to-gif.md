@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert WebM to GIF Online — Free, Fast & Secure
-description: Convert WebM to GIF instantly in your browser. Create high-quality, transparent GIFs from WebM videos without losing quality — free and offline-ready.
+description: Convert WebM to GIF instantly in your browser. Create high-quality, transparent GIFs from WebM videos without losing quality.
 keywords: webm to gif, webm to gif converter, webm to gif online, convert webm to gif, webm to gif ezgif, ezgif webm to gif, webm to gif transparent, webm to gif high quality, webm to gif without losing quality, webm to gif ffmpeg, webm to gif linux, webm to gif ubuntu, webm to gif reddit, webm to gif adobe, webm to gif converter free, webm to gif online converter free, turn webm into gif, change webm to gif, webm to gif download, converting webm to gif, how to convert webm to gif, webm to gif convert
 ---
 

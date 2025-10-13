@@ -75,12 +75,12 @@ keywords: avi to mp4 converter, convert avi to mp4 online, free avi to mp4 tool,
 <script src="/assets/js/avi-to-mp4.js"></script>
 
 <div style="margin: 4rem;">
-  <h2>Convert AVI to MP4 Online – Fast, Free, and Secure</h2>
+<h1>Convert AVI to MP4 Online – Fast, Free, and Secure</h1>
   <p>
     Need to convert your AVI videos to MP4 format? Our free online tool makes it easy to transform your AVI files into MP4 without any software installation. Whether you're looking to share videos online, reduce file sizes, or ensure compatibility across devices, our converter is designed to meet your needs.
   </p>
 
-  <h3>How It Works</h3>
+  <h2>How It Works</h2>
   <p>
     Converting your AVI video to MP4 is straightforward:
   </p>
@@ -93,7 +93,7 @@ keywords: avi to mp4 converter, convert avi to mp4 online, free avi to mp4 tool,
     Our tool ensures high-quality conversions with minimal loss, making your videos ready for sharing or playback on various devices.
   </p>
 
-  <h3>Why Convert AVI to MP4?</h3>
+  <h2>Why Convert AVI to MP4?</h2>
   <ul>
     <li><strong>Compatibility:</strong> MP4 is widely supported across all major platforms and devices.</li>
     <li><strong>Compression:</strong> MP4 files are typically smaller in size, making them easier to share and store.</li>

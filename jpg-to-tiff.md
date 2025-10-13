@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert JPG to TIFF Online - Free JPG to TIFF Converter
-description: Convert JPG images to TIFF format instantly with this free JPG to TIFF converter. High-quality, secure, and watermark-free – works directly in your browser.
+description: Convert JPG images to TIFF format instantly with this free JPG to TIFF converter. High-quality, secure, and watermark-free.
 keywords: jpg to tiff, jpg to tiff converter, jpg to tiff converter online, jpg to tiff converter free download, bitmap to tiff, batch convert jpg to tiff, imagemagick convert jpg to tiff, convert jpg to tiff free
 ---
 

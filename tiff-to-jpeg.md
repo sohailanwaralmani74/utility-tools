@@ -1,7 +1,7 @@
 ---
 layout: main
 title: TIFF to JPEG Converter - Free TIFF to JPEG Online Tool
-description: Convert TIFF images to JPEG format instantly with our free TIFF to JPEG converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert TIFF images to JPEG format instantly with our free TIFF to JPEG converter. Supports batch conversion, high-quality output.
 keywords: tiff to jpeg, convert tiff to jpeg, tiff to jpeg converter, batch convert tiff to jpeg, bulk tiff to jpeg, convert a tiff to a jpeg, tiff into jpeg, jpeg image converter, best tiff to jpeg converter
 ---
 

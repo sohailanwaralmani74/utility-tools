@@ -1,7 +1,7 @@
 ---
 layout: main
 title: JPG to GIF Converter - Free JPG to GIF Online Tool
-description: Convert JPG images to GIF format instantly with our free JPG to GIF converter. Supports batch conversion, animations, and works entirely in your browser.
+description: Convert JPG images to GIF format instantly with our free JPG to GIF converter. Supports batch conversion, animations, and works in browser.
 keywords: jpg to gif, convert jpg to gif, jpg to gif converter, batch jpg to gif, bulk jpg to gif, animated gif from jpg, jpg into gif, jpg to gif free online
 ---
 

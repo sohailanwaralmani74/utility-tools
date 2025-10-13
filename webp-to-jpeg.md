@@ -1,7 +1,7 @@
 ---
 layout: main
 title: WebP to JPEG Converter - Free WebP to JPEG Online Tool
-description: Convert WebP images to JPEG format instantly with our free WebP to JPEG converter. Supports batch conversion, high-quality compression, and works entirely in your browser.
+description: Convert WebP images to JPEG format instantly with our free WebP to JPEG converter. Supports batch conversion, high-quality compression.
 keywords: webp to jpeg, change webp to jpeg, convert from webp to jpeg, convert webp into jpeg, convert webp in jpeg, convert webp file to jpeg, convert jpeg to webp online
 ---
 

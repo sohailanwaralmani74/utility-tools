@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert WebP to AVIF Online - Free WebP to AVIF Converter
-description: Convert WebP images to AVIF instantly with this free WebP to AVIF converter. Fast, secure, and watermark-free — works directly in your browser without any upload.
+description: Convert WebP images to AVIF instantly with this free WebP to AVIF converter. Fast, secure, and watermark-free — works in browser.
 keywords: webp to avif, convert webp to avif, webp to avif converter, .webp to .avif, how to convert webp to avif, change webp to avif, save webp as avif, turn webp into avif, online webp to avif converter, free webp to avif converter
 ---
 

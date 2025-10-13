@@ -1,7 +1,7 @@
 ---
 layout: main
 title: PNG to TIFF Converter - Free PNG to TIFF Online Tool
-description: Convert PNG images to TIFF format instantly with our free PNG to TIFF converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert PNG images to TIFF format instantly with our free PNG to TIFF converter. Supports batch conversion, high-quality output.
 keywords: png to tiff, convert png to tiff, png to tiff converter, png to tiff online, batch convert png to tiff, bulk png to tiff, png into tiff, convert png into tiff, high-quality png to tiff
 ---
 

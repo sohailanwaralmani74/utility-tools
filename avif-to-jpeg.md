@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert AVIF to JPEG Online - Free AVIF to JPEG Converter
-description: Convert AVIF images to JPEG quickly with this free online AVIF to JPEG converter. Preserve quality, download instantly, and convert multiple files without uploading.
+description: Convert AVIF images to JPEG quickly with this converter. Preserve quality, download instantly, and convert multiple files without uploading.
 keywords: avif to jpeg, avif file to jpeg, avif convert to jpeg, avif file convert to jpeg, convert avif to jpg, avif to jpeg converter, avif image to jpeg, avif to jpg online
 ---
 

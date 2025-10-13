@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert AVIF to TIFF Online - Free AVIF to TIFF Converter
-description: Convert AVIF images to TIFF quickly with this free online AVIF to TIFF converter. Preserve image quality, convert multiple files, and download instantly without any upload.
+description: Convert AVIF images to TIFF quickly with this free online AVIF to TIFF converter. Preserve image quality, convert multiple files.
 keywords: avif to tiff, avif to tiff converter, avif to tif, avif file to tiff, avi to tiff, convert avif to tiff, avif image to tiff, avif to tif online
 ---
 

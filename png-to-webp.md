@@ -1,7 +1,7 @@
 ---
 layout: main
 title: PNG to WebP Converter - Free PNG to WebP Online Tool
-description: Convert PNG images to WebP format instantly with our free PNG to WebP converter. Supports batch conversion, high-quality compression, and works entirely in your browser.
+description: Convert PNG images to WebP format instantly with our free PNG to WebP converter. Supports batch conversion, high-quality compression in your browser.
 keywords: png to webp, convert png to webp, png to webp converter, png to webp compressor, batch convert png to webp, bulk png to webp, png into webp, compress png to webp, webp to png
 ---
 

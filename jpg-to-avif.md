@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert JPG to AVIF Online - Free JPG to AVIF Converter
-description: Convert JPG images to AVIF instantly with this free JPG to AVIF converter. Fast, secure, and watermark-free — works directly in your browser without any upload.
+description: Convert JPG images to AVIF instantly with this free JPG to AVIF converter. Fast, secure, and watermark-free — works directly in your browser.
 keywords: jpg to avif, convert jpg to avif, jpg to avif converter, .jpg to .avif, how to convert jpg to avif, change jpg to avif, save jpg as avif, turn jpg into avif, online jpg to avif converter, free jpg to avif converter
 ---
 

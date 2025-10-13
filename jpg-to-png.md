@@ -1,8 +1,7 @@
-
 ---
 layout: main
 title: Convert JPG to PNG Online - Free JPG to PNG Converter
-description: Convert JPG images to PNG format instantly with this free JPG to PNG converter. Supports transparent backgrounds, batch conversion, and works entirely in your browser.
+description: Convert JPG images to PNG format instantly with this free JPG to PNG converter. Supports transparent backgrounds, batch conversion.
 keywords: jpg to png, changing jpg to png, jpg to png transparent, jpg to png format, jpg into png, jpg v png, jpg to png converter online, jpg to png image converter, convert jpg to png, convert jpg into png, how to change jpg into png, convert image from jpg to png
 ---
 

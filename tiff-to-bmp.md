@@ -1,7 +1,7 @@
 ---
 layout: main
 title: TIFF to BMP Converter - Free TIFF to BMP Online Tool
-description: Convert TIFF images to BMP format instantly with our free TIFF to BMP converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert TIFF images to BMP format instantly with our free TIFF to BMP converter. Supports batch conversion, high-quality output.
 keywords: tiff to bmp, convert tiff to bmp, tiff to bmp converter, batch convert tiff to bmp, bulk tiff to bmp, tiff into bmp, bmp image converter, best tiff to bmp converter
 ---
 

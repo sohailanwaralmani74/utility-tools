@@ -1,7 +1,7 @@
 ---
 layout: main
 title: PNG to JPEG Converter - Free PNG to JPEG Online Tool
-description: Convert PNG images to JPEG format instantly with our free PNG to JPEG converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert PNG images to JPEG format instantly with our free PNG to JPEG converter. Supports batch conversion, high-quality output.
 keywords: png to jpeg, convert png to jpeg, png to jpeg convert, png v jpeg, png to jpeg online, save png as jpeg, change png to jpeg, turn png into jpeg, png to jpeg without compression, better quality png or jpeg
 ---
 

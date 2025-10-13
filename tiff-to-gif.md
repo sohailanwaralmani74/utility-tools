@@ -1,7 +1,7 @@
 ---
 layout: main
 title: TIFF to GIF Converter - Free TIFF to GIF Online Tool
-description: Convert TIFF images to GIF format instantly with our free TIFF to GIF converter. Supports batch conversion, maintains quality, and works entirely in your browser.
+description: Convert TIFF images to GIF format instantly with our free TIFF to GIF converter. Supports batch conversion, maintains quality.
 keywords: tiff to gif, convert tiff to gif, tiff to gif converter, batch convert tiff to gif, bulk tiff to gif, tiff into gif, gif image converter, best tiff to gif converter
 ---
 

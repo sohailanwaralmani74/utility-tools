@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert BMP File to JPEG Online - Free BMP to JPEG Converter
-description: Convert BMP images to JPEG instantly with this free BMP to JPEG converter. Preserve quality, batch convert multiple files, and download securely without any upload.
+description: Convert BMP images to JPEG instantly with this free BMP to JPEG converter. Preserve quality, batch convert multiple files.
 keywords: bmp to jpeg, convert bmp file to jpeg, bmp to jpeg converter, bmp file to jpeg, bmp image to jpeg, free bmp to jpeg converter
 ---
 

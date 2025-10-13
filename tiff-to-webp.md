@@ -1,7 +1,7 @@
 ---
 layout: main
 title: TIFF to WebP Converter - Free TIFF to WebP Online Tool
-description: Convert TIFF images to WebP format instantly with our free TIFF to WebP converter. Supports batch conversion, high-quality compression, and works entirely in your browser.
+description: Convert TIFF images to WebP format instantly with our free TIFF to WebP converter. Supports batch conversion, high-quality compression.
 keywords: tiff to webp, convert tiff to webp, tiff to webp converter, batch convert tiff to webp, bulk tiff to webp, tiff into webp, webp picture format, what is webp format, webp zu tiff
 ---
 

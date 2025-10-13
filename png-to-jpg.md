@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Online Png To JPG Converter - Convert Format Instantlly
-description: Convert png to jpg online for free in browser, no files leave your device . All conversion happens in browser and works offline after first load.
+description: Convert png to jpg online for free in browser, no files leave your device . All conversion happens in browser and works offline.
 keyword: png to jpg, png to jpeg, png to jpg converter, png to jpeg converter, convert png to jpg, convert png to jpeg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert JPG to BMP Online - Free JPG to BMP Converter
-description: Convert JPG images to BMP instantly with this free JPG to BMP converter. Fast, secure, and watermark-free — works directly in your browser without any upload.
+description: Convert JPG images to BMP instantly with this free JPG to BMP converter. Fast, secure, and watermark-free — works directly in your browser.
 keywords: jpg to bmp, convert jpg to bmp, jpg to bmp converter, .jpg to .bmp, how to convert jpg to bmp, change jpg to bmp, save jpg as bmp, turn jpg into bmp, online jpg to bmp converter, free jpg to bmp converter
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: main
 title: PNG to GIF Converter - Free PNG to GIF Online Tool
-description: Convert PNG images to GIF format instantly with our free PNG to GIF converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert PNG images to GIF format instantly with our free PNG to GIF converter. Supports batch conversion, high-quality output.
 keywords: convert png to gif, png to gif maker, gif to png converter, gif to png frames, png to gif free, png to animated gif, png to gif online
 ---
 

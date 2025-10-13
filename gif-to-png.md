@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert GIF to PNG Online - Free GIF to PNG Converter
-description: Convert GIF images to PNG instantly with this free GIF to PNG converter. Animated GIFs are converted using the first frame only. Fast, secure, and browser-based.
+description: Convert GIF images to PNG instantly with this free GIF to PNG converter. Animated GIFs are converted using the first frame only.
 keywords: gif to png, convert gif to png, animated gif to png, gif png online, free gif to png converter
 ---
 

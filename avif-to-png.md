@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert AVIF to PNG Online - Free AVIF to PNG Converter
-description: Convert AVIF images to PNG instantly with this free online AVIF to PNG converter. Preserve quality, download multiple images, and convert without any upload.
+description: Convert AVIF images to PNG instantly with this tool. Preserve quality, download multiple images, and convert without any upload.
 keywords: avif to png, avif file to png, avif convert to png, avif file convert to png, convert avif to png, avif to png converter, avif image to png, avif to png online
 ---
 

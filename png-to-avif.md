@@ -1,7 +1,7 @@
 ---
 layout: main
 title: PNG to AVIF Converter - Free PNG to AVIF Online Tool
-description: Convert PNG images to AVIF format instantly with our free PNG to AVIF converter. Supports batch conversion, high-quality compression, and works entirely in your browser.
+description: Convert PNG images to AVIF format instantly with our free PNG to AVIF converter. Supports batch conversion, high-quality compression.
 keywords: png to avif, convert png to avif, png to avif converter, convert png to avif free, batch convert png to avif, bulk png to avif, png into avif, convert png into avif, compress png to avif, best png to avif converter
 ---
 

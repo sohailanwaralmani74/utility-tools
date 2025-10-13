@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert JPEG to WebP Online - Free JPEG to WebP Converter
-description: Convert JPEG images to WebP instantly with this free JPEG to WebP converter. Fast, secure, and watermark-free — works directly in your browser without any upload.
+description: Convert JPEG images to WebP instantly with this free JPEG to WebP converter. Fast, secure, and watermark-free — works directly in your browser.
 keywords: jpeg to webp, jpeg to webp converter, convert jpeg to webp, jpeg file to webp, convert jpeg file to webp, jpeg to webp online, free jpeg to webp converter
 ---
 

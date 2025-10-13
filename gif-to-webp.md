@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert GIF to WebP Online - Free GIF to WebP Converter
-description: Convert GIF images to WebP instantly with this free GIF to WebP converter. Animated GIFs are converted using the first frame only. Fast, secure, and browser-based.
+description: Convert GIF images to WebP instantly with this free GIF to WebP converter. Animated GIFs are converted using the first frame only. Browser-based.
 keywords: gif to webp, convert gif to webp, animated gif to webp, gif webp online, free gif to webp converter
 ---
 

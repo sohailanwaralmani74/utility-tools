@@ -2,7 +2,7 @@
 layout: main
 keywords: jpg to jpeg, .jpg to .jpeg, convert jpg to jpeg, jpg image to jpeg, convert .jpg to .jpeg online
 title: Convert JPG to JPEG – Free JPG to JPEG Converter
-description: Easily convert JPG images to JPEG format instantly. Free, secure, browser-based tool preserves quality and EXIF metadata. No sign-up required.
+description: Easily convert JPG images to JPEG format instantly. Free, secure, browser-based tool preserves quality and EXIF metadata.
 ---
 
 <script type="application/ld+json">

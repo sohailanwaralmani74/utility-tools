@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert JPEG to JPG Online - Free JPEG to JPG Converter
-description: Quickly convert JPEG images to JPG online with this free JPEG to JPG converter. Fast, secure, and works directly in your browser without any installation.
+description: Quickly convert JPEG images to JPG online with this free JPEG to JPG converter. Fast, secure, and works directly in browser.
 keywords: jpeg to jpg, convert jpeg to jpg, jpeg to jpg converter, convert file jpeg to jpg, free jpeg to jpg converter, jpeg file to jpg, conversion from jpeg to jpg, change jpeg to jpg online
 ---
 

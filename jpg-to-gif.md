@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert JPG to GIF Online - Free JPG to GIF Converter
-description: Convert JPG images to GIF instantly with this free JPG to GIF converter. Fast, secure, and watermark-free — works directly in your browser without any upload.
+description: Convert JPG images to GIF instantly with this free JPG to GIF converter. Fast, secure, and watermark-free — works directly in your browser.
 keywords: jpg to gif, convert jpg to gif, jpg to gif converter, .jpg to .gif, how to convert jpg to gif, change jpg to gif, save jpg as gif, turn jpg into gif, online jpg to gif converter, free jpg to gif converter
 ---
 

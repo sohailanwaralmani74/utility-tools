@@ -1,7 +1,7 @@
 ---
 layout: main
 title: PNG to BMP Converter - Free PNG to BMP Online Tool
-description: Convert PNG images to BMP format instantly with our free PNG to BMP converter. Supports batch conversion, high-quality output, and works entirely in your browser.
+description: Convert PNG images to BMP format instantly with our free PNG to BMP converter. Supports batch conversion, high-quality output.
 keywords: png to bmp, convert png to bmp, png to bmp converter, png to bmp 24-bit, png to bmp 8 bit, png to bmp transparent, png to bmp 256, png to bmp 16 bit, convert png to bmp free, convert png to bmp mac, convert png to bmp photoshop, bmp to png
 ---
 

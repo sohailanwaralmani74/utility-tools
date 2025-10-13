@@ -1,7 +1,7 @@
 ---
 layout: main
 title: TIFF to AVIF Converter - Free TIFF to AVIF Online Tool
-description: Convert TIFF images to AVIF format instantly with our free TIFF to AVIF converter. Supports batch conversion, high-quality compression, and works entirely in your browser.
+description: Convert TIFF images to AVIF format instantly with our free TIFF to AVIF converter. Supports batch conversion, high-quality compression.
 keywords: tiff to avif, convert tiff to avif, tiff to avif converter, batch convert tiff to avif, bulk tiff to avif, tiff into avif, compress tiff to avif, best tiff to avif converter
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: main
 title: Convert GIF to BMP Online - Free GIF to BMP Converter
-description: Convert GIF images to BMP instantly with this free GIF to BMP converter. Supports static conversion for animated GIFs by using the first frame. Fast, secure, and browser-based.
+description: Convert GIF images to BMP instantly with this free GIF to BMP converter. Free GIF to BMP Converter helps you convert within browser.
 keywords: gif to bmp, gif to bmp converter, convert gif to bmp, gif bmp online, free gif to bmp converter
 ---
 
