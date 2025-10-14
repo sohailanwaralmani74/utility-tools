@@ -3981,7 +3981,605 @@ const tools = [
   version: '1.0.0',
   author: 'iamrango.com'
 },
+{
+  id: 66,
+  title: 'Online Image & PDF Converter',
+  slug: 'image-pdf-converter',
+  category: 'image',
+  categoryLabel: 'Image Tools',
 
+  description: 'Convert images and PDFs online for free. Our all-in-one tool supports JPG, PNG, PDF, WebP, AVIF, and TIFF conversions directly in your browser.',
+
+  aiSummary: 'Easily convert between images and PDFs online — fast, secure, and browser-based.',
+
+  keywords: [
+    'pdf to image',
+    'image to pdf',
+    'convert pdf to jpg',
+    'convert jpg to pdf',
+    'convert pdf to png',
+    'convert png to pdf',
+    'jpg to png',
+    'png to jpg',
+    'jpg to webp',
+    'png to webp',
+    'jpg to avif',
+    'png to avif',
+    'jpg to tiff',
+    'png to tiff',
+    'tiff to jpg',
+    'webp to jpg',
+    'image converter',
+    'pdf to image converter',
+    'image to pdf converter'
+  ],
+
+  tags: [
+    'image converter',
+    'pdf converter',
+    'image to pdf',
+    'pdf to image'
+  ],
+
+  relatedTools: ['jpg-to-png', 'png-to-jpg', 'webp-to-jpg', 'pdf-to-jpg'],
+
+  canonical: 'https://iamrango.com/image-pdf-converter',
+  lastUpdated: '2025-10-14',
+
+  meta: {
+    title: 'Online Image & PDF Converter | Convert JPG, PNG, PDF, WebP, AVIF, TIFF',
+    description: 'Free online tool to convert images and PDFs directly in your browser — supports multiple formats like JPG, PNG, PDF, WebP, AVIF, and TIFF.'
+  },
+
+  structuredData: {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "name": "Online Image & PDF Converter",
+    "applicationCategory": "MultimediaApplication",
+    "operatingSystem": "Web",
+    "url": "https://iamrango.com/image-pdf-converter",
+    "description": "Convert images and PDFs online in your browser — fast, free, and secure."
+  },
+
+  faq: [
+    {
+      question: "Can I convert PDFs to images without uploading them?",
+      answer: "Yes, the conversion is done entirely in-browser, so your files remain private."
+    },
+    {
+      question: "Is this service free?",
+      answer: "Yes, the image and PDF converter is completely free to use."
+    }
+  ],
+
+  version: '1.0.0',
+  author: 'iamrango.com'
+},
+{
+  id: 67,
+  title: 'PNG to AVIF Converter',
+  slug: 'png-to-avif',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to AVIF format instantly with our free PNG to AVIF converter. Supports batch conversion, high-quality compression.',
+  aiSummary: 'Quickly convert PNG images to AVIF online — batch-ready, high-quality, and secure.',
+  keywords: [
+    'png to avif',
+    'convert png to avif',
+    'png to avif converter',
+    'convert png to avif free',
+    'batch convert png to avif',
+    'bulk png to avif',
+    'png into avif',
+    'convert png into avif',
+    'compress png to avif',
+    'best png to avif converter'
+  ],
+  tags: ['png to avif', 'image converter', 'png converter'],
+  canonical: 'https://iamrango.com/png-to-avif'
+},
+{
+  id: 68,
+  title: 'PNG to BMP Converter',
+  slug: 'png-to-bmp',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to BMP format instantly with our free PNG to BMP converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Easily convert PNG images to BMP online — fast, high-quality, and batch-ready.',
+  keywords: [
+    'png to bmp',
+    'convert png to bmp',
+    'png to bmp converter',
+    'png to bmp 24-bit',
+    'png to bmp 8 bit',
+    'png to bmp transparent',
+    'png to bmp 256',
+    'png to bmp 16 bit',
+    'convert png to bmp free',
+    'convert png to bmp mac',
+    'convert png to bmp photoshop',
+    'bmp to png'
+  ],
+  tags: ['png to bmp', 'image converter', 'bmp converter'],
+  canonical: 'https://iamrango.com/png-to-bmp'
+},
+{
+  id: 69,
+  title: 'PNG to GIF Converter',
+  slug: 'png-to-gif',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to GIF format instantly with our free PNG to GIF converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Quickly convert PNG images to GIF online — batch-ready and high-quality.',
+  keywords: [
+    'convert png to gif',
+    'png to gif maker',
+    'gif to png converter',
+    'gif to png frames',
+    'png to gif free',
+    'png to animated gif',
+    'png to gif online'
+  ],
+  tags: ['png to gif', 'image converter', 'gif converter'],
+  canonical: 'https://iamrango.com/png-to-gif'
+},
+{
+  id: 70,
+  title: 'PNG to JPEG Converter',
+  slug: 'png-to-jpeg',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to JPEG format instantly with our free PNG to JPEG converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Convert PNG to JPEG online quickly — high-quality, batch-ready, and secure.',
+  keywords: [
+    'png to jpeg',
+    'convert png to jpeg',
+    'png to jpeg convert',
+    'png v jpeg',
+    'png to jpeg online',
+    'save png as jpeg',
+    'change png to jpeg',
+    'turn png into jpeg',
+    'png to jpeg without compression',
+    'better quality png or jpeg'
+  ],
+  tags: ['png to jpeg', 'image converter', 'jpeg converter'],
+  canonical: 'https://iamrango.com/png-to-jpeg'
+},
+{
+  id: 71,
+  title: 'PNG to JPG Converter',
+  slug: 'png-to-jpg',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to JPG online for free in browser. All conversion happens offline, directly in your browser.',
+  aiSummary: 'Quickly convert PNG to JPG online — fast, secure, and offline-ready.',
+  keywords: [
+    'png to jpg',
+    'png to jpeg',
+    'png to jpg converter',
+    'png to jpeg converter',
+    'convert png to jpg',
+    'convert png to jpeg'
+  ],
+  tags: ['png to jpg', 'image converter', 'jpg converter'],
+  canonical: 'https://iamrango.com/png-to-jpg'
+},
+{
+  id: 72,
+  title: 'PNG to TIFF Converter',
+  slug: 'png-to-tiff',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to TIFF format instantly with our free PNG to TIFF converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Convert PNG to TIFF online quickly — batch-ready, high-quality, and secure.',
+  keywords: [
+    'png to tiff',
+    'convert png to tiff',
+    'png to tiff converter',
+    'png to tiff online',
+    'batch convert png to tiff',
+    'bulk png to tiff',
+    'png into tiff',
+    'convert png into tiff',
+    'high-quality png to tiff'
+  ],
+  tags: ['png to tiff', 'image converter', 'tiff converter'],
+  canonical: 'https://iamrango.com/png-to-tiff'
+},
+{
+  id: 73,
+  title: 'PNG to WebP Converter',
+  slug: 'png-to-webp',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert PNG images to WebP format instantly with our free PNG to WebP converter. Supports batch conversion, high-quality compression in your browser.',
+  aiSummary: 'Convert PNG to WebP online — high-quality, batch-ready, and secure in-browser.',
+  keywords: [
+    'png to webp',
+    'convert png to webp',
+    'png to webp converter',
+    'png to webp compressor',
+    'batch convert png to webp',
+    'bulk png to webp',
+    'png into webp',
+    'compress png to webp',
+    'webp to png'
+  ],
+  tags: ['png to webp', 'image converter', 'webp converter'],
+  canonical: 'https://iamrango.com/png-to-webp'
+},
+{
+  id: 74,
+  title: 'TIFF to AVIF Converter',
+  slug: 'tiff-to-avif',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to AVIF format instantly with our free TIFF to AVIF converter. Supports batch conversion, high-quality compression.',
+  aiSummary: 'Quickly convert TIFF images to AVIF online — batch-ready, high-quality, and secure.',
+  keywords: [
+    'tiff to avif',
+    'convert tiff to avif',
+    'tiff to avif converter',
+    'batch convert tiff to avif',
+    'bulk tiff to avif',
+    'tiff into avif',
+    'compress tiff to avif',
+    'best tiff to avif converter'
+  ],
+  tags: ['tiff to avif', 'image converter', 'avif converter'],
+  canonical: 'https://iamrango.com/tiff-to-avif'
+},
+{
+  id: 75,
+  title: 'TIFF to BMP Converter',
+  slug: 'tiff-to-bmp',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to BMP format instantly with our free TIFF to BMP converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Convert TIFF to BMP online quickly — high-quality and batch-ready.',
+  keywords: [
+    'tiff to bmp',
+    'convert tiff to bmp',
+    'tiff to bmp converter',
+    'batch convert tiff to bmp',
+    'bulk tiff to bmp',
+    'tiff into bmp',
+    'bmp image converter',
+    'best tiff to bmp converter'
+  ],
+  tags: ['tiff to bmp', 'image converter', 'bmp converter'],
+  canonical: 'https://iamrango.com/tiff-to-bmp'
+},
+{
+  id: 76,
+  title: 'TIFF to GIF Converter',
+  slug: 'tiff-to-gif',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to GIF format instantly with our free TIFF to GIF converter. Supports batch conversion, maintains quality.',
+  aiSummary: 'Easily convert TIFF to GIF online — batch-ready and quality-preserving.',
+  keywords: [
+    'tiff to gif',
+    'convert tiff to gif',
+    'tiff to gif converter',
+    'batch convert tiff to gif',
+    'bulk tiff to gif',
+    'tiff into gif',
+    'gif image converter',
+    'best tiff to gif converter'
+  ],
+  tags: ['tiff to gif', 'image converter', 'gif converter'],
+  canonical: 'https://iamrango.com/tiff-to-gif'
+},
+{
+  id: 77,
+  title: 'TIFF to JPEG Converter',
+  slug: 'tiff-to-jpeg',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to JPEG format instantly with our free TIFF to JPEG converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Convert TIFF to JPEG online — high-quality, batch-ready, and secure.',
+  keywords: [
+    'tiff to jpeg',
+    'convert tiff to jpeg',
+    'tiff to jpeg converter',
+    'batch convert tiff to jpeg',
+    'bulk tiff to jpeg',
+    'convert a tiff to a jpeg',
+    'tiff into jpeg',
+    'jpeg image converter',
+    'best tiff to jpeg converter'
+  ],
+  tags: ['tiff to jpeg', 'image converter', 'jpeg converter'],
+  canonical: 'https://iamrango.com/tiff-to-jpeg'
+},
+{
+  id: 78,
+  title: 'TIFF to JPG Converter',
+  slug: 'tiff-to-jpg',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to JPG format instantly with our free TIFF to JPG converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Convert TIFF to JPG online — batch-ready and high-quality.',
+  keywords: [
+    'tiff to jpg',
+    'convert tiff to jpg',
+    'tiff to jpg converter',
+    'batch convert tiff to jpg',
+    'gimp batch convert tiff to jpg',
+    'bulk tiff to jpg',
+    'tiff into jpg',
+    'tiff to jpeg',
+    'jpeg image converter',
+    'best tiff to jpg converter'
+  ],
+  tags: ['tiff to jpg', 'image converter', 'jpg converter'],
+  canonical: 'https://iamrango.com/tiff-to-jpg'
+},
+{
+  id: 79,
+  title: 'TIFF to PNG Converter',
+  slug: 'tiff-to-png',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to PNG format instantly with our free TIFF to PNG converter. Supports batch conversion, transparency preservation.',
+  aiSummary: 'Quickly convert TIFF to PNG online — batch-ready and preserves transparency.',
+  keywords: [
+    'tiff to png',
+    'convert tiff to png',
+    'tiff to png converter',
+    'batch convert tiff to png',
+    'bulk tiff to png',
+    'tiff into png',
+    'png image converter',
+    'best tiff to png converter',
+    'gimp batch convert tiff to png'
+  ],
+  tags: ['tiff to png', 'image converter', 'png converter'],
+  canonical: 'https://iamrango.com/tiff-to-png'
+},
+{
+  id: 80,
+  title: 'TIFF to WebP Converter',
+  slug: 'tiff-to-webp',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert TIFF images to WebP format instantly with our free TIFF to WebP converter. Supports batch conversion, high-quality compression.',
+  aiSummary: 'Convert TIFF to WebP online — high-quality, batch-ready, and secure.',
+  keywords: [
+    'tiff to webp',
+    'convert tiff to webp',
+    'tiff to webp converter',
+    'batch convert tiff to webp',
+    'bulk tiff to webp',
+    'tiff into webp',
+    'webp picture format',
+    'what is webp format',
+    'webp zu tiff'
+  ],
+  tags: ['tiff to webp', 'image converter', 'webp converter'],
+  canonical: 'https://iamrango.com/tiff-to-webp'
+},
+{
+  id: 81,
+  title: 'Convert Video to GIF',
+  slug: 'video-to-gif',
+  category: 'video',
+  categoryLabel: 'Video Tools',
+  description: 'Turn any video into a GIF instantly. Free, high-quality video to GIF converter that runs directly in your browser—no uploads, no watermarks.',
+  aiSummary: 'Convert videos to GIF online — fast, high-quality, and secure.',
+  keywords: [
+    'video to gif',
+    'turn video into gif',
+    'video to gif converter',
+    'gif maker from video',
+    'make video into gif',
+    'convert video into gif',
+    'video to gif creator',
+    'change video to gif',
+    'video into gif',
+    'online video to gif',
+    'video to gif high quality',
+    'free video gif converter'
+  ],
+  tags: ['video to gif', 'gif converter', 'video converter'],
+  canonical: 'https://iamrango.com/video-to-gif'
+},
+{
+  id: 82,
+  title: 'Convert WebM to GIF',
+  slug: 'webm-to-gif',
+  category: 'video',
+  categoryLabel: 'Video Tools',
+  description: 'Convert WebM to GIF instantly in your browser. Create high-quality, transparent GIFs from WebM videos without losing quality.',
+  aiSummary: 'Quickly convert WebM videos to GIF — high-quality and transparent.',
+  keywords: [
+    'webm to gif',
+    'webm to gif converter',
+    'webm to gif online',
+    'convert webm to gif',
+    'webm to gif ezgif',
+    'ezgif webm to gif',
+    'webm to gif transparent',
+    'webm to gif high quality',
+    'webm to gif without losing quality',
+    'webm to gif ffmpeg',
+    'webm to gif linux',
+    'webm to gif ubuntu',
+    'webm to gif reddit',
+    'webm to gif adobe',
+    'webm to gif converter free',
+    'webm to gif online converter free',
+    'turn webm into gif',
+    'change webm to gif',
+    'webm to gif download',
+    'converting webm to gif',
+    'how to convert webm to gif',
+    'webm to gif convert'
+  ],
+  tags: ['webm to gif', 'video to gif', 'gif converter'],
+  canonical: 'https://iamrango.com/webm-to-gif'
+},
+{
+  id: 83,
+  title: 'WebP to AVIF Converter',
+  slug: 'webp-to-avif',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images to AVIF instantly with this free WebP to AVIF converter. Fast, secure, and watermark-free — works in browser.',
+  aiSummary: 'Convert WebP to AVIF online — fast, secure, and batch-ready.',
+  keywords: [
+    'webp to avif',
+    'convert webp to avif',
+    'webp to avif converter',
+    '.webp to .avif',
+    'how to convert webp to avif',
+    'change webp to avif',
+    'save webp as avif',
+    'turn webp into avif',
+    'online webp to avif converter',
+    'free webp to avif converter'
+  ],
+  tags: ['webp to avif', 'image converter', 'avif converter'],
+  canonical: 'https://iamrango.com/webp-to-avif'
+},
+{
+  id: 84,
+  title: 'WebP to BMP Converter',
+  slug: 'webp-to-bmp',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images to BMP format instantly with our free WebP to BMP converter. Supports batch conversion, high-quality output.',
+  aiSummary: 'Quickly convert WebP images to BMP online — batch-ready and high-quality.',
+  keywords: [
+    'webp to bmp',
+    'webp to bmp converter',
+    'webp to bmp online',
+    'convert webp to bmp',
+    'webp to bitmap',
+    'webp save to bmp',
+    'change webp to bmp',
+    'webp bmp 変換',
+    'webp bmp 変換 フリーソフト'
+  ],
+  tags: ['webp to bmp', 'image converter', 'bmp converter'],
+  canonical: 'https://iamrango.com/webp-to-bmp'
+},
+{
+  id: 85,
+  title: 'WebP to GIF Converter',
+  slug: 'webp-to-gif',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images to GIF format instantly with our free WebP to GIF converter. Supports animated and static images, batch conversion.',
+  aiSummary: 'Convert WebP to GIF online — supports batch and animations.',
+  keywords: [
+    'webp to gif',
+    'webp gif',
+    'convert webp to gif',
+    'gif to webp',
+    'webp to gif converter',
+    'webp to gif online',
+    'webp to gif free'
+  ],
+  tags: ['webp to gif', 'image converter', 'gif converter'],
+  canonical: 'https://iamrango.com/webp-to-gif'
+},
+{
+  id: 86,
+  title: 'WebP to JPEG Converter',
+  slug: 'webp-to-jpeg',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images to JPEG format instantly with our free WebP to JPEG converter. Supports batch conversion, high-quality compression.',
+  aiSummary: 'Quickly convert WebP images to JPEG online — batch-ready and high-quality.',
+  keywords: [
+    'webp to jpeg',
+    'change webp to jpeg',
+    'convert from webp to jpeg',
+    'convert webp into jpeg',
+    'convert webp in jpeg',
+    'convert webp file to jpeg',
+    'convert jpeg to webp online'
+  ],
+  tags: ['webp to jpeg', 'image converter', 'jpeg converter'],
+  canonical: 'https://iamrango.com/webp-to-jpeg'
+},
+{
+  id: 87,
+  title: 'WebP to JPG Converter',
+  slug: 'webp-to-jpg',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images to JPG format instantly with our free WebP to JPG converter. Supports batch conversion, high-quality compression, in your browser.',
+  aiSummary: 'Convert WebP to JPG online — high-quality batch conversion in-browser.',
+  keywords: [
+    'webp to jpg',
+    'file webp to jpg',
+    'change webp to jpg',
+    'convert a webp to jpg',
+    'convert webp into jpg',
+    'convert webp in jpg',
+    'convert to webp to jpg',
+    'convert webp to jpg free',
+    'webp to jpg bulk',
+    'webp to jpg converter online',
+    'batch convert webp to jpg',
+    'convert webp to jpg online',
+    'convert multiple webp to jpg',
+    'convert webp to jpg photoshop',
+    'webp to jpg free',
+    'free convert webp to jpg'
+  ],
+  tags: ['webp to jpg', 'image converter', 'jpg converter'],
+  canonical: 'https://iamrango.com/webp-to-jpg'
+},
+{
+  id: 88,
+  title: 'WebP to PNG Converter',
+  slug: 'webp-to-png',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images into PNG instantly. This free WebP to PNG converter works fully in your browser — fast, private, and watermark-free.',
+  aiSummary: 'Convert WebP to PNG online — fast, secure, and supports transparency.',
+  keywords: [
+    'webp to png',
+    'convert webp to png',
+    'webp to png converter',
+    '.webp to png',
+    'how to convert webp to png',
+    'how to change webp to png',
+    'save webp as png',
+    'turn webp into png'
+  ],
+  tags: ['webp to png', 'image converter', 'png converter'],
+  canonical: 'https://iamrango.com/webp-to-png'
+},
+{
+  id: 89,
+  title: 'WebP to TIFF Converter',
+  slug: 'webp-to-tiff',
+  category: 'image',
+  categoryLabel: 'Image Tools',
+  description: 'Convert WebP images to TIFF format instantly with our free WebP to TIFF converter. Supports batch conversion, high-quality compression.',
+  aiSummary: 'Quickly convert WebP to TIFF online — batch-ready and high-quality.',
+  keywords: [
+    'webp to tiff',
+    'webp to tiff converter',
+    'webp to tiff online',
+    'convert webp file to tiff',
+    'webp zu tiff',
+    'webp to tiff online free',
+    'convert webp to tiff',
+    'webp file meaning',
+    'webp examples',
+    'webp can i use',
+    'what is webp format'
+  ],
+  tags: ['webp to tiff', 'image converter', 'tiff converter'],
+  canonical: 'https://iamrango.com/webp-to-tiff'
+},
 
 ];
 
