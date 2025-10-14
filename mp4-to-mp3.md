@@ -2,6 +2,7 @@
 layout: main
 title: MP4 to MP3 Converter — Free Online Audio Extractor
 description: Convert MP4 to MP3 online for free. Instantly extract high-quality audio from any MP4 video in seconds — no upload, no signup, and works completely offline.
+keywords: mp4 to mp3, convert mp4 to mp3, convert mp4 video to mp3, mp4 to mp3 converter
 ---
 <script type="application/ld+json">
 {

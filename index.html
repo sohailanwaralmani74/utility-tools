@@ -1,218 +1,109 @@
 ---
 layout: main
-title: IMRango – Privacy-Focused Software & Utility Tools
-description: IMRango provides free browser-based Productivity tools for Excel, CSV, JSON, XML, text, audio, and file management — fast, secure, and private.
-keywords: audio tools, video tools, text tools, image tools, json tools, xml tools, excel tools, privacy tools, CSV tools
+title: IMRango – Privacy-Focused Media Utility Tools
+description: IMRango provides free browser-based Productivity tools for audio, video and image tools. You can easily convert media file formats with browser.
+keywords: audio tools, video tools, image tools
 ---
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@graph": [
+  "@type": "WebApplication",
+  "name": "iamRango — Online Audio, Video & Image Tools",
+  "url": "https://iamrango.com",
+  "applicationCategory": "Multimedia Tools",
+  "operatingSystem": "Web",
+  "description": "Free online tools to convert, compress, and edit audio, video, and image files instantly — all in one place.",
+  "inLanguage": "en",
+  "author": {
+    "@type": "Organization",
+    "name": "iamRango"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "iamRango",
+    "url": "https://iamrango.com"
+  },
+  "hasPart": [
     {
-      "@type": "WebSite",
-      "url": "https://iamrango.com/",
-      "name": "I Am Rango",
-      "publisher": {
-        "@type": "Organization",
-        "name": "I Am Rango",
-        "logo": "https://iamrango.com/assets/img/iamrango.png"
-      }
+      "@type": "WebPage",
+      "url": "https://iamrango.com/audio-tools",
+      "name": "Audio Tools"
     },
     {
       "@type": "WebPage",
-      "url": "https://iamrango.com/",
-      "name": "I Am Rango — Free Online Tools & Converters",
-      "description": "I Am Rango provides free online tools like converters, compressors, and editors for audio, text, CSV, images, and more."
+      "url": "https://iamrango.com/video-tools",
+      "name": "Video Tools"
     },
     {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": "https://iamrango.com/"
-        }
-      ]
+      "@type": "WebPage",
+      "url": "https://iamrango.com/image-tools",
+      "name": "Image Tools"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of tools does iamRango offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "iamRango provides free online tools to convert, compress, and edit audio, video, and image files — all directly in your browser. No installation or signup required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are Audio Tools on iamRango?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Audio Tools on iamRango let you convert between popular audio formats such as MP3, WAV, M4A, OGG, FLAC, and AAC. You can extract sound from video, compress audio, or change bitrate without losing quality."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What can I do with Video Tools on iamRango?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Video Tools help you convert, compress, and edit video formats including MP4, MOV, AVI, MKV, and WebM. You can resize videos, change formats, and prepare files for any platform — fast and free."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of Image Tools are available on iamRango?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Image Tools allow you to convert between formats such as JPG, PNG, WEBP, GIF, BMP, and HEIC. You can also compress images, adjust quality, and change file types instantly in your browser."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is iamRango safe to use for file conversions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. iamRango uses client-side processing — your files never leave your device. All conversions happen securely in your browser, ensuring complete privacy."
+      }
     }
   ]
 }
 </script>
 
-<section class="hero" style="padding:36px 0; text-align:center;">
-  <div class="container" style="max-width:1100px; margin:0 auto;">
-    <h1 style="font-size:2.2rem; margin:0 0 10px;">IMRango – Free Browser-Based Software & Productivity Tools</h1>
-    <p style="font-size:1.05rem;">
-      Empower your workflow with <strong>fast, secure, and privacy-first tools</strong> for Excel, CSV, JSON, XML, text,
-      audio, and file management.
-      Everything runs in your browser — no uploads, no sign-ups, and no bloat. Keep your data local and safe while
-      working efficiently.
-    </p>
-    <div style="display:flex; justify-content:center; gap:12px; margin-top:16px; flex-wrap:wrap;">
-      <a href="/excel-tools" class="cta"
-        style="text-decoration:none; padding:10px 14px; background:darkblue; color:white; border-radius:6px;">Excel
-        Tools</a>
-      <a href="/json-tools" class="cta"
-        style="text-decoration:none; padding:10px 14px; background:#0077cc; color:white; border-radius:6px;">JSON
-        Tools</a>
-      <a href="/audio-tools" class="cta"
-        style="text-decoration:none; padding:10px 14px; background:#444; color:white; border-radius:6px;">Audio
-        Tools</a>
-      <a href="/image-tools" class="cta"
-        style="text-decoration:none; padding:10px 14px; background:#212107; color:white; border-radius:6px;">Image
-        Tools</a> 
-    </div>
-  </section>
 
-<!-- CATEGORIES GRID -->
-<section class="tool-categories" style="padding: 20px 0;">
-  <div class="container"
-    style="max-width:1100px; margin:0 auto; display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:18px;">
-    <!-- Excel -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">Excel Tools</h2>
-      <p style="margin:0 0 12px;">
-        Transform spreadsheets with ease — clean, convert, and analyze Excel files directly in your browser. Perfect for
-        removing duplicates, merging sheets, and converting between formats.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Convert XLSX & CSV to multiple formats</li>
-        <li>Split, merge, and preview large spreadsheets</li>
-        <li>Secure local processing, no uploads</li>
-      </ul>
-      <a href="/excel-tools" style=" text-decoration:underline;">Excel Tools</a>
-    </div>
-    <!-- CSV -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">CSV Tools</h2>
-      <p style="margin:0 0 12px;">
-        Fast and intuitive helpers for CSV files — merge, split, reorder, validate, and convert. Ideal for analysts and
-        ETL workflows.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Merge multiple CSV files into one</li>
-        <li>Split large CSVs by rows or size</li>
-        <li>Keep files local and private in-browser</li>
-      </ul>
-      <a href="/csv-tools" style=" text-decoration:underline;">CSV Tools</a>
-    </div>
-    <!-- JSON -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">JSON Tools</h2>
-      <p style="margin:0 0 12px;">
-        Validate, format, and convert JSON files quickly. Perfect for API testing, data debugging, and transforming data
-        between formats.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Pretty-print & minify JSON</li>
-        <li>Validate schema and find errors</li>
-        <li>Convert JSON ↔ CSV for fast analysis</li>
-      </ul>
-      <a href="/json-tools" style=" text-decoration:underline;">JSON Tools</a>
-    </div>
-    <!-- XML -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">XML Tools</h2>
-      <p style="margin:0 0 12px;">
-        Tidy, parse, and convert XML files efficiently. Ideal for RSS feeds, SOAP responses, or legacy system data.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>XML ⇄ JSON conversion</li>
-        <li>Beautify, minify, and extract with XPath</li>
-        <li>Process everything locally in your browser</li>
-      </ul>
-      <a href="/xml-tools" style=" text-decoration:underline;">XML Tools</a>
-    </div>
-    <!-- Text -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">Text Tools</h2>
-      <p style="margin:0 0 12px;">
-        Handy utilities for writers and editors — count words, change cases, remove duplicates, or clean text files
-        instantly.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Word & character counters</li>
-        <li>Change text case and clean lines</li>
-        <li>Clipboard-friendly interface</li>
-      </ul>
-      <a href="/text-tools" style=" text-decoration:underline;">Text Tools</a>
-    </div>
-    <!-- Privacy -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">Privacy Tools</h2>
-      <p style="margin:0 0 12px;">
-        Keep sensitive data safe with local-only operations — mask, anonymize, and secure your files directly in your
-        browser.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Local data masking & tokenization</li>
-        <li>No external uploads</li>
-        <li>Designed for confidentiality by default</li>
-      </ul>
-      <a href="/privacy-tools" style=" text-decoration:underline;">Privacy Tools</a>
-    </div>
-    <!-- Audio -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">Audio Tools</h2>
-      <p style="margin:0 0 12px;">
-        Convert, edit, and combine audio files quickly. Perfect for creators, podcasters, and multimedia tasks.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Convert MP3 ↔ other formats</li>
-        <li>Combine audio + image → MP4</li>
-        <li>Maintain original quality without unwanted compression</li>
-      </ul>
-      <a href="/audio-tools" style=" text-decoration:underline;">Audio Tools</a>
-    </div>
-    <!-- Video -->
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">Video Tools</h2>
-      <p style="margin:0 0 12px;">
-        Convert, edit, and optimize videos easily. Ideal for creators, marketers, and anyone working with multimedia
-        content.
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Convert MOV, MP4, WEBM ↔ GIF, MP3, WAV</li>
-        <li>High-quality video conversion without loss</li>
-        <li>Convert videos directly in-browser</li>
-      </ul>
-      <a href="/video-tools" style=" text-decoration:underline;">Video Tools</a>
-    </div>
-    <div class="card" style="border:1px solid #e6e6e6; padding:18px; border-radius:8px;">
-      <h2 style="margin:0 0 8px;">Image Tools</h2>
-      <p style="margin:0 0 12px;">
-        Convert image formats to your required format in browser based utility. another addition to productivity tools
-      </p>
-      <ul style="margin:0 0 12px; padding-left:18px;">
-        <li>Convert JPG, PNG, WEBP, GIF, BMP, AVIF </li>
-        <li>High-quality Photo conversion without Quality loss</li>
-        <li>Convert You Images directly in-browser</li>
-      </ul>
-      <a href="/image-tools" style=" text-decoration:underline;">Image Tools</a>
-    </div>
-  </div>
+<section style="width: 100%;">
+    <h1>Media File Conversion - Find Media Format Converters</h1>
+<div class="search-container">
+   <i class="fas fa-search search-icon"></i>
+   <input type="text" class="search-bar" id="searchInput" placeholder="Search The Tool Like mp3 To m4a....">
+</div>
 
-</section>
 
-<!-- QUICK FAQ & TRUST -->
-<section class="faq" style="padding:20px 0; border-top:1px solid #f0f0f0;">
-  <div class="container"
-    style="max-width:900px; margin:0 auto; display:flex; gap:24px; align-items:flex-start; flex-wrap:wrap;">
-    <div style="flex:1 1 420px;">
-      <h3 style="margin:0 0 10px;">How it works</h3>
-      <p style="margin:0 0 10px;">
-        All tools run entirely in your browser — files are processed locally unless you explicitly save or share them.
-        No sign-up, no tracking, and no server uploads by default.
-      </p>
-    </div>
-    <div style="flex:0 0 260px; background:#fafafa; border:1px solid #eee; padding:14px; border-radius:6px;">
-      <strong style="display:block; margin-bottom:8px;">Why trust <a href="/">IMRango? </a></strong>
-      <ul style="margin:0; padding-left:18px;">
-        <li>Local browser processing by default</li>
-        <li>Lightweight, fast, and privacy-focused tools</li>
-        <li>Practical utilities for real users</li>
-      </ul>
-    </div>
-  </div>
-</section>
+<div class="container">
+<div class="tool-grid" id="toolsGrid">
+</div>
+</div>
+
+<script src="/assets/js/tools.js"></script>
