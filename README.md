@@ -4,8 +4,6 @@
 -->
 
 <!-- Primary Meta Tags -->
-<img width="912" height="427" alt="Excel-to-csv" src="https://github.com/user-attachments/assets/2394096d-cb57-48a7-bf0b-9ab28bc0ccde" />
-
 
 # IMRango - Free Online Tools
 
