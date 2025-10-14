@@ -63,7 +63,7 @@ keywords: gif to jpg, animated gif to jpg, convert gif to jpg, gif jpg online, f
 <li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
 <li><a href="/bmp-to-jpg">BMP to JPG</a></li>
-<li><a href="/webp-to-jpg">WebP to JPG</a></li>
+<li><a href="/webp-to-jpg">Webp to JPG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

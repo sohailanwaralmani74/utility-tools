@@ -180,6 +180,6 @@ description: Easily convert JPG images to JPEG format instantly. Free, secure, b
 <ul>
 <li><a href="https://iamrango.com/pdf-image-converter" style="color:#0066cc; text-decoration:underline;">PDF Image Converter</a></li>
 <li><a href="https://iamrango.com/png-to-jpg" style="color:#0066cc; text-decoration:underline;">PNG To JPG</a></li>
-<li><a href="webp-to-png" style="color:#0066cc; text-decoration:underline;">WebP To PNG</a></li>
+<li><a href="webp-to-png" style="color:#0066cc; text-decoration:underline;">Webp To PNG</a></li>
 </ul>
 </div>

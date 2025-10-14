@@ -66,7 +66,7 @@ keywords: jpg to gif, convert jpg to gif, jpg to gif converter, .jpg to .gif, ho
 <li><a href="/gif-to-jpg">GIF to JPG</a></li>
 <li><a href="/gif-to-png">GIF to PNG</a></li>
 <li><a href="/bmp-to-gif">BMP to GIF</a></li>
-<li><a href="/webp-to-gif">WebP to GIF</a></li>
+<li><a href="/webp-to-gif">Webp to GIF</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
 <li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 </ul>

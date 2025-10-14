@@ -52,7 +52,7 @@ keywords: gif to bmp, gif to bmp converter, convert gif to bmp, gif bmp online, 
 <li>🖼️ Converts static GIFs and the first frame of animated GIFs</li>
 <li>💾 Free, no watermark, no installation</li>
 <li>📁 Batch conversion support for multiple GIF files</li>
-<li>🔗 Works with related formats: GIF → JPG, GIF → PNG, GIF → WebP</li>
+<li>🔗 Works with related formats: GIF → JPG, GIF → PNG, GIF → Webp</li>
 </ul>
 
 <h2>Other Related Tools</h2>
@@ -60,8 +60,8 @@ keywords: gif to bmp, gif to bmp converter, convert gif to bmp, gif bmp online, 
 <li><a href="/gif-to-jpg">GIF to JPG</a></li>
 <li><a href="/gif-to-png">GIF to PNG</a></li>
 <li><a href="/bmp-to-gif">BMP to GIF</a></li>
-<li><a href="/gif-to-webp">GIF to WebP</a></li>
-<li><a href="/webp-to-bmp">WebP to BMP</a></li>
+<li><a href="/gif-to-webp">GIF to Webp</a></li>
+<li><a href="/webp-to-bmp">Webp to BMP</a></li>
 <li><a href="/jpg-to-bmp">JPG to BMP</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>
 </ul>

@@ -62,7 +62,7 @@ keywords: bmp to jpg, bmp file to jpg, bmp to jpg free, bmp to jpg bulk converte
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>
 <li><a href="/jpg-to-png">JPG to PNG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
-<li><a href="/webp-to-jpg">WebP to JPG</a></li>
+<li><a href="/webp-to-jpg">Webp to JPG</a></li>
 <li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 </ul>
 

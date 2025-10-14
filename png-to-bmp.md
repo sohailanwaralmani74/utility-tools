@@ -60,7 +60,7 @@ keywords: png to bmp, convert png to bmp, png to bmp converter, png to bmp 24-bi
 <ul>
 <li><a href="/bmp-to-png">BMP to PNG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
 <li><a href="/png-to-avif">PNG to AVIF</a></li>
 <li><a href="/jpg-to-bmp">JPG to BMP</a></li>
 <li><a href="/bmp-to-jpg">BMP to JPG</a></li>

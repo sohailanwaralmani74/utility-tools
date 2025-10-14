@@ -64,7 +64,7 @@ keywords: avif to tiff, avif to tiff converter, avif to tif, avif file to tiff, 
 <li><a href="/png-to-avif">PNG to AVIF</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/webp-to-avif">Webp to AVIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

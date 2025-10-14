@@ -53,21 +53,21 @@ keywords: jpeg to jpg, convert jpeg to jpg, jpeg to jpg converter, convert file 
 <li>💾 Preserve image quality while converting</li>
 <li>📁 Batch conversion support</li>
 <li>📱 Works on desktop, tablet, and mobile devices</li>
-<li>💡 Supports related formats: JPEG → PNG, JPEG → BMP, JPEG → WebP</li>
+<li>💡 Supports related formats: JPEG → PNG, JPEG → BMP, JPEG → Webp</li>
 </ul>
 
 <h2>Other Related Tools</h2>
 <ul>
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
 <li><a href="/jpeg-to-bmp">JPEG to BMP</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/jpeg-to-webp">JPEG to Webp</a></li>
 <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
 <li><a href="/bmp-to-jpg">BMP to JPG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
 <li><a href="/jpeg-to-tiff">JPEG to TIFF</a></li>
 <li><a href="/jpg-to-png">JPG to PNG</a></li>
 <li><a href="/jpg-to-bmp">JPG to BMP</a></li>
-<li><a href="/jpg-to-webp">JPG to WebP</a></li>
+<li><a href="/jpg-to-webp">JPG to Webp</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

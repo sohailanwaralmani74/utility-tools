@@ -63,9 +63,12 @@ keywords: avif to png, avif file to png, avif convert to png, avif file convert 
 <li><a href="/png-to-avif">PNG to AVIF</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/webp-to-avif">Webp to AVIF</a></li>
 <li><a href="/tiff-to-avif">Tiff To Avif</a></li>
 <li><a href="/avif-to-gif">AVIF to Gif</a></li>
+<li><a href="/tiff-to-bmp">TIFF to BMP</a></li>
+<li><a href="/avif-to-tiff">AVIF to TIFF</a></li>
+<li><a href="/gif-to-tiff">GIF to TIFF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

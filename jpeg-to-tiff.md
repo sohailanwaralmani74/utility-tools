@@ -63,7 +63,7 @@ keywords: jpeg to tiff, jpeg to tiff converter, convert jpeg to tiff, jpeg file 
 <li><a href="/png-to-jpeg">PNG to JPEG</a></li>
 <li><a href="/bmp-to-jpeg">BMP to JPEG</a></li>
 <li><a href="/tiff-to-jpeg">TIFF to JPEG</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/jpeg-to-webp">JPEG to Webp</a></li>
 <li><a href="/png-to-tiff">PNG to TIFF</a></li>
 <li><a href="/bmp-to-tiff">BMP to TIFF</a></li>
 <li><a href="/tiff-to-png">TIFF to PNG</a></li>

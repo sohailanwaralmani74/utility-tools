@@ -61,7 +61,7 @@ keywords: bmp to png, convert bmp to png, bmp file to png, free bmp to png conve
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>
 <li><a href="/jpg-to-png">JPG to PNG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
-<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/webp-to-png">Webp to PNG</a></li>
 <li><a href="/avif-to-png">AVIF to PNG</a></li>
 </ul>
 

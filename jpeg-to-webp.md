@@ -36,9 +36,9 @@ keywords: jpeg to webp, jpeg to webp converter, convert jpeg to webp, jpeg file 
 <p>Our <strong>JPEG to WebP converter</strong> allows you to quickly and easily convert JPEG images to the modern WebP format. This tool runs entirely in your browser, ensuring fast and secure conversions without uploading your files.</p>
 
 <h2>Why Convert JPEG to WebP?</h2>
-<p>WebP is a modern image format that provides superior compression and quality compared to JPEG. Converting your images to WebP can help reduce file size, improve website performance, and maintain visual quality. Use our <strong>convert JPEG to WebP</strong> tool to achieve all this effortlessly.</p>
+<p>Webp is a modern image format that provides superior compression and quality compared to JPEG. Converting your images to WebP can help reduce file size, improve website performance, and maintain visual quality. Use our <strong>convert JPEG to Webp</strong> tool to achieve all this effortlessly.</p>
 
-<h2>How to Convert JPEG to WebP</h2>
+<h2>How to Convert JPEG to Webp</h2>
 <ol>
 <li>Click the upload button and select your JPEG file(s).</li>
 <li>Click <strong>Convert</strong> to start the conversion process.</li>
@@ -47,7 +47,7 @@ keywords: jpeg to webp, jpeg to webp converter, convert jpeg to webp, jpeg file 
 
 <h2>Main Features of JPEG to WebP Converter</h2>
 <ul>
-<li>⚡ Fast and secure conversion of JPEG to WebP</li>
+<li>⚡ Fast and secure conversion of JPEG to Webp</li>
 <li>🔒 Works fully offline in your browser</li>
 <li>💾 Maintains original image quality</li>
 <li>📁 Supports batch conversion for multiple JPEGs</li>
@@ -60,12 +60,12 @@ keywords: jpeg to webp, jpeg to webp converter, convert jpeg to webp, jpeg file 
 <li><a href="/jpeg-to-jpg">JPEG to JPG</a></li>
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
 <li><a href="/jpeg-to-bmp">JPEG to BMP</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
-<li><a href="/bmp-to-webp">BMP to WebP</a></li>
-<li><a href="/webp-to-jpeg">WebP to JPEG</a></li>
-<li><a href="/webp-to-png">WebP to PNG</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
+<li><a href="/bmp-to-webp">BMP to Webp</a></li>
+<li><a href="/webp-to-jpeg">Webp to JPEG</a></li>
+<li><a href="/webp-to-png">Webp to PNG</a></li>
+<li><a href="/avif-to-webp">AVIF to Webp</a></li>
+<li><a href="/webp-to-avif">Webp to AVIF</a></li>
 <li><a href="/png-to-jpeg">PNG to JPEG</a></li>
 </ul>
 
@@ -75,7 +75,7 @@ keywords: jpeg to webp, jpeg to webp converter, convert jpeg to webp, jpeg file 
 <p>Select your JPEG file, click Convert, and download your WebP image instantly.</p>
 
 <h3>2. What is the advantage of WebP over JPEG?</h3>
-<p>WebP offers smaller file sizes with similar or better quality, improving website loading speed and reducing bandwidth usage.</p>
+<p>Webp offers smaller file sizes with similar or better quality, improving website loading speed and reducing bandwidth usage.</p>
 
 <h3>3. Can I convert multiple JPEG images at once?</h3>
 <p>Yes, our tool supports batch conversion for multiple files simultaneously.</p>
@@ -93,7 +93,7 @@ keywords: jpeg to webp, jpeg to webp converter, convert jpeg to webp, jpeg file 
 <p>Yes, unlike JPEG, WebP supports transparency, making it ideal for modern web graphics.</p>
 
 <h3>8. Can I revert WebP back to JPEG?</h3>
-<p>Yes, use our <a href="/webp-to-jpeg">WebP to JPEG converter</a> for reversing the conversion.</p>
+<p>Yes, use our <a href="/webp-to-jpeg">Webp to JPEG converter</a> for reversing the conversion.</p>
 
 <h3>9. What file formats does this tool support?</h3>
 <p>Upload JPEG files for conversion. Batch processing supports multiple JPEG files at once.</p>

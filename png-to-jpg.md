@@ -157,7 +157,7 @@ keyword: png to jpg, png to jpeg, png to jpg converter, png to jpeg converter, c
   <h2>Best Practices for PNG to JPG Conversion</h2>
   <p>
     Always keep your original PNG files as a backup. Check the converted JPG for background color and edge quality, especially if the original used transparency. Avoid re-saving a JPG 
-    multiple times, since each export reduces quality further. Check out <a href="https://iamrango.com/webp-to-png" style="color:#0066cc; text-decoration:underline;">WebP To PNG Converter</a></li>
+    multiple times, since each export reduces quality further. Check out <a href="https://iamrango.com/webp-to-png" style="color:#0066cc; text-decoration:underline;">Webp To PNG Converter</a></li>
   </p>
 
   <h3>SEO Tip</h3>
@@ -195,7 +195,7 @@ keyword: png to jpg, png to jpeg, png to jpg converter, png to jpeg converter, c
 <li><a href="https://iamrango.com/pdf-image-converter" style="color:#0066cc; text-decoration:underline;">PDF Image Converter</a></li>
 <li><a href="https://iamrango.com/jpg-to-jpeg" style="color:#0066cc; text-decoration:underline;">JPG To JPEG Converter</a></li>
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>
 <li><a href="/png-to-gif">PNG to GIF</a></li>
 <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>

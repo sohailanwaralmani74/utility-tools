@@ -59,12 +59,12 @@ keywords: jpg to bmp, convert jpg to bmp, jpg to bmp converter, .jpg to .bmp, ho
 <ul>
 <li><a href="/jpg-to-png">JPG to PNG</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
-<li><a href="/jpg-to-webp">JPG to WebP</a></li>
+<li><a href="/jpg-to-webp">JPG to Webp</a></li>
 <li><a href="/jpeg-to-bmp">JPEG to BMP</a></li>
 <li><a href="/bmp-to-jpg">BMP to JPG</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>
 <li><a href="/bmp-to-png">BMP to PNG</a></li>
-<li><a href="/webp-to-bmp">WebP to BMP</a></li>
+<li><a href="/webp-to-bmp">Webp to BMP</a></li>
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>
 <li><a href="/avif-to-bmp">AVIF to BMP</a></li>
 </ul>

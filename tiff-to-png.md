@@ -61,13 +61,13 @@ keywords: tiff to png, convert tiff to png, tiff to png converter, batch convert
 <li><a href="/png-to-tiff">PNG to TIFF</a></li>
 <li><a href="/tiff-to-jpg">TIFF to JPG</a></li>
 <li><a href="/tiff-to-gif">TIFF to GIF</a></li>
-<li><a href="/tiff-to-webp">TIFF to WebP</a></li>
+<li><a href="/tiff-to-webp">TIFF to Webp</a></li>
 <li><a href="/jpg-to-png">JPG to PNG</a></li>
 <li><a href="/bmp-to-png">BMP to PNG</a></li>
-<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/webp-to-png">Webp to PNG</a></li>
 <li><a href="/gif-to-png">GIF to PNG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

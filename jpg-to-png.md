@@ -62,7 +62,7 @@ keywords: jpg to png, changing jpg to png, jpg to png transparent, jpg to png fo
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
 <li><a href="/bmp-to-png">BMP to PNG</a></li>
-<li><a href="/webp-to-png">WebP to PNG</a></li>
+<li><a href="/webp-to-png">Webp to PNG</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
 <li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 <li><a href="/jpeg-to-gif">JPEG to GIF</a></li>

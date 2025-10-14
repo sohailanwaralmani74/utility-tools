@@ -59,7 +59,7 @@ keywords: png to jpeg, convert png to jpeg, png to jpeg convert, png v jpeg, png
 <h2>Related Tools</h2>
 <ul>
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>
 <li><a href="/png-to-gif">PNG to GIF</a></li>
 <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>

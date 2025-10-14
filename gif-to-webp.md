@@ -37,9 +37,9 @@ keywords: gif to webp, convert gif to webp, animated gif to webp, gif webp onlin
 <p>Use our <strong>GIF to WebP converter</strong> to quickly transform your GIF images into modern WebP format. Animated GIFs will convert only the first frame, producing a static WebP image with reduced file size and high quality.</p>
 
 <h2>Why Convert GIF to WebP?</h2>
-<p>WebP is a modern image format providing superior compression and quality compared to GIF. Converting <strong>GIF to WebP</strong> reduces file size for faster web performance while preserving image clarity.</p>
+<p>Webp is a modern image format providing superior compression and quality compared to GIF. Converting <strong>GIF to Webp</strong> reduces file size for faster web performance while preserving image clarity.</p>
 
-<h2>How to Convert GIF to WebP</h2>
+<h2>How to Convert GIF to Webp</h2>
 <ol>
 <li>Click <strong>Upload GIF</strong> and select your GIF file.</li>
 <li>Click <strong>Convert</strong> to generate a WebP image.</li>
@@ -63,8 +63,8 @@ keywords: gif to webp, convert gif to webp, animated gif to webp, gif webp onlin
 <li><a href="/gif-to-bmp">GIF to BMP</a></li>
 <li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
 <li><a href="/png-to-gif">PNG to GIF</a></li>
-<li><a href="/webp-to-gif">WebP to GIF</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP</a></li>
+<li><a href="/webp-to-gif">Webp to GIF</a></li>
+<li><a href="/avif-to-webp">AVIF to Webp</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>
@@ -88,7 +88,7 @@ keywords: gif to webp, convert gif to webp, animated gif to webp, gif webp onlin
 <p>Yes, it works perfectly on desktops, tablets, and smartphones.</p>
 
 <h3>7. Why should I convert GIF to WebP?</h3>
-<p>WebP offers smaller file sizes, high-quality images, and better web performance than GIF.</p>
+<p>Webp offers smaller file sizes, high-quality images, and better web performance than GIF.</p>
 </div>
 
 <h2>Conclusion</h2>

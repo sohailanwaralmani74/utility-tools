@@ -52,18 +52,18 @@ keywords: gif to jpeg, gif to jpeg converter, convert gif to jpeg, gif jpeg onli
 <li>🖼️ Converts static GIFs and the first frame of animated GIFs</li>
 <li>💾 Free, with no watermark or installation</li>
 <li>📁 Batch conversion support for multiple GIF files</li>
-<li>🔗 Supports related conversions: GIF → PNG, GIF → BMP, GIF → WebP</li>
+<li>🔗 Supports related conversions: GIF → PNG, GIF → BMP, GIF → Webp</li>
 </ul>
 
 <h2>Other Related Tools</h2>
 <ul>
 <li><a href="/gif-to-png">GIF to PNG</a></li>
 <li><a href="/gif-to-bmp">GIF to BMP</a></li>
-<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/gif-to-webp">GIF to Webp</a></li>
 <li><a href="/jpeg-to-gif">JPEG to GIF</a></li>
 <li><a href="/png-to-jpeg">PNG to JPEG</a></li>
 <li><a href="/bmp-to-jpeg">BMP to JPEG</a></li>
-<li><a href="/webp-to-jpeg">WebP to JPEG</a></li>
+<li><a href="/webp-to-jpeg">Webp to JPEG</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

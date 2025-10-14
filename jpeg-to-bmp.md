@@ -59,7 +59,7 @@ keywords: jpeg to bmp, convert jpeg to bmp, jpg to bmp converter, jpeg file to b
 <h2>Other Related Tools</h2>
 <ul>
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/jpeg-to-webp">JPEG to Webp</a></li>
 <li><a href="/jpeg-to-tiff">JPEG to TIFF</a></li>
 <li><a href="/jpg-to-bmp">JPG to BMP</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>

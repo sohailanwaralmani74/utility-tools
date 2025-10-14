@@ -61,10 +61,10 @@ keywords: convert png to gif, png to gif maker, gif to png converter, gif to png
 <ul>
 <li><a href="/gif-to-png">GIF to PNG</a></li>
 <li><a href="/png-to-jpg">PNG to JPG</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>
 <li><a href="/jpg-to-gif">JPG to GIF</a></li>
-<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/gif-to-webp">GIF to Webp</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

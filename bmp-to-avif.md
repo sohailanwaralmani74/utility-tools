@@ -52,7 +52,7 @@ keywords: bmp to avif, bmp to avif converter, bmp to avif file, bmp to avif conv
 <li>🖼️ Preserve original image quality and metadata</li>
 <li>📁 Batch conversion for multiple BMP files</li>
 <li>💾 Free with no watermark or registration required</li>
-<li>🔗 Multi-step options: BMP to AVIF to JPG/PNG/JPEG/PDF/WebP</li>
+<li>🔗 Multi-step options: BMP to AVIF to JPG/PNG/JPEG/PDF/Webp</li>
 </ul>
 
 <h2>Other Related Tools</h2>
@@ -60,13 +60,13 @@ keywords: bmp to avif, bmp to avif converter, bmp to avif file, bmp to avif conv
 <li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 <li><a href="/avif-to-png">AVIF to PNG</a></li>
 <li><a href="/avif-to-jpeg">AVIF to JPEG</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP</a></li>
+<li><a href="/avif-to-webp">AVIF to Webp</a></li>
 <li><a href="/bmp-to-jpg">BMP to JPG</a></li>
 <li><a href="/bmp-to-png">BMP to PNG</a></li>
 <li><a href="/bmp-to-jpeg">BMP to JPEG</a></li>
 <li><a href="/png-to-avif">PNG to AVIF</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
-<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/webp-to-avif">Webp to AVIF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

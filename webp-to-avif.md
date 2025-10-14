@@ -46,7 +46,7 @@ keywords: webp to avif, convert webp to avif, webp to avif converter, .webp to .
 
   <h2>How to Convert WebP to AVIF?</h2>
   <ol>
-    <li>Upload one or more <strong>WebP images</strong> using the “Upload Image(s)” button.</li>
+    <li>Upload one or more <strong>Webp images</strong> using the “Upload Image(s)” button.</li>
     <li>Click the <strong>“Convert”</strong> button to process them instantly in your browser.</li>
     <li>Download your new <strong>AVIF images</strong> — smaller, faster, and ready to use.</li>
   </ol>
@@ -81,16 +81,16 @@ keywords: webp to avif, convert webp to avif, webp to avif converter, .webp to .
     Explore more free converters related to WebP and AVIF formats:
   </p>
   <ul>
-    <li><a href="/avif-to-webp">AVIF to WebP</a></li>
+    <li><a href="/avif-to-webp">AVIF to Webp</a></li>
     <li><a href="/png-to-avif">PNG to AVIF</a></li>
     <li><a href="/jpg-to-avif">JPG to AVIF </a></li>
     <li><a href="/avif-to-jpg">AVIF to JPG</a></li>
     <li><a href="/avif-to-png">AVIF to PNG</a></li>
-    <li><a href="/webp-to-png">WebP to PNG</a></li>
-    <li><a href="/webp-to-jpg">WebP to JPG</a></li>
-    <li><a href="/png-to-webp">PNG to WebP</a></li>
-    <li><a href="/jpg-to-webp">JPG to WebP</a></li>
-    <li><a href="/bmp-to-webp">BMP to WebP</a></li>
+    <li><a href="/webp-to-png">Webp to PNG</a></li>
+    <li><a href="/webp-to-jpg">Webp to JPG</a></li>
+    <li><a href="/png-to-webp">PNG to Webp</a></li>
+    <li><a href="/jpg-to-webp">JPG to Webp</a></li>
+    <li><a href="/bmp-to-webp">BMP to Webp</a></li>
   </ul>
 
   <h2>Frequently Asked Questions (FAQs)</h2>
@@ -118,7 +118,7 @@ keywords: webp to avif, convert webp to avif, webp to avif converter, .webp to .
 
     <h3>5. Do I need to install any software?</h3>
     <p>
-      Not at all! This <strong>WebP to AVIF converter</strong> works directly in your web browser without any installations or plugins.
+      Not at all! This <strong>Webp to AVIF converter</strong> works directly in your web browser without any installations or plugins.
     </p>
 
     <h3>6. Does this tool work on mobile devices?</h3>

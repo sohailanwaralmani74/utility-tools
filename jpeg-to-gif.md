@@ -61,11 +61,11 @@ keywords: jpeg to gif, convert jpeg to gif, jpeg to gif converter, batch jpeg to
 <ul>
 <li><a href="/gif-to-jpeg">GIF to JPEG</a></li>
 <li><a href="/jpeg-to-png">JPEG to PNG</a></li>
-<li><a href="/jpeg-to-webp">JPEG to WebP</a></li>
+<li><a href="/jpeg-to-webp">JPEG to Webp</a></li>
 <li><a href="/png-to-gif">PNG to GIF</a></li>
 <li><a href="/bmp-to-gif">BMP to GIF</a></li>
-<li><a href="/webp-to-gif">WebP to GIF</a></li>
-<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/webp-to-gif">Webp to GIF</a></li>
+<li><a href="/gif-to-webp">GIF to Webp</a></li>
 <li><a href="/jpeg-to-avif">jpeg to AVIF</a></li>
 <li><a href="/jpg-to-gif">JPG to GIF</a></li>
 <li><a href="/tiff-to-gif">TIFF to GIF</a></li>

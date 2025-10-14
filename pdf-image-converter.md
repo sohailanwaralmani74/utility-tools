@@ -96,7 +96,7 @@ keyword: pdf to image, image to pdf, convert pdf to jpg, convert jpg to pdf, con
         <label class="export-label" onclick="exportToImage('jpg')"><u>JPG</u></label>
         <label class="export-label" onclick="exportToImage('jpeg')"><u>JPEG</u></label>
         <label class="export-label" onclick="exportToImage('png')"><u>PNG</u></label>
-        <label class="export-label" onclick="exportToImage('webp')"><u>WebP</u></label>
+        <label class="export-label" onclick="exportToImage('webp')"><u>Webp</u></label>
         <label class="export-label" onclick="exportToImage('avif')"><u>AVIF</u></label>
         <label class="export-label" onclick="exportToImage('tiff')"><u>TIFF</u></label>
         <label class="export-label" onclick="exportToImage('tif')"><u>TIF</u></label>

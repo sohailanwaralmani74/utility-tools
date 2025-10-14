@@ -62,11 +62,11 @@ keywords: gif to avif converter, gif to avif ffmpeg, gif to animated avif, ezgif
 
 <h2>Other Related Tools</h2>
 <ul>
-<li><a href="/gif-to-webp">GIF to WebP</a></li>
+<li><a href="/gif-to-webp">GIF to Webp</a></li>
 <li><a href="/gif-to-png">GIF to PNG</a></li>
 <li><a href="/gif-to-jpg">GIF to JPG</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP</a></li>
+<li><a href="/webp-to-avif">Webp to AVIF</a></li>
+<li><a href="/avif-to-webp">AVIF to Webp</a></li>
 <li><a href="/avif-to-jpg">AVIF to JPG</a></li>
 <li><a href="/avif-to-png">AVIF to PNG</a></li>
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>

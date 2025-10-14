@@ -60,7 +60,7 @@ keywords: png to tiff, convert png to tiff, png to tiff converter, png to tiff o
 <ul>
 <li><a href="/tiff-to-png">TIFF to PNG</a></li>
 <li><a href="/png-to-jpeg">PNG to JPEG</a></li>
-<li><a href="/png-to-webp">PNG to WebP</a></li>
+<li><a href="/png-to-webp">PNG to Webp</a></li>
 <li><a href="/png-to-bmp">PNG to BMP</a></li>
 <li><a href="/png-to-gif">PNG to GIF</a></li>
 </ul>

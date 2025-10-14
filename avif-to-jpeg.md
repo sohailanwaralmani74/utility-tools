@@ -59,13 +59,16 @@ keywords: avif to jpeg, avif file to jpeg, avif convert to jpeg, avif file conve
 <ul>
 <li><a href="/avif-to-png">AVIF to PNG</a></li>
 <li><a href="/avif-to-bmp">AVIF to BMP</a></li>
-<li><a href="/avif-to-webp">AVIF to WebP</a></li>
+<li><a href="/avif-to-webp">AVIF to Webp</a></li>
 <li><a href="/png-to-avif">PNG to AVIF</a></li>
 <li><a href="/jpg-to-avif">JPG to AVIF</a></li>
 <li><a href="/bmp-to-avif">BMP to AVIF</a></li>
-<li><a href="/webp-to-avif">WebP to AVIF</a></li>
+<li><a href="/webp-to-avif">Webp to AVIF</a></li>
 <li><a href="/tiff-to-avif">Tiff To Avif</a></li>
 <li><a href="/avif-to-gif">AVIF to JPG</a></li>
+<li><a href="/tiff-to-bmp">TIFF to BMP</a></li>
+<li><a href="/avif-to-tiff">AVIF to TIFF</a></li>
+<li><a href="/gif-to-tiff">GIF to TIFF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>

@@ -33,7 +33,7 @@ keywords: avif to webp, convert avif to webp, avif to webp converter, .avif to .
 <h1>AVIF to WebP Converter – Free Online Webp Converter</h1>
 
 <p>
-Convert <strong>AVIF to WebP</strong> directly in your browser. This fast and secure converter lets you turn any .avif image into a high-quality .webp format without uploading your files to a server. 
+Convert <strong>AVIF to Webp</strong> directly in your browser. This fast and secure converter lets you turn any .avif image into a high-quality .webp format without uploading your files to a server. 
 All processing happens locally — keeping your images private, quick, and fully under your control.
 </p>
 
@@ -41,8 +41,8 @@ All processing happens locally — keeping your images private, quick, and fully
 <ol>
   <li>Click on the <strong>Upload AVIF</strong> button.</li>
   <li>Select one or multiple <strong>.avif</strong> image files from your device.</li>
-  <li>Click on <strong>Convert to WebP</strong>.</li>
-  <li>Your <strong>WebP</strong> files will be instantly processed and automatically downloaded.</li>
+  <li>Click on <strong>Convert to Webp</strong>.</li>
+  <li>Your <strong>Webp</strong> files will be instantly processed and automatically downloaded.</li>
 </ol>
 
 <p>No installation, no registration — just open the page, drop your AVIF files, and get WebP results instantly.</p>
@@ -53,7 +53,7 @@ This <strong>AVIF to WebP Converter</strong> is a fully browser-based image conv
 It uses modern JavaScript image APIs to perform conversions on your device, meaning no file ever leaves your browser.
 </p>
 <p>
-Both <strong>AVIF</strong> and <strong>WebP</strong> are modern, compressed image formats.
+Both <strong>AVIF</strong> and <strong>Webp</strong> are modern, compressed image formats.
 AVIF provides better compression and color depth, while WebP offers broader browser compatibility and faster loading on websites.
 This converter helps you easily switch formats for better performance or compatibility without losing image quality.
 </p>
@@ -70,7 +70,7 @@ This converter helps you easily switch formats for better performance or compati
 <h2>Why Convert AVIF to WebP?</h2>
 <p>
 WebP is supported across most browsers and devices, making it ideal for websites and applications.
-If you have <strong>AVIF</strong> images that don’t display properly online, converting them to <strong>WebP</strong> ensures compatibility without sacrificing quality.
+If you have <strong>AVIF</strong> images that don’t display properly online, converting them to <strong>Webp</strong> ensures compatibility without sacrificing quality.
 </p>
 <p>
 This tool is particularly useful for:
@@ -117,7 +117,7 @@ This tool is particularly useful for:
 <ul>
   <li><a href="/png-to-jpg">PNG to JPG</a></li>
   <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
-  <li><a href="/webp-to-png">WebP to PNG</a></li>
+  <li><a href="/webp-to-png">Webp to PNG</a></li>
   <li><a href="/image-tools">All Image Tools</a></li>
   <li><a href="/tiff-to-avif">Tiff To Avif</a></li>
   <li><a href="/avif-to-gif">AVIF to Gif</a></li>

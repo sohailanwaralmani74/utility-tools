@@ -62,6 +62,9 @@ keywords: tiff to jpeg, convert tiff to jpeg, tiff to jpeg converter, batch conv
 <li><a href="/tiff-to-gif">TIFF to GIF</a></li>
 <li><a href="/png-to-jpeg">PNG to JPEG</a></li>
 <li><a href="/jpg-to-jpeg">JPG to JPEG</a></li>
+<li><a href="/tiff-to-bmp">TIFF to BMP</a></li>
+<li><a href="/avif-to-tiff">AVIF to TIFF</a></li>
+<li><a href="/gif-to-tiff">GIF to TIFF</a></li>
 </ul>
 
 <h2>Frequently Asked Questions (FAQs)</h2>
