@@ -105,10 +105,9 @@ keywords: privacy policy, GDPR, CCPA, data protection, local file processing, se
   <p><strong>Last Updated:</strong> {{ site.time | date: "%B %d, %Y" }}</p>
 
   <div class="related-tools">
-    <h3>Explore Our Privacy Tools</h3>
+    <h3>Contact Me Via My Email</h3>
     <p>
-      Enhance your file safety with our privacy-focused utilities like 
-      <a href="/meta-data-remover">Meta Data Remover</a> and Check Out My Profile 
+      Check Out My Profile 
       <a href="/sohail-anwar">Sohail Anwar</a>. 
       Each tool ensures complete data security with 100% local processing.
     </p>
