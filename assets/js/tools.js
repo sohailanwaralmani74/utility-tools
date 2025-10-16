@@ -4594,7 +4594,7 @@ const tools = [
                 const toolCard = document.createElement('div');
                 toolCard.className = 'tool-card';
                 toolCard.innerHTML = `
-                   <a href="${tool.url}">
+                   <a href="${tool.slug}">
                     <div class="tool-icon">
                     <h2>${tool.title}</h2>
                     </div>
