@@ -344,9 +344,7 @@ const tools = [
 },
 
 ];
-
-
-        
+       
         // Render Tools
         const toolsGrid = document.getElementById('toolsGrid');
         
