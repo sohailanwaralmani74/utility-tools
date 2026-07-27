@@ -120,7 +120,18 @@ description: Convert AMR audio files to MP3 instantly with iamrango's browser-ba
             Download
         </a>
     </div>
+  
 </div>
+<script>
+  atOptions = {
+    'key' : 'bed52797bfdfe0042d4e4dfb3cec902c',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bed52797bfdfe0042d4e4dfb3cec902c/invoke.js"></script>
 
 <script src="/assets/js/amr-to-mp3.js"></script>
 
@@ -192,6 +203,17 @@ description: Convert AMR audio files to MP3 instantly with iamrango's browser-ba
     Ready to <strong>convert AMR to MP3</strong>? Use our free tool today and make your audio accessible everywhere — fast, secure, and simple.
   </p>
 </section>
+<script>
+  atOptions = {
+    'key' : 'bed52797bfdfe0042d4e4dfb3cec902c',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bed52797bfdfe0042d4e4dfb3cec902c/invoke.js"></script>
+
 <h2>Would You Like To See More🎵 Audio Tools</h2>
 <ul>
   <li><a href="https://iamrango.com/m4a-to-mp3" style="color:#0645ad; text-decoration:underline;">M4A to MP3</a></li>
