@@ -71,3 +71,5 @@ All tools are free to use. Open-source under the MIT License.
 ---
 
 🔗 Explore more at [IMRango.com](https://iamrango.com)
+- [FreePNGConvert](https://freepngconvert.com) - Free browser-based WebP to PNG converter. No upload required — all image processing happens client-side for privacy and speed.
+
