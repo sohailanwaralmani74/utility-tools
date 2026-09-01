@@ -106,6 +106,16 @@ description: Convert OGX to MP3 online — fast, free, and secure. Upload your .
         </a>
     </div>
 </div>
+<script>
+  atOptions = {
+    'key' : 'bed52797bfdfe0042d4e4dfb3cec902c',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bed52797bfdfe0042d4e4dfb3cec902c/invoke.js"></script>
 
 <script src="/assets/js/ogx-to-mp3.js"></script>
 
@@ -118,6 +128,16 @@ description: Convert OGX to MP3 online — fast, free, and secure. Upload your .
     reliable file conversion. Upload, choose quality, and download — it’s that simple. Explore all <a href="/audio-tools">Audio Tools</a> for converting, merging, and editing audio files quickly and securely in your browser.
 
   </p>
+<script>
+  atOptions = {
+    'key' : 'bed52797bfdfe0042d4e4dfb3cec902c',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bed52797bfdfe0042d4e4dfb3cec902c/invoke.js"></script>
 
   <h2>How it works</h2>
   <ol>
@@ -190,6 +210,16 @@ description: Convert OGX to MP3 online — fast, free, and secure. Upload your .
   <p style="margin-top:1.25rem;">
     <strong>Ready to convert?</strong> Upload your OGX file and get an MP3 download in seconds.
   </p>
+<script>
+  atOptions = {
+    'key' : 'bed52797bfdfe0042d4e4dfb3cec902c',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bed52797bfdfe0042d4e4dfb3cec902c/invoke.js"></script>
 
   <h2>You May Also Like These Audio Converters</h2>
   <ul>
@@ -199,4 +229,16 @@ description: Convert OGX to MP3 online — fast, free, and secure. Upload your .
   <li><a href="https://iamrango.com/aiff-to-mp3" style="color:#0645ad; text-decoration:underline;">AIFF to MP3</a></li>
     <li><a href="https://iamrango.com/caf-to-mp3" style="color:#0645ad; text-decoration:underline;">CAF to MP3</a></li>
   </ul>
+
+  <script>
+  atOptions = {
+    'key' : 'bed52797bfdfe0042d4e4dfb3cec902c',
+    'format' : 'iframe',
+    'height' : 90,
+    'width' : 728,
+    'params' : {}
+  };
+</script>
+<script src="https://www.highperformanceformat.com/bed52797bfdfe0042d4e4dfb3cec902c/invoke.js"></script>
+
 </div>
